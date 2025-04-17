@@ -1,0 +1,10 @@
+// education2/build.gradle
+plugins {
+    id 'java'
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
