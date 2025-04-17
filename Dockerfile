@@ -14,7 +14,7 @@ COPY . .
 
 # 🛠 5. gradlew 실행 권한 부여 및 빌드 (테스트 제외)
 RUN chmod +x gradlew
-RUN ./gradlew :backend:build -x test --no-daemon
+RUN ./gradlew :backend:build --no-daemon
 
 # 👁️‍🗨️ 6. 빌드된 JAR 파일이 있는지 확인 (Render 로그에서 확인용)
 RUN ls -al backend/build/libs
