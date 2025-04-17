@@ -1,16 +1,25 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, useLocation, Navigate } from "react-router-dom";
 import QRCode from "react-qr-code";
 import Header from "@_components/header";
 
 export default function QuizShare() {
+  const BASE_URL = import.meta.env.VITE_BASE_URL;
   const { roomCode } = useParams();
   const navigate = useNavigate();
-  const quizRoomUrl = `${window.location.origin}/quiz/room/${roomCode}`;
+  const location = useLocation();
+  const quizRoomUrl = `${window.location.origin}/quiz/play/${roomCode}`;
 
   const [latestQuizTitle, setLatestQuizTitle] = useState("");
   const [classroom, setClassroom] = useState("");
+
+  const user = JSON.parse(localStorage.getItem("user") || "null");
+
+  // 로그인 안 되어있으면 /login으로 보내고, 로그인 후 돌아올 경로 전달
+  if (!user?.userId) {
+    return <Navigate to="/login" state={{ from: location }} replace />;
+  }
 
   useEffect(() => {
     const rawParts = roomCode?.split("-") || [];
@@ -21,7 +30,7 @@ export default function QuizShare() {
     setClassroom(`${schoolCode}-${grade}-${className}`);
 
     axios
-      .get(`/api/quiz/classroom/${schoolCode}/${grade}/${className}`)
+      .get(`${BASE_URL}/quiz/classroom/${schoolCode}/${grade}/${className}`)
       .then((res) => {
         const quizList = res.data;
         if (!quizList || quizList.length === 0) return;
@@ -66,7 +75,6 @@ export default function QuizShare() {
                 </button>
               </div>
             )}
-
           </div>
         </div>
       </main>

@@ -4,6 +4,7 @@ import axios from "axios";
 import Header from "@_components/header";
 
 export default function QuizPlay() {
+    const BASE_URL = import.meta.env.VITE_BASE_URL;
   const { roomCode } = useParams();
   const router = useNavigate();
 
@@ -27,7 +28,7 @@ export default function QuizPlay() {
 
   useEffect(() => {
     const user = JSON.parse(localStorage.getItem("user") || "{}");
-    axios.get(`/api/quiz/result/exists`, {
+    axios.get(`${BASE_URL}/quiz/result/exists`, {
       params: {
         userId: user.userId,
         questionId: roomCode,
@@ -40,7 +41,7 @@ export default function QuizPlay() {
 
   useEffect(() => {
     if (roomCode) {
-      axios.get(`/api/quiz/play/${roomCode}`)
+      axios.get(`${BASE_URL}/quiz/play/${roomCode}`)
         .then((res) => {
           const questions = res.data.map((q: any) => ({
             id: q.id,
@@ -111,7 +112,7 @@ export default function QuizPlay() {
 
     // s-인 경우에는 update 지원
       if (roomCode.startsWith("s-")) {
-        const url = alreadySolved ? "/api/quiz/updateResult" : "/api/quiz/saveResult";
+        const url = alreadySolved ? `${BASE_URL}/quiz/updateResult` : `${BASE_URL}/quiz/saveResult`;
         axios[alreadySolved ? "put" : "post"](url, payload)
           .then(() => {
             setQuizCompleted(true);
@@ -124,7 +125,7 @@ export default function QuizPlay() {
 
       // t-인 경우는 저장만 1회 허용
       else if (roomCode.startsWith("t-") && !alreadySolved) {
-        axios.post("/api/quiz/saveResult", payload)
+        axios.post(`${BASE_URL}/quiz/saveResult`, payload)
           .then(() => {
             setQuizCompleted(true);
           })

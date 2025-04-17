@@ -1,11 +1,14 @@
 import { useState, useEffect } from "react"
-import { Link, useNavigate, useSearchParams } from "react-router-dom"
+import { Link, useNavigate, useLocation, useSearchParams } from "react-router-dom"
 import Header from "@_components/header"
 
 export default function Login() {
+  const BASE_URL = import.meta.env.VITE_BASE_URL
   const navigate = useNavigate()
+  const location = useLocation()
   const [searchParams] = useSearchParams()
   const justRegistered = searchParams.get("registered") === "true"
+  const from = location.state?.from || "/"
 
   const [formData, setFormData] = useState({
     Id: "",
@@ -34,7 +37,6 @@ export default function Login() {
       [name]: type === "checkbox" ? checked : value,
     }))
 
-    // 입력 시 해당 필드의 오류 메시지 제거
     if (errors[name]) {
       setErrors((prev) => {
         const newErrors = { ...prev }
@@ -46,62 +48,50 @@ export default function Login() {
 
   const validateForm = () => {
     const newErrors: Record<string, string> = {}
-
-    // 아이디 검증
-    if (!formData.Id.trim()) {
-      newErrors.Id = "아이디을 입력해주세요."
-    }
-
-    // 비밀번호 검증
-    if (!formData.password) {
-      newErrors.password = "비밀번호를 입력해주세요."
-    }
-
+    if (!formData.Id.trim()) newErrors.Id = "아이디를 입력해주세요."
+    if (!formData.password) newErrors.password = "비밀번호를 입력해주세요."
     setErrors(newErrors)
     return Object.keys(newErrors).length === 0
   }
 
-    const handleSubmit = async (e: React.FormEvent) => {
-      e.preventDefault()
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
 
-      if (!validateForm()) return
-      setIsSubmitting(true)
+    if (!validateForm()) return
+    setIsSubmitting(true)
 
-      try {
-        const response = await fetch("/api/login", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            id: formData.Id,
-            password: formData.password,
-          }),
-        })
+    try {
+      const response = await fetch(`${BASE_URL}/login`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          id: formData.Id,
+          password: formData.password,
+        }),
+      })
 
-        if (!response.ok) {
-          throw new Error("로그인 실패")
-        }
-
-        const result = await response.json()
-
-        localStorage.setItem("user", JSON.stringify(result))  // 저장
-
-        // 로그인 성공 후 대시보드로 이동
-        navigate("/")
-      } catch (error) {
-        console.error("로그인 실패:", error)
-        setErrors({ submit: "로그인에 실패했습니다. 아이디와 비밀번호를 확인해주세요." })
-      } finally {
-        setIsSubmitting(false)
+      if (!response.ok) {
+        throw new Error("로그인 실패")
       }
-    }
 
+      const result = await response.json()
+      localStorage.setItem("user", JSON.stringify(result))
+
+      // ✅ 로그인 성공 후 원래 있던 경로로 이동, 없으면 홈
+      navigate(from, { replace: true })
+    } catch (error) {
+      console.error("로그인 실패:", error)
+      setErrors({ submit: "로그인에 실패했습니다. 아이디와 비밀번호를 확인해주세요." })
+    } finally {
+      setIsSubmitting(false)
+    }
+  }
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
       <Header />
-
       <main className="max-w-md mx-auto px-4 py-8">
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6 text-center">로그인</h1>
@@ -119,7 +109,6 @@ export default function Login() {
           )}
 
           <form onSubmit={handleSubmit} className="space-y-4">
-            {/* 아이디 */}
             <div>
               <label htmlFor="Id" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
                 아이디
@@ -136,7 +125,6 @@ export default function Login() {
               {errors.Id && <p className="mt-1 text-sm text-red-600 dark:text-red-400">{errors.Id}</p>}
             </div>
 
-            {/* 비밀번호 */}
             <div>
               <label htmlFor="password" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
                 비밀번호
@@ -153,7 +141,6 @@ export default function Login() {
               {errors.password && <p className="mt-1 text-sm text-red-600 dark:text-red-400">{errors.password}</p>}
             </div>
 
-            {/* 로그인 상태 유지*/}
             <div className="flex items-center justify-between">
               <div className="flex items-center">
                 <input
@@ -170,7 +157,6 @@ export default function Login() {
               </div>
             </div>
 
-            {/* 제출 버튼 */}
             <div className="pt-4">
               <button type="submit" className="btn-primary w-full" disabled={isSubmitting}>
                 {isSubmitting ? (
@@ -181,19 +167,12 @@ export default function Login() {
                       fill="none"
                       viewBox="0 0 24 24"
                     >
-                      <circle
-                        className="opacity-25"
-                        cx="12"
-                        cy="12"
-                        r="10"
-                        stroke="currentColor"
-                        strokeWidth="4"
-                      ></circle>
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
                       <path
                         className="opacity-75"
                         fill="currentColor"
                         d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-                      ></path>
+                      />
                     </svg>
                     로그인 중...
                   </span>

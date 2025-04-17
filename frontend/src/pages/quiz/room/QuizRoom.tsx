@@ -103,6 +103,7 @@ interface WrongAnswer {
 }
 
 export default function QuizRoom() {
+    const BASE_URL = import.meta.env.VITE_BASE_URL;
    const roomCode = useParams().roomCode!;
      const [activeTab, setActiveTab] = useState<string>("report");
      const [expandedQuiz, setExpandedQuiz] = useState<string | null>(null)
@@ -124,11 +125,11 @@ export default function QuizRoom() {
   useEffect(() => {
       let fetchedResults: QuizResultItem[] = [];
 
-      axios.get(`/api/quiz/results/${user.userId}`)
+      axios.get(`${BASE_URL}/quiz/results/${user.userId}`)
         .then((res) => {
           fetchedResults = res.data;
           const [schoolCode, grade, className] = roomCode.split("-");
-          return axios.get(`/api/quiz/classroom/${schoolCode}/${grade}/${className}`);
+          return axios.get(`${BASE_URL}/quiz/classroom/${schoolCode}/${grade}/${className}`);
         })
         .then((res) => {
           const createdData: CreatedQuizDataItem[] = res.data;
@@ -172,9 +173,9 @@ export default function QuizRoom() {
           setQuizHistory(history);
 
           if (user.userType === "teacher") {
-            axios.get(`/api/quiz/students/${roomCode}`).then(res => setStudentReportData(res.data));
-            axios.get(`/api/user/classroom/${roomCode}`).then(res => setStudentList(res.data));
-            axios.get(`/api/report/classroom/${roomCode}`).then(res => setClassStats(res.data));
+            axios.get(`${BASE_URL}/quiz/students/${roomCode}`).then(res => setStudentReportData(res.data));
+            axios.get(`${BASE_URL}/user/classroom/${roomCode}`).then(res => setStudentList(res.data));
+            axios.get(`${BASE_URL}/report/classroom/${roomCode}`).then(res => setClassStats(res.data));
           }
         })
         .catch(err => console.error("데이터 로딩 실패", err));

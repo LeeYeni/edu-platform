@@ -42,6 +42,7 @@ interface WrongAnswerItem {
 }
 
 export default function MyPage() {
+    const BASE_URL = import.meta.env.VITE_BASE_URL;
   const [activeTab, setActiveTab] = useState<string>("report");
   const [expandedQuiz, setExpandedQuiz] = useState<string | null>(null);
   const [quizHistory, setQuizHistory] = useState<QuizHistoryItem[]>([]);
@@ -52,10 +53,10 @@ export default function MyPage() {
   useEffect(() => {
     let fetchedResults: QuizResult[] = [];
 
-    axios.get(`/api/quiz/results/${user.userId}`)
+    axios.get(`${BASE_URL}/quiz/results/${user.userId}`)
       .then((res) => {
         fetchedResults = res.data;
-        return axios.get(`/api/quiz/created/${user.userId}`);
+        return axios.get(`${BASE_URL}/quiz/created/${user.userId}`);
       })
       .then((res) => {
         const createdData: CreatedQuestion[] = res.data;

@@ -5,6 +5,7 @@ import { Sparkles, QrCode, BarChart3 } from "lucide-react"
 
 export default function Home() {
   const router = useNavigate()
+  const BASE_URL = import.meta.env.VITE_BASE_URL;
 
   const [selectedSchool, setSelectedSchool] = useState("")
   const [selectedGrade, setSelectedGrade] = useState("")
@@ -89,7 +90,7 @@ export default function Home() {
       }
 
       try {
-        const response = await fetch("/api/quiz/log", {
+        const response = await fetch(`${BASE_URL}/quiz/log`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
