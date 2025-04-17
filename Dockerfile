@@ -7,7 +7,6 @@ WORKDIR /app
 # 📦 3. Gradle Wrapper 및 설정 파일 복사
 COPY gradlew .
 COPY gradle gradle
-COPY build.gradle .
 COPY settings.gradle .
 
 # 📁 4. 전체 프로젝트 복사
