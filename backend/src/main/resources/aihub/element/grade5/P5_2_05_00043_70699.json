@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_70699.png",
+  "id": "00043_70699",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205003",
+      "question_topic_name": "직육면체의 모서리, 꼭짓점, 면의 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $ 안에 알맞은 수의 합을 구하시오.  직육면체의 모서리는 $ \\square $ 개, 꼭짓점은 $ \\square $ 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            220,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            379,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            388,
+            55
+          ],
+          "text": "$ \\square $ 안에 알맞은 수의 합을 구하시오.  직육면체의 모서리는 $ \\square $ 개, 꼭짓점은 $ \\square $ 개입니다."
+        }
+      ]
+    }
+  ]
+}

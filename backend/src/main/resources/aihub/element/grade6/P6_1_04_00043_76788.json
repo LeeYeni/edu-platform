@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_04_00043_76788.png",
+  "id": "00043_76788",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104013",
+      "question_topic_name": "백분율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비율을 백분율로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. (1) $ \\frac{29}{100} \\Rightarrow \\frac{29}{100} \\times \\square=\\square $ ($\\%$) (2) $ 0.42 \\Rightarrow 0.42 \\times \\square=\\square (\\%$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            413,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            237,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            59,
+            224,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            415,
+            81
+          ],
+          "text": "비율을 백분율로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. (1) $ \\frac{29}{100} \\Rightarrow \\frac{29}{100} \\times \\square=\\square $ ($\\%$) (2) $ 0.42 \\Rightarrow 0.42 \\times \\square=\\square (\\%$)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_02_00043_68414.png",
+  "id": "00043_68414",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102002",
+      "question_topic_name": "배수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 보고 할아버지는 한 묶음에 귤을 몇 개 놓을 수 있는지 모두 구하시오. 할아버지 : 귤 $150$개를 가지고 장에 나가려고 한단다.손녀 : 한 묶음에 있는 귤 수가 똑같게 나누어 놓으실 거죠?할아버지 : 그렇단다. 이번에는 한 묶음의 귤 수가 $25$의 배수가 되게 놓으려고 해.손녀 : 그럼 $150$개를 나누지 말고 한 묶음에 모두 놓으시면 돼요.할아버지 : 한 묶음은 아니고 여러 묶음으로 나눌 거란다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            509,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            326,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            52,
+            358,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            481,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            96,
+            394,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            119,
+            348,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            145
+          ],
+          "text": "두 사람의 대화를 보고 할아버지는 한 묶음에 귤을 몇 개 놓을 수 있는지 모두 구하시오. 할아버지 : 귤 $150$개를 가지고 장에 나가려고 한단다.손녀 : 한 묶음에 있는 귤 수가 똑같게 나누어 놓으실 거죠?할아버지 : 그렇단다. 이번에는 한 묶음의 귤 수가 $25$의 배수가 되게 놓으려고 해.손녀 : 그럼 $150$개를 나누지 말고 한 묶음에 모두 놓으시면 돼요.할아버지 : 한 묶음은 아니고 여러 묶음으로 나눌 거란다."
+        }
+      ]
+    }
+  ]
+}

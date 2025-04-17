@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_05_00043_76285.png",
+  "id": "00043_76285",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105016",
+      "question_topic_name": "받아내림이 있는 대분수의 뺄셈을 자연수끼리, 분수끼리 빼서 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 4 \\frac{3}{7} $과 어떤 수의 합은 $ 7 \\frac{5}{28} $입니다. 어떤 수와 $ 6 \\frac{7}{10} $의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            436,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            438,
+            38
+          ],
+          "text": "$ 4 \\frac{3}{7} $과 어떤 수의 합은 $ 7 \\frac{5}{28} $입니다. 어떤 수와 $ 6 \\frac{7}{10} $의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

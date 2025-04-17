@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_05_00044_12453.png",
+  "id": "00044_12453",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105006",
+      "question_topic_name": "띠그래프의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 창후네 집에서 생산하는 곡식을 $10cm$인 띠그래프로 나타낸 것입니다. 곡식 총 생산량이 $500kg$일 때, 쌀 생산량은 얼마입니까? ①$40kg$ ②$80kg$ ③$120kg$ ④$160kg$ ⑤$200kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            777,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            77,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            77,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            82,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            82,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            191,
+            86,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23.28,
+            24.87,
+            328.28,
+            99.87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            1.87,
+            777.28,
+            17.87
+          ],
+          "text": "다음은 창후네 집에서 생산하는 곡식을 $10cm$인 띠그래프로 나타낸 것입니다. 곡식 총 생산량이 $500kg$일 때, 쌀 생산량은 얼마입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            100.87,
+            87.28,
+            209.87
+          ],
+          "text": "①$40kg$ ②$80kg$ ③$120kg$ ④$160kg$ ⑤$200kg$"
+        }
+      ]
+    }
+  ]
+}

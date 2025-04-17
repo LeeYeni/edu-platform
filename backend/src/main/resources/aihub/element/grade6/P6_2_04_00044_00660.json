@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_04_00044_00660.png",
+  "id": "00044_00660",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 4 \\frac{1}{2} \\mathrm{~kg} $의 밀가루로 빵을 $300$개를 만들 수 있다고 합니다. $ 4.8 \\mathrm{~kg} $의 밀가루로는 몇 개의 빵을 만들 수 있습니까?   ①$310$개  ②$320$개  ③$330$개  ④$340$개  ⑤$360$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            654,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            79,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            81,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            82,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            82,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            82,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            656,
+            149
+          ],
+          "text": "$ 4 \\frac{1}{2} \\mathrm{~kg} $의 밀가루로 빵을 $300$개를 만들 수 있다고 합니다. $ 4.8 \\mathrm{~kg} $의 밀가루로는 몇 개의 빵을 만들 수 있습니까?   ①$310$개  ②$320$개  ③$330$개  ④$340$개  ⑤$360$개"
+        }
+      ]
+    }
+  ]
+}

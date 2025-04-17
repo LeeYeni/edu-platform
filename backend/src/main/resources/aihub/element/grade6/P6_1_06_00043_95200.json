@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00043_95200.png",
+  "id": "00043_95200",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106001",
+      "question_topic_name": "직육면체의 부피를 직접 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재철이네 모둠 친구들이 가지고 있는 상자에 같은 크기의 우유갑을 넣었습니다. 다음 중 가장 큰 상자를 가지고 있는 사람은 누구입니까? ①재철이의 상자$-6$개가 들어갑니다. ②정원이의 상자$-2$개씩 묶은 것이 $3$묶음 들어갑니다. ③지영이의 상자$-7$개가 들어갑니다. ④현진이의 상자$-3$개씩 묶은 것이 $2$묶음 들어갑니다. ⑤태영이의 상자$-6$개짜리 한 묶음이 들어갑니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            785,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            234,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            329,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            233,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            329,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            306,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            787,
+            152
+          ],
+          "text": "재철이네 모둠 친구들이 가지고 있는 상자에 같은 크기의 우유갑을 넣었습니다. 다음 중 가장 큰 상자를 가지고 있는 사람은 누구입니까? ①재철이의 상자$-6$개가 들어갑니다. ②정원이의 상자$-2$개씩 묶은 것이 $3$묶음 들어갑니다. ③지영이의 상자$-7$개가 들어갑니다. ④현진이의 상자$-3$개씩 묶은 것이 $2$묶음 들어갑니다. ⑤태영이의 상자$-6$개짜리 한 묶음이 들어갑니다."
+        }
+      ]
+    }
+  ]
+}

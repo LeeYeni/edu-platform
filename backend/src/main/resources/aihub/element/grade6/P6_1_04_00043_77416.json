@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_77416.png",
+  "id": "00043_77416",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "인구 밀도가 높은 순서대로 지역 이름을 써 보시오. (다만, 인구 밀도는 자연수 부분만 씁니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            547,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            288,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            549,
+            93
+          ],
+          "text": "인구 밀도가 높은 순서대로 지역 이름을 써 보시오. (다만, 인구 밀도는 자연수 부분만 씁니다.)"
+        }
+      ]
+    }
+  ]
+}

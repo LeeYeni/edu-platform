@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_01_00043_41381.png",
+  "id": "00043_41381",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101009",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있고 ( )가 있는 식의 계산",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 먼저 계산해야 하는 부분은 어느 곳입니까? \\[ 32+20 \\div(5-3) \\times 4 \\] ① $ 32+20 $ ② $ 20 \\div 50 $ ③ $ 5-3 $ ④ $ 20 \\div 3 $ ⑤ $ 3 \\times 4 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            130,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            56,
+            85,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            86,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            66,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            78,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            70,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            167
+          ],
+          "text": "가장 먼저 계산해야 하는 부분은 어느 곳입니까? \\[ 32+20 \\div(5-3) \\times 4 \\] ① $ 32+20 $ ② $ 20 \\div 50 $ ③ $ 5-3 $ ④ $ 20 \\div 3 $ ⑤ $ 3 \\times 4 $"
+        }
+      ]
+    }
+  ]
+}

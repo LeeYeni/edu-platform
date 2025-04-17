@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_03_00043_60216.png",
+  "id": "00043_60216",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103006",
+      "question_topic_name": "생활 속에서 대응 관계를 찾아 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "일정한 모양의 정사각형 타일을 연이어 붙여서 오른쪽 방향으로 점점 더 큰 정사각형을 만들어 나가는 진행 과정을 화살표로 나타낸 그림으로서, 맨 처음 왼쪽에는 타일 1개의 정사각형이 있고, 오른쪽 방향으로 이 타일 4개를 붙여서 만든 정사각형, 이 타일 9개로 만든 더 큰 정사각형, 그리고 이 타일 16개로 만든 제일 큰 정사각형이 있으며, 이와 동일한 방법으로 진행되는 것을 표현한 점 여섯 개의 줄임표가 있는 그림",
+      "question_text": "정사각형 모양의 타일을 그림과 같이 계속 놓아 정사각형을 만들고 있습니다. 한 변에 놓인 타일이 $11$개일 때, 전체 타일은 몇 개입니까? (1) 한 변에 놓인 타일의 수를 $\\clubsuit$, 전체 타일의 수를 $\\bullet$라 할 때, $\\clubsuit$와 $\\bullet$사이의 대응 관계를 알고 표를 완성하시오. <table border>   <tbody>     <tr>       <td>$\\clubsuit$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td>$\\bullet$</td>       <td>$1$</td>       <td>$4$</td>       <td>$9$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) (1)의 표를 보고 $\\clubsuit$와 $\\bullet$사이의 대응 관계를 식으로 나타내시오. (3) 한 변에 놓인 타일이 $11$개일 때, 전체 타일은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            777,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            99,
+            654,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            189,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            173,
+            398,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            363,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            25,
+            323,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            779,
+            21
+          ],
+          "text": "정사각형 모양의 타일을 그림과 같이 계속 놓아 정사각형을 만들고 있습니다. 한 변에 놓인 타일이 $11$개일 때, 전체 타일은 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            99,
+            656,
+            213
+          ],
+          "text": "(1) 한 변에 놓인 타일의 수를 $\\clubsuit$, 전체 타일의 수를 $\\bullet$라 할 때, $\\clubsuit$와 $\\bullet$사이의 대응 관계를 알고 표를 완성하시오. <table border>   <tbody>     <tr>       <td>$\\clubsuit$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td>$\\bullet$</td>       <td>$1$</td>       <td>$4$</td>       <td>$9$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) (1)의 표를 보고 $\\clubsuit$와 $\\bullet$사이의 대응 관계를 식으로 나타내시오. (3) 한 변에 놓인 타일이 $11$개일 때, 전체 타일은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

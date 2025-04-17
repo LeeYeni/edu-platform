@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_39736.png",
+  "id": "00044_39736",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106022",
+      "question_topic_name": "직사각형의 넓이를 이용하여 마름모의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형으로 나누어 마름모의 넓이를 구하려고 합니다. 물음에 답하시오.  ⑴ 삼각형 $㉮$의 넓이는 몇 $cm²$입니까?⑵ 마름모는 삼각형 $㉮$의 넓이의 몇 배입니까?⑶ 마름모의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            422,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            235,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            279,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            218,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            179,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.79,
+            0,
+            422.59,
+            18.3
+          ],
+          "text": "삼각형으로 나누어 마름모의 넓이를 구하려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.39,
+            108.7,
+            280.99,
+            174.3
+          ],
+          "text": "⑴ 삼각형 $㉮$의 넓이는 몇 $cm²$입니까?⑵ 마름모는 삼각형 $㉮$의 넓이의 몇 배입니까?⑶ 마름모의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_02_00042_80935.png",
+  "id": "00042_80935",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기린의 키는 $ 2.85 \\mathrm{~m} $이고 사자의 키는 $ 0.9 \\mathrm{~m} $입니다. 기린의 키는 사자의 키의 몇 배인지 반올림하여 소수 둘째 자리까지 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            761,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            765,
+            21
+          ],
+          "text": "기린의 키는 $ 2.85 \\mathrm{~m} $이고 사자의 키는 $ 0.9 \\mathrm{~m} $입니다. 기린의 키는 사자의 키의 몇 배인지 반올림하여 소수 둘째 자리까지 나타내시오."
+        }
+      ]
+    }
+  ]
+}

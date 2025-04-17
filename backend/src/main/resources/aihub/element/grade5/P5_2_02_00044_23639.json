@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_02_00044_23639.png",
+  "id": "00044_23639",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202022",
+      "question_topic_name": "세 분수를 한꺼번에 곱하는 계산 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱이 큰 것부터 차례로 기호를 쓰시오. <table border> <caption></caption>   <tbody>     <tr>       <td>$㉠ \\frac{7}{16}×1\\frac{1}{5}\\times12$ $㉡ 3\\frac{3}{4}\\times\\frac{5}{6}\\times4$ $㉢ 12\\times1\\frac{1}{6}\\times\\frac{4}{7}$</td>     <tr>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            147,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            79,
+            137,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            145,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            305,
+            157
+          ],
+          "text": "곱이 큰 것부터 차례로 기호를 쓰시오. <table border> <caption></caption>   <tbody>     <tr>       <td>$㉠ \\frac{7}{16}×1\\frac{1}{5}\\times12$ $㉡ 3\\frac{3}{4}\\times\\frac{5}{6}\\times4$ $㉢ 12\\times1\\frac{1}{6}\\times\\frac{4}{7}$</td>     <tr>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

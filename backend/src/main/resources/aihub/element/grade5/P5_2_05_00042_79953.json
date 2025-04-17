@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00042_79953.png",
+  "id": "00042_79953",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205011",
+      "question_topic_name": "직육면체의 겨냥도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직육면체의 겨냥도를 그릴 때, 모서리 ㄱㄴ과 평행하게 그려야 하는 모서리를 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            554,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            119,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            557,
+            21
+          ],
+          "text": "직육면체의 겨냥도를 그릴 때, 모서리 ㄱㄴ과 평행하게 그려야 하는 모서리를 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

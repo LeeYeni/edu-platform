@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_67847.png",
+  "id": "00043_67847",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 보고 현주네 마을의 인구 밀도를 구하시오.  <table border>   <tbody>     <tr>  <td></td>       <td>넓이($km2$)</td>  <td>인구(명)</td>     </tr>     <tr>       <td>현주네마을</td>   <td>$6$</td>   <td>$3120$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            239,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            70
+          ],
+          "text": "표를 보고 현주네 마을의 인구 밀도를 구하시오.  <table border>   <tbody>     <tr>  <td></td>       <td>넓이($km2$)</td>  <td>인구(명)</td>     </tr>     <tr>       <td>현주네마을</td>   <td>$6$</td>   <td>$3120$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

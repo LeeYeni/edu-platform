@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_01_00041_21904.png",
+  "id": "00041_21904",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201017",
+      "question_topic_name": "반올림의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필의 길이를 재었더니 그림과 같았습니다. 이 길이는 약 몇 $cm$인지 바르게 나타낸 것을 모두 고르시오. ①올림하여 $12 cm$입니다. ②버림하여 $12 cm$입니다. ③반올림하여 $12 cm$입니다. ④반올림하여 $13 cm$입니다. ⑤버림하여 $10 cm$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            47,
+            171,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            71,
+            171,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            93,
+            184,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            184,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            173,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            321,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.9,
+            0,
+            606.5,
+            18.03
+          ],
+          "text": "연필의 길이를 재었더니 그림과 같았습니다. 이 길이는 약 몇 $cm$인지 바르게 나타낸 것을 모두 고르시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.9,
+            50.03,
+            184.9,
+            157.23
+          ],
+          "text": "①올림하여 $12 cm$입니다. ②버림하여 $12 cm$입니다. ③반올림하여 $12 cm$입니다. ④반올림하여 $13 cm$입니다. ⑤버림하여 $10 cm$입니다."
+        }
+      ]
+    }
+  ]
+}

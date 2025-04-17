@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_37852.png",
+  "id": "00044_37852",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205006",
+      "question_topic_name": "원주를 알 때 지름 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "큰 원이 있고 지름이 표시되어 있으며 원의 중심에서부터 좌측 끝으로 작은 원이 큰 원의 좌측안에 내접하고 있음을 나타낸 평면 그림",
+      "question_text": "큰 원의 원주는 $100.48cm$입니다. 큰 원과 작은 원의 반지름의 합은 몇 $cm$입니까? (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            571,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            128,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            573,
+            21
+          ],
+          "text": "큰 원의 원주는 $100.48cm$입니다. 큰 원과 작은 원의 반지름의 합은 몇 $cm$입니까? (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

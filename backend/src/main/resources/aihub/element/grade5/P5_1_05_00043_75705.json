@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_05_00043_75705.png",
+  "id": "00043_75705",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105004",
+      "question_topic_name": "받아올림이 있는 진분수의 덧셈을 분모의 곱으로 통분하여 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모의 최소공배수를 이용하여 통분한 후 계산하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\frac{5}{6}+\\frac{3}{4}=\\frac{\\square}{12}+\\frac{\\square}{12}=\\frac{\\square}{12} $=$\\square \\frac{ \\square}{12} $ (2) $ \\frac{4}{9}+\\frac{13}{12}=\\frac{\\square}{36}+\\frac{\\square}{36} $=$\\frac{\\square}{36}$=$\\square \\frac{\\square}{36}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            550,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            248,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            74,
+            176,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            123,
+            220,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            172,
+            261,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            553,
+            213
+          ],
+          "text": "분모의 최소공배수를 이용하여 통분한 후 계산하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\frac{5}{6}+\\frac{3}{4}=\\frac{\\square}{12}+\\frac{\\square}{12}=\\frac{\\square}{12} $=$\\square \\frac{ \\square}{12} $ (2) $ \\frac{4}{9}+\\frac{13}{12}=\\frac{\\square}{36}+\\frac{\\square}{36} $=$\\frac{\\square}{36}$=$\\square \\frac{\\square}{36}$"
+        }
+      ]
+    }
+  ]
+}

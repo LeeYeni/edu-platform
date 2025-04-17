@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_06_00050_21225.png",
+  "id": "00050_21225",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206015",
+      "question_topic_name": "일이 일어날 가능성을 수직선 또는 그림으로 표현하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "회전판에서 노란색을 맞힐 가능성을 수직선에 나타내시오. (단, 경계 부분을 맞힐 경우는 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            632,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            263,
+            27,
+            561,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            634,
+            22
+          ],
+          "text": "회전판에서 노란색을 맞힐 가능성을 수직선에 나타내시오. (단, 경계 부분을 맞힐 경우는 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

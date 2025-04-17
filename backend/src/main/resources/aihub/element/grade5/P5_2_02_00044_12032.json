@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_2_02_00044_12032.png",
+  "id": "00044_12032",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202006",
+      "question_topic_name": "(대분수)X(자연수)에서 대분수를 자연수와 분수로 나누어 계산하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 바르게 계산한 것을 고르시오.  $4 \\frac{3}{8} \\times 5$  ① $4 \\frac{3}{8} \\times 5=4 \\frac{3 \\times 5}{8}=4 \\frac{15}{8}=5 \\frac{7}{8}$ ②  $4 \\frac{3}{8} \\times 5=(4 \\times 5) \\frac{3}{8}=20 \\frac{3}{8}$ ③ $4 \\frac{3}{8} \\times 5=(4+5) \\frac{3}{8}=9 \\frac{3}{8}$ ④ $4 \\frac{3}{8} \\times 5=\\frac{35}{8} \\times 5=\\frac{35 \\times 5}{8 \\times 5}=\\frac{175}{40}$ ⑤ $4 \\frac{3}{8} \\times 5=(4 \\times 5)+\\left(\\frac{3}{8} \\times 5\\right)=20+\\frac{15}{8}=21 \\frac{7}{8}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            85,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            240,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            121,
+            214,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            162,
+            206,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            258,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            246,
+            336,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            346,
+            285
+          ],
+          "text": "다음을 바르게 계산한 것을 고르시오.  $4 \\frac{3}{8} \\times 5$  ① $4 \\frac{3}{8} \\times 5=4 \\frac{3 \\times 5}{8}=4 \\frac{15}{8}=5 \\frac{7}{8}$ ②  $4 \\frac{3}{8} \\times 5=(4 \\times 5) \\frac{3}{8}=20 \\frac{3}{8}$ ③ $4 \\frac{3}{8} \\times 5=(4+5) \\frac{3}{8}=9 \\frac{3}{8}$ ④ $4 \\frac{3}{8} \\times 5=\\frac{35}{8} \\times 5=\\frac{35 \\times 5}{8 \\times 5}=\\frac{175}{40}$ ⑤ $4 \\frac{3}{8} \\times 5=(4 \\times 5)+\\left(\\frac{3}{8} \\times 5\\right)=20+\\frac{15}{8}=21 \\frac{7}{8}$"
+        }
+      ]
+    }
+  ]
+}

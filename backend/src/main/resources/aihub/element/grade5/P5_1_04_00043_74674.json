@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_04_00043_74674.png",
+  "id": "00043_74674",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104006",
+      "question_topic_name": "기약분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과학 시간에 우유에 식초를 넣고 변화를 살펴보려고 합니다. 우유를 비커의 $\\frac{40}{50}$만큼 넣으려면 비커에 넣어야 하는 우유는 비커의 몇 분의 몇인지 기약분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            41,
+            196,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            59
+          ],
+          "text": "과학 시간에 우유에 식초를 넣고 변화를 살펴보려고 합니다. 우유를 비커의 $\\frac{40}{50}$만큼 넣으려면 비커에 넣어야 하는 우유는 비커의 몇 분의 몇인지 기약분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

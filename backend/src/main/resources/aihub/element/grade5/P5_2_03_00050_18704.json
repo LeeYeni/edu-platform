@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18704.png",
+  "id": "00050_18704",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203005",
+      "question_topic_name": "선대칭도형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직선 ㅁㅂ을 대칭축으로 하는 선대칭도형의 일부분입니다. 선대칭도형을 완성했을 때 선대칭도형의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            704,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            322,
+            27,
+            501,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            706,
+            21
+          ],
+          "text": "직선 ㅁㅂ을 대칭축으로 하는 선대칭도형의 일부분입니다. 선대칭도형을 완성했을 때 선대칭도형의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

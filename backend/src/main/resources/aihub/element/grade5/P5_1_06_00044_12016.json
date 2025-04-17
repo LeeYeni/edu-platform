@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_1_06_00044_12016.png",
+  "id": "00044_12016",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭짓점이 좌상측에 있는 둔각삼각형이 있고 높이가 10 cm를 직각 표시와 함께 나타내고 넓이가 70 제곱 센티미터임을 화살표와 함께 표현한 평면도형",
+      "question_text": "다음 삼각형의 밑변은 몇 $cm$입니까?  ①$7cm$ ②$14cm$ ③$24cm$ ④$49cm$ ⑤$70cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            226,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            70,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            76,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            153,
+            79,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            175,
+            79,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            197,
+            79,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            25,
+            218,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.01,
+            227.1,
+            17.01
+          ],
+          "text": "다음 삼각형의 밑변은 몇 $cm$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            108.5,
+            80.1,
+            217.5
+          ],
+          "text": "①$7cm$ ②$14cm$ ③$24cm$ ④$49cm$ ⑤$70cm$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41580.png",
+  "id": "00044_41580",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 7 cm이고 세로가 3 cm인 직사각형이 밑면이고 높이가 5 cm인 직육면체의 전개도",
+      "question_text": "다음 전개도를 접어서 직육면체를 만들었습니다. 만든 직육면체의 부피를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            489,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            261,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            491,
+            22
+          ],
+          "text": "다음 전개도를 접어서 직육면체를 만들었습니다. 만든 직육면체의 부피를 구하시오."
+        }
+      ]
+    }
+  ]
+}

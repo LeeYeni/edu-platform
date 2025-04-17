@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39319.png",
+  "id": "00044_39319",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106022",
+      "question_topic_name": "직사각형의 넓이를 이용하여 마름모의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 9 m, 세로가 6 m인 점선으로 된 네 각이 직각인 직사각형의 각 변에 꼭짓점이 접하도록 내접하는 색칠된 마름모",
+      "question_text": "직사각형의 넓이를 이용하여 마름모의  넓이는 몇 $ \\mathrm{m}^{2} $ 인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            397,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            184,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            1,
+            399,
+            21
+          ],
+          "text": "직사각형의 넓이를 이용하여 마름모의  넓이는 몇 $ \\mathrm{m}^{2} $ 인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

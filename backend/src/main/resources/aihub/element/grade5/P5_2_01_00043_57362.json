@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_01_00043_57362.png",
+  "id": "00043_57362",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201017",
+      "question_topic_name": "반올림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "KTX 열차의 주말 운임을 나타낸 표입니다. 어른 $1$명이 서울에서 부산까지 KTX를 이용할 때의 필요한 운임을 반올림하여 천의 자리까지 나타내시오.  KTX 열차 주말 운임",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            797,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            74,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            45,
+            238,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "KTX 열차의 주말 운임을 나타낸 표입니다. 어른 $1$명이 서울에서 부산까지 KTX를 이용할 때의 필요한 운임을 반올림하여 천의 자리까지 나타내시오.  KTX 열차 주말 운임"
+        }
+      ]
+    }
+  ]
+}

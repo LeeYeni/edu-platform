@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_21977.png",
+  "id": "00044_21977",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203016",
+      "question_topic_name": "여러 가지 모양을 만들고 쌓기나무의 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쌓기나무로 $4$층짜리 정육면체 모양을 쌓은 후 모든 면에 초록색을 칠하였습니다. 한 면에 초록색이 칠해진 쌓기나무와 두 면에 초록색이 칠해진 쌓기나무의 개수의 차는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            262,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "쌓기나무로 $4$층짜리 정육면체 모양을 쌓은 후 모든 면에 초록색을 칠하였습니다. 한 면에 초록색이 칠해진 쌓기나무와 두 면에 초록색이 칠해진 쌓기나무의 개수의 차는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00043_74385.png",
+  "id": "00043_74385",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104001",
+      "question_topic_name": "크기가 같은 분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{2}{4}$ 와 $ \\frac{4}{8} $의 크기를 비교해 보시오. (1) 두 분수의 크기만큼 각각 색칠하시오. (2) $ \\frac{2}{4}$ 와 $ \\frac{4}{8} $의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$ 를 알맞게 써넣으시오. $ \\frac{2}{4} \\bigcirc \\frac{4}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            220,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            246,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            422,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            189,
+            105,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            68,
+            273,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.2,
+            1.22,
+            246.4,
+            59.46
+          ],
+          "text": "$ \\frac{2}{4}$ 와 $ \\frac{4}{8} $의 크기를 비교해 보시오. (1) 두 분수의 크기만큼 각각 색칠하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            147.78,
+            422.4,
+            224.58
+          ],
+          "text": "(2) $ \\frac{2}{4}$ 와 $ \\frac{4}{8} $의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$ 를 알맞게 써넣으시오. $ \\frac{2}{4} \\bigcirc \\frac{4}{8} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_05_00044_33602.png",
+  "id": "00044_33602",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105001",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 도시의 지역별 인구를 조사하여 나타낸 자료를 반올림하여 나타낸 그림그래프입니다. $\\square$ 안에 알맞은 수나 말을 써넣으시오. <table border> <caption>지역별 인구</caption>   <tbody>     <tr>       <td colspan=2>지역</td>       <td>인구</td>       <td>반올림한 인구</td>       <td rowspan=7></td>     </tr>     <tr>       <td></td>       <td>가</td>       <td>172634</td>       <td>17000C</td>     </tr>     <tr>       <td></td>       <td>나</td>       <td>93651</td>       <td>9000l</td>     </tr>     <tr>       <td></td>       <td>다</td>       <td>85623</td>       <td>9000I</td>     </tr>     <tr>       <td></td>       <td>라</td>       <td>53289</td>       <td>50000</td>     </tr>     <tr>       <td></td>       <td>마</td>       <td>235367</td>       <td>24000</td>     </tr>     <tr>       <td></td>       <td>바</td>       <td>99842</td>       <td>100000</td>     </tr> </tbody> </table> (1) 그림그래프에서 (큰얼굴) 은 $\\square$명, (작은얼굴) 은 $\\square$명을 나타냅니다. (2) 그림그래프는 인구를 반올림하여 $\\square$의 자리까지 나타내었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            744,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            88,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            217,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            401,
+            479,
+            426
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            427,
+            421,
+            449
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            238,
+            217,
+            382
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            746,
+            231
+          ],
+          "text": "어느 도시의 지역별 인구를 조사하여 나타낸 자료를 반올림하여 나타낸 그림그래프입니다. $\\square$ 안에 알맞은 수나 말을 써넣으시오. <table border> <caption>지역별 인구</caption>   <tbody>     <tr>       <td colspan=2>지역</td>       <td>인구</td>       <td>반올림한 인구</td>       <td rowspan=7></td>     </tr>     <tr>       <td></td>       <td>가</td>       <td>172634</td>       <td>17000C</td>     </tr>     <tr>       <td></td>       <td>나</td>       <td>93651</td>       <td>9000l</td>     </tr>     <tr>       <td></td>       <td>다</td>       <td>85623</td>       <td>9000I</td>     </tr>     <tr>       <td></td>       <td>라</td>       <td>53289</td>       <td>50000</td>     </tr>     <tr>       <td></td>       <td>마</td>       <td>235367</td>       <td>24000</td>     </tr>     <tr>       <td></td>       <td>바</td>       <td>99842</td>       <td>100000</td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            399,
+            481,
+            451
+          ],
+          "text": "(1) 그림그래프에서 (큰얼굴) 은 $\\square$명, (작은얼굴) 은 $\\square$명을 나타냅니다. (2) 그림그래프는 인구를 반올림하여 $\\square$의 자리까지 나타내었습니다."
+        }
+      ]
+    }
+  ]
+}

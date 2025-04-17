@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_03_00044_24310.png",
+  "id": "00044_24310",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203010",
+      "question_topic_name": "점대칭도형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 점대칭도형에 대한 설명이 아닌 것은 어느 것입니까? ①대응점과 대응변이 있습니다. ②대응각의 크기가 같습니다. ③대응변의 길이가 다릅니다. ④어떤 점을 중심으로 $ 180^{\\circ} $ 돌렸을 때, 완전히 겹쳐집니다. ⑤대응점을 이은 선분은 대칭의 중심에 의하여 이등분됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            207,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            195,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            195,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            359,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            375,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            130
+          ],
+          "text": "다음 중에서 점대칭도형에 대한 설명이 아닌 것은 어느 것입니까? ①대응점과 대응변이 있습니다. ②대응각의 크기가 같습니다. ③대응변의 길이가 다릅니다. ④어떤 점을 중심으로 $ 180^{\\circ} $ 돌렸을 때, 완전히 겹쳐집니다. ⑤대응점을 이은 선분은 대칭의 중심에 의하여 이등분됩니다."
+        }
+      ]
+    }
+  ]
+}

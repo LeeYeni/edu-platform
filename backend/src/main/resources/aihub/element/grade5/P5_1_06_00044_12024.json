@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_1_06_00044_12024.png",
+  "id": "00044_12024",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106029",
+      "question_topic_name": "다각형의 넓이의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 18 cm이고 세로가 14 cm인 직사각형 안에 직사각형과 밑변을 공유하는 삼각형이 그려져 있고, 이 삼각형의 가로는 18 cm, 높이는 7 cm 일 때, 삼각형의 부분을 제외하고 나머지 부분이 색칠된 직사각형",
+      "question_text": "다음 직사각형에서 색칠한 부분의 넓이는 몇 $cm²$입니까?  ①$189cm²$  ② $169cm²$  ③ $162cm²$  ④ $136cm²$  ⑤ $126cm²$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            340,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            153,
+            90,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            175,
+            89,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            197,
+            89,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            219,
+            89,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            241,
+            89,
+            261
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            24,
+            186,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            342,
+            22
+          ],
+          "text": "다음 직사각형에서 색칠한 부분의 넓이는 몇 $cm²$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            152,
+            92,
+            262
+          ],
+          "text": "①$189cm²$  ② $169cm²$  ③ $162cm²$  ④ $136cm²$  ⑤ $126cm²$"
+        }
+      ]
+    }
+  ]
+}

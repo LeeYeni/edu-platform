@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_19522.png",
+  "id": "00044_19522",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204010",
+      "question_topic_name": "비례식 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮ 톱니바퀴가 $5$번 도는 동안 ㉯ 톱니바퀴는 $6$번 돈다고 합니다. ㉯ 톱니바퀴가 $12$번 돌 때와 $18$번 돌 때의 두 비를 비례식으로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            21
+          ],
+          "text": "㉮ 톱니바퀴가 $5$번 도는 동안 ㉯ 톱니바퀴는 $6$번 돈다고 합니다. ㉯ 톱니바퀴가 $12$번 돌 때와 $18$번 돌 때의 두 비를 비례식으로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

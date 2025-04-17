@@ -1,0 +1,129 @@
+{
+  "question_filename": "P5_1_06_00044_38926.png",
+  "id": "00044_38926",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106006",
+      "question_topic_name": "직사각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "파란색으로 칠해진 가로의 길이보다 세로의 길이가 더 긴 모양의 밑변이 ㄴㄷ인 직사각형 ㄱㄴㄷㅅ과 선분 ㄷㅅ에 붙여 만든 초록색으로 칠해진 세로의 길이가 12 cm 표시된 밑변이 ㄷㄹ인 정사각형 ㅂㄷㄹㅁ으로 이루어진 그림으로 선분 ㄴㄹ의 길이가 20 cm인 그림",
+      "question_text": "다음과 같이 직사각형과 정사각형을 겹치지 않게 이어 붙여 만든 도형 전체의 넓이가 $264cm²$일 때, 이 도형 전체의 둘레를 구하려고 합니다. 물음에 답하시오. ⑴ 정사각형 $ㅂㄷㄹㅁ$의 넓이는 몇 $cm²$입니까?⑵ 직사각형 $ㄱㄴㄷㅅ$의 넓이는 몇 $cm²$입니까?⑶ 변 $ㄱㅅ$, 변 $ㄱㄴ$은 각각 몇  $cm$입니까? ⑷ 도형 전체의 둘레를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            136,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            285,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            285,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            210,
+            254,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            254,
+            204,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            46,
+            182,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            40
+          ],
+          "text": "다음과 같이 직사각형과 정사각형을 겹치지 않게 이어 붙여 만든 도형 전체의 넓이가 $264cm²$일 때, 이 도형 전체의 둘레를 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.25,
+            165.66,
+            286.03,
+            228.04
+          ],
+          "text": "⑴ 정사각형 $ㅂㄷㄹㅁ$의 넓이는 몇 $cm²$입니까?⑵ 직사각형 $ㄱㄴㄷㅅ$의 넓이는 몇 $cm²$입니까?⑶ 변 $ㄱㅅ$, 변 $ㄱㄴ$은 각각 몇  $cm$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            254.58,
+            205.73,
+            271.17
+          ],
+          "text": "⑷ 도형 전체의 둘레를 구하시오."
+        }
+      ]
+    }
+  ]
+}

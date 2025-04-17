@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_05_00042_82308.png",
+  "id": "00042_82308",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105018",
+      "question_topic_name": "받아내림이 있는 대분수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 같은 화분 $5$개를 화분대에 올려 놓고 무게를 재었더니 $ 10 \\frac{5}{12}  kg$이었습니다. 화분 $2$개를 내려 놓고 무게를 재었더니 $ 7 \\frac{2}{3}  kg$이었습니다. 빈 화분대의 무게는 몇$kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            254,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            59
+          ],
+          "text": "무게가 같은 화분 $5$개를 화분대에 올려 놓고 무게를 재었더니 $ 10 \\frac{5}{12}  kg$이었습니다. 화분 $2$개를 내려 놓고 무게를 재었더니 $ 7 \\frac{2}{3}  kg$이었습니다. 빈 화분대의 무게는 몇$kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_03_00044_27830.png",
+  "id": "00044_27830",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 소수를 분수로 고쳐서 계산하시오.  <보기> $ 14.4 \\div 4=\\frac{144}{10} \\div 4=\\frac{\\overset{36}{\\cancel{144}}}{10} \\times \\frac{1}{\\underset{1}{\\cancel4}}=\\frac{36}{10}=3.6 $ $16.8\\div6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            301,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            25,
+            75,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            53,
+            268,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            62,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            314,
+            142
+          ],
+          "text": "<보기>와 같이 소수를 분수로 고쳐서 계산하시오.  <보기> $ 14.4 \\div 4=\\frac{144}{10} \\div 4=\\frac{\\overset{36}{\\cancel{144}}}{10} \\times \\frac{1}{\\underset{1}{\\cancel4}}=\\frac{36}{10}=3.6 $ $16.8\\div6$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_38943.png",
+  "id": "00044_38943",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 11 m, 세로의 길이가 5 m인 직사각형의 아래 가로변과 가로의 길이가 13 m, 세로의 길이가 5 m인 직사각형의 위쪽 가로변이 일부 겹쳐지게 이어서 만든 핑크색으로 칠해진 도형",
+      "question_text": "도형의 넓이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            158,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            25,
+            227,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            160,
+            20
+          ],
+          "text": "도형의 넓이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

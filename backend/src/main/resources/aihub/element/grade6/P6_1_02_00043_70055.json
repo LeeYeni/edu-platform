@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_02_00043_70055.png",
+  "id": "00043_70055",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "면 ㄱㄴㄹㅈ, ㅈㄹㅁㅇ, ㅇㅁㅂㅅ이 옆으로 나란히 있고, 변 ㄱㅈ, ㄴㄹ 위, 아래에 면 ㅊㄱㅈ, ㄷㄴㄹ이 있는 삼각기둥의 전개도",
+      "question_text": "각기둥의 전개도를 보고$ \\square $ 안에 알맞은 말을 써넣으시오.  (1) 밑면의 모양은 $ \\square $ 입니다. (2) 옆면의 모양은 모두 $ \\square $ 입니다. (3) 위의 전개도를 점선을 따라 접으면 $ \\square $ 이 만들어집니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            150,
+            269,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            299,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            194,
+            457,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            176,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            22
+          ],
+          "text": "각기둥의 전개도를 보고$ \\square $ 안에 알맞은 말을 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            150,
+            459,
+            216
+          ],
+          "text": "(1) 밑면의 모양은 $ \\square $ 입니다. (2) 옆면의 모양은 모두 $ \\square $ 입니다. (3) 위의 전개도를 점선을 따라 접으면 $ \\square $ 이 만들어집니다."
+        }
+      ]
+    }
+  ]
+}

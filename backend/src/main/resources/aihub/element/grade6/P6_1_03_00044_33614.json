@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_03_00044_33614.png",
+  "id": "00044_33614",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103008",
+      "question_topic_name": "몫이 1보다 작은 소수인 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 0.78 \\div 6 $= $\\frac{\\square}{100}$÷6= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$ (2) $ 5.76 \\div 8 $= $\\frac{\\square}{100}$÷8= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$ (3) $ 4.5 \\div 9 $= $\\frac{\\square}{100}$÷9= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            312,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            71,
+            323,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            120,
+            295,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            325,
+            165
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 0.78 \\div 6 $= $\\frac{\\square}{100}$÷6= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$ (2) $ 5.76 \\div 8 $= $\\frac{\\square}{100}$÷8= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$ (3) $ 4.5 \\div 9 $= $\\frac{\\square}{100}$÷9= $\\frac{\\square}{100}$×$\\frac{1}{\\square}$ = $\\square$"
+        }
+      ]
+    }
+  ]
+}

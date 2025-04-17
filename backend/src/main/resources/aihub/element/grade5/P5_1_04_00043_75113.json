@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_04_00043_75113.png",
+  "id": "00043_75113",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104013",
+      "question_topic_name": "통분을 이용하여 세 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 큰 분수부터 차례로 쓰시오.  $ \\begin{array}{lll}\\frac{8}{9} & \\frac{15}{16} & \\frac{11}{12}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            204,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            76
+          ],
+          "text": "크기가 큰 분수부터 차례로 쓰시오.  $ \\begin{array}{lll}\\frac{8}{9} & \\frac{15}{16} & \\frac{11}{12}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

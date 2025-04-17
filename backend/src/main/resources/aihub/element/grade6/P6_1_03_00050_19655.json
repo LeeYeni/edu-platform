@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_03_00050_19655.png",
+  "id": "00050_19655",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103018",
+      "question_topic_name": "(자연수) ÷ (자연수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "배가 강의 하류에 있는 ㉮ 섬에서 승객을 태우고 상류에 있는 ㉯ 섬을 향해 $30$km 올라갔다가 타지 못한 승객이 있어서 다시 ㉮ 섬까지 내려가서 승객을 모두 태우고 ㉯ 섬으로 올라갔습니다. 일정한 빠르기로 배는 한 시간에 $8$km를 가고 강물은 한 시간에 $4$km씩 흐른다고 할 때, 이 배가 ㉮ 섬을 출발하여 ㉯ 섬에 도착할 때까지 걸린 시간은 모두 몇 시간인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            792,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            521,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            287,
+            70,
+            533,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            62
+          ],
+          "text": "배가 강의 하류에 있는 ㉮ 섬에서 승객을 태우고 상류에 있는 ㉯ 섬을 향해 $30$km 올라갔다가 타지 못한 승객이 있어서 다시 ㉮ 섬까지 내려가서 승객을 모두 태우고 ㉯ 섬으로 올라갔습니다. 일정한 빠르기로 배는 한 시간에 $8$km를 가고 강물은 한 시간에 $4$km씩 흐른다고 할 때, 이 배가 ㉮ 섬을 출발하여 ㉯ 섬에 도착할 때까지 걸린 시간은 모두 몇 시간인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

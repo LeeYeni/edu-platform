@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39250.png",
+  "id": "00044_39250",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106027",
+      "question_topic_name": "사다리꼴의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 윗변이 5 cm이고 높이가 3 cm인 평행사변형이 그려져 있고, 오른쪽에 윗변이 2 cm, 밑변이 4 cm인 직각 사다리꼴이 그려져있는 그림",
+      "question_text": "다음 평행사변형과 사다리꼴의 넓이가 같을 때, 사다리꼴의 높이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            266,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            21
+          ],
+          "text": "다음 평행사변형과 사다리꼴의 넓이가 같을 때, 사다리꼴의 높이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

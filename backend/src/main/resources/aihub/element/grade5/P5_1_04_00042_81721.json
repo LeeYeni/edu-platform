@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_04_00042_81721.png",
+  "id": "00042_81721",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104008",
+      "question_topic_name": "통분과 공통분모 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{1}{10} $ 과 $ \\frac{4}{15} $ 를 통분하려고 합니다. $ \\square $ 안에 알맞은 수를 써넣으시오. \\[ \\frac{1}{10}=\\frac{2}{\\square}=\\frac{\\square}{30}=\\frac{4}{\\square}=\\ldots \\ldots \\] \\[ \\frac{4}{15}=\\frac{8}{\\square}=\\frac{\\square}{45}=\\frac{\\square}{60}=\\ldots \\ldots \\] $ \\rightarrow \\frac{1}{10} $ 과 $ \\frac{4}{15} $ 를 통분하면 ($\\frac{\\square}{30}, \\frac{\\square}{\\square}$)입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            409,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            40,
+            243,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            87,
+            248,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            136,
+            178,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            165,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            411,
+            219
+          ],
+          "text": "$ \\frac{1}{10} $ 과 $ \\frac{4}{15} $ 를 통분하려고 합니다. $ \\square $ 안에 알맞은 수를 써넣으시오. \\[ \\frac{1}{10}=\\frac{2}{\\square}=\\frac{\\square}{30}=\\frac{4}{\\square}=\\ldots \\ldots \\] \\[ \\frac{4}{15}=\\frac{8}{\\square}=\\frac{\\square}{45}=\\frac{\\square}{60}=\\ldots \\ldots \\] $ \\rightarrow \\frac{1}{10} $ 과 $ \\frac{4}{15} $ 를 통분하면 ($\\frac{\\square}{30}, \\frac{\\square}{\\square}$)입니다."
+        }
+      ]
+    }
+  ]
+}

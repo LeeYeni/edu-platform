@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_02_00043_95446.png",
+  "id": "00043_95446",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202004",
+      "question_topic_name": "(진분수)X(자연수)에서 분모와 자연수를 약분 후 곱하여 계산하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 곱이 $ 3 \\frac{1}{3} $과 같은 것은 어느 것입니까?  ① $ \\frac{5}{7} \\times 4 $ ② $ \\frac{3}{8} \\times 12 $ ③ $ \\frac{2}{9} \\times 15 $ ④ $ \\frac{3}{10} \\times 4 $ ⑤ $ \\frac{5}{6} \\times 7 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            283,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            44,
+            83,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            87,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            87,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            92,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            208,
+            82,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            285,
+            243
+          ],
+          "text": "다음 중 곱이 $ 3 \\frac{1}{3} $과 같은 것은 어느 것입니까?  ① $ \\frac{5}{7} \\times 4 $ ② $ \\frac{3}{8} \\times 12 $ ③ $ \\frac{2}{9} \\times 15 $ ④ $ \\frac{3}{10} \\times 4 $ ⑤ $ \\frac{5}{6} \\times 7 $"
+        }
+      ]
+    }
+  ]
+}

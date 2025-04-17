@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_04_00044_19500.png",
+  "id": "00044_19500",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204010",
+      "question_topic_name": "비례식 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비례식은 어느 것입니까? ①$ 12 \\div 3=24 \\div 6 $ ②$ 5 \\div 3=1 \\frac{2}{3} ③ 9 \\times 5=5 \\times 9 $ ④$ \\frac{2}{7}=\\frac{4}{14} ⑤ 12: 9=4: 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            162,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            113,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            46,
+            103,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            100,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            101,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            115,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            164,
+            168
+          ],
+          "text": "비례식은 어느 것입니까? ①$ 12 \\div 3=24 \\div 6 $ ②$ 5 \\div 3=1 \\frac{2}{3} ③ 9 \\times 5=5 \\times 9 $ ④$ \\frac{2}{7}=\\frac{4}{14} ⑤ 12: 9=4: 3 $"
+        }
+      ]
+    }
+  ]
+}

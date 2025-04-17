@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_05_00042_79879.png",
+  "id": "00042_79879",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗면 직사각형 ㄱㄴㄷㄹ과 아랫면이 직사각형 ㅁㅂㅅㅇ이 평행한 합동이고 왼쪽 옆면이 직사각형ㄱㅁㅇㄹ, 오른쪽 옆면이 직사각형ㄴㅂㅅㄷ이 평행한 합동으로 이루어진 핑크색으로 칠해진 직육면체의 겨냥도",
+      "question_text": "다음 직육면체에서 주어진 면과 평행한 면을 찾아 쓰시오. 면 $ㄴㅂㅅㄷ$ ( ) 면 $ㅁㅂㅅㅇ$ ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            146,
+            163,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            169,
+            163,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            31,
+            174,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            21
+          ],
+          "text": "다음 직육면체에서 주어진 면과 평행한 면을 찾아 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            146,
+            165,
+            188
+          ],
+          "text": "면 $ㄴㅂㅅㄷ$ ( ) 면 $ㅁㅂㅅㅇ$ ( )"
+        }
+      ]
+    }
+  ]
+}

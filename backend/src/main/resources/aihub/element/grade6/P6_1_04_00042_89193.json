@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_04_00042_89193.png",
+  "id": "00042_89193",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가  $56 \\mathrm{~m}$ 인 철사의 $45 \\%$ 로 공작물을 만들었습니다. 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            531,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            533,
+            20
+          ],
+          "text": "길이가  $56 \\mathrm{~m}$ 인 철사의 $45 \\%$ 로 공작물을 만들었습니다. 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

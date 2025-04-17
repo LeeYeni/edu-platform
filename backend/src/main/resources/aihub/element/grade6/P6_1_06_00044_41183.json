@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41183.png",
+  "id": "00044_41183",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106001",
+      "question_topic_name": "직육면체의 부피를 직접 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "부피가 더 큰 직육면체의 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            245,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            281,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            20
+          ],
+          "text": "부피가 더 큰 직육면체의 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

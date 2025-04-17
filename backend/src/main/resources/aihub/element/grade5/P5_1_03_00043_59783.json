@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_1_03_00043_59783.png",
+  "id": "00043_59783",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103002",
+      "question_topic_name": "변하는 부분과 변하지 않는 부분을 찾아 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 몸은 눈, 코, 입, 귀, 팔, 손가락 등 여러 기관들로 이루어져 있습니다. 우리 몸에 있는 기관들 사이에는 어떤 대응 관계가 있는지 쓰시오. 눈의 대응 관계 $\\rightarrow$ 눈은 두 개씩 있습니다. (1) 코의 대응 관계(2) 귀의 대응 관계(3) 팔의 대응 관계(4) 손가락의 대응 관계",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            369,
+            256,
+            406
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            408,
+            122,
+            424
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            430,
+            125,
+            446
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            452,
+            125,
+            468
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            474,
+            150,
+            490
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            13,
+            303,
+            350
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            19
+          ],
+          "text": "우리 몸은 눈, 코, 입, 귀, 팔, 손가락 등 여러 기관들로 이루어져 있습니다. 우리 몸에 있는 기관들 사이에는 어떤 대응 관계가 있는지 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            369,
+            260,
+            491
+          ],
+          "text": "눈의 대응 관계 $\\rightarrow$ 눈은 두 개씩 있습니다. (1) 코의 대응 관계(2) 귀의 대응 관계(3) 팔의 대응 관계(4) 손가락의 대응 관계"
+        }
+      ]
+    }
+  ]
+}

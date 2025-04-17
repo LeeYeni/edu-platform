@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_04_00043_77384.png",
+  "id": "00043_77384",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "내일 일기 예보를 보고 틀리게 설명한 사람의 이름을 쓰시오. 정아 : 새벽부터 흐리다가 낮에 비가 올 수 있으므로 우산을 준비해야 해. 유진 : 비 올 가능성이 가장 높은 시각은 $21$시야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            356,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            173,
+            434,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            204,
+            294,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            324,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            2,
+            359.5,
+            18
+          ],
+          "text": "내일 일기 예보를 보고 틀리게 설명한 사람의 이름을 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.5,
+            183,
+            433.5,
+            222
+          ],
+          "text": "정아 : 새벽부터 흐리다가 낮에 비가 올 수 있으므로 우산을 준비해야 해. 유진 : 비 올 가능성이 가장 높은 시각은 $21$시야."
+        }
+      ]
+    }
+  ]
+}

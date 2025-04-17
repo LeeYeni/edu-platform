@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18558.png",
+  "id": "00050_18558",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203007",
+      "question_topic_name": "선대칭도형 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선대칭도형의 일부분을 보고 선대칭도형을 완성한 것입니다. 틀린 부분을 바르게 고치시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            527,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            291,
+            28,
+            533,
+            337
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            533,
+            22
+          ],
+          "text": "선대칭도형의 일부분을 보고 선대칭도형을 완성한 것입니다. 틀린 부분을 바르게 고치시오."
+        }
+      ]
+    }
+  ]
+}

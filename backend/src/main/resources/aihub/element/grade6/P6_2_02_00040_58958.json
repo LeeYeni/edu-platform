@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_02_00040_58958.png",
+  "id": "00040_58958",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 소수점의 위치를 잘못옮긴 것은 어느 것입니까?  ①$ \\begin{array}{r}0.6{\\overline{\\smash{\\big)}\\,2.1}}\\end{array}  \\rightarrow$ $ \\begin{array}{r}6{\\overline{\\smash{\\big)}\\,21}}\\end{array} $   ② $ \\begin{array}{r}0.05{\\overline{\\smash{\\big)}\\,0.072}}\\end{array}  \\rightarrow  \\begin{array}{r}0.05{\\overline{\\smash{\\big)}\\,7.2}}\\end{array} $   ③ $ \\begin{array}{r}0.07{\\overline{\\smash{\\big)}\\,0.87}}\\end{array}  \\rightarrow  \\begin{array}{r}7{\\overline{\\smash{\\big)}\\,87}}\\end{array} $   ④ $ \\begin{array}{r}24.5{\\overline{\\smash{\\big)}\\,147}}\\end{array}  \\rightarrow  \\begin{array}{r}245{\\overline{\\smash{\\big)}\\,147}}\\end{array} $   ⑤ $ \\begin{array}{r}0.72{\\overline{\\smash{\\big)}\\,12.05}}\\end{array}  \\rightarrow  \\begin{array}{r}72{\\overline{\\smash{\\big)}\\,1205}}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            179,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            52,
+            208,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            81,
+            198,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            110,
+            214,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            226,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            166
+          ],
+          "text": "다음 중 소수점의 위치를 잘못옮긴 것은 어느 것입니까?  ①$ \\begin{array}{r}0.6{\\overline{\\smash{\\big)}\\,2.1}}\\end{array}  \\rightarrow$ $ \\begin{array}{r}6{\\overline{\\smash{\\big)}\\,21}}\\end{array} $   ② $ \\begin{array}{r}0.05{\\overline{\\smash{\\big)}\\,0.072}}\\end{array}  \\rightarrow  \\begin{array}{r}0.05{\\overline{\\smash{\\big)}\\,7.2}}\\end{array} $   ③ $ \\begin{array}{r}0.07{\\overline{\\smash{\\big)}\\,0.87}}\\end{array}  \\rightarrow  \\begin{array}{r}7{\\overline{\\smash{\\big)}\\,87}}\\end{array} $   ④ $ \\begin{array}{r}24.5{\\overline{\\smash{\\big)}\\,147}}\\end{array}  \\rightarrow  \\begin{array}{r}245{\\overline{\\smash{\\big)}\\,147}}\\end{array} $   ⑤ $ \\begin{array}{r}0.72{\\overline{\\smash{\\big)}\\,12.05}}\\end{array}  \\rightarrow  \\begin{array}{r}72{\\overline{\\smash{\\big)}\\,1205}}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

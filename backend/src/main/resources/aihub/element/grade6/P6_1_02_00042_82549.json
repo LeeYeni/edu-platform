@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_02_00042_82549.png",
+  "id": "00042_82549",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102005",
+      "question_topic_name": "각기둥의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명에 해당하는 입체도형의 이름을 쓰시오.  · 밑면은 $2$개이고, 서로 평행하고 합동인 다각형입니다.  · 옆면의 수는 $5$개이고, 모양은 모두 직사각형입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            296,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            331,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            47,
+            318,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            376,
+            69
+          ],
+          "text": "다음 설명에 해당하는 입체도형의 이름을 쓰시오.  · 밑면은 $2$개이고, 서로 평행하고 합동인 다각형입니다.  · 옆면의 수는 $5$개이고, 모양은 모두 직사각형입니다."
+        }
+      ]
+    }
+  ]
+}

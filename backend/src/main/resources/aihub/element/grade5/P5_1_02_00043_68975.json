@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_02_00043_68975.png",
+  "id": "00043_68975",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $630m$인 도로의 한쪽에 $9 m$ 간격으로 나무를 심고 $15 m$ 간격으로 표지판을 세우려고 합니다. 나무를 심을 곳과 표지판을 세울 곳이 겹칠 때에는 표지판만 세우기로 할 때 필요한 나무는 모두 몇 그루입니까? (단, 도로의 양 끝에는 표지판을 세웁니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            750,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            734,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            752,
+            41
+          ],
+          "text": "길이가 $630m$인 도로의 한쪽에 $9 m$ 간격으로 나무를 심고 $15 m$ 간격으로 표지판을 세우려고 합니다. 나무를 심을 곳과 표지판을 세울 곳이 겹칠 때에는 표지판만 세우기로 할 때 필요한 나무는 모두 몇 그루입니까? (단, 도로의 양 끝에는 표지판을 세웁니다.)"
+        }
+      ]
+    }
+  ]
+}

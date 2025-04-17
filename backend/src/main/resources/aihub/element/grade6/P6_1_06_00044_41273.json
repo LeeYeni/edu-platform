@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_06_00044_41273.png",
+  "id": "00044_41273",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106003",
+      "question_topic_name": "쌓기나무를 사용하여 직육면체의 부피 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 개의 부피가 $ 1 \\mathrm{~cm}^{3} $ 인 쌓기 나무를 다음과 같이 쌓았습니다. 부피를 구하시오 (1) 가로로 $7$줄, 세로로 $4$줄, 높이가 $6$층인 직육면체 (2) 가로로 $5$ 줄, 세로로 $5$ 줄, 높이가 $5$ 층인 직육면체",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            462,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            307,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            309,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            464,
+            62
+          ],
+          "text": "한 개의 부피가 $ 1 \\mathrm{~cm}^{3} $ 인 쌓기 나무를 다음과 같이 쌓았습니다. 부피를 구하시오 (1) 가로로 $7$줄, 세로로 $4$줄, 높이가 $6$층인 직육면체 (2) 가로로 $5$ 줄, 세로로 $5$ 줄, 높이가 $5$ 층인 직육면체"
+        }
+      ]
+    }
+  ]
+}

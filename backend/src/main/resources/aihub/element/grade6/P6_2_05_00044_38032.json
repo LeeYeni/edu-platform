@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_38032.png",
+  "id": "00044_38032",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205017",
+      "question_topic_name": "원주의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 60 cm인 원의 수평으로 그린 지름 중 중심 왼쪽 반을 지름으로 하는 원을 그리고 이 원을 제외한 나머지 부분에 색칠한 도형",
+      "question_text": "색칠한 부분의 둘레를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            125,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            22
+          ],
+          "text": "색칠한 부분의 둘레를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

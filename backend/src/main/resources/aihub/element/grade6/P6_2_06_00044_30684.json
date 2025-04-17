@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00044_30684.png",
+  "id": "00044_30684",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206008",
+      "question_topic_name": "원뿔 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "평면도형을 회전축을 중심으로 한 바퀴 돌렸을 때 만들어지는 입체도형의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            518,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            28,
+            79,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            521,
+            23
+          ],
+          "text": "평면도형을 회전축을 중심으로 한 바퀴 돌렸을 때 만들어지는 입체도형의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

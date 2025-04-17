@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00043_73612.png",
+  "id": "00043_73612",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼촌의 몸무게는 $66.5kg$이고 유경이의 몸무게는 $27kg$입니다. 삼촌의 몸무게는 유경이의 몸무게의 약 몇 배인지 반올림하여 소수 둘째 자리까지 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            116,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "삼촌의 몸무게는 $66.5kg$이고 유경이의 몸무게는 $27kg$입니다. 삼촌의 몸무게는 유경이의 몸무게의 약 몇 배인지 반올림하여 소수 둘째 자리까지 나타내시오."
+        }
+      ]
+    }
+  ]
+}

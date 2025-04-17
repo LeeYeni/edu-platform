@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_05_00040_65678.png",
+  "id": "00040_65678",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105007",
+      "question_topic_name": "받아올림이 있는 대분수의 덧셈을 자연수끼리, 분수끼리 더해서 계산하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 15\\frac{5}{24} + 12\\frac{7}{30} $의 계산 결과를 기약분수로 나타내려고 합니다. 공통분모를 얼마로 하여 계산하는 것이 가장 간단합니까? ①$6$ ②$35 ③120$ ④$240$ ⑤$720$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            2,
+            716,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            53,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            60,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            67,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            69,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            69,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            1,
+            718,
+            149
+          ],
+          "text": "$ 15\\frac{5}{24} + 12\\frac{7}{30} $의 계산 결과를 기약분수로 나타내려고 합니다. 공통분모를 얼마로 하여 계산하는 것이 가장 간단합니까? ①$6$ ②$35 ③120$ ④$240$ ⑤$720$"
+        }
+      ]
+    }
+  ]
+}

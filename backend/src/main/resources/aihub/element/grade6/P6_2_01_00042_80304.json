@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_01_00042_80304.png",
+  "id": "00042_80304",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201006",
+      "question_topic_name": "분자끼리 나누어떨어지지 않는 분모가 다른 (분수)÷(분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{5}{7} $ ÷ $ \\frac{3}{8} $을 두 가지 방법으로 계산하시오.  ⑴ 두 분수를 통분한 후 (자연수)÷(자연수)의 꼴로 바꾸어 계산하시오.  두 분모 $7$과 $8$의 최소공배수는 $\\square$ 이므로   $ \\frac{5}{7} $÷ $ \\frac{3}{8} $= $ \\frac{5 \\times \\square}{7 \\times 8} $÷$ \\frac{3 \\times \\square}{8 \\times 7} $ =$ \\frac{\\square}{56} $÷ $ \\frac{\\square}{\\square} $ =$\\square$÷$\\square$  = $ \\frac{\\square}{\\square} $=$\\square \\frac{\\square}{\\square}$ ⑵ 나누는 진분수의 분모와 분자를 바꾸어 곱하시오. $ \\frac{5}{7} \\div \\frac{3}{8}=\\frac{5}{7} \\times \\frac{\\square}{\\square} $ = $ \\frac{\\square}{\\square} $ =$\\square \\frac{\\square}{\\square}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            254,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            410,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            61,
+            301,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            245,
+            313,
+            262
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            413,
+            263
+          ],
+          "text": "$ \\frac{5}{7} $ ÷ $ \\frac{3}{8} $을 두 가지 방법으로 계산하시오.  ⑴ 두 분수를 통분한 후 (자연수)÷(자연수)의 꼴로 바꾸어 계산하시오.  두 분모 $7$과 $8$의 최소공배수는 $\\square$ 이므로   $ \\frac{5}{7} $÷ $ \\frac{3}{8} $= $ \\frac{5 \\times \\square}{7 \\times 8} $÷$ \\frac{3 \\times \\square}{8 \\times 7} $ =$ \\frac{\\square}{56} $÷ $ \\frac{\\square}{\\square} $ =$\\square$÷$\\square$  = $ \\frac{\\square}{\\square} $=$\\square \\frac{\\square}{\\square}$ ⑵ 나누는 진분수의 분모와 분자를 바꾸어 곱하시오. $ \\frac{5}{7} \\div \\frac{3}{8}=\\frac{5}{7} \\times \\frac{\\square}{\\square} $ = $ \\frac{\\square}{\\square} $ =$\\square \\frac{\\square}{\\square}$"
+        }
+      ]
+    }
+  ]
+}

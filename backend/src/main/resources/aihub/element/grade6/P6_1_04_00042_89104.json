@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_04_00042_89104.png",
+  "id": "00042_89104",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104013",
+      "question_topic_name": "백분율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$5$에 대한 $4$의 비율을 백분율로 나타내어 보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 그림에서 전체 칸을 $100$칸으로 나누면 색칠된 칸은 $\\square$ 칸으로 나누어집니다. (2) 색칠된 칸을 분수로 나타내면 $\\frac{\\square}{100}$이고 소수로 나타내면 $\\square$ 입니다. (3) $5$에 대한 $4$의 비율은$\\frac{\\square}{\\square}$=$\\frac{\\square}{100}$이므로 백분율로 나타내면 $80\\%$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            518,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            507,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            110,
+            512,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            523,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            32,
+            241,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0.4,
+            520.1,
+            19.4
+          ],
+          "text": "$5$에 대한 $4$의 비율을 백분율로 나타내어 보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            85,
+            525,
+            199
+          ],
+          "text": "⑴ 그림에서 전체 칸을 $100$칸으로 나누면 색칠된 칸은 $\\square$ 칸으로 나누어집니다. (2) 색칠된 칸을 분수로 나타내면 $\\frac{\\square}{100}$이고 소수로 나타내면 $\\square$ 입니다. (3) $5$에 대한 $4$의 비율은$\\frac{\\square}{\\square}$=$\\frac{\\square}{100}$이므로 백분율로 나타내면 $80\\%$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39632.png",
+  "id": "00044_39632",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "평행사변형 ㄱㄴㄷㄹ에서 변 ㄱㄹ의 길이는 15 cm이고, 밑변 ㄴㄷ 위에 임의의 한 점 ㅁ을 잡아 선분 ㄴㅁ의 길이가 7 cm가 되도록 할 때 만들어지는 삼각형 ㄱㄴㅁ",
+      "question_text": "평행사변형 ㄱㄴㄷㄹ의 넓이가 $150cm²$일 때, 삼각형 ㄱㄴㅁ의 넓이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            470,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            160,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            472,
+            21
+          ],
+          "text": "평행사변형 ㄱㄴㄷㄹ의 넓이가 $150cm²$일 때, 삼각형 ㄱㄴㅁ의 넓이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

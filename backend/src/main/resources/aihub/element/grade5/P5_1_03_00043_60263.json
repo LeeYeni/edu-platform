@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_03_00043_60263.png",
+  "id": "00043_60263",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은태와 시하가 $5000$원을 나누어 가지려고 합니다. 시하가 은태보다 $400$원을 더 가지려면 두 사람이 가지게 되는 돈은 각각 얼마인지 알아보시오. (1) 은태가 가지는 금액과 시하가 가지는 금액 사이의 대응 관계를 알아보고 표를 완성하시오.  <table border>   <tbody>     <tr>       <td>은태</td>       <td>$2000$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>     </tr>     <tr>       <td>시하</td>       <td>$2400$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 두 사람이 가지게 되는 돈은 각각 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            44,
+            540,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            228,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            300,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            134
+          ],
+          "text": "은태와 시하가 $5000$원을 나누어 가지려고 합니다. 시하가 은태보다 $400$원을 더 가지려면 두 사람이 가지게 되는 돈은 각각 얼마인지 알아보시오. (1) 은태가 가지는 금액과 시하가 가지는 금액 사이의 대응 관계를 알아보고 표를 완성하시오.  <table border>   <tbody>     <tr>       <td>은태</td>       <td>$2000$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>     </tr>     <tr>       <td>시하</td>       <td>$2400$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 두 사람이 가지게 되는 돈은 각각 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

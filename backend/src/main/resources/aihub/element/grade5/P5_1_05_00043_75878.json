@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_05_00043_75878.png",
+  "id": "00043_75878",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105009",
+      "question_topic_name": "받아올림이 있는 대분수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 2와 2분의 1 cm이고 세로의 길이가 2와 5분의 2 cm인 직사각형",
+      "question_text": "직사각형의 가로와 세로의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            281,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            171,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            283,
+            23
+          ],
+          "text": "직사각형의 가로와 세로의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

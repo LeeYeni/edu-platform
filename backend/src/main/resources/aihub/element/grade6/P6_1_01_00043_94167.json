@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_01_00043_94167.png",
+  "id": "00043_94167",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101006",
+      "question_topic_name": "(자연수) ÷ (자연수)의 몫을 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색 테이프 $3m$를 $4$사람에게 똑같이 나누어 주려고 합니다. 한 사람에게 몇 $m$씩 나누어 주면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            581,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            583,
+            21
+          ],
+          "text": "색 테이프 $3m$를 $4$사람에게 똑같이 나누어 주려고 합니다. 한 사람에게 몇 $m$씩 나누어 주면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

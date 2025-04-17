@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18688.png",
+  "id": "00050_18688",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203007",
+      "question_topic_name": "선대칭도형 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 가를 대칭축으로 왼쪽에 밑변의 길이가 2 cm, 윗변의 길이가 5 cm, 직각인 대칭축 위에 높이가 4 cm, 나머지 변의 길이가 5 cm인 사다리꼴이 그려진 그림",
+      "question_text": "그림에서 직선 가를 대칭축으로 하는 선대칭도형을 완성할 때 완성한 선대칭도형의 넓이는 몇$ cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            340,
+            28,
+            482,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            23
+          ],
+          "text": "그림에서 직선 가를 대칭축으로 하는 선대칭도형을 완성할 때 완성한 선대칭도형의 넓이는 몇$ cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

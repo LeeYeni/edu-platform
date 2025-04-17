@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_30943.png",
+  "id": "00044_30943",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106019",
+      "question_topic_name": "직육면체의 겉넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 20 cm 세로 12 cm인 직사각형이 두 개의 밑면이고 가로 20 cm 세로 15 cm인 직사각형 두 개가 서로 마주 보는 옆면이고 가로 12 cm 세로 15 cm인 직사각형 두 개가 마주 보는 옆면으로 이루어진 직육면체의 가운데에서 한 변의 길이가 8 cm인 정사각형 두 개가 밑면이고 가로 8 cm 높이가 15 cm인 직사각형 네 개를 옆면으로 하는 직육면체 모양이 뚫린 입체도형",
+      "question_text": "입체도형의 겉넓이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            196,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            30,
+            189,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            198,
+            24
+          ],
+          "text": "입체도형의 겉넓이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

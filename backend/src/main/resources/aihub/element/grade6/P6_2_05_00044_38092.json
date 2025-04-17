@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_05_00044_38092.png",
+  "id": "00044_38092",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205005",
+      "question_topic_name": "지름을 알 때 원주 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $2m$인 밧줄을 이용해 운동장에 큰 원을 그렸습니다. 그린 원의 원주는 몇 $m$입니까? (원주율 : $3.1$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            527,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            96,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            141,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            529,
+            40
+          ],
+          "text": "길이가 $2m$인 밧줄을 이용해 운동장에 큰 원을 그렸습니다. 그린 원의 원주는 몇 $m$입니까? (원주율 : $3.1$)"
+        }
+      ]
+    }
+  ]
+}

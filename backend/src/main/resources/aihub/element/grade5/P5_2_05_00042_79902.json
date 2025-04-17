@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00042_79902.png",
+  "id": "00042_79902",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205004",
+      "question_topic_name": "직육면체에서 보이는 면, 모서리, 꼭짓점의 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 18 cm이고 세로의 길이가 20 cm이고 높이가 15 cm인 직육면체",
+      "question_text": "직육면체에서 보이는 모서리의 길이의 합은 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            348,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            175,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            350,
+            21
+          ],
+          "text": "직육면체에서 보이는 모서리의 길이의 합은 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

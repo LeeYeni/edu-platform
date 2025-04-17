@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_05_00044_38222.png",
+  "id": "00044_38222",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205010",
+      "question_topic_name": "원의 넓이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원 안의 색칠된 초록색 정사각형의 수와 원 밖의 빨간색 선 안에 있는 정사각형의 수로 원의 넓이를 어림해 보시오.  $\\square cm²＜ (원의 넓이)＜ cm²$  $\\rightarrow$ 원의 넓이는 $\\square cm²$라고 어림할 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            660,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            184,
+            250,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            206,
+            318,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            200,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.36,
+            0.04,
+            659.64,
+            17.32
+          ],
+          "text": "원 안의 색칠된 초록색 정사각형의 수와 원 밖의 빨간색 선 안에 있는 정사각형의 수로 원의 넓이를 어림해 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.36,
+            187.32,
+            320.44,
+            227.64
+          ],
+          "text": "$\\square cm²＜ (원의 넓이)＜ cm²$  $\\rightarrow$ 원의 넓이는 $\\square cm²$라고 어림할 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

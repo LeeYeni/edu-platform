@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_38583.png",
+  "id": "00044_38583",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 13 cm이고 세로의 길이가 13 cm인 정사각형 내부에 좌측 상단의 꼭짓점과 우측 하단의 꼭짓점에서 반지름이 13 cm인 부채꼴이 겹치는 영역이 색칠된 도형",
+      "question_text": "다음 그림은 정사각형 안에 원의 일부분을 그린 것입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까? (원주율 : $3$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            628,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            161,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            630,
+            23
+          ],
+          "text": "다음 그림은 정사각형 안에 원의 일부분을 그린 것입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까? (원주율 : $3$)"
+        }
+      ]
+    }
+  ]
+}

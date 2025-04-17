@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_06_00044_41423.png",
+  "id": "00044_41423",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106007",
+      "question_topic_name": "정육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모든 모서리의 길이의 합이 $180 cm$인 정육면체가 있습니다. 이 정육면체의 부피는 몇 $cm^3$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            569,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.24,
+            1.05,
+            569.24,
+            18.05
+          ],
+          "text": "모든 모서리의 길이의 합이 $180 cm$인 정육면체가 있습니다. 이 정육면체의 부피는 몇 $cm^3$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_04_00044_10835.png",
+  "id": "00044_10835",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 알맞은 수는 어느 것입니까?  $ \\begin{array}{l}4.67 \\times 0.35=1.6345 \\\\ 0.467 \\times 350=\\square\\end{array} $  ①$16.345$ ②$163.45$ ③$1634.5$ ④$16345$ ⑤$163450$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            270,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            141,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            118,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            77,
+            85,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            85,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            85,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            81,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            90,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            275,
+            189
+          ],
+          "text": "다음 중 $\\square$ 안에 알맞은 수는 어느 것입니까?  $ \\begin{array}{l}4.67 \\times 0.35=1.6345 \\\\ 0.467 \\times 350=\\square\\end{array} $  ①$16.345$ ②$163.45$ ③$1634.5$ ④$16345$ ⑤$163450$"
+        }
+      ]
+    }
+  ]
+}

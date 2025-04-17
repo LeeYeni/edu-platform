@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_03_00043_99967.png",
+  "id": "00043_99967",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 선대칭도형에 대한 설명 중 바른 것은 어느 것입니까? ① 점 $ㄱ$의 대응점은 점 $ㄴ$입니다. ② 선분 $ㄱㄴ$의 대응변은 선분 $ㄹㄷ$입니다. ③ 점 $ㄹ$과 점 $ㄴ$은 대칭축으로부터 거리가 같습니다. ④ 대칭축은 직선 $ㅂㄴ$입니다. ⑤ 각 $ㅂㄴㄱ$과 각$ ㅁㄹㄷ$의 크기는 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            193,
+            215,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            215,
+            266,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            237,
+            324,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            259,
+            195,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            281,
+            282,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            227,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            352,
+            22
+          ],
+          "text": "다음 선대칭도형에 대한 설명 중 바른 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            192,
+            326,
+            302
+          ],
+          "text": "① 점 $ㄱ$의 대응점은 점 $ㄴ$입니다. ② 선분 $ㄱㄴ$의 대응변은 선분 $ㄹㄷ$입니다. ③ 점 $ㄹ$과 점 $ㄴ$은 대칭축으로부터 거리가 같습니다. ④ 대칭축은 직선 $ㅂㄴ$입니다. ⑤ 각 $ㅂㄴㄱ$과 각$ ㅁㄹㄷ$의 크기는 같습니다."
+        }
+      ]
+    }
+  ]
+}

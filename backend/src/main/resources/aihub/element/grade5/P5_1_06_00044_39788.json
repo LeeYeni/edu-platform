@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_06_00044_39788.png",
+  "id": "00044_39788",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106029",
+      "question_topic_name": "다각형의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 11 cm이고 세로의 길이가 4 cm인 직사각형 원 문자 나의 점선으로 나타낸 윗변을 밑변으로 하는 삼각형 원 문자 가의 꼭짓점에서 밑변에 내린 점선으로 된 수선의 길이가 4 cm인 색칠된 다각형",
+      "question_text": "다각형의 넓이를 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. $ (도형의 넓이)=㉮+㉯= $$\\square+\\square$ = $\\square(cm2)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            400,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            327,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            28,
+            179,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            402,
+            22
+          ],
+          "text": "다각형의 넓이를 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            127,
+            329,
+            155
+          ],
+          "text": "$ (도형의 넓이)=㉮+㉯= $$\\square+\\square$ = $\\square(cm2)$"
+        }
+      ]
+    }
+  ]
+}

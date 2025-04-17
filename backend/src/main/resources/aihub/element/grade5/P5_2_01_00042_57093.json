@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00042_57093.png",
+  "id": "00042_57093",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201015",
+      "question_topic_name": "올림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동화책 $534$권을 책꽂이 한 칸에 $18$권씩 꽂으려고 합니다. 동화책을 모두 꽂으려면 책꽂이는 몇 칸이 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            654,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            656,
+            20
+          ],
+          "text": "동화책 $534$권을 책꽂이 한 칸에 $18$권씩 꽂으려고 합니다. 동화책을 모두 꽂으려면 책꽂이는 몇 칸이 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

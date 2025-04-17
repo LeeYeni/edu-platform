@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_59989.png",
+  "id": "00043_59989",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 완성하고 $\\blacklozenge$와 $\\diamondsuit$사이의 대응 관계를 식으로 나타내시오. <table border>   <tbody>     <tr>       <td>$\\blacklozenge$</td>       <td>$100$</td>       <td>$81$</td>       <td>$64$</td>       <td>$49$</td>       <td>$36$</td>     </tr>     <tr>       <td>$\\diamondsuit$</td>       <td>$10$</td>       <td></td>       <td>$8$</td>       <td></td>       <td>$6$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            371,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            190,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            373,
+            72
+          ],
+          "text": "표를 완성하고 $\\blacklozenge$와 $\\diamondsuit$사이의 대응 관계를 식으로 나타내시오. <table border>   <tbody>     <tr>       <td>$\\blacklozenge$</td>       <td>$100$</td>       <td>$81$</td>       <td>$64$</td>       <td>$49$</td>       <td>$36$</td>     </tr>     <tr>       <td>$\\diamondsuit$</td>       <td>$10$</td>       <td></td>       <td>$8$</td>       <td></td>       <td>$6$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

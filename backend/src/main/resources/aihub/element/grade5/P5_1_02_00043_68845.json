@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_02_00043_68845.png",
+  "id": "00043_68845",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102014",
+      "question_topic_name": "공약수와 최대공약수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$180$과 어떤 수의 최대공약수가 $36$일 때, 이 두 수의 공약수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            471,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            473,
+            21
+          ],
+          "text": "$180$과 어떤 수의 최대공약수가 $36$일 때, 이 두 수의 공약수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

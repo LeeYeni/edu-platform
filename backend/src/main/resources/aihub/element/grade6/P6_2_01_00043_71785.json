@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_01_00043_71785.png",
+  "id": "00043_71785",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201015",
+      "question_topic_name": "(대분수)÷(대분수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 2 \\frac{2}{5} \\div \\frac{3}{7} $을 계산할 때 가장 먼저 해야 할 것을 말한 사람은 누구입니까? 수영 : 약분하여 간단하게 나타냅니다.연재 : $ \\div $를 $ \\times $로 고칩니다.경아 : 대분수를 가분수로 고칩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            428,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            40,
+            243,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            171,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            94,
+            231,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            120
+          ],
+          "text": "$ 2 \\frac{2}{5} \\div \\frac{3}{7} $을 계산할 때 가장 먼저 해야 할 것을 말한 사람은 누구입니까? 수영 : 약분하여 간단하게 나타냅니다.연재 : $ \\div $를 $ \\times $로 고칩니다.경아 : 대분수를 가분수로 고칩니다."
+        }
+      ]
+    }
+  ]
+}

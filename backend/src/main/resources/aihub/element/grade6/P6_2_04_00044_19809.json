@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_04_00044_19809.png",
+  "id": "00044_19809",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아래 그림은 우체국을 줄여서 그린 것입니다. 그림에서 $2  cm$를 $40  m$로 나타낸다고 할 때, 우체국의 가로가 $3  cm$라면 실제로는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            48,
+            169,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            40
+          ],
+          "text": "아래 그림은 우체국을 줄여서 그린 것입니다. 그림에서 $2  cm$를 $40  m$로 나타낸다고 할 때, 우체국의 가로가 $3  cm$라면 실제로는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

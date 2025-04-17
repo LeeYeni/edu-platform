@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_03_00044_27825.png",
+  "id": "00044_27825",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "일주일에 $16$분 $6$초씩 늦게 가는 시계가 있습니다. 이 시계는 하루에 몇 분씩 늦게 가는 셈인지 알아보시오.⑴ 이 시계는 일주일에 몇 분씩 늦게 가는지 소수로 나타내시오.⑵ 이 시계가 하루에 몇 분씩 늦게 가는지 구하는 식을 쓰시오.⑶ 이 시계는 하루에 몇 분씩 늦게 가는 셈입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            375,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            366,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            299,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            84
+          ],
+          "text": "일주일에 $16$분 $6$초씩 늦게 가는 시계가 있습니다. 이 시계는 하루에 몇 분씩 늦게 가는 셈인지 알아보시오.⑴ 이 시계는 일주일에 몇 분씩 늦게 가는지 소수로 나타내시오.⑵ 이 시계가 하루에 몇 분씩 늦게 가는지 구하는 식을 쓰시오.⑶ 이 시계는 하루에 몇 분씩 늦게 가는 셈입니까?"
+        }
+      ]
+    }
+  ]
+}

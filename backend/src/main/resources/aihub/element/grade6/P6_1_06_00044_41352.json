@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41352.png",
+  "id": "00044_41352",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로, 세로, 높이의 길이가 각각 4 cm, 7 cm, 3 cm인 직육면체 겨냥도에 가로의 길이가 각각 4 cm, 7 cm인 옆면에 색칠이 된 도형",
+      "question_text": "직육면체의 부피는 몇 $ \\mathrm{cm}^{3} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            214,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            30,
+            168,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            216,
+            23
+          ],
+          "text": "직육면체의 부피는 몇 $ \\mathrm{cm}^{3} $입니까?"
+        }
+      ]
+    }
+  ]
+}

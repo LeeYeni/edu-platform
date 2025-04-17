@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_02_00040_49907.png",
+  "id": "00040_49907",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102004",
+      "question_topic_name": "각기둥의 밑면과 옆면 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 각기둥에 대하여 잘못 설명한 것은 어느 것입니까? ① 두 밑면은 서로 평행합니다. ② 밑면의 모양이 원인 각기둥도 있습니다. ③ 밑면과 옆면은 서로 수직입니다. ④ 옆면은 모두 직사각형입니다. ⑤ 두 밑면은 서로 합동입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            198,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            266,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            224,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            207,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            198,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            352,
+            130
+          ],
+          "text": "다음 중 각기둥에 대하여 잘못 설명한 것은 어느 것입니까? ① 두 밑면은 서로 평행합니다. ② 밑면의 모양이 원인 각기둥도 있습니다. ③ 밑면과 옆면은 서로 수직입니다. ④ 옆면은 모두 직사각형입니다. ⑤ 두 밑면은 서로 합동입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_02_00043_73628.png",
+  "id": "00043_73628",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202012",
+      "question_topic_name": "(자연수)÷(소수 한 자리 수)_세로셈",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫을 반올림하여 소수 첫째 자리까지 나타내려고 합니다. 나눗셈을 보고 물음에 답하시오. $ 2.54 \\div 7=0.362 \\cdots \\cdots $ (1) 소수 둘째 자리 숫자는 무엇입니까? (2) 몫을 반올림하여 소수 첫째 자리까지 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            519,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            144,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            239,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            317,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            544,
+            100
+          ],
+          "text": "몫을 반올림하여 소수 첫째 자리까지 나타내려고 합니다. 나눗셈을 보고 물음에 답하시오. $ 2.54 \\div 7=0.362 \\cdots \\cdots $ (1) 소수 둘째 자리 숫자는 무엇입니까? (2) 몫을 반올림하여 소수 첫째 자리까지 나타내시오."
+        }
+      ]
+    }
+  ]
+}

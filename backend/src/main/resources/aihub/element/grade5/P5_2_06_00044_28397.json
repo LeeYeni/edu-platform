@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_06_00044_28397.png",
+  "id": "00044_28397",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206001",
+      "question_topic_name": "평균 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "승우의 성적을 조사하여 나타낸 표입니다. 승우의 평균 점수를 구하시오.  <table border> <caption><승우의 성적></caption>   <tbody>     <tr>       <td>과목</td>       <td>국어</td>       <td>수학</td>       <td>사회</td>       <td>과학</td>     </tr>     <tr>       <td>점수</td>       <td>$91$</td>       <td>$100$</td>       <td>$86$</td>       <td>$83$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            425,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            104,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            267,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            427,
+            114
+          ],
+          "text": "승우의 성적을 조사하여 나타낸 표입니다. 승우의 평균 점수를 구하시오.  <table border> <caption><승우의 성적></caption>   <tbody>     <tr>       <td>과목</td>       <td>국어</td>       <td>수학</td>       <td>사회</td>       <td>과학</td>     </tr>     <tr>       <td>점수</td>       <td>$91$</td>       <td>$100$</td>       <td>$86$</td>       <td>$83$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

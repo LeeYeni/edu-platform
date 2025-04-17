@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_06_00044_38818.png",
+  "id": "00044_38818",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106010",
+      "question_topic_name": "1㎡ 와 1㎠의 관계 알기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 넓이를 잴 때 알맞은 단위를 찾아 기호를 쓰시오. ㉠ 1m² ㉡ 1cm² ⑴ 복도의 넓이⑵ 공책의 넓이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            114,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            59,
+            107,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            104,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            324,
+            100
+          ],
+          "text": "다음 넓이를 잴 때 알맞은 단위를 찾아 기호를 쓰시오. ㉠ 1m² ㉡ 1cm² ⑴ 복도의 넓이⑵ 공책의 넓이"
+        }
+      ]
+    }
+  ]
+}

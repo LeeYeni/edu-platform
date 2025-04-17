@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00041_33415.png",
+  "id": "00041_33415",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104024",
+      "question_topic_name": "두 분모의 공배수를 공통분모로 하여 통분하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\left(\\frac{5}{6}, \\frac{5}{9}\\right) $를 통분하려고 합니다. 공통분모가 될 수  없는  것을 모두 고르시오. ①$5$ ②$18$ ③$36$ ④$60$ ⑤$72$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            460,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            47,
+            52,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            69,
+            58,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            91,
+            61,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            113,
+            62,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            135,
+            60,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            462,
+            156
+          ],
+          "text": "$ \\left(\\frac{5}{6}, \\frac{5}{9}\\right) $를 통분하려고 합니다. 공통분모가 될 수  없는  것을 모두 고르시오. ①$5$ ②$18$ ③$36$ ④$60$ ⑤$72$"
+        }
+      ]
+    }
+  ]
+}

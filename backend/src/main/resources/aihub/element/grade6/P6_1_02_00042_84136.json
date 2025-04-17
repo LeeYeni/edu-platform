@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00042_84136.png",
+  "id": "00042_84136",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각기둥의 전개도가 아닌 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            183,
+            492
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            22
+          ],
+          "text": "사각기둥의 전개도가 아닌 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

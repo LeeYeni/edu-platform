@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00044_41333.png",
+  "id": "00044_41333",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106007",
+      "question_topic_name": "정육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이, 세로의 길이, 높이가 각각 5 cm인 정육면체 겨냥도",
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (정육면체의 부피)=(한 모서리)×(한 모서리)×(한 모서리)= $5 \\times  \\square  \\times \\square$ = $\\square$ ($cm^2$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            123,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            237,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            179,
+            217,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            149,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            23
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            136,
+            239,
+            202
+          ],
+          "text": "(정육면체의 부피)=(한 모서리)×(한 모서리)×(한 모서리)= $5 \\times  \\square  \\times \\square$ = $\\square$ ($cm^2$)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_02_00044_40254.png",
+  "id": "00044_40254",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202013",
+      "question_topic_name": "(자연수)x(대분수)_대분수를 자연수 부분과 분수부분으로 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 대화를 읽고 누가 그린 도형이 얼마나 더 넓은지 구하시오. 영민 : 난 한 변이 $6 cm$인 정사각형을 그릴 거야. 진수 : 난 가로는 $6 cm$의 $ 1 \\frac{1}{6} $배이고, 세로는 $6 cm$를 $ \\frac{1}{6} $만큼 줄인 직사각형을 그릴 거야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            297,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            56,
+            533,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            98
+          ],
+          "text": "다음 대화를 읽고 누가 그린 도형이 얼마나 더 넓은지 구하시오. 영민 : 난 한 변이 $6 cm$인 정사각형을 그릴 거야. 진수 : 난 가로는 $6 cm$의 $ 1 \\frac{1}{6} $배이고, 세로는 $6 cm$를 $ \\frac{1}{6} $만큼 줄인 직사각형을 그릴 거야."
+        }
+      ]
+    }
+  ]
+}

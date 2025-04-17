@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_19861.png",
+  "id": "00044_19861",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$시간 $30$분 동안 $160$km를 가는 자동차가 있습니다. 이 자동차가 $400$km를 가려면 몇 시간 몇 분이 걸립니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            649,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            651,
+            21
+          ],
+          "text": "$1$시간 $30$분 동안 $160$km를 가는 자동차가 있습니다. 이 자동차가 $400$km를 가려면 몇 시간 몇 분이 걸립니까?"
+        }
+      ]
+    }
+  ]
+}

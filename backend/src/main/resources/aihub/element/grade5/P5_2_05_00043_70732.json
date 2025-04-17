@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_70732.png",
+  "id": "00043_70732",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205004",
+      "question_topic_name": "직육면체에서 보이는 면, 모서리, 꼭짓점의 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 3 cm, 세로의 길이가 5 cm인 앞이라고 쓰여 있는 왼쪽에 위치한 직사각형, 가로의 길이가 6 cm, 세로의 길이가 5 cm인 옆이라고 쓰여 있는 오른쪽에 위치한 직사각형",
+      "question_text": "직육면체를 앞과 옆에서 본 모양입니다. 이 직육면체의 모든 모서리의 길이의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            565,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            253,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            567,
+            20
+          ],
+          "text": "직육면체를 앞과 옆에서 본 모양입니다. 이 직육면체의 모든 모서리의 길이의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

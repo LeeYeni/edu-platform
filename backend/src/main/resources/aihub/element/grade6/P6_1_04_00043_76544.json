@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_04_00043_76544.png",
+  "id": "00043_76544",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104004",
+      "question_topic_name": "비 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$15 : 13$을  잘못 읽은 것을 찾아 기호를 쓰시오.  ㉠ $15$ 대 $13$ ㉡ $15$와 $13$의 비 ㉢ $15$에 대한 $13$의 비 ㉣ $15$의 $13$에 대한 비",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            97,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            57,
+            123,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            76,
+            149,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            152,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            278,
+            120
+          ],
+          "text": "$15 : 13$을  잘못 읽은 것을 찾아 기호를 쓰시오.  ㉠ $15$ 대 $13$ ㉡ $15$와 $13$의 비 ㉢ $15$에 대한 $13$의 비 ㉣ $15$의 $13$에 대한 비"
+        }
+      ]
+    }
+  ]
+}

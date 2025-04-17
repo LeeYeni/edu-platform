@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72285.png",
+  "id": "00043_72285",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205018",
+      "question_topic_name": "직육면체의 전개도 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희정이는 다음과 같은 직육면체 모양의 선물 상자를 만들려고 합니다. 선물 상자의 전개도를 그리고 무늬를 그려 넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            706,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            324,
+            309
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            707,
+            21
+          ],
+          "text": "희정이는 다음과 같은 직육면체 모양의 선물 상자를 만들려고 합니다. 선물 상자의 전개도를 그리고 무늬를 그려 넣으시오."
+        }
+      ]
+    }
+  ]
+}

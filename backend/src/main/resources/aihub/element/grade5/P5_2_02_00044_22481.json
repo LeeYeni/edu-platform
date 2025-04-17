@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_02_00044_22481.png",
+  "id": "00044_22481",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202006",
+      "question_topic_name": "(대분수)X(자연수)에서 대분수를 자연수와 분수로 나누어 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}4 \\frac{3}{10} \\times 3=\\left(\\square+\\frac{3}{10}\\right) \\times 3 \\\\ =(\\square \\times 3)+(\\square \\times 3) \\\\ =\\square+\\square=\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            188,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            68,
+            176,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            120,
+            183,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            205,
+            167
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}4 \\frac{3}{10} \\times 3=\\left(\\square+\\frac{3}{10}\\right) \\times 3 \\\\ =(\\square \\times 3)+(\\square \\times 3) \\\\ =\\square+\\square=\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

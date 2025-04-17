@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_04_00044_10836.png",
+  "id": "00044_10836",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $ 48 \\times 36=1728 $을 이용하여 계산할 때, $ \\square $ 안의 수가 가장 큰 것은 어느 것입니까? ①$ \\square \\times 36=17.28 $ ②$ \\square \\times 360=17280 $ ③$ 4.8 \\times \\square=1.728 $ ④$ 0.48 \\times \\square=1728 $ ⑤$ \\square \\times 0.036=17.28 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            513,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            121,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            136,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            125,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            131,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            142,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            515,
+            130
+          ],
+          "text": "다음 중 $ 48 \\times 36=1728 $을 이용하여 계산할 때, $ \\square $ 안의 수가 가장 큰 것은 어느 것입니까? ①$ \\square \\times 36=17.28 $ ②$ \\square \\times 360=17280 $ ③$ 4.8 \\times \\square=1.728 $ ④$ 0.48 \\times \\square=1728 $ ⑤$ \\square \\times 0.036=17.28 $"
+        }
+      ]
+    }
+  ]
+}

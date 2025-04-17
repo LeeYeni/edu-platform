@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_04_00042_94045.png",
+  "id": "00042_94045",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104007",
+      "question_topic_name": "비율 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건에 맞는 비율을 분수로 나타내시오. (1) 기준량이 $9$이고 비교하는 양이 $4$일 경우 (2) 기준량이 $13$이고 비교하는 양이 $6$일 경우",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            265,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            273,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            275,
+            62
+          ],
+          "text": "다음 조건에 맞는 비율을 분수로 나타내시오. (1) 기준량이 $9$이고 비교하는 양이 $4$일 경우 (2) 기준량이 $13$이고 비교하는 양이 $6$일 경우"
+        }
+      ]
+    }
+  ]
+}

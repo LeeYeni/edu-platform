@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39734.png",
+  "id": "00044_39734",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106025",
+      "question_topic_name": "사다리꼴의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림은 크기가 다른 세 개의 정사각형을 겹치지 않게 이어 붙인 것입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            674,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            209,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            676,
+            23
+          ],
+          "text": "다음 그림은 크기가 다른 세 개의 정사각형을 겹치지 않게 이어 붙인 것입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

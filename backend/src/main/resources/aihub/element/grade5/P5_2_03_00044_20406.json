@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20406.png",
+  "id": "00044_20406",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203014",
+      "question_topic_name": "합동인 도형 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점선을 따라 잘랐을 때 잘려진 두 도형이 합동이 되지  않는  점선을 모두 고르시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            476,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            27,
+            142,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            478,
+            23
+          ],
+          "text": "점선을 따라 잘랐을 때 잘려진 두 도형이 합동이 되지  않는  점선을 모두 고르시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39095.png",
+  "id": "00044_39095",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 8 m, 높이가 7 m이며 밑면과 수직인 선과 직각 표시가 있는 왼쪽 평행사변형 원 문자 가와 밑변이 14 m이고 밑변과 수직이며 윗 꼭짓점을 잇는 선과 직각 표시가 있는 오른쪽 삼각형 원 문자 나",
+      "question_text": "다음 두 도형의 넓이는 같습니다. ㉯ 도형의 밑변이$ 14$m일 때 높이는 몇 m입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            482,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            25,
+            254,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            484,
+            21
+          ],
+          "text": "다음 두 도형의 넓이는 같습니다. ㉯ 도형의 밑변이$ 14$m일 때 높이는 몇 m입니까?"
+        }
+      ]
+    }
+  ]
+}

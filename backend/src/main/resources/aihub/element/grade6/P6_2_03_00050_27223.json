@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00050_27223.png",
+  "id": "00050_27223",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203006",
+      "question_topic_name": "위, 앞, 옆에서 본 모양을 보고 쌓은 모양과 쌓기나무 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "위, 앞, 옆에서 본 모양이 다음과 같은 쌓기나무를 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            262,
+            28,
+            562,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            413,
+            22
+          ],
+          "text": "위, 앞, 옆에서 본 모양이 다음과 같은 쌓기나무를 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

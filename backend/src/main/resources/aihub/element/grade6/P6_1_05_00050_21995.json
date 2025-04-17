@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_05_00050_21995.png",
+  "id": "00050_21995",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105006",
+      "question_topic_name": "띠그래프의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "500명을 조사하여 제목 신문에서 가장 먼저 보는 면 아래에 녹색의 띠 사회(30%), 파란색의 띠 경제(25%), 빨간색의 띠 문화, 노란색의 띠 정치, 주황색의 띠 기타(15%)가 가로로 연이어 붙어서 전체 100%이고 문화면과 정치면의 사람의 수가 3 대 2인 띠그래프",
+      "question_text": "성인 $500$명이 신문에서 가장 먼저 보는 면을 조사하여 나타낸 띠그래프입니다. 문화면을 가장 먼저 보는 사람 수와 정치면을 가장 먼저 보는 사람 수의 비가 $3 : 2$일 때 정치면을 가장 먼저 보는 사람은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            444,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            54,
+            286,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "성인 $500$명이 신문에서 가장 먼저 보는 면을 조사하여 나타낸 띠그래프입니다. 문화면을 가장 먼저 보는 사람 수와 정치면을 가장 먼저 보는 사람 수의 비가 $3 : 2$일 때 정치면을 가장 먼저 보는 사람은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

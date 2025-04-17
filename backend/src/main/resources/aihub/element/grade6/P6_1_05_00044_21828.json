@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00044_21828.png",
+  "id": "00044_21828",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105007",
+      "question_topic_name": "원그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전체 길이가 $30 cm$인 띠그래프에서 ㉠이 차지하는 부분의 길이는 $13.5 cm$입니다. 이 띠그래프를 원을 똑같이 $40$칸으로 나눈 원그래프로 나타낼 때, ㉠이 차지하는 칸 수는 몇 칸입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            286,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "전체 길이가 $30 cm$인 띠그래프에서 ㉠이 차지하는 부분의 길이는 $13.5 cm$입니다. 이 띠그래프를 원을 똑같이 $40$칸으로 나눈 원그래프로 나타낼 때, ㉠이 차지하는 칸 수는 몇 칸입니까?"
+        }
+      ]
+    }
+  ]
+}

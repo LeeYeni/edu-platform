@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_02_00042_82511.png",
+  "id": "00042_82511",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102004",
+      "question_topic_name": "각기둥의 밑면과 옆면 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "평행한 합동 예각삼각형 ㄱㄴㄷ과 예각삼각형 ㄹㅁㅂ인 두 밑면이 좌측, 우측에 있고, 직사각형의 옆면을 가지는 노란색으로 색칠된 삼각기둥",
+      "question_text": "각기둥의 옆면이 아닌 것은 어느 것입니까? ①면 $ㄱㄴㄷ$ ②면 $ㄱㄷㅂㄹ$ ③면 $ㄷㄴㅁㅂ$ ④면 $ㄱㄴㅁㄹ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            98,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            111,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            111,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            111,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            44,
+            36,
+            184,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.63,
+            261.58,
+            17.27
+          ],
+          "text": "각기둥의 옆면이 아닌 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.3,
+            123.51,
+            111.18,
+            209.27
+          ],
+          "text": "①면 $ㄱㄴㄷ$ ②면 $ㄱㄷㅂㄹ$ ③면 $ㄷㄴㅁㅂ$ ④면 $ㄱㄴㅁㄹ$"
+        }
+      ]
+    }
+  ]
+}

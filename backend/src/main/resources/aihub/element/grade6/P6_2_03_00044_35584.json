@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_35584.png",
+  "id": "00044_35584",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203005",
+      "question_topic_name": "쌓기나무로 쌓은 모양을 보고 위, 앞, 옆에서 본 모양 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림에서 $\\square$ 안의 숫자는 그곳에 쌓아 올린 쌓기나무의 개수입니다. 앞에서 보면 쌓기나무가 몇 개로 보이겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            697,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            26,
+            75,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            699,
+            23
+          ],
+          "text": "다음 그림에서 $\\square$ 안의 숫자는 그곳에 쌓아 올린 쌓기나무의 개수입니다. 앞에서 보면 쌓기나무가 몇 개로 보이겠습니까?"
+        }
+      ]
+    }
+  ]
+}

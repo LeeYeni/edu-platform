@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_21981.png",
+  "id": "00044_21981",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203008",
+      "question_topic_name": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수 써넣기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림에서 ④번과 ⑥번 자리에 쌓여 있는 쌓기나무는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            114,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            419,
+            21
+          ],
+          "text": "그림에서 ④번과 ⑥번 자리에 쌓여 있는 쌓기나무는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_01_00040_59370.png",
+  "id": "00040_59370",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101001",
+      "question_topic_name": "덧셈과 뺄셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경민이는 문구점에서 $350$원짜리 공책 한 권과 $240$원짜리 연필 한 자루를 사고 $1000$원을 냈습니다. 거스름돈을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            708,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            710,
+            21
+          ],
+          "text": "경민이는 문구점에서 $350$원짜리 공책 한 권과 $240$원짜리 연필 한 자루를 사고 $1000$원을 냈습니다. 거스름돈을 구하시오."
+        }
+      ]
+    }
+  ]
+}

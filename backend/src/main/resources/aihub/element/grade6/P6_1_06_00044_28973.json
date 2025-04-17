@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_28973.png",
+  "id": "00044_28973",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106009",
+      "question_topic_name": "1㎥ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 9 cm, 세로의 길이가 7 cm, 높이가 8 cm인 직육면체",
+      "question_text": "밑면의 가로와 세로, 높이가 각각 $1 cm$인 쌓기나무로 다음 직육면체 모양과 같이 쌓으려고 합니다. 직육면체의 부피는 몇 $cm³$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            768,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            164,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            767,
+            21
+          ],
+          "text": "밑면의 가로와 세로, 높이가 각각 $1 cm$인 쌓기나무로 다음 직육면체 모양과 같이 쌓으려고 합니다. 직육면체의 부피는 몇 $cm³$입니까?"
+        }
+      ]
+    }
+  ]
+}

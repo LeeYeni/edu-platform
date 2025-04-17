@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00043_56784.png",
+  "id": "00043_56784",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201009",
+      "question_topic_name": "수의 범위를 수직선에 나타내는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$76$ 이상 $82$ 미만인 자연수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            289,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            291,
+            21
+          ],
+          "text": "$76$ 이상 $82$ 미만인 자연수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

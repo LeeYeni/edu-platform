@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_06_00044_41328.png",
+  "id": "00044_41328",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 쌓기나무 2개를 가로로 이어 붙인 직육면체 가, 오른쪽에는 쌓기나무 4개를 가로로 이어 붙인 직육면체 나",
+      "question_text": "부피가  $ 1 \\mathrm{~cm}^{3} $인 쌓기나무를 쌓아 직육면체를 만들었습니다. 물음에 답하시오. (1) $\\boldsymbol{가}$의 부피는 몇 $ \\mathrm{cm}^{3} $ 입니까? (2) $\\boldsymbol{나}$의 부피는 몇 $ \\mathrm{cm}^{3} $ 입니까? (3) $ \\square $ 안에 알맞은 수를 써넣으시오. 직육면체의 가로가 $2$배가 되면 부피도 $ \\square $ 배가 됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            103,
+            195,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            125,
+            197,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            225,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            169,
+            350,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            33,
+            241,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            23
+          ],
+          "text": "부피가  $ 1 \\mathrm{~cm}^{3} $인 쌓기나무를 쌓아 직육면체를 만들었습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            102,
+            367,
+            205
+          ],
+          "text": "(1) $\\boldsymbol{가}$의 부피는 몇 $ \\mathrm{cm}^{3} $ 입니까? (2) $\\boldsymbol{나}$의 부피는 몇 $ \\mathrm{cm}^{3} $ 입니까? (3) $ \\square $ 안에 알맞은 수를 써넣으시오. 직육면체의 가로가 $2$배가 되면 부피도 $ \\square $ 배가 됩니다."
+        }
+      ]
+    }
+  ]
+}

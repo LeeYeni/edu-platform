@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_05_00044_38334.png",
+  "id": "00044_38334",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205018",
+      "question_topic_name": "원의 넓이 구하기 -지름 또는 반지름이 주어졌을 때",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정사각형 모양 피자와 원 모양 피자 중 하나를 선택하려고 합니다. 두 피자의 가격이 같다면 어느 피자를 선택해야 더 이득이 되는지 $\\square$ 안에 알맞게 써넣으시오. (원주율 : $3$) 정사각형 모양 피자의 넓이는  $\\square cm²$이고, 원 모양 피자의 넓이는  $\\square cm²$이므로 넓이가 $\\square cm²$더 넓은 $\\square$ 모양 피자를 선택해야 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20.28,
+            2.04,
+            803,
+            18.68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.56,
+            25.08,
+            200.76,
+            36.6
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.76,
+            187,
+            801.08,
+            204.92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.4,
+            207.48,
+            140.6,
+            222.2
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            297,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            1.18,
+            804.92,
+            38.3
+          ],
+          "text": "정사각형 모양 피자와 원 모양 피자 중 하나를 선택하려고 합니다. 두 피자의 가격이 같다면 어느 피자를 선택해야 더 이득이 되는지 $\\square$ 안에 알맞게 써넣으시오. (원주율 : $3$)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            24.12,
+            184.84,
+            800.44,
+            223.88
+          ],
+          "text": "정사각형 모양 피자의 넓이는  $\\square cm²$이고, 원 모양 피자의 넓이는  $\\square cm²$이므로 넓이가 $\\square cm²$더 넓은 $\\square$ 모양 피자를 선택해야 합니다."
+        }
+      ]
+    }
+  ]
+}

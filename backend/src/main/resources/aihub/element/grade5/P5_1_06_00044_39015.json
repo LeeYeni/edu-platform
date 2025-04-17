@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_39015.png",
+  "id": "00044_39015",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106015",
+      "question_topic_name": "평행사변형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "단위넓이를 이용하여 평행사변형의 넓이를 구하려고 합니다. 물음에 답하시오. (1) 평행사변형1에 $ 1 \\mathrm{~cm}^{2} $ 인 단위넓이가 모두 몇 개 있습니까? (2) (삼각형)모양이 몇 개가 모이면 $ 2 \\mathrm{~cm}^{2} $ 가 됩니까? (3) 평행사변형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            460,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            349,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            199,
+            244,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.15,
+            158.89,
+            287.8,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            200,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.24,
+            0.75,
+            459.28,
+            16.95
+          ],
+          "text": "단위넓이를 이용하여 평행사변형의 넓이를 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.24,
+            136.03,
+            350.68,
+            217
+          ],
+          "text": "(1) 평행사변형1에 $ 1 \\mathrm{~cm}^{2} $ 인 단위넓이가 모두 몇 개 있습니까? (2) (삼각형)모양이 몇 개가 모이면 $ 2 \\mathrm{~cm}^{2} $ 가 됩니까? (3) 평행사변형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

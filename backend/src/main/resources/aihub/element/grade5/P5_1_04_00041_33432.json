@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00041_33432.png",
+  "id": "00041_33432",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104007",
+      "question_topic_name": "약분과 기약분수의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 $8$인 진분수 중에서 기약분수는 모두 몇 개입니까?  ①$3$개 $\\\\②4$개 $\\\\③5$개 $\\\\④6$개 $\\\\⑤7$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            64,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            65,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            64,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            129
+          ],
+          "text": "분모가 $8$인 진분수 중에서 기약분수는 모두 몇 개입니까?  ①$3$개 $\\\\②4$개 $\\\\③5$개 $\\\\④6$개 $\\\\⑤7$개"
+        }
+      ]
+    }
+  ]
+}

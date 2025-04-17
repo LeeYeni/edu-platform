@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_04_00043_77081.png",
+  "id": "00043_77081",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모집 정원이 $45$명인 어느 회사의 경쟁률은 $9 : 14$입니다. 이 회사에 지원한 사람은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            549,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            551,
+            21
+          ],
+          "text": "모집 정원이 $45$명인 어느 회사의 경쟁률은 $9 : 14$입니다. 이 회사에 지원한 사람은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

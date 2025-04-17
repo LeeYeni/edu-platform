@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_03_00043_59779.png",
+  "id": "00043_59779",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103002",
+      "question_topic_name": "변하는 부분과 변하지 않는 부분을 찾아 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "피자를 한 판 만드는 데 달걀이 $5$개 필요합니다. 물음에 답하시오. (1) 피자의 수와 달걀의 수 사이의 대응 관계를 알고 표를 완성하시오.   <table border>   <tbody>     <tr>       <td>피자의 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>달걀의 수</td>       <td>$5$</td>       <td>$10$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 피자의 수와 달걀의 수 사이의 대응 관계를 설명하려고 합니다. $\\square$안에 알맞은 수를 써넣으시오. $\\rightarrow$ 달걀의 수는 피자의 수의 배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            386,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            406,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            240,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            580,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            114,
+            259,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            582,
+            135
+          ],
+          "text": "피자를 한 판 만드는 데 달걀이 $5$개 필요합니다. 물음에 답하시오. (1) 피자의 수와 달걀의 수 사이의 대응 관계를 알고 표를 완성하시오.   <table border>   <tbody>     <tr>       <td>피자의 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>달걀의 수</td>       <td>$5$</td>       <td>$10$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 피자의 수와 달걀의 수 사이의 대응 관계를 설명하려고 합니다. $\\square$안에 알맞은 수를 써넣으시오. $\\rightarrow$ 달걀의 수는 피자의 수의 배입니다."
+        }
+      ]
+    }
+  ]
+}

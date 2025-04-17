@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_01_00043_97041.png",
+  "id": "00043_97041",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101009",
+      "question_topic_name": "(분수)÷(자연수)를 분수의 곱셈으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 3칸, 세로 3칸 총 9칸으로 나누어진 직사각형에서 오른쪽 맨 아래 직사각형의 밑변과 오른쪽 세로 변이 없는 그림으로 12분의 49가 쓰인 주황색으로 칠해진 왼쪽 위 첫 번째 직사각형 옆에 2가 쓰인 주황색으로 칠해진 직사각형 옆에 원 문자 1이 쓰인 직사각형이 있고, 14가 쓰인 주황색으로 칠해진 왼쪽 중간 직사각형 옆에 3이 쓰인 주황색으로 칠해진 직사각형 옆에 원 문자 2가 쓰인 직사각형이 있고, 원 문자 3이 쓰인 왼쪽 맨 아래 직사각형 옆에 원 문자 4가 쓰 직사각형이 있는 그림으로 왼쪽 세로변 옆에 원 안에 나누기가 분홍색 아래화살표와 윗변 위에 원 안에 나누기가 그려진 오른쪽 방향의 분홍색 화살표가 그려진 그림",
+      "question_text": "다음 빈칸에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            244,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            231,
+            22
+          ],
+          "text": "다음 빈칸에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

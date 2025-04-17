@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_02_00041_33589.png",
+  "id": "00041_33589",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102016",
+      "question_topic_name": "공배수와 최소공배수의 관계 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$12$와 $18$의 공배수는 어느 수의 배수와 같습니까?  ① $12$  ② $18$  ③ $24$  ④ $36$   ⑤ $216$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            293,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            58,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            58,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            61,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            61,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            66,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            295,
+            130
+          ],
+          "text": "$12$와 $18$의 공배수는 어느 수의 배수와 같습니까?  ① $12$  ② $18$  ③ $24$  ④ $36$   ⑤ $216$"
+        }
+      ]
+    }
+  ]
+}

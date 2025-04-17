@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_40558.png",
+  "id": "00044_40558",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202025",
+      "question_topic_name": "(대분수)x(대분수)를 자연수 부분과 진분수 부분으로 나누어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 4와7분의 2 cm, 세로의 길이가 4와5분의 1 cm인 직사각형",
+      "question_text": "다음 직사각형의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            244,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            163,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            246,
+            22
+          ],
+          "text": "다음 직사각형의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

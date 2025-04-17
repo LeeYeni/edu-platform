@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00042_57088.png",
+  "id": "00042_57088",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201016",
+      "question_topic_name": "버림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호두 과자 $584$개를 한 상자에 $25$개씩 넣어 포장하였습니다. 한 상자에 $3000$원씩 받고 모두 팔았을 때 판 호두 과자의 값은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            787,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            789,
+            21
+          ],
+          "text": "호두 과자 $584$개를 한 상자에 $25$개씩 넣어 포장하였습니다. 한 상자에 $3000$원씩 받고 모두 팔았을 때 판 호두 과자의 값은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

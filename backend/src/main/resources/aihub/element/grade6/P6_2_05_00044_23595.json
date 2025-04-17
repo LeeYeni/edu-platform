@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_23595.png",
+  "id": "00044_23595",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "동심원인 원이 두 개가 있을 때, 빨간색인 원의 중심에서 우측으로 큰 원 위의 점과 이은 선분에서 작은 원의 반지름을 뺀 길이가 3 cm인 큰 원에서 빨간색인 원의 중심에서 우측으로 작은 원 위의 점과 이은 선분의 길이가 2 cm인 작은 원을 뺀 색칠된 영역이 있는 도형",
+      "question_text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            24,
+            178,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            24
+          ],
+          "text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

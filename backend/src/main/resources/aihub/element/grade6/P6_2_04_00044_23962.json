@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_04_00044_23962.png",
+  "id": "00044_23962",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204014",
+      "question_topic_name": "비례식의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "두 원 '가'와 '나'가 있을 때, '가'의 크기가 '나'보다 작고, 두 원이 어느정도 겹쳐있는 부분이 색칠된 그림",
+      "question_text": "원 ㉮와 원 ㉯가 다음 그림과 같이 겹쳐져 있습니다. 겹쳐진 부분의 넓이는 ㉮의 $ \\frac{2}{5} $이고, ㉯의 $ \\frac{4}{7} $입니다. ㉮와 ㉯의 넓이의 비를 가장 간단한 자연수의 비로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            187,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            70,
+            142,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            59
+          ],
+          "text": "원 ㉮와 원 ㉯가 다음 그림과 같이 겹쳐져 있습니다. 겹쳐진 부분의 넓이는 ㉮의 $ \\frac{2}{5} $이고, ㉯의 $ \\frac{4}{7} $입니다. ㉮와 ㉯의 넓이의 비를 가장 간단한 자연수의 비로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

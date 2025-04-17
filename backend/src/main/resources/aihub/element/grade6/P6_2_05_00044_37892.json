@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_37892.png",
+  "id": "00044_37892",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205006",
+      "question_topic_name": "원주를 알 때 지름 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "둘레가 $210cm$인 나무의 반지름을 구하시오. (원주율 : $3$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            88,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            40
+          ],
+          "text": "둘레가 $210cm$인 나무의 반지름을 구하시오. (원주율 : $3$)"
+        }
+      ]
+    }
+  ]
+}

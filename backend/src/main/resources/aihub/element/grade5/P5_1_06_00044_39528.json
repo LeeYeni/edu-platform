@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_06_00044_39528.png",
+  "id": "00044_39528",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106008",
+      "question_topic_name": "사각형의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 정사각형을 제일 밑줄에 다섯 개를 놓고, 그 위로 네 개, 세 개, 두 개, 한 개 순으로 쌓아 올린 그림",
+      "question_text": "다음 도형은 크기가 같은 정사각형을 겹치지 않게 여러 개 이어 붙인 것입니다. 이 도형의 둘레가 $ 180 \\mathrm{~cm} $ 일 때, 도형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입니 까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            46,
+            128,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            40
+          ],
+          "text": "다음 도형은 크기가 같은 정사각형을 겹치지 않게 여러 개 이어 붙인 것입니다. 이 도형의 둘레가 $ 180 \\mathrm{~cm} $ 일 때, 도형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입니 까?"
+        }
+      ]
+    }
+  ]
+}

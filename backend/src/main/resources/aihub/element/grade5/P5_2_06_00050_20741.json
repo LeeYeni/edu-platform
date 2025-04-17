@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_06_00050_20741.png",
+  "id": "00050_20741",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206007",
+      "question_topic_name": "여러 가지 방법으로 평균 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지난주 월요일부터 금요일까지 지민이네 집의 실내 온도를 나타낸 표입니다. 지민이네 집 실내 온도는 평균 몇 $℃$인지 두 가지 방법으로 설명하시오. <실내 온도> (매일 $11$시 조사)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            74,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            187,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            274,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            117
+          ],
+          "text": "지난주 월요일부터 금요일까지 지민이네 집의 실내 온도를 나타낸 표입니다. 지민이네 집 실내 온도는 평균 몇 $℃$인지 두 가지 방법으로 설명하시오. <실내 온도> (매일 $11$시 조사)"
+        }
+      ]
+    }
+  ]
+}

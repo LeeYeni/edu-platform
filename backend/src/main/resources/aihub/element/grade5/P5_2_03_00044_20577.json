@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20577.png",
+  "id": "00044_20577",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 선분 ㄴㄷ이고 각 ㄱㄴㄷ이 40도, 각 ㄴㄱㄷ 이 55도인 삼각형 ㄱㄴㄷ 과 합동인 각 ㄹㅁㅂ이 표시된 삼각형 ㄹㅁㅂ",
+      "question_text": "두 삼각형은 합동입니다. 각 ㄹㅁㅂ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            26,
+            255,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            22
+          ],
+          "text": "두 삼각형은 합동입니다. 각 ㄹㅁㅂ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_03_00050_19029.png",
+  "id": "00050_19029",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게 추  $76.8 \\mathrm{~kg}$ 을 6 명의 학생이 똑같이 나누어 가지려고 합니다. 한 사람이 가지게 되는 무게 추는 몇 $\\mathrm{kg}$ 인지 대화를 읽고 ㉠, ㉡, ㉢에 알맞은 수를 구하시오. 명진 : 무게 추 $76.8 \\mathrm{~kg}$ 은 $0.1 \\mathrm{~kg}$ 짜리 무게 추 $\\boxed{\\phantom{(}㉠\\phantom{)}}$개와 같아.  시우 : 이것을 $6$명이 똑같이 나누어 가지면 한 사람은 $0.1 \\mathrm{~kg}$짜리 무게 추를 $\\boxed{\\phantom{(}㉡\\phantom{)}}$개씩 가지게 돼.  희선 : 그러니까 한 사람이 가지게 되는 무게 추는 $\\boxed{\\phantom{(}㉢\\phantom{)}} \\mathrm{~kg}$이구나.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            120,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            44,
+            353,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            555,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            383,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            134
+          ],
+          "text": "무게 추  $76.8 \\mathrm{~kg}$ 을 6 명의 학생이 똑같이 나누어 가지려고 합니다. 한 사람이 가지게 되는 무게 추는 몇 $\\mathrm{kg}$ 인지 대화를 읽고 ㉠, ㉡, ㉢에 알맞은 수를 구하시오. 명진 : 무게 추 $76.8 \\mathrm{~kg}$ 은 $0.1 \\mathrm{~kg}$ 짜리 무게 추 $\\boxed{\\phantom{(}㉠\\phantom{)}}$개와 같아.  시우 : 이것을 $6$명이 똑같이 나누어 가지면 한 사람은 $0.1 \\mathrm{~kg}$짜리 무게 추를 $\\boxed{\\phantom{(}㉡\\phantom{)}}$개씩 가지게 돼.  희선 : 그러니까 한 사람이 가지게 되는 무게 추는 $\\boxed{\\phantom{(}㉢\\phantom{)}} \\mathrm{~kg}$이구나."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_38402.png",
+  "id": "00044_38402",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 50 m이고 세로의 길이가 20 m인 색칠된 직사각형과 양쪽 세로 선분을 각각의 지름으로 하는 바깥쪽으로 둥근 색칠된 2개의 반원",
+      "question_text": "색칠한 부분의 넓이는 몇 $m²$입니까? (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            312,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            268,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            314,
+            23
+          ],
+          "text": "색칠한 부분의 넓이는 몇 $m²$입니까? (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

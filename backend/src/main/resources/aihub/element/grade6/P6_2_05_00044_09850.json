@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_05_00044_09850.png",
+  "id": "00044_09850",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205017",
+      "question_topic_name": "원주의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 가장 큰 원은 어느 것입니까? (원주율 : $3.14$) ①지름이 $14cm$인 원 ②반지름이 $6cm$인 원 ③원주가 $50.24cm$인 원 ④지름이 $13.9cm$인 원 ⑤반지름이 $7.5cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            105,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            147,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            169,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            158,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            164,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            255,
+            152
+          ],
+          "text": "다음 중에서 가장 큰 원은 어느 것입니까? (원주율 : $3.14$) ①지름이 $14cm$인 원 ②반지름이 $6cm$인 원 ③원주가 $50.24cm$인 원 ④지름이 $13.9cm$인 원 ⑤반지름이 $7.5cm$인 원"
+        }
+      ]
+    }
+  ]
+}

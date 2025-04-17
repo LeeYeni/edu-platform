@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_04_00043_77272.png",
+  "id": "00043_77272",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소금 $20 g$으로 진하기가 $16 \\%$인 소금물을 만들려면 물은 얼마나 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            21
+          ],
+          "text": "소금 $20 g$으로 진하기가 $16 \\%$인 소금물을 만들려면 물은 얼마나 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

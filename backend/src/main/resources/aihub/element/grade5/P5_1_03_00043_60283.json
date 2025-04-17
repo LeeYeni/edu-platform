@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_03_00043_60283.png",
+  "id": "00043_60283",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "용수철에 추를 매달아 용수철이 늘어난 길이를 관찰하고 있습니다. 두 용수철이 늘어난 길이가 $20cm$로 같을 때 매단 추의 무게의 차를 구하시오.<㉮ 용수철> <table border>   <tbody>     <tr>       <td>추의 무게</td>       <td>$20$</td>       <td>$40$</td>       <td>$60$</td>       <td>$80$</td>     <tr>       <td>늘어난 용수철의 길이</td>       <td>$2$</td>       <td>$4$</td>       <td>$6$</td>       <td>$8$</td>    </tr> </tbody> </table><㉯ 용수철><table border>   <tbody>     <tr>       <td>추의 무게</td>       <td>$20$</td>       <td>$40$</td>       <td>$60$</td>       <td>$80$</td>     <tr>       <td>늘어난 용수철의 길이</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>       <td>$16$</td>    </tr> </tbody> </table",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            19
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            92,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            292,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            117,
+            92,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            292,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            187
+          ],
+          "text": "용수철에 추를 매달아 용수철이 늘어난 길이를 관찰하고 있습니다. 두 용수철이 늘어난 길이가 $20cm$로 같을 때 매단 추의 무게의 차를 구하시오.<㉮ 용수철> <table border>   <tbody>     <tr>       <td>추의 무게</td>       <td>$20$</td>       <td>$40$</td>       <td>$60$</td>       <td>$80$</td>     <tr>       <td>늘어난 용수철의 길이</td>       <td>$2$</td>       <td>$4$</td>       <td>$6$</td>       <td>$8$</td>    </tr> </tbody> </table><㉯ 용수철><table border>   <tbody>     <tr>       <td>추의 무게</td>       <td>$20$</td>       <td>$40$</td>       <td>$60$</td>       <td>$80$</td>     <tr>       <td>늘어난 용수철의 길이</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>       <td>$16$</td>    </tr> </tbody> </table"
+        }
+      ]
+    }
+  ]
+}

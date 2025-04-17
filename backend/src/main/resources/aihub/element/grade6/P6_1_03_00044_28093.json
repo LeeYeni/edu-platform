@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00044_28093.png",
+  "id": "00044_28093",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103014",
+      "question_topic_name": "몫의 소수 첫째 자리에 0이 있는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형에서 길이가 8.2 cm인 두 대각선이 수직으로 가로와 세로로 놓이고 대각선의 교점에서 9시와 12시 사이에서 만들어진 색칠된 삼각형이 있는 도형",
+      "question_text": "정사각형의 한 대각선은 $8.2  cm$입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            456,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            124,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            458,
+            21
+          ],
+          "text": "정사각형의 한 대각선은 $8.2  cm$입니다. 색칠한 부분의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_01_00044_26168.png",
+  "id": "00044_26168",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101006",
+      "question_topic_name": "(자연수) ÷ (자연수)의 몫을 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밤이 $2 kg$씩 $3$묶음 있습니다. 이 밤을 $9$명이 똑같이 나누어 가졌습니다. 한 사람이 가진 밤은 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            20
+          ],
+          "text": "밤이 $2 kg$씩 $3$묶음 있습니다. 이 밤을 $9$명이 똑같이 나누어 가졌습니다. 한 사람이 가진 밤은 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

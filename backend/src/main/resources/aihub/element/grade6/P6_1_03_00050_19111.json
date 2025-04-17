@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_03_00050_19111.png",
+  "id": "00050_19111",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 계산하시오.  <보기> $ 6.3 \\div 3=\\frac{63}{10} \\div 3 $ $ =\\frac{\\overset{21}{\\cancel{63}}}{10}\\times \\frac{1}{\\underset{1}{\\cancel3}} $ $ =\\frac{21}{10}=2.1 $ (1) $ 9.8 \\div 7 $ (2) $ 32.5 \\div 13 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            175,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            75,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            89,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.07,
+            42.9,
+            257.07,
+            112.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.07,
+            0,
+            257.07,
+            199.9
+          ],
+          "text": "<보기>와 같이 계산하시오.  <보기> $ 6.3 \\div 3=\\frac{63}{10} \\div 3 $ $ =\\frac{\\overset{21}{\\cancel{63}}}{10}\\times \\frac{1}{\\underset{1}{\\cancel3}} $ $ =\\frac{21}{10}=2.1 $ (1) $ 9.8 \\div 7 $ (2) $ 32.5 \\div 13 $"
+        }
+      ]
+    }
+  ]
+}

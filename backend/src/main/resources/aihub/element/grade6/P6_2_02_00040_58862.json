@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_02_00040_58862.png",
+  "id": "00040_58862",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수는 어느 것입니까?  $0.25\\phantom{)}{\\overline{\\smash{\\big)}\\,8\\phantom{)}}}  \\Rightarrow  8\\phantom{)}{\\overline{\\smash{\\big)}\\,\\square800\\phantom{)}}}$     ①$0.25$ ②$2.5$ ③$25$ ④$250$ ⑤$2500$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            155,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            50,
+            72,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            63,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            94,
+            60,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            116,
+            69,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            78,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            226,
+            159
+          ],
+          "text": "$\\square$ 안에 알맞은 수는 어느 것입니까?  $0.25\\phantom{)}{\\overline{\\smash{\\big)}\\,8\\phantom{)}}}  \\Rightarrow  8\\phantom{)}{\\overline{\\smash{\\big)}\\,\\square800\\phantom{)}}}$     ①$0.25$ ②$2.5$ ③$25$ ④$250$ ⑤$2500$"
+        }
+      ]
+    }
+  ]
+}

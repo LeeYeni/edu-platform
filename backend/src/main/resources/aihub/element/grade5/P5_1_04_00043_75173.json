@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_04_00043_75173.png",
+  "id": "00043_75173",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104012",
+      "question_topic_name": "통분을 이용하여 두 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣고, 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. $ (\\frac{6}{7}, \\frac{11}{12} )  \\rightarrow\\left(\\frac{\\square}{84}, \\frac{\\square}{84}\\right) $ $\\rightarrow  \\frac{6}{7} \\bigcirc \\frac{11}{12} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            547,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            243,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            69,
+            55,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            69,
+            115,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            75,
+            85,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            549,
+            105
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣고, 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. $ (\\frac{6}{7}, \\frac{11}{12} )  \\rightarrow\\left(\\frac{\\square}{84}, \\frac{\\square}{84}\\right) $ $\\rightarrow  \\frac{6}{7} \\bigcirc \\frac{11}{12} $"
+        }
+      ]
+    }
+  ]
+}

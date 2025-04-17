@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_01_00043_56631.png",
+  "id": "00043_56631",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201007",
+      "question_topic_name": "초과, 미만인 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수현이와 친구들의 키, 몸무게를 나타낸 표와 비만 체크 검사 기준표를 보고 비만인 학생의 이름을 모두 쓰시오. 이름(성별) 키(cm) 몸무게(kg) 수현(남) 137 48 민준(남) 136 44 재경(남) 141 55 인나(여) 130 29 진경(여) 144 41 표준 몸무게남자 : (자신의 키)-90여자 : (자신의 키)-100표준 몸무게를 초과하면 비만입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            643,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            241,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            102,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            195,
+            156,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            216,
+            161,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            238,
+            234,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            658,
+            264
+          ],
+          "text": "수현이와 친구들의 키, 몸무게를 나타낸 표와 비만 체크 검사 기준표를 보고 비만인 학생의 이름을 모두 쓰시오. 이름(성별) 키(cm) 몸무게(kg) 수현(남) 137 48 민준(남) 136 44 재경(남) 141 55 인나(여) 130 29 진경(여) 144 41 표준 몸무게남자 : (자신의 키)-90여자 : (자신의 키)-100표준 몸무게를 초과하면 비만입니다."
+        }
+      ]
+    }
+  ]
+}

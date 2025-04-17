@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_06_00044_30558.png",
+  "id": "00044_30558",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206008",
+      "question_topic_name": "원뿔 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "입체도형을 보고 물음에 답하시오. ⑴ 밑면이 원으로 된 도형을 모두 찾아 기호를 쓰시오.⑵ 둥근 뿔 모양의 도형을 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            210,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            319,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            279,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            325,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.32,
+            0.91,
+            211.32,
+            15.91
+          ],
+          "text": "입체도형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.32,
+            105.91,
+            322.32,
+            145.91
+          ],
+          "text": "⑴ 밑면이 원으로 된 도형을 모두 찾아 기호를 쓰시오.⑵ 둥근 뿔 모양의 도형을 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

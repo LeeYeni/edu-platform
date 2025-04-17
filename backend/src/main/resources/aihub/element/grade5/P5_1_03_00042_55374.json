@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_03_00042_55374.png",
+  "id": "00042_55374",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103001",
+      "question_topic_name": "규칙적인 배열에서 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "위쪽에 성냥개비로 정삼각형을 정방향, 역방향, 정방향, 역방향, 정방향으로 서로 한 변씩을 공유하도록 5개 이어붙여 만들고 우측에 말줄임표로 점선3개를 표현하고 아래쪽에 표가 있으며 표는 세로 2칸, 가로 6칸으로 나누어져 있으며 표 위 쪽의 좌측부터 정삼각형의 수(개), 1, 2, 3, 4, 5가 쓰여 있으며 표 아래 쪽의 좌측부터 성냥개비의 수(개), 3, 5가 쓰여 있고 세 칸은 빈칸으로 표현된 평면 그림",
+      "question_text": "그림과 같이 성냥개비로 정삼각형을 만들었습니다. 대응표를 완성하시오.   <table border>   <tbody>     <tr>       <td>정삼각형의 수(개)</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>성냥개비의 수(개)</td>       <td>$3$</td>       <td>$5$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            430,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            292,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            289,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            432,
+            23
+          ],
+          "text": "그림과 같이 성냥개비로 정삼각형을 만들었습니다. 대응표를 완성하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            78,
+            294,
+            133
+          ],
+          "text": "<table border>   <tbody>     <tr>       <td>정삼각형의 수(개)</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>성냥개비의 수(개)</td>       <td>$3$</td>       <td>$5$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

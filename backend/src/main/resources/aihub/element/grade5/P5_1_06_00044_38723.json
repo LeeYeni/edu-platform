@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_06_00044_38723.png",
+  "id": "00044_38723",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106002",
+      "question_topic_name": "직사각형의 둘레 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 12 cm, 세로 24 m인 왼쪽 직사각형 가와 가로 17 m, 세로 18 m인 오른쪽 직사각형 나",
+      "question_text": "다음 중 둘레가 더 긴 직사각형의 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            133,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            174,
+            27,
+            299,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            21
+          ],
+          "text": "다음 중 둘레가 더 긴 직사각형의 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

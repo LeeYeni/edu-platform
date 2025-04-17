@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_38519.png",
+  "id": "00044_38519",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205012",
+      "question_topic_name": "반지름과 원의 넓이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에는 원의 중심에서 우측으로 원 위의 점과 이은 길이가 9 cm인 보라색으로 색칠된 원과 우측에는 원의 중심에서 우측으로 원 위의 점과 이은 길이가 4 cm인 주황색으로 색칠된 원",
+      "question_text": "두 원의 넓이의 합은 몇 $\\mathrm{cm²}$입니까? (원주율 : $3)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            293,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            23,
+            234,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            295,
+            22
+          ],
+          "text": "두 원의 넓이의 합은 몇 $\\mathrm{cm²}$입니까? (원주율 : $3)$"
+        }
+      ]
+    }
+  ]
+}

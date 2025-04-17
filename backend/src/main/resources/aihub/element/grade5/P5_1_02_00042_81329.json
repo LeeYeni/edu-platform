@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_02_00042_81329.png",
+  "id": "00042_81329",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102010",
+      "question_topic_name": "두 수의 곱으로 나타낸 곱셈식을 이용하여 최대공약수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "식을 보고 $18$ 과 $48$ 의 최대공약수를 구하시오.  $ \\begin{array}{l}18=2 \\times 3 \\times 3 \\\\ 48=2 \\times 2 \\times 2 \\times 2 \\times 3\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            276,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            26,
+            92,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            40,
+            142,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            278,
+            68
+          ],
+          "text": "식을 보고 $18$ 과 $48$ 의 최대공약수를 구하시오.  $ \\begin{array}{l}18=2 \\times 3 \\times 3 \\\\ 48=2 \\times 2 \\times 2 \\times 2 \\times 3\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

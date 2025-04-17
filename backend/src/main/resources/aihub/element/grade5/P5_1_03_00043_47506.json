@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_03_00043_47506.png",
+  "id": "00043_47506",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지훈이는 자전거를 타고 한 시간에 $\\mathrm{km}$를 간다고 합니다. 지훈이는 $3$시간 동안 몇 $\\mathrm{km}$를 가겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            596,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            598,
+            21
+          ],
+          "text": "지훈이는 자전거를 타고 한 시간에 $\\mathrm{km}$를 간다고 합니다. 지훈이는 $3$시간 동안 몇 $\\mathrm{km}$를 가겠습니까?"
+        }
+      ]
+    }
+  ]
+}

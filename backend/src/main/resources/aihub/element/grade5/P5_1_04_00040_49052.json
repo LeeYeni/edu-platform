@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00040_49052.png",
+  "id": "00040_49052",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104010",
+      "question_topic_name": "두 분모의 최소공배수를 공통분모로 하여 통분하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 세 분수를 통분할 때, 공통분모가 가장 큰 것은 어느 것입니까? ① $ \\left(\\frac{1}{2}, \\frac{3}{5}, \\frac{5}{6}\\right) $ ② $ \\left(\\frac{3}{4}, \\frac{5}{8}, \\frac{7}{12}\\right) $ ③ $ \\left(\\frac{4}{5}, \\frac{1}{6}, \\frac{11}{12}\\right) $ ④ $ \\left(\\frac{1}{2}, \\frac{1}{6}, \\frac{7}{10}\\right) $ ⑤ $ \\left(\\frac{3}{5}, \\frac{5}{6}, \\frac{7}{10}\\right) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            399,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            154,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            69,
+            163,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            163,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            163,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            204,
+            163,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            401,
+            243
+          ],
+          "text": "다음 세 분수를 통분할 때, 공통분모가 가장 큰 것은 어느 것입니까? ① $ \\left(\\frac{1}{2}, \\frac{3}{5}, \\frac{5}{6}\\right) $ ② $ \\left(\\frac{3}{4}, \\frac{5}{8}, \\frac{7}{12}\\right) $ ③ $ \\left(\\frac{4}{5}, \\frac{1}{6}, \\frac{11}{12}\\right) $ ④ $ \\left(\\frac{1}{2}, \\frac{1}{6}, \\frac{7}{10}\\right) $ ⑤ $ \\left(\\frac{3}{5}, \\frac{5}{6}, \\frac{7}{10}\\right) $"
+        }
+      ]
+    }
+  ]
+}

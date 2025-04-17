@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_18416.png",
+  "id": "00044_18416",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 14 cm, 세로 6 cm인 직사각형의 가운데에서 가로 5 cm, 세로 2 cm인 직사각형을 제외한 영역을 색칠한 도형",
+      "question_text": "색칠한 도형의 넓이를 구하시오.( )cm²",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            25,
+            234,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            21
+          ],
+          "text": "색칠한 도형의 넓이를 구하시오.( )cm²"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41023.png",
+  "id": "00044_41023",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106016",
+      "question_topic_name": "직육면체의 겉넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 9 cm, 세로가 7 cm, 높이가 8 cm인 직육면체에서 오른쪽 윗부분과 왼쪽 아랫부분을 세로방향으로 가로 3 cm, 세로 3 cm, 높이 8 cm 만큼 잘라낸 입체도형",
+      "question_text": "다음 입체도형의 겉넓이는 몇$ \\mathrm{~cm}^{2} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            256,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            198,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            258,
+            20
+          ],
+          "text": "다음 입체도형의 겉넓이는 몇$ \\mathrm{~cm}^{2} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_05_00042_84879.png",
+  "id": "00042_84879",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205020",
+      "question_topic_name": "상자를 묶는데 필요한 끈의 길이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 24 cm이고 세로의 길이가 16 cm이고 높이가 20 cm인 직육면체 모양의 선물상자를 윗면에는 십자 모양으로 지나도록 앞면과 오른쪽 옆면은 세로로 끈이 지나도록 하고 윗면에 리본모양으로 매듭이 지어지도록 끈으로 묶어 놓은 모양",
+      "question_text": "세연이는 선물 상자를 그림과 같이 끈으로 묶고 리본 모양으로 매듭을 지었습니다. 매듭을 지은 끈의 길이가 $30 cm$라고 하면, 이 상자 전체를 묶는 데 사용된 끈의 길이는 모두 몇$ cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            305,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            50,
+            161,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "세연이는 선물 상자를 그림과 같이 끈으로 묶고 리본 모양으로 매듭을 지었습니다. 매듭을 지은 끈의 길이가 $30 cm$라고 하면, 이 상자 전체를 묶는 데 사용된 끈의 길이는 모두 몇$ cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

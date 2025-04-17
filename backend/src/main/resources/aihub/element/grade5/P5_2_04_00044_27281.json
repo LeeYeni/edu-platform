@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_04_00044_27281.png",
+  "id": "00044_27281",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ $1.2$씩 $2$이면 $\\square$입니다. ⑵ $1.2+1.2$$=$$\\square$ ⑶ $1.2 \\times 2$$=$$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            186,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            108,
+            120,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            112,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            33,
+            250,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            2.56,
+            289.17,
+            17.56
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            85,
+            188,
+            152
+          ],
+          "text": "⑴ $1.2$씩 $2$이면 $\\square$입니다. ⑵ $1.2+1.2$$=$$\\square$ ⑶ $1.2 \\times 2$$=$$\\square$"
+        }
+      ]
+    }
+  ]
+}

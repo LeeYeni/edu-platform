@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_38277.png",
+  "id": "00044_38277",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205012",
+      "question_topic_name": "반지름과 원의 넓이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원의 넓이는 몇 $cm^2$입니까? (원주율 : $3.1$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            256,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            114,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            258,
+            22
+          ],
+          "text": "원의 넓이는 몇 $cm^2$입니까? (원주율 : $3.1$)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_05_00044_21581.png",
+  "id": "00044_21581",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105004",
+      "question_topic_name": "띠그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "학생들이 사는 마을을 나타낸 띠그래프에서 0에서 100(%)까지 10개의 칸으로 나누어져 있고 한 칸의 크기가 10(%)이고 순서대로 10, 20, 30, 40, 50, 60, 70, 80, 90, 100이 쓰여 있고 한 칸은 다시 두 개로 나누어져 있고 0에서 40까지 나뉜 곳이 가 마을(40%)이고, 40부터 70까지 나뉜 곳이 나 마을(30%)이고, 70에서 90까지 나뉜 곳에 다 마을(20%)이고 나머지가 기타(10%)인 띠그래프",
+      "question_text": "학생들이 사는 마을을 조사하여 나타낸 띠그래프입니다. 나 마을에 사는 학생은 전체의 몇 $\\%$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            584,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91,
+            28,
+            236,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            56,
+            321,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            586,
+            49
+          ],
+          "text": "학생들이 사는 마을을 조사하여 나타낸 띠그래프입니다. 나 마을에 사는 학생은 전체의 몇 $\\%$입니까?"
+        }
+      ]
+    }
+  ]
+}

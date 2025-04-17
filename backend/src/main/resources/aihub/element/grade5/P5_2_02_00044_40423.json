@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_02_00044_40423.png",
+  "id": "00044_40423",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 계산 결과가 $ \\frac{3}{8} $보다 작은 것을 모두 고르시오.  ① $ \\frac{3}{8} \\times \\frac{5}{9} $ ② $ \\frac{4}{7} \\times \\frac{3}{8} $ ③ $ 2 \\times \\frac{3}{8} $ ④ $ \\frac{3}{8} \\times \\frac{14}{15} $  ⑤ $ \\frac{3}{8} \\times 8 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            92,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            92,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            82,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            102,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            94,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            243
+          ],
+          "text": "다음 중 계산 결과가 $ \\frac{3}{8} $보다 작은 것을 모두 고르시오.  ① $ \\frac{3}{8} \\times \\frac{5}{9} $ ② $ \\frac{4}{7} \\times \\frac{3}{8} $ ③ $ 2 \\times \\frac{3}{8} $ ④ $ \\frac{3}{8} \\times \\frac{14}{15} $  ⑤ $ \\frac{3}{8} \\times 8 $"
+        }
+      ]
+    }
+  ]
+}

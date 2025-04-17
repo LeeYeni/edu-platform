@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_03_00043_59856.png",
+  "id": "00043_59856",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103001",
+      "question_topic_name": "규칙적인 배열에서 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규칙을 찾아 $\\square$ 안에 알맞은 수를 써넣으시오.  $2 \\rightarrow 7 6 \\rightarrow 11$ $10 \\rightarrow 15 9 \\rightarrow 14 12 \\rightarrow \\square$ $25 \\rightarrow \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            24,
+            81,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            24,
+            193,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            48,
+            83,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            135,
+            49,
+            205,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            63,
+            102,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            161,
+            68,
+            243,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            309,
+            101
+          ],
+          "text": "규칙을 찾아 $\\square$ 안에 알맞은 수를 써넣으시오.  $2 \\rightarrow 7 6 \\rightarrow 11$ $10 \\rightarrow 15 9 \\rightarrow 14 12 \\rightarrow \\square$ $25 \\rightarrow \\square$"
+        }
+      ]
+    }
+  ]
+}

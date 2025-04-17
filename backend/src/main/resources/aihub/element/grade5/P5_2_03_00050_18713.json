@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18713.png",
+  "id": "00050_18713",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ인 좌측인 밑변이 변 ㄴㄷ, 각 ㄴ의 크기가 55도인 예각삼각형 ㄱㄴㄷ의 변 ㄴㄷ 위의 점 ㄹ과 점 ㄱ을 이은 빨간색인 선분 ㄱㄹ은 대칭축이고, 직각삼각형 ㄱㄴㄹ과 각 ㄷㄱㄹ에 각 표시가 있는 직각삼각형 ㄱㄹㄷ은 선대칭도형",
+      "question_text": "도형은 선분 ㄱㄹ을 대칭축으로 하는 선대칭도형입니다. 각 ㄷㄱㄹ의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            334,
+            35,
+            488,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            528,
+            21
+          ],
+          "text": "도형은 선분 ㄱㄹ을 대칭축으로 하는 선대칭도형입니다. 각 ㄷㄱㄹ의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

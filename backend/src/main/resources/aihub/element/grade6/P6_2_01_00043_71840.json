@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_01_00043_71840.png",
+  "id": "00043_71840",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201015",
+      "question_topic_name": "(대분수)÷(대분수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가 $ \\blacklozenge $ 나를 보기와 같이 약속할 때 $ 1 \\frac{3}{5} \\blacklozenge \\frac{1}{4} $을 계산하시오.  <보기> 가 $ \\blacklozenge $ 나 $ =( $ 가 $ \\div $ 나 $ ) \\div( $ 나 $ \\div $ 가 $ ) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            40,
+            73,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            182,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            428,
+            96
+          ],
+          "text": "가 $ \\blacklozenge $ 나를 보기와 같이 약속할 때 $ 1 \\frac{3}{5} \\blacklozenge \\frac{1}{4} $을 계산하시오.  <보기> 가 $ \\blacklozenge $ 나 $ =( $ 가 $ \\div $ 나 $ ) \\div( $ 나 $ \\div $ 가 $ ) $"
+        }
+      ]
+    }
+  ]
+}

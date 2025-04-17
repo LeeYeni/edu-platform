@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00044_27849.png",
+  "id": "00044_27849",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 12.6이 적힌 상자가 있고, 오른쪽에 빈칸이 적힌 상자가 있으며, 가운데에 오른쪽 방향의 화살표와 함께 7로 나눈다는 표시가 되어있는 그림",
+      "question_text": "빈칸에 알맞은 수를 써넣으시오. $12.6\\div7\\rightarrow\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            206,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            202,
+            22
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오. $12.6\\div7\\rightarrow\\square$"
+        }
+      ]
+    }
+  ]
+}

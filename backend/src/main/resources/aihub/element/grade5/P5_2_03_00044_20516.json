@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20516.png",
+  "id": "00044_20516",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄱ이 90도, 각 ㄴ이 예각, 각 ㄷ이 130도, 각 ㄹ이 예각인 사각형 ㄱㄴㄷㄹ이 있고, 그 오른편에 사각형 ㄱㄴㄷㄹ과 합동이고, 각 ㅁ이 130도, 각 ㅂ이 예각, 각 ㅅ이 예각, 각 ㅇ이 70도인 사각형 ㅁㅂㅅㅇ이 나란히 그려진 그림",
+      "question_text": "두 사각형은 합동입니다. 각 ㄱㄹㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            286,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            21
+          ],
+          "text": "두 사각형은 합동입니다. 각 ㄱㄹㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

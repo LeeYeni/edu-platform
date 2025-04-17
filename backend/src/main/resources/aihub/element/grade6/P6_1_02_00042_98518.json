@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_02_00042_98518.png",
+  "id": "00042_98518",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑면과 옆면을 각각 모두 찾아서 쓰시오. 밑면( )옆면( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            246,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            248,
+            24
+          ],
+          "text": "밑면과 옆면을 각각 모두 찾아서 쓰시오. 밑면( )옆면( )"
+        }
+      ]
+    }
+  ]
+}

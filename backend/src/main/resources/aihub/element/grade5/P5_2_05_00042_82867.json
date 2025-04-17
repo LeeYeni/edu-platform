@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00042_82867.png",
+  "id": "00042_82867",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205008",
+      "question_topic_name": "직육면체와 정육면체의 공통점과 차이점 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>개수/구분</td>       <td>직육면체</td>       <td>정육면체</td>     </tr>     <tr>       <td>면</td>       <td>$㉠$</td>       <td>$㉡$</td>     </tr>     <tr>       <td>모서리</td>       <td>$㉢$</td>       <td>$㉣$</td>     </tr>     <tr>       <td>꼭짓점</td>       <td>$㉤$</td>       <td>$㉥$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            230,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            138
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>개수/구분</td>       <td>직육면체</td>       <td>정육면체</td>     </tr>     <tr>       <td>면</td>       <td>$㉠$</td>       <td>$㉡$</td>     </tr>     <tr>       <td>모서리</td>       <td>$㉢$</td>       <td>$㉣$</td>     </tr>     <tr>       <td>꼭짓점</td>       <td>$㉤$</td>       <td>$㉥$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

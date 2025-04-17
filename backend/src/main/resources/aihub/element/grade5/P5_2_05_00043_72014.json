@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72014.png",
+  "id": "00043_72014",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "주사위의 세 면이 보일 때 눈의 수가 3인 윗면, 눈의 수가 1인 왼쪽의 옆면, 눈의 수가 2인 오른쪽의 옆면",
+      "question_text": "주사위에서 서로 마주 보고 있는 두 면의 눈의 수의 합은 $7$입니다. 눈의 수가 $3$인 면과 수직인 면들의 눈의 수의 합은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            744,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            109,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            746,
+            23
+          ],
+          "text": "주사위에서 서로 마주 보고 있는 두 면의 눈의 수의 합은 $7$입니다. 눈의 수가 $3$인 면과 수직인 면들의 눈의 수의 합은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

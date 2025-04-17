@@ -1,0 +1,149 @@
+{
+  "question_filename": "P5_2_06_00044_33642.png",
+  "id": "00044_33642",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206001",
+      "question_topic_name": "평균 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 표는 승재네 모둠 학생들의 멀리뛰기 기록을 나타낸 것입니다. 평균 기록을 구할 때, $\\square$ 안에 알맞은 수를 차례대로 쓴 것은 어느 것입니까? <table border> <caption><승재네 모둠 학생들의 멀리뛰기 기록></caption>   <tbody>     <tr>       <td>$~~~~~~$이름$~~~$</td>       <td>$~~~$승재$~~~$</td>       <td>$~~~$정호$~~~$</td>       <td>$~~~$민재$~~~$</td>       <td>$~~~$수아$~~~$</td>       <td>$~~~$혜림$~~~$</td>       <td>$~~~$준혁$~~~$</td>     </tr>     <tr>       <td>$~~~$기록($cm)~~~$</td>       <td>$~~~165$</td>       <td>$~~~174$</td>       <td>$~~~181$</td>       <td>$~~~172$</td>       <td>$~~~182$</td>       <td>$~~~176$</td>     </tr> </tbody> </table> $ \\frac{165+174+181+172+182+176}{\\square} $ =$ \\frac{1050}{\\square}$ = $ \\square$(cm) ①$6, 6, 174$ ②$6, 6, 175$ ③$6, 6, 176$ ④$7, 7, 174$ ⑤$7, 7, 175$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            52,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            66,
+            243,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            326,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            140,
+            251,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            125,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            93,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            240,
+            94,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            262,
+            95,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            284,
+            91,
+            304
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            306,
+            90,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            327
+          ],
+          "text": "다음 표는 승재네 모둠 학생들의 멀리뛰기 기록을 나타낸 것입니다. 평균 기록을 구할 때, $\\square$ 안에 알맞은 수를 차례대로 쓴 것은 어느 것입니까? <table border> <caption><승재네 모둠 학생들의 멀리뛰기 기록></caption>   <tbody>     <tr>       <td>$~~~~~~$이름$~~~$</td>       <td>$~~~$승재$~~~$</td>       <td>$~~~$정호$~~~$</td>       <td>$~~~$민재$~~~$</td>       <td>$~~~$수아$~~~$</td>       <td>$~~~$혜림$~~~$</td>       <td>$~~~$준혁$~~~$</td>     </tr>     <tr>       <td>$~~~$기록($cm)~~~$</td>       <td>$~~~165$</td>       <td>$~~~174$</td>       <td>$~~~181$</td>       <td>$~~~172$</td>       <td>$~~~182$</td>       <td>$~~~176$</td>     </tr> </tbody> </table> $ \\frac{165+174+181+172+182+176}{\\square} $ =$ \\frac{1050}{\\square}$ = $ \\square$(cm) ①$6, 6, 174$ ②$6, 6, 175$ ③$6, 6, 176$ ④$7, 7, 174$ ⑤$7, 7, 175$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_05_00043_70458.png",
+  "id": "00043_70458",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205007",
+      "question_topic_name": "정육면체의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정육면체의 면은 어떤 모양입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            217,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            219,
+            21
+          ],
+          "text": "정육면체의 면은 어떤 모양입니까?"
+        }
+      ]
+    }
+  ]
+}

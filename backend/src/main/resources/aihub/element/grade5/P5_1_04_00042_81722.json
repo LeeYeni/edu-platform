@@ -1,0 +1,129 @@
+{
+  "question_filename": "P5_1_04_00042_81722.png",
+  "id": "00042_81722",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104008",
+      "question_topic_name": "통분과 공통분모 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{aligned} \\frac{2}{3} & =\\frac{4}{\\square}=\\frac{\\square}{9}=\\frac{\\square}{12}=\\frac{\\square}{15} \\\\ & =\\frac{12}{\\square}=\\frac{14}{\\square}=\\frac{16}{\\square}=\\ldots \\ldots \\\\ \\frac{1}{4} & =\\frac{\\square}{8}=\\frac{3}{\\square}=\\frac{4}{\\square} \\\\ & =\\frac{5}{\\square}=\\frac{\\square}{24}=\\ldots \\ldots\\end{aligned} $ 위에서 두 분수의 분모가 같은 분수끼리 짝지으면 짝으면 ($\\frac{\\square}{12}, \\frac{\\square}{\\square}$), ($\\frac{\\square}{24}, \\frac{\\square}{\\square}$),$ \\cdots \\cdots $ 입니다.  이때 공통분모는 $ \\square, \\square, \\cdots \\cdots $ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            219,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            47,
+            68,
+            222,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            111,
+            186,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            158,
+            204,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            207,
+            242,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            227,
+            227,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            275,
+            218,
+            317
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            319,
+            254,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            256,
+            341
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{aligned} \\frac{2}{3} & =\\frac{4}{\\square}=\\frac{\\square}{9}=\\frac{\\square}{12}=\\frac{\\square}{15} \\\\ & =\\frac{12}{\\square}=\\frac{14}{\\square}=\\frac{16}{\\square}=\\ldots \\ldots \\\\ \\frac{1}{4} & =\\frac{\\square}{8}=\\frac{3}{\\square}=\\frac{4}{\\square} \\\\ & =\\frac{5}{\\square}=\\frac{\\square}{24}=\\ldots \\ldots\\end{aligned} $ 위에서 두 분수의 분모가 같은 분수끼리 짝지으면 짝으면 ($\\frac{\\square}{12}, \\frac{\\square}{\\square}$), ($\\frac{\\square}{24}, \\frac{\\square}{\\square}$),$ \\cdots \\cdots $ 입니다.  이때 공통분모는 $ \\square, \\square, \\cdots \\cdots $ 입니다."
+        }
+      ]
+    }
+  ]
+}

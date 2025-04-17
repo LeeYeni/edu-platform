@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_01_00040_23098.png",
+  "id": "00040_23098",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 숫자 카드 $4$장을 한 번씩 사용하여 네 자리 수를 만든 다음 반올림하여 백의 자리까지 나타내었을 때 $9600$보다 큰 수는 모두 몇 개입니까? $\\boxed{9} \\boxed{7} \\boxed{3} \\boxed{6}$ ①$2$개 ②$3$개 ③$4$개 ④$5$개 ⑤$6$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            95,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            43,
+            258,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            65,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            65,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            65,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            64,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            65,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            189
+          ],
+          "text": "다음과 같은 숫자 카드 $4$장을 한 번씩 사용하여 네 자리 수를 만든 다음 반올림하여 백의 자리까지 나타내었을 때 $9600$보다 큰 수는 모두 몇 개입니까? $\\boxed{9} \\boxed{7} \\boxed{3} \\boxed{6}$ ①$2$개 ②$3$개 ③$4$개 ④$5$개 ⑤$6$개"
+        }
+      ]
+    }
+  ]
+}

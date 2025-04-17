@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_05_00043_98475.png",
+  "id": "00043_98475",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205020",
+      "question_topic_name": "원의 넓이를 이용하여 지름, 반지름 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지수네 집에는 넓이가 $ 78.5 \\mathrm{~cm}^{2} $ 인 원 모양의 접시가 있습니다. 이 접시의 반지름은 몇 $\\mathrm{~cm} $입니까? (원주율 : $3.14$) ① $ 5 \\mathrm{~cm} $  ② $ 6 \\mathrm{~cm} $  ③ $ 7 \\mathrm{~cm} $  ④ $ 8 \\mathrm{~cm} $  ⑤ $ 9 \\mathrm{~cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            650,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            70,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            71,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            70,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            71,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            71,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            653,
+            130
+          ],
+          "text": "지수네 집에는 넓이가 $ 78.5 \\mathrm{~cm}^{2} $ 인 원 모양의 접시가 있습니다. 이 접시의 반지름은 몇 $\\mathrm{~cm} $입니까? (원주율 : $3.14$) ① $ 5 \\mathrm{~cm} $  ② $ 6 \\mathrm{~cm} $  ③ $ 7 \\mathrm{~cm} $  ④ $ 8 \\mathrm{~cm} $  ⑤ $ 9 \\mathrm{~cm} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_02_00041_35135.png",
+  "id": "00041_35135",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102016",
+      "question_topic_name": "각뿔의 밑면과 옆면 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 말을 바르게 나타낸 것은 어느 것입니까? 각뿔은 밑면이 $\\square$ 이고, 옆면이 $\\square$ 입니다. ① 원, 삼각형 ② 삼각형, 사각형 ③ 다각형, 삼각형 ④ 직사각형, 사각형 ⑤ 정사각형, 삼각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            337,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            287,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            102,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            127,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            127,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            140,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            140,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            385,
+            167
+          ],
+          "text": "$\\square$ 안에 들어갈 말을 바르게 나타낸 것은 어느 것입니까? 각뿔은 밑면이 $\\square$ 이고, 옆면이 $\\square$ 입니다. ① 원, 삼각형 ② 삼각형, 사각형 ③ 다각형, 삼각형 ④ 직사각형, 사각형 ⑤ 정사각형, 삼각형"
+        }
+      ]
+    }
+  ]
+}

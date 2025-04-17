@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72203.png",
+  "id": "00043_72203",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205019",
+      "question_topic_name": "직육면체의 전개도의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 위치하는 사각형 ㄱㄴㄷㄹ과 ㅁㅂㅅㅇ이 두 밑면을 이루고 네 개의 사각형을 옆면을 갖는 직육면체에 대각선 ㄴㄹ, ㄴㅅ, ㄹㅅ이 그려져있고 가운데 화살표가 있고 왼쪽의 직육면체의 전개도가 오른쪽에 위치하고 직육면체의 윗면에 해당하는 면 ㄱㄴㄷㄹ에 대각선 ㄴㄹ이 그려져 있고 변 ㄱㄹ과 만나고 위쪽에 위치한 면 ㅁㄱㄹㅇ, 변 ㄷㄹ과 만나고 오른쪽에 위치한 면 ㄹㄷㅅㅇ, 변 ㄴㄷ과 만나고 면 ㄱㄴㄷㄹ의 아래쪽에 위치하는 면 ㄴㅂㅅㄷ의 왼쪽에는 변 ㄴㅂ이 만나는 면 ㄱㅁㅂㄴ이 있고 변 ㅁㅂ이 만나는 면 ㄱㅁㅂㄴ의 아래쪽에 위치한 면 ㅁㅇㅅㅂ",
+      "question_text": "다음 전개도에 색 테이프가 지나간 자리를 선분으로 표시하려고 합니다. 빠진 부분을 그려 넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            580,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            24,
+            263,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            582,
+            22
+          ],
+          "text": "다음 전개도에 색 테이프가 지나간 자리를 선분으로 표시하려고 합니다. 빠진 부분을 그려 넣으시오."
+        }
+      ]
+    }
+  ]
+}

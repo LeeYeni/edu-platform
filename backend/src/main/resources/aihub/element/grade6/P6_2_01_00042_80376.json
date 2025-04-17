@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_01_00042_80376.png",
+  "id": "00042_80376",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201007",
+      "question_topic_name": "(자연수)÷(분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 그려진 막대가 0에서 시작해 1 m, 2 m, 3 m로 나누어져 실선으로 표시되어 있고 1 m마다 다시 4개의 칸으로 나뉘어 점선으로 표시되어 있고 0부터 3 m까지 있는 점선으로 표시되어 있는 칸을 3칸씩 묶어서 4개의 묶음에 각각 막대 위에 1도막으로 표시한 가로 막대 그림",
+      "question_text": "그림을 이용하여 $ 3 \\div \\frac{3}{4} $ 은 얼마인지 알아봅시다. (1) $ 3 \\mathrm{~m} $ 를 $ \\frac{3}{4} \\mathrm{~m} $ 씩 자르면 $\\square$ 도막이 됩니다. (2) $3$ 은 $ \\frac{1}{4}  \\square$이 개이고 $ \\frac{3}{4} $ 은 $ \\frac{1}{4} $ 이 $ \\square $ 개이므로 $ 3 \\div \\frac{3}{4}=\\frac{\\square}{4} \\div \\frac{\\square}{4} $ 입니다. (3) $ 3 \\div \\frac{3}{4}=\\frac{\\square}{4} \\div \\frac{\\square}{4}=\\square \\div \\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            294,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            112,
+            295,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            522,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            275,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            52,
+            312,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.9,
+            1.2,
+            294.1,
+            38
+          ],
+          "text": "그림을 이용하여 $ 3 \\div \\frac{3}{4} $ 은 얼마인지 알아봅시다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            112.4,
+            522.1,
+            234.8
+          ],
+          "text": "(1) $ 3 \\mathrm{~m} $ 를 $ \\frac{3}{4} \\mathrm{~m} $ 씩 자르면 $\\square$ 도막이 됩니다. (2) $3$ 은 $ \\frac{1}{4}  \\square$이 개이고 $ \\frac{3}{4} $ 은 $ \\frac{1}{4} $ 이 $ \\square $ 개이므로 $ 3 \\div \\frac{3}{4}=\\frac{\\square}{4} \\div \\frac{\\square}{4} $ 입니다. (3) $ 3 \\div \\frac{3}{4}=\\frac{\\square}{4} \\div \\frac{\\square}{4}=\\square \\div \\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

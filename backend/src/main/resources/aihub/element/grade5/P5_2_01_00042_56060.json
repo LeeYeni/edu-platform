@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00042_56060.png",
+  "id": "00042_56060",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드를 한 번씩만 사용하여 만들 수 있는 가장 작은 다섯 자리 수를 반올림하여 천의 자리까지 나타내면 얼마입니까? $ \\boxed{7}  \\boxed{3}     \\boxed{0}    \\boxed{8}    \\boxed{6}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            19,
+            269,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            704,
+            57
+          ],
+          "text": "숫자 카드를 한 번씩만 사용하여 만들 수 있는 가장 작은 다섯 자리 수를 반올림하여 천의 자리까지 나타내면 얼마입니까? $ \\boxed{7}  \\boxed{3}     \\boxed{0}    \\boxed{8}    \\boxed{6}$"
+        }
+      ]
+    }
+  ]
+}

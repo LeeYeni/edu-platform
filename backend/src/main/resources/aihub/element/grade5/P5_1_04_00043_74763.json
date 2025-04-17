@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00043_74763.png",
+  "id": "00043_74763",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104006",
+      "question_topic_name": "기약분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 기약분수를 모두 고르시오.  ① $ \\frac{9}{21} $ ② $ \\frac{7}{15} $ ③ $ \\frac{19}{38} $ ④ $ \\frac{11}{25} $ ⑤ $ \\frac{14}{35} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            216,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            72,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            72,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            72,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            72,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            72,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            218,
+            224
+          ],
+          "text": "다음 중 기약분수를 모두 고르시오.  ① $ \\frac{9}{21} $ ② $ \\frac{7}{15} $ ③ $ \\frac{19}{38} $ ④ $ \\frac{11}{25} $ ⑤ $ \\frac{14}{35} $"
+        }
+      ]
+    }
+  ]
+}

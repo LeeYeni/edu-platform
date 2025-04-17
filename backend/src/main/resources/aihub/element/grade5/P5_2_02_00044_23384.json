@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_02_00044_23384.png",
+  "id": "00044_23384",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같은 방법으로 계산하시오. <보기> $ \\frac{\\overset{1}{\\cancel2}}{\\underset{1}{\\cancel 3}}\\times \\frac{\\overset{1}{\\cancel3}}{\\underset{4}{\\cancel 8}}=\\frac{1}{4} \\\\ $ ($1$) $ \\frac{4}{9} \\times \\frac{3}{16} \\\\ $ ($2$) $ \\frac{9}{14} \\times \\frac{7}{12} \\\\ $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            25,
+            79,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            53,
+            106,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            123,
+            108,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            103,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            199
+          ],
+          "text": "보기와 같은 방법으로 계산하시오. <보기> $ \\frac{\\overset{1}{\\cancel2}}{\\underset{1}{\\cancel 3}}\\times \\frac{\\overset{1}{\\cancel3}}{\\underset{4}{\\cancel 8}}=\\frac{1}{4} \\\\ $ ($1$) $ \\frac{4}{9} \\times \\frac{3}{16} \\\\ $ ($2$) $ \\frac{9}{14} \\times \\frac{7}{12} \\\\ $"
+        }
+      ]
+    }
+  ]
+}

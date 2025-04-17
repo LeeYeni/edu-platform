@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_04_00043_94596.png",
+  "id": "00043_94596",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204008",
+      "question_topic_name": "(소수):(분수), (분수):(소수)의 비를 간단한 자연수 비로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 비 $3 : 4$와 비율이 같은 것은 어느 것입니까? ①$4 : 3$ ②$6 : 4$ ③$3 : 8$ ④$6 : 8$ ⑤$8 : 6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            314,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            73,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            73,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            73,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            73,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            73,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            316,
+            130
+          ],
+          "text": "다음 중 비 $3 : 4$와 비율이 같은 것은 어느 것입니까? ①$4 : 3$ ②$6 : 4$ ③$3 : 8$ ④$6 : 8$ ⑤$8 : 6$"
+        }
+      ]
+    }
+  ]
+}

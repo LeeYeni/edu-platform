@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_70105.png",
+  "id": "00043_70105",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 밑면이 세 변 중 두 변의 길이가 3 cm, 5 cm인 삼각형이고, 높이가 9 cm인 삼각기둥의 겨냥도가, 가운데에는 오른쪽 방향의 화살표가, 오른쪽에는 삼각기둥의 전개도가 있는데, 삼각기둥의 밑면인 삼각형이 세 옆면 중 가운데 면과 이어붙여져 있으며, 이어붙여진 변이 아닌 두 변 중 왼쪽 변의 길이가 빈칸으로 되어 있고, 오른쪽 변의 길이가 5 cm로 되어있으며 옆면인 세 직사각형 중 오른쪽 면의 가로와 세로 길이가 빈칸으로 되어 있는 그림",
+      "question_text": "왼쪽 삼각기둥의 전개도를 그린 것입니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            24,
+            298,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            444,
+            20
+          ],
+          "text": "왼쪽 삼각기둥의 전개도를 그린 것입니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

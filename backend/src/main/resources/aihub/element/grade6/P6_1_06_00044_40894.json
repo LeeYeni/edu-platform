@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_40894.png",
+  "id": "00044_40894",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106012",
+      "question_topic_name": "직육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면의 밑변이 5 cm, 우측 변이 6 cm인 직사각형이고 뒷면의 우측 변의 높이가 사각박스 모양과 cm로 표시된 직육면체의 겨냥도",
+      "question_text": "직육면체의 겉넓이가 $ 214 \\mathrm{~cm}^{2} $일 때 $\\square$ 안에 알맞은 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            390,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            30,
+            155,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            392,
+            22
+          ],
+          "text": "직육면체의 겉넓이가 $ 214 \\mathrm{~cm}^{2} $일 때 $\\square$ 안에 알맞은 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

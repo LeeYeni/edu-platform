@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_06_00044_38779.png",
+  "id": "00044_38779",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106005",
+      "question_topic_name": "1㎠ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "단위넓이를 이용하여 직사각형의 넓이를 알아보시오. ⑴ 직사각형은 $1cm²$인 단위넓이가 가로와 세로에 각각 몇 개씩 있습니까? ⑵ 직사각형은 $1cm²$가 모두 몇 개입니까? ⑶ 직사각형의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            318,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            433,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            253,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            231,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            139,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.54,
+            1.72,
+            319.42,
+            17.72
+          ],
+          "text": "단위넓이를 이용하여 직사각형의 넓이를 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.98,
+            97.72,
+            433.34,
+            115
+          ],
+          "text": "⑴ 직사각형은 $1cm²$인 단위넓이가 가로와 세로에 각각 몇 개씩 있습니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.34,
+            164.28,
+            254.14,
+            203.32
+          ],
+          "text": "⑵ 직사각형은 $1cm²$가 모두 몇 개입니까? ⑶ 직사각형의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

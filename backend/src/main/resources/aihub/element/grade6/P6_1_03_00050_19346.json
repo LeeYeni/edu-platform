@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_03_00050_19346.png",
+  "id": "00050_19346",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 몫이$ 1$보다 작은 것은 어느 것입니까? ①$ 59.4 \\div 9 $ ②$ 14.77 \\div 7 ③ 12.46 \\div 14 ④ 26.1 \\div 15 $ ⑤$ 142.4 \\div 8 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            301,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            88,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            92,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            100,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            90,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            94,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            303,
+            130
+          ],
+          "text": "다음 중에서 몫이$ 1$보다 작은 것은 어느 것입니까? ①$ 59.4 \\div 9 $ ②$ 14.77 \\div 7 ③ 12.46 \\div 14 ④ 26.1 \\div 15 $ ⑤$ 142.4 \\div 8 $"
+        }
+      ]
+    }
+  ]
+}

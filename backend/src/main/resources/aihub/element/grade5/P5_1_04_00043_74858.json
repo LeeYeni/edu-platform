@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_04_00043_74858.png",
+  "id": "00043_74858",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104024",
+      "question_topic_name": "두 분모의 공배수를 공통분모로 하여 통분하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대화를 보고 $\\square$ 안에 알맞은 수를 써넣으시오. 진호 : $ \\frac{1}{6} $과 $ \\frac{1}{8} $을 통분하려고 하는데, 공통분모가 될 수 있는 수를 $3$개만 알려 줘. 미영 : 음, 공통분모가 될 수 있는 수는 두 분모 $6$과 $8$의 공배수이니까 $\\square,\\square,\\square$, ……야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            29,
+            495,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            71,
+            419,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            94,
+            235,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            498,
+            120
+          ],
+          "text": "대화를 보고 $\\square$ 안에 알맞은 수를 써넣으시오. 진호 : $ \\frac{1}{6} $과 $ \\frac{1}{8} $을 통분하려고 하는데, 공통분모가 될 수 있는 수를 $3$개만 알려 줘. 미영 : 음, 공통분모가 될 수 있는 수는 두 분모 $6$과 $8$의 공배수이니까 $\\square,\\square,\\square$, ……야."
+        }
+      ]
+    }
+  ]
+}

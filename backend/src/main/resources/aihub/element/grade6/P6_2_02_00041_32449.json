@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_2_02_00041_32449.png",
+  "id": "00041_32449",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202022",
+      "question_topic_name": "나누어 주고 남는 양 알아보기_몫을 자연수까지만 계산하는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈의 몫과 나머지를 바르게 나타낸 것은 어느 것입니까? ①몫 : $39$, 나머지 : $2.2$ ②몫 : $39$, 나머지 : $0.22$ ③몫 : $3.9$, 나머지 : $2.2$ ④몫 : $3.9$, 나머지 : $0.22$ ⑤몫 : $0.39$, 나머지 : $0.22$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            194,
+            170,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            216,
+            164,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            238,
+            173,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            260,
+            182,
+            280
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            174.13,
+            161.74,
+            193.33
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            113,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            0,
+            388.5,
+            17
+          ],
+          "text": "다음 나눗셈의 몫과 나머지를 바르게 나타낸 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.5,
+            175,
+            180.5,
+            281
+          ],
+          "text": "①몫 : $39$, 나머지 : $2.2$ ②몫 : $39$, 나머지 : $0.22$ ③몫 : $3.9$, 나머지 : $2.2$ ④몫 : $3.9$, 나머지 : $0.22$ ⑤몫 : $0.39$, 나머지 : $0.22$"
+        }
+      ]
+    }
+  ]
+}

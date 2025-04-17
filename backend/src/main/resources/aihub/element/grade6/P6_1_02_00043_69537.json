@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_02_00043_69537.png",
+  "id": "00043_69537",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102007",
+      "question_topic_name": "각기둥의 구성 요소 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑면의 모양이 다음 씨름도에 그린 도형과 같은 각기둥이 있습니다. 이 각기둥의 꼭짓점의 수를 ㉠개, 면의 수를 ㉡개, 모서리의 수를 ㉢개라고 할 때 ㉠+㉡-㉢을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            760,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            231,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            45,
+            152,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            762,
+            40
+          ],
+          "text": "밑면의 모양이 다음 씨름도에 그린 도형과 같은 각기둥이 있습니다. 이 각기둥의 꼭짓점의 수를 ㉠개, 면의 수를 ㉡개, 모서리의 수를 ㉢개라고 할 때 ㉠+㉡-㉢을 구하시오."
+        }
+      ]
+    }
+  ]
+}

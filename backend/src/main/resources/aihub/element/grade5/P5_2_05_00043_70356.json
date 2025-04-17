@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_70356.png",
+  "id": "00043_70356",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205011",
+      "question_topic_name": "직육면체의 겨냥도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "알맞은 말에 $\\bigcirc$표 하시오. 겨냥도를 그릴 때 보이는 모서리는 ( 실선, 점선 )으로, 보이지 않는 모서리는 ( 실선, 점선 )으로 그립니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            608,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            610,
+            41
+          ],
+          "text": "알맞은 말에 $\\bigcirc$표 하시오. 겨냥도를 그릴 때 보이는 모서리는 ( 실선, 점선 )으로, 보이지 않는 모서리는 ( 실선, 점선 )으로 그립니다."
+        }
+      ]
+    }
+  ]
+}

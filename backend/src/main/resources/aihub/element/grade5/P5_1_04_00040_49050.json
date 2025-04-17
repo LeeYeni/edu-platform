@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00040_49050.png",
+  "id": "00040_49050",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104010",
+      "question_topic_name": "두 분모의 최소공배수를 공통분모로 하여 통분하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 두 분수의 분모의 최소공배수가 가장 작은 것은 어느 것입니까?  (1) $ \\left(\\frac{2}{3}, \\frac{7}{16}\\right) $ (2) $ \\left(\\frac{5}{18}, \\frac{1}{4}\\right) $ (3) $ \\left(\\frac{6}{11}, \\frac{5}{22}\\right) $ (4) $ \\left(\\frac{10}{21}, \\frac{2}{7}\\right) $ (5) $ \\left(\\frac{7}{28}, \\frac{15}{42}\\right) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            421,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            125,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            73,
+            125,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            134,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            125,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            217,
+            134,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            423,
+            256
+          ],
+          "text": "다음 중 두 분수의 분모의 최소공배수가 가장 작은 것은 어느 것입니까?  (1) $ \\left(\\frac{2}{3}, \\frac{7}{16}\\right) $ (2) $ \\left(\\frac{5}{18}, \\frac{1}{4}\\right) $ (3) $ \\left(\\frac{6}{11}, \\frac{5}{22}\\right) $ (4) $ \\left(\\frac{10}{21}, \\frac{2}{7}\\right) $ (5) $ \\left(\\frac{7}{28}, \\frac{15}{42}\\right) $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_04_00043_76464.png",
+  "id": "00043_76464",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104004",
+      "question_topic_name": "비 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square $ 안에 알맞은 수를 써넣으시오. 모닥불놀이를 위해 모닥불에 둘러앉은 여학생과 남학생은 모두 $22$명이고, 남학생은 $15$명입니다. 전체 학생 수에 대한 남학생 수의 비는 $\\square $:$\\square $ 입니다. 남학생 수에 대한 여학생 수의 비는 $\\square $:$\\square $  입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            802,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            53,
+            473,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            77
+          ],
+          "text": "$\\square $ 안에 알맞은 수를 써넣으시오. 모닥불놀이를 위해 모닥불에 둘러앉은 여학생과 남학생은 모두 $22$명이고, 남학생은 $15$명입니다. 전체 학생 수에 대한 남학생 수의 비는 $\\square $:$\\square $ 입니다. 남학생 수에 대한 여학생 수의 비는 $\\square $:$\\square $  입니다."
+        }
+      ]
+    }
+  ]
+}

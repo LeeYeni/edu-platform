@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00042_56019.png",
+  "id": "00042_56019",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201013",
+      "question_topic_name": "버림 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "버림하여 백의 자리까지 나타낼 때 $400$이 되는 세 자리 수 중에서 가장 작은 수를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            523,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            525,
+            21
+          ],
+          "text": "버림하여 백의 자리까지 나타낼 때 $400$이 되는 세 자리 수 중에서 가장 작은 수를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00042_80839.png",
+  "id": "00042_80839",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원 모양 연못 주변에 길이가 $ 165 \\mathrm{~m} $인 산책로를 만들었습니다. 이 산책로에 $ 4.6 \\mathrm{~m} $의 간격으로 의자를 설치하려고 합니다. 의자의 길이가 $ 2 \\mathrm{~m} $일 때, 몇 개의 의자가 필요한지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            253,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "원 모양 연못 주변에 길이가 $ 165 \\mathrm{~m} $인 산책로를 만들었습니다. 이 산책로에 $ 4.6 \\mathrm{~m} $의 간격으로 의자를 설치하려고 합니다. 의자의 길이가 $ 2 \\mathrm{~m} $일 때, 몇 개의 의자가 필요한지 구하시오."
+        }
+      ]
+    }
+  ]
+}

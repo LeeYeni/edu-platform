@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39284.png",
+  "id": "00044_39284",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106023",
+      "question_topic_name": "마름모의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 직교하는 두 대각선의 길이가 각각 11 cm, 8 cm인 분홍색 마름모",
+      "question_text": "마름모의 넓이는 몇 cm²입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            202,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            175,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            204,
+            22
+          ],
+          "text": "마름모의 넓이는 몇 cm²입니까?"
+        }
+      ]
+    }
+  ]
+}

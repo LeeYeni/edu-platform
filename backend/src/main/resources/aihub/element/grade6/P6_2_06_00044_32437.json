@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00044_32437.png",
+  "id": "00044_32437",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206009",
+      "question_topic_name": "원뿔의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 밑면의 지름, 높이의 길이가 각각 10 cm, 14 cm인 원기둥이 있고 오른쪽에 밑면의 지름, 모선의 길이가 각각 16 cm, 17 cm이고 밑면의 원 위의 점에서 수평으로 그은 점선과 꼭짓점에서 이 선에 내린 점선의 수선이 만나는 점은 원 위의 점에서부터 15 cm, 꼭짓점에서부터 8 cm거리에 있는 밑면이 수직으로 세워진 원뿔의 겨냥도가 있는 원기둥과 원뿔이 있는 그림",
+      "question_text": "두 입체도형의 높이의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            28,
+            328,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            231,
+            22
+          ],
+          "text": "두 입체도형의 높이의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

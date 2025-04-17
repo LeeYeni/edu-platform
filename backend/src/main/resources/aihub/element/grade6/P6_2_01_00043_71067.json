@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_01_00043_71067.png",
+  "id": "00043_71067",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201005",
+      "question_topic_name": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수)÷(분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.6 $\\bigcirc$ $ \\frac{14}{15} \\div \\frac{2}{15} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            23,
+            136,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            59
+          ],
+          "text": "크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.6 $\\bigcirc$ $ \\frac{14}{15} \\div \\frac{2}{15} $"
+        }
+      ]
+    }
+  ]
+}

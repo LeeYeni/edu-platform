@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_05_00050_21902.png",
+  "id": "00050_21902",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105008",
+      "question_topic_name": "원그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수현이네 반 학생들이 좋아하는 분식을 조사하여 나타낸 표입니다. 물음에 답하시오. <좋아하는 분식> <table border style=\"undefined;table-layout: fixed; width: 282px\"> <colgroup> <col style=\"width: 104.2px\"> <col style=\"width: 95.2px\"> <col style=\"width: 82.2px\"> </colgroup> <thead>   <tr>     <th>분식</th>     <th>학생 수</th>     <th>백분율($\\%$)</th>   </tr> </thead> <tbody>   <tr>     <td>떡볶이</td>     <td>$14$</td>     <td></td>   </tr>   <tr>     <td>햄버거</td>     <td>$8$</td>     <td></td>   </tr>   <tr>     <td>라면</td>     <td>$12$</td>     <td></td>   </tr>   <tr>     <td>기타</td>     <td>$6$</td>     <td></td>   </tr>   <tr>     <td>합계</td>     <td>$40$</td>     <td>$100$</td>   </tr> </tbody> </table> (1) 분식별로 백분율을 구하여 표를 완성하시오. (2) 표를 보고 원그래프를 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            491,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            279,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            210,
+            237,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            121.1,
+            23.9,
+            226.1,
+            42.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            43.9,
+            335.1,
+            187.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            328,
+            238,
+            495,
+            417
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.1,
+            0,
+            491.1,
+            227.9
+          ],
+          "text": "수현이네 반 학생들이 좋아하는 분식을 조사하여 나타낸 표입니다. 물음에 답하시오. <좋아하는 분식> <table border style=\"undefined;table-layout: fixed; width: 282px\"> <colgroup> <col style=\"width: 104.2px\"> <col style=\"width: 95.2px\"> <col style=\"width: 82.2px\"> </colgroup> <thead>   <tr>     <th>분식</th>     <th>학생 수</th>     <th>백분율($\\%$)</th>   </tr> </thead> <tbody>   <tr>     <td>떡볶이</td>     <td>$14$</td>     <td></td>   </tr>   <tr>     <td>햄버거</td>     <td>$8$</td>     <td></td>   </tr>   <tr>     <td>라면</td>     <td>$12$</td>     <td></td>   </tr>   <tr>     <td>기타</td>     <td>$6$</td>     <td></td>   </tr>   <tr>     <td>합계</td>     <td>$40$</td>     <td>$100$</td>   </tr> </tbody> </table> (1) 분식별로 백분율을 구하여 표를 완성하시오. (2) 표를 보고 원그래프를 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

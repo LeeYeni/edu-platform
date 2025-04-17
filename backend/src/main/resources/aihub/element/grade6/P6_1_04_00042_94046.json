@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00042_94046.png",
+  "id": "00042_94046",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104007",
+      "question_topic_name": "비율 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>비율 비</td>       <td>분수</td>       <td>소수</td>     </tr>     <tr>       <td>$3$의 $4$에 대한 비</td>       <td></td>       <td></td>     </tr>     <tr>       <td>$8$에 대한 $9$의 비</td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            245,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            247,
+            203
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>비율 비</td>       <td>분수</td>       <td>소수</td>     </tr>     <tr>       <td>$3$의 $4$에 대한 비</td>       <td></td>       <td></td>     </tr>     <tr>       <td>$8$에 대한 $9$의 비</td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_01_00043_97001.png",
+  "id": "00043_97001",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101009",
+      "question_topic_name": "(분수)÷(자연수)를 분수의 곱셈으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림을 보고, $\\square$ 안에 알맞은 수를 써넣으시오.  $\\frac{3}{5}\\div4=\\frac{3}{5}\\times\\frac{\\square}{\\square}=\\frac{\\square}{\\square}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            307,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            128,
+            209,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            330,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            0.69,
+            307.66,
+            16.69
+          ],
+          "text": "다음 그림을 보고, $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            44,
+            127,
+            211,
+            173
+          ],
+          "text": "$\\frac{3}{5}\\div4=\\frac{3}{5}\\times\\frac{\\square}{\\square}=\\frac{\\square}{\\square}$"
+        }
+      ]
+    }
+  ]
+}

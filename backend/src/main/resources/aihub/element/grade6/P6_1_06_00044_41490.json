@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_06_00044_41490.png",
+  "id": "00044_41490",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 10 cm이고 세로가 5 cm인 직사각형 두 개를 밑면으로 하고 옆면의 마주 보는 두 쌍의 면이 서로 합동이고 높이가 일정한 직육면체",
+      "question_text": "다음 직육면체의 부피는 $150cm³$입니다. 이 직육면체의 겉넓이는 몇 $cm²$인지 알아보시오. (1) $\\square$ 안에 알맞은 말을 써넣으시오. $(직육면체의 부피) =(가로)×(세로)×(\\square)$(2) 직육면체의 높이는 몇 $cm$입니까?(3) 이 직육면체의 겉넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            523,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            222,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            123,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            172,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            231,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            204,
+            265,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            167,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.41,
+            1.38,
+            523.65,
+            18.02
+          ],
+          "text": "다음 직육면체의 부피는 $150cm³$입니다. 이 직육면체의 겉넓이는 몇 $cm²$인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.05,
+            115.94,
+            265.73,
+            220.26
+          ],
+          "text": "(1) $\\square$ 안에 알맞은 말을 써넣으시오. $(직육면체의 부피) =(가로)×(세로)×(\\square)$(2) 직육면체의 높이는 몇 $cm$입니까?(3) 이 직육면체의 겉넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

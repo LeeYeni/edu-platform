@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_70008.png",
+  "id": "00043_70008",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각기둥의 전개도입니다. 밑면을 모두 찾아 색칠하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            338,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            173,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            340,
+            24
+          ],
+          "text": "삼각기둥의 전개도입니다. 밑면을 모두 찾아 색칠하시오."
+        }
+      ]
+    }
+  ]
+}

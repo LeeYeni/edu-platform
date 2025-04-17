@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_06_00044_30445.png",
+  "id": "00044_30445",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206002",
+      "question_topic_name": "원기둥의 구성 요소",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어떤 입체도형을 설명한 것입니까? · 위아래에 있는 면은 서로 평행하고 합동인 원입니다.· 옆면은 굽은 면으로 둘러싸여 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            329,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            54,
+            262,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            358,
+            78
+          ],
+          "text": "다음은 어떤 입체도형을 설명한 것입니까? · 위아래에 있는 면은 서로 평행하고 합동인 원입니다.· 옆면은 굽은 면으로 둘러싸여 있습니다."
+        }
+      ]
+    }
+  ]
+}

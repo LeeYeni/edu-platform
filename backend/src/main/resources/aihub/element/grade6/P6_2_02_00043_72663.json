@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00043_72663.png",
+  "id": "00043_72663",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗변의 왼쪽 꼭짓점에서 밑변의 왼쪽으로 그은 연장선에 내린 점선으로 표시된 선분의 길이가 5.8 cm인 평행사변형",
+      "question_text": "다음은 넓이가 $23.2cm^2$인 평행사변형입니다. 높이가 $5.8cm$일 때, 평행사변형의 밑변은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            597,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            163,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            599,
+            22
+          ],
+          "text": "다음은 넓이가 $23.2cm^2$인 평행사변형입니다. 높이가 $5.8cm$일 때, 평행사변형의 밑변은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

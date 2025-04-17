@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72318.png",
+  "id": "00043_72318",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205017",
+      "question_topic_name": "직육면체의 전개도 살펴보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에는 밑면의 밑변의 길이가 7 cm, 우측 변의 길이가 5 cm이고, 뒷면의 우측 변의 길이가 4 cm인 색칠된 직육면체 겨냥도와 우측에는 옆면 4개가 가로로 접해 있고, 우측 첫 번째 직사각형의 윗변과 밑변에 밑면 두 개가 각각 접해져 있는 색칠된 직육면체 전개도에서 옆면의 좌측 첫 번째 직사각형의 좌측 변과 두 번째 직사각형의 밑변과 네 번째 직사각형의 윗변에 접한 직사각형의 좌측 변의 길이가 모두 네모 cm이고, 좌측 도형과 우측 도형 사이에 우측으로 향하는 화살표가 있는 그림",
+      "question_text": "직육면체를 보고 $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            13,
+            326,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            302,
+            20
+          ],
+          "text": "직육면체를 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

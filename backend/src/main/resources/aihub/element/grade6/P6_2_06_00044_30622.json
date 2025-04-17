@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_06_00044_30622.png",
+  "id": "00044_30622",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206015",
+      "question_topic_name": "원기둥, 원뿔, 구 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원기둥과 원뿔의 같은 점을 모두 찾아 기호를 쓰시오. ㉠ 밑면의 모양 ㉡ 밑면의 수㉢ 위에서 본 모양 ㉣ 옆에서 본 모양㉤ 옆면을 펼친 모양",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            229,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            258,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            148,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            376,
+            101
+          ],
+          "text": "원기둥과 원뿔의 같은 점을 모두 찾아 기호를 쓰시오. ㉠ 밑면의 모양 ㉡ 밑면의 수㉢ 위에서 본 모양 ㉣ 옆에서 본 모양㉤ 옆면을 펼친 모양"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00043_41088.png",
+  "id": "00043_41088",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101001",
+      "question_topic_name": "덧셈과 뺄셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "총 길이가 사각형의 빈칸으로 표시된 선분을 세 부분으로 나눈 수직선에서 왼쪽부터 두 칸의 길이가 36, 두 번째 칸의 길이가 25, 오른쪽의 두 칸의 길이가 49인 도형",
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            31,
+            316,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            22
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

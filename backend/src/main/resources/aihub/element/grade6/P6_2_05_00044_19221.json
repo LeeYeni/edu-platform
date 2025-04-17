@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_05_00044_19221.png",
+  "id": "00044_19221",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205004",
+      "question_topic_name": "원주율 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "반지름이 $15 cm$인 원의 원주는 지름의 약 몇 배입니까? 약 (  )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            330,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            332,
+            22
+          ],
+          "text": "반지름이 $15 cm$인 원의 원주는 지름의 약 몇 배입니까? 약 (  )"
+        }
+      ]
+    }
+  ]
+}

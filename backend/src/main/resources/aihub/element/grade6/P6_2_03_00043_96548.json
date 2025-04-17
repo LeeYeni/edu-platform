@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00043_96548.png",
+  "id": "00043_96548",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203005",
+      "question_topic_name": "쌓기나무로 쌓은 모양을 보고 위, 앞, 옆에서 본 모양 그리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 쌓기나무로 쌓은 모양을 위, 앞, 옆에서 봤을 때 그 모양이 모두 같은 것은 어느 것입니까? ① ② ③ ④ ⑤",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            549,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            27,
+            207,
+            682
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            551,
+            23
+          ],
+          "text": "다음 쌓기나무로 쌓은 모양을 위, 앞, 옆에서 봤을 때 그 모양이 모두 같은 것은 어느 것입니까? ① ② ③ ④ ⑤"
+        }
+      ]
+    }
+  ]
+}

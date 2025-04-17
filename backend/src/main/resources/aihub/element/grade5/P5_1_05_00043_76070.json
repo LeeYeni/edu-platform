@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_05_00043_76070.png",
+  "id": "00043_76070",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105016",
+      "question_topic_name": "받아내림이 있는 대분수의 뺄셈을 자연수끼리, 분수끼리 빼서 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산 과정에서 틀린 부분을 찾아 바르게 고치시오.  $ 2 \\frac{2}{9}-1 \\frac{3}{4}=2 \\frac{8}{36}-1 \\frac{27}{36} $ $ =2 \\frac{44}{36}-1 \\frac{27}{36}=1 \\frac{17}{36} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            204,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            191,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            303,
+            111
+          ],
+          "text": "계산 과정에서 틀린 부분을 찾아 바르게 고치시오.  $ 2 \\frac{2}{9}-1 \\frac{3}{4}=2 \\frac{8}{36}-1 \\frac{27}{36} $ $ =2 \\frac{44}{36}-1 \\frac{27}{36}=1 \\frac{17}{36} $"
+        }
+      ]
+    }
+  ]
+}

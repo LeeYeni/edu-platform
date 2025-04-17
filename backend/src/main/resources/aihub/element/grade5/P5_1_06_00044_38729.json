@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_38729.png",
+  "id": "00044_38729",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106002",
+      "question_topic_name": "직사각형의 둘레 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변이 $3cm$인 정사각형을 모눈종이에 그리고, 그린 정사각형의 둘레를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            481,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            177,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            483,
+            23
+          ],
+          "text": "한 변이 $3cm$인 정사각형을 모눈종이에 그리고, 그린 정사각형의 둘레를 구하시오."
+        }
+      ]
+    }
+  ]
+}

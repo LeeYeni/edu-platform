@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18528.png",
+  "id": "00050_18528",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분ㄴㄷ의 길이가 9 cm인 정삼각형ㄱㄴㄷ을 선분ㄱㄴ을 지나는 세로인 핑크색 직선을 대칭축으로 그려진 그림",
+      "question_text": "정삼각형 ㄱㄴㄷ을 선분 ㄱㄴ을 대칭축으로 하는 선대칭도형으로 만들었습니다. 만든 선대칭도형의 둘레는 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            704,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            350,
+            28,
+            474,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            706,
+            21
+          ],
+          "text": "정삼각형 ㄱㄴㄷ을 선분 ㄱㄴ을 대칭축으로 하는 선대칭도형으로 만들었습니다. 만든 선대칭도형의 둘레는 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

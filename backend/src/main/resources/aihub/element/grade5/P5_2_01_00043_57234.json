@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00043_57234.png",
+  "id": "00043_57234",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6300$을 수직선에 $ \\downarrow $로 표시하고 약 몇천이라고 할 수 있는지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            418,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            51,
+            314,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            420,
+            22
+          ],
+          "text": "$6300$을 수직선에 $ \\downarrow $로 표시하고 약 몇천이라고 할 수 있는지 구하시오."
+        }
+      ]
+    }
+  ]
+}

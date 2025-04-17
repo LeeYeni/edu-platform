@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_04_00043_76670.png",
+  "id": "00043_76670",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104008",
+      "question_topic_name": "비율을 분수와 소수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 기준량이 비교하는 양보다 작은 비율을 모두 고르시오. ① $1.32$ ②$ \\frac{19}{20} $  ③ $0.076$ ④ $ \\frac{8}{9} $ ⑤$4$에 대한 $7$의 비",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            371,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            69,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            41,
+            72,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            89,
+            81,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            63,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            134,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            373,
+            168
+          ],
+          "text": "다음 중 기준량이 비교하는 양보다 작은 비율을 모두 고르시오. ① $1.32$ ②$ \\frac{19}{20} $  ③ $0.076$ ④ $ \\frac{8}{9} $ ⑤$4$에 대한 $7$의 비"
+        }
+      ]
+    }
+  ]
+}

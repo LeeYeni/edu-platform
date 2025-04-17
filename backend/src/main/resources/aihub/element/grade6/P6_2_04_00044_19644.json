@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_04_00044_19644.png",
+  "id": "00044_19644",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204006",
+      "question_topic_name": "(자연수):(자연수)의 비를 간단한 자연수 비로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비를 간단한 자연수의 비로 나타내려고 합니다. 각 항을 어떤 수로 나누어야 합니까? $40:56$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            477,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            21,
+            86,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            57
+          ],
+          "text": "비를 간단한 자연수의 비로 나타내려고 합니다. 각 항을 어떤 수로 나누어야 합니까? $40:56$"
+        }
+      ]
+    }
+  ]
+}

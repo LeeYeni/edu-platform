@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_05_00044_28309.png",
+  "id": "00044_28309",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105001",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 지역의 연도별 당근 생산량을 조사하여 나타낸 그림그래프입니다. 설명이 잘못된 것은 어느 것입니까? ① $2008$년도 당근 생산량은 $2600  \\mathrm{~kg} $입니다. ② $2010$년도 당근 생산량은 $3400  \\mathrm{~kg} $입니다. ③ 생산량이 가장 많은 해와 가장 적은 해의 차는 $800  \\mathrm{~kg} $입니다. ④ $2008$년부터 $2010$년까지 생산한 당근은 모두 $9100  \\mathrm{~kg} $입니다. ⑤ $2011$년의 당근 생산량은 $3800  \\mathrm{~kg} $으로 예상할 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            622,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            285,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            225,
+            282,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            247,
+            390,
+            267
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            269,
+            398,
+            289
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            291,
+            379,
+            311
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            35,
+            321,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            624,
+            22
+          ],
+          "text": "어느 지역의 연도별 당근 생산량을 조사하여 나타낸 그림그래프입니다. 설명이 잘못된 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            202,
+            400,
+            312
+          ],
+          "text": "① $2008$년도 당근 생산량은 $2600  \\mathrm{~kg} $입니다. ② $2010$년도 당근 생산량은 $3400  \\mathrm{~kg} $입니다. ③ 생산량이 가장 많은 해와 가장 적은 해의 차는 $800  \\mathrm{~kg} $입니다. ④ $2008$년부터 $2010$년까지 생산한 당근은 모두 $9100  \\mathrm{~kg} $입니다. ⑤ $2011$년의 당근 생산량은 $3800  \\mathrm{~kg} $으로 예상할 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

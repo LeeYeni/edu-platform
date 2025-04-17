@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_01_00044_10947.png",
+  "id": "00044_10947",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101009",
+      "question_topic_name": "(분수)÷(자연수)를 분수의 곱셈으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 계산이 바른 것은 어느 것입니까?   ① $\\frac{2}{3}\\div4=\\frac{2}{3}\\times4$ ② $\\frac{4}{5}\\div7=\\frac{4}{5}\\times7$ ③ $\\frac{3}{4}\\div5=\\frac{3}{4}\\times\\frac{1}{5}$ ④ $\\frac{1}{7}\\div6=7\\times\\frac{1}{6}$ ⑤ $\\frac{5}{6}\\div4=\\frac{6}{5}\\times\\frac{1}{4}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            133,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            133,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            142,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            132,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            142,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            255,
+            223
+          ],
+          "text": "다음 중 계산이 바른 것은 어느 것입니까?   ① $\\frac{2}{3}\\div4=\\frac{2}{3}\\times4$ ② $\\frac{4}{5}\\div7=\\frac{4}{5}\\times7$ ③ $\\frac{3}{4}\\div5=\\frac{3}{4}\\times\\frac{1}{5}$ ④ $\\frac{1}{7}\\div6=7\\times\\frac{1}{6}$ ⑤ $\\frac{5}{6}\\div4=\\frac{6}{5}\\times\\frac{1}{4}$"
+        }
+      ]
+    }
+  ]
+}

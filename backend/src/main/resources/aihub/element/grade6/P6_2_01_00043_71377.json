@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_01_00043_71377.png",
+  "id": "00043_71377",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201006",
+      "question_topic_name": "분자끼리 나누어떨어지지 않는 분모가 다른 (분수)÷(분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성우와 혜진이는 같은 크기의 가래떡을 두 가래씩 받았습니다. 물음에 답하시오. 성우 : 난 두 가래를 각각 5등분해서 한 조각씩 먹어야지.혜진 : 난 두 가래를 각각 4등분해서 한 조각씩 먹어야지. (1) 성우는 가래떡 두 가래를 모두 몇 조각으로 자르려고 합니까?(2) 혜진이는 가래떡 두 가래를 모두 몇 조각으로 자르려고 합니까?(3) 혜진이가 한 번에 먹으려는 가래떡은 성우가 한 번에 먹으려는 가래떡의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            346,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            55,
+            346,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            381,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            396,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            522,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            551,
+            143
+          ],
+          "text": "성우와 혜진이는 같은 크기의 가래떡을 두 가래씩 받았습니다. 물음에 답하시오. 성우 : 난 두 가래를 각각 5등분해서 한 조각씩 먹어야지.혜진 : 난 두 가래를 각각 4등분해서 한 조각씩 먹어야지. (1) 성우는 가래떡 두 가래를 모두 몇 조각으로 자르려고 합니까?(2) 혜진이는 가래떡 두 가래를 모두 몇 조각으로 자르려고 합니까?(3) 혜진이가 한 번에 먹으려는 가래떡은 성우가 한 번에 먹으려는 가래떡의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

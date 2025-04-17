@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_02_00040_63066.png",
+  "id": "00040_63066",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102006",
+      "question_topic_name": "각기둥의 구성 요소 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 각기둥의 요소에 대한 설명으로 옳은 것은 어느 것입니까? ① 밑면 : 옆으로 둘러싸인면 ② 옆면: 면과 면이만나는 선 ③ 모서리 : 두 밑면사이의 거리 ④ 높이 : 서로 평행인두면 ⑤ 꼭짓점 : 모서리와모서리가 만나는 점",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            392,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            187,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            187,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            203,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            174,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            254,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            394,
+            130
+          ],
+          "text": "다음 중 각기둥의 요소에 대한 설명으로 옳은 것은 어느 것입니까? ① 밑면 : 옆으로 둘러싸인면 ② 옆면: 면과 면이만나는 선 ③ 모서리 : 두 밑면사이의 거리 ④ 높이 : 서로 평행인두면 ⑤ 꼭짓점 : 모서리와모서리가 만나는 점"
+        }
+      ]
+    }
+  ]
+}

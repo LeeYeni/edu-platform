@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00042_28815.png",
+  "id": "00042_28815",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101002",
+      "question_topic_name": "곱셈과 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사다리꼴의 윗 쪽의 두 꼭짓점과 윗변을 2등분 하는 점을 아랫 변을 3등분 하는 점 두 개과 연결하여 사다리꼴을 나누는 정삼각형 5개",
+      "question_text": "세 변의 길이의 합이 $36cm$인 정삼각형을 그림과 같이 겹치지 않게 이어 붙인 도형의 둘레는 몇 $cm$인지 하나의 식으로 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            784,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            204,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            786,
+            26
+          ],
+          "text": "세 변의 길이의 합이 $36cm$인 정삼각형을 그림과 같이 겹치지 않게 이어 붙인 도형의 둘레는 몇 $cm$인지 하나의 식으로 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

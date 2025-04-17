@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_06_00044_39117.png",
+  "id": "00044_39117",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106017",
+      "question_topic_name": "삼각형의 구성요소 알기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "퍼즐판의 비어 있는 자리에 들어갈 삼각형 모양의 퍼즐 조각이 있습니다. 이 퍼즐 조각의 밑변을 변 ㄴㄷ이라고 할 때 높이는 몇 cm인지 자로 재어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            107,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            305,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            40
+          ],
+          "text": "퍼즐판의 비어 있는 자리에 들어갈 삼각형 모양의 퍼즐 조각이 있습니다. 이 퍼즐 조각의 밑변을 변 ㄴㄷ이라고 할 때 높이는 몇 cm인지 자로 재어 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_01_00042_09002.png",
+  "id": "00042_09002",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101004",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈이 섞여 있는 식의 계산",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영미는 $5000$원을 가지고 어머니와 함께 공책과 크레파스를 사기 위해서 문구점에 갔습니다. $450$원짜리 공책 $4$권과 크레파스 한 통을 샀는데 $2000$원이 부족하여 어머니께서 내주셨습니다. 영미가 산 크레파스의 값은 얼마입니까? ①$1800원②5000$원③$5200$원④$5550$원⑤$6000$원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            532,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            89,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            92,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            90,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            88,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            93,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            152
+          ],
+          "text": "영미는 $5000$원을 가지고 어머니와 함께 공책과 크레파스를 사기 위해서 문구점에 갔습니다. $450$원짜리 공책 $4$권과 크레파스 한 통을 샀는데 $2000$원이 부족하여 어머니께서 내주셨습니다. 영미가 산 크레파스의 값은 얼마입니까? ①$1800원②5000$원③$5200$원④$5550$원⑤$6000$원"
+        }
+      ]
+    }
+  ]
+}

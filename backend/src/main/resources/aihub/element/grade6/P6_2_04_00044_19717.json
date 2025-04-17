@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_04_00044_19717.png",
+  "id": "00044_19717",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204014",
+      "question_topic_name": "비례식의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 식을 보고 ㉮와 ㉯의 비를 간단한 자연수의 비로 나타내시오.㉮$\\times$0.4=㉯$ \\times \\frac{3}{4} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            111,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            59
+          ],
+          "text": "다음 식을 보고 ㉮와 ㉯의 비를 간단한 자연수의 비로 나타내시오.㉮$\\times$0.4=㉯$ \\times \\frac{3}{4} $"
+        }
+      ]
+    }
+  ]
+}

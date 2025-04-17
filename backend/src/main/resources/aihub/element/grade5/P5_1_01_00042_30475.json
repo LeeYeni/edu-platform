@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_01_00042_30475.png",
+  "id": "00042_30475",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같이 계산 순서를 나타내고 $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}61+25 \\div 5-13=61+\\square-13 =\\square-13\\end{array} =\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            401,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            121,
+            219,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            96,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            63,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40.72,
+            27.44,
+            265.72,
+            118.44
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.72,
+            0.44,
+            401.72,
+            17.44
+          ],
+          "text": "보기와 같이 계산 순서를 나타내고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.72,
+            126.44,
+            219.72,
+            191.44
+          ],
+          "text": "$ \\begin{array}{l}61+25 \\div 5-13=61+\\square-13 =\\square-13\\end{array} =\\square $"
+        }
+      ]
+    }
+  ]
+}

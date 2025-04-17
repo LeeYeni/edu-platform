@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_70403.png",
+  "id": "00043_70403",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205003",
+      "question_topic_name": "직육면체의 모서리, 꼭짓점, 면의 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. 직육면체에서 $2$개의 면이 만나면$\\square$ 개의 모서리가 생기고, 한 꼭짓점에는 $\\square$개의 모서리가 만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            666,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            662,
+            57
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. 직육면체에서 $2$개의 면이 만나면$\\square$ 개의 모서리가 생기고, 한 꼭짓점에는 $\\square$개의 모서리가 만납니다."
+        }
+      ]
+    }
+  ]
+}

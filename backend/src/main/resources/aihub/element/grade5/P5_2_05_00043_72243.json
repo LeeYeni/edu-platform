@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_05_00043_72243.png",
+  "id": "00043_72243",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205017",
+      "question_topic_name": "직육면체의 전개도 살펴보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로의 길이가 6 cm인 네 개의 면이 옆으로 나란히 있고, 두 번째 직사각형 위로 가로, 세로의 길이가 모두 3 cm인 정사각형이 있고, 나란한 면 중 세 번째 면 아래에 색칠된 면 가가 있는 직육면체 전개도",
+      "question_text": "전개도를 보고 물음에 답하시오.   (1) 직육면체를 접었을 때 면 가와 평행한 면의 가로와 세로의 길이를 각각 쓰시오. (2) 직육면체를 접었을 때 면 가와 수직으로 만나는 면을 모두 찾아 색칠하고 색칠한 부분의 가로와 세로의 길이를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            177,
+            477,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            197,
+            744,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            188,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            25
+          ],
+          "text": "전개도를 보고 물음에 답하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            175,
+            746,
+            218
+          ],
+          "text": "(1) 직육면체를 접었을 때 면 가와 평행한 면의 가로와 세로의 길이를 각각 쓰시오. (2) 직육면체를 접었을 때 면 가와 수직으로 만나는 면을 모두 찾아 색칠하고 색칠한 부분의 가로와 세로의 길이를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

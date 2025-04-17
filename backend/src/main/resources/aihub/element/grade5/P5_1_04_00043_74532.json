@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_04_00043_74532.png",
+  "id": "00043_74532",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104002",
+      "question_topic_name": "곱셈을 이용하여 크기가 같은 분수 만들기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{2}{7} $와 크기가 같은 분수 중에서 분자가 $8$인 분수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            363,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            365,
+            38
+          ],
+          "text": "$ \\frac{2}{7} $와 크기가 같은 분수 중에서 분자가 $8$인 분수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

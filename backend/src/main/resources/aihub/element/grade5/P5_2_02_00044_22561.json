@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_22561.png",
+  "id": "00044_22561",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202011",
+      "question_topic_name": "자연수가 분모의 배수가 아닌 (자연수)x(진분수)_약분한 후 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지선이는 오늘부터 줄넘기를 하여 일주일 동안 $1200$번을 하려고 합니다. 오늘은 목표한 줄넘기 횟수의 $ \\frac{2}{15} $를 넘었다고 합니다. 오늘은 줄넘기를 몇 번 넘었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            281,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            682,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            684,
+            59
+          ],
+          "text": "지선이는 오늘부터 줄넘기를 하여 일주일 동안 $1200$번을 하려고 합니다. 오늘은 목표한 줄넘기 횟수의 $ \\frac{2}{15} $를 넘었다고 합니다. 오늘은 줄넘기를 몇 번 넘었습니까?"
+        }
+      ]
+    }
+  ]
+}

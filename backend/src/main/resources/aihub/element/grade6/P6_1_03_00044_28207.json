@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00044_28207.png",
+  "id": "00044_28207",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103018",
+      "question_topic_name": "(자연수) ÷ (자연수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준영이네 밭의 넓이는 $50 \\mathrm{~m}^{2}$입니다. 이 밭을 똑같이 여섯 부분으로 나누어 그중의 한 부분에 감자를 심었습니다. 감자를 심은 곳의 넓이는 약 몇 $\\mathrm{~m}^{2}$인지 반올림하여 소수 셋째 자리까지 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            346,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "준영이네 밭의 넓이는 $50 \\mathrm{~m}^{2}$입니다. 이 밭을 똑같이 여섯 부분으로 나누어 그중의 한 부분에 감자를 심었습니다. 감자를 심은 곳의 넓이는 약 몇 $\\mathrm{~m}^{2}$인지 반올림하여 소수 셋째 자리까지 나타내시오."
+        }
+      ]
+    }
+  ]
+}

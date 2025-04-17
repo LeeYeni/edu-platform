@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_05_00043_75736.png",
+  "id": "00043_75736",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105006",
+      "question_topic_name": "받아올림이 있는 진분수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 한 개의 무게가 다음과 같을 때 누구의 바구니에 담긴 과일의 무게가 더 무거운지 구하시오. 사과 $ \\frac{5}{8} kg$ 배 $ \\frac{3}{4} kg$ 복숭아 $ \\frac{2}{5} kg$ 참외 $ \\frac{4}{7} kg $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            558,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            27,
+            283,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            112,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            123,
+            252,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            570,
+            119
+          ],
+          "text": "과일 한 개의 무게가 다음과 같을 때 누구의 바구니에 담긴 과일의 무게가 더 무거운지 구하시오. 사과 $ \\frac{5}{8} kg$ 배 $ \\frac{3}{4} kg$ 복숭아 $ \\frac{2}{5} kg$ 참외 $ \\frac{4}{7} kg $"
+        }
+      ]
+    }
+  ]
+}

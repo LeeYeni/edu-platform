@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_03_00044_05171.png",
+  "id": "00044_05171",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103002",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 두 자리수)÷(자연수)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$13.38L$의 우유를 똑같은 병 $6$개에 나누어 담으려고 합니다. 한 병에 들어가는 우유의 양을 구하는 식으로 잘못된 것은 어느 것입니까? ① $ 13.38 \\div 6 $ ② $ \\frac{1338}{100} \\div 6 $ ③ $ 13.38 \\times \\frac{1}{6} $ ④ $ \\frac{1338}{100} \\times 6 $ ⑤ $ \\frac{1338}{100} \\times \\frac{1}{6} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            770,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            94,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            46,
+            109,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            88,
+            114,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            111,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            120,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            772,
+            205
+          ],
+          "text": "$13.38L$의 우유를 똑같은 병 $6$개에 나누어 담으려고 합니다. 한 병에 들어가는 우유의 양을 구하는 식으로 잘못된 것은 어느 것입니까? ① $ 13.38 \\div 6 $ ② $ \\frac{1338}{100} \\div 6 $ ③ $ 13.38 \\times \\frac{1}{6} $ ④ $ \\frac{1338}{100} \\times 6 $ ⑤ $ \\frac{1338}{100} \\times \\frac{1}{6} $"
+        }
+      ]
+    }
+  ]
+}

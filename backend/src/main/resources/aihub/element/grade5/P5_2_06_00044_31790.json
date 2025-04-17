@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_06_00044_31790.png",
+  "id": "00044_31790",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206001",
+      "question_topic_name": "평균 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 표는 정우의 오래 매달리기 기록을 나타낸 것입니다. 물음에 답하시오 표  (1) 정우의 $6$회 동안 매달린 시간은 모두 몇 초입니까?  (2) 정우의 오래 매달리기 평균 기록은 몇 초입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            172,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            61,
+            233,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            322,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            313,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            444,
+            157
+          ],
+          "text": "다음 표는 정우의 오래 매달리기 기록을 나타낸 것입니다. 물음에 답하시오 표  (1) 정우의 $6$회 동안 매달린 시간은 모두 몇 초입니까?  (2) 정우의 오래 매달리기 평균 기록은 몇 초입니까?"
+        }
+      ]
+    }
+  ]
+}

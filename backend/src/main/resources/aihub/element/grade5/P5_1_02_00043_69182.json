@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_02_00043_69182.png",
+  "id": "00043_69182",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "매미가 어른 벌레로서 울 수 있는 것은 일생에서 몇 주 되지 않는 짧은 기간이기 때문에 알에서 부화하여 애벌레로 땅속 생활을 하는 기간이 매미의 수명인 셈입니다. 생존 주기가 $4$년인 천적이 있을 때, 생존 주기가 $5$년인 매미와 $7$년인 매미 중 생존 주기가 몇 년인 매미가 천적을 덜 자주 만나겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            758,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            764,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            220,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            62
+          ],
+          "text": "매미가 어른 벌레로서 울 수 있는 것은 일생에서 몇 주 되지 않는 짧은 기간이기 때문에 알에서 부화하여 애벌레로 땅속 생활을 하는 기간이 매미의 수명인 셈입니다. 생존 주기가 $4$년인 천적이 있을 때, 생존 주기가 $5$년인 매미와 $7$년인 매미 중 생존 주기가 몇 년인 매미가 천적을 덜 자주 만나겠습니까?"
+        }
+      ]
+    }
+  ]
+}

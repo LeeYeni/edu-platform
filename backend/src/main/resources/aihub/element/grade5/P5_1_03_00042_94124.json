@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_03_00042_94124.png",
+  "id": "00042_94124",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103002",
+      "question_topic_name": "변하는 부분과 변하지 않는 부분을 찾아 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "문어 수와 다리 수 사이의 대응 관계를 나타낸 표입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>문어 수(마리)</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td></td>     </tr>     <tr>       <td>다리수(개)</td>       <td>$8$</td>       <td>$16$</td>       <td></td>       <td></td>       <td>$40$</td>     </tr> </tbody> </table> ⑴ 빈칸에 알맞은 수를 써넣으시오.  ⑵ 문어 수와 문어 다리 수 사이의 대응 관계를 설명하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            433,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            283,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            216,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            350,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            435,
+            113
+          ],
+          "text": "문어 수와 다리 수 사이의 대응 관계를 나타낸 표입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>문어 수(마리)</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td></td>     </tr>     <tr>       <td>다리수(개)</td>       <td>$8$</td>       <td>$16$</td>       <td></td>       <td></td>       <td>$40$</td>     </tr> </tbody> </table> ⑴ 빈칸에 알맞은 수를 써넣으시오.  ⑵ 문어 수와 문어 다리 수 사이의 대응 관계를 설명하시오."
+        }
+      ]
+    }
+  ]
+}

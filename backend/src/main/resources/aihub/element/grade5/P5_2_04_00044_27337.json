@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_2_04_00044_27337.png",
+  "id": "00044_27337",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204012",
+      "question_topic_name": "(자연수)x(1보다 작은 소수)를 자연수의 곱셈으로 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $\\begin{array}{r}15 \\\\ \\times 0.4 \\\\ \\hline\\end{array}  \\rightarrow$ $\\begin{array}{r}15 \\\\ \\times  4 \\\\ \\hline \\square\\end{array} \\rightarrow$ $\\begin{array}{r}15 \\\\ \\times 0.4 \\\\ \\hline \\square\\end{array}$  (2) $\\begin{array}{r}35 \\\\ \\times 0.15 \\\\ \\hline\\end{array} \\rightarrow \\begin{array}{r}35 \\\\ \\times  15 \\\\ \\hline \\square\\end{array} \\rightarrow \\begin{array}{r}35 \\\\ \\times 0.15 \\\\ \\hline \\square\\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91,
+            24,
+            131,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            27,
+            72,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            144,
+            24,
+            187,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            163,
+            102,
+            207,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            121,
+            79,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            98,
+            102,
+            142,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            209,
+            177
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $\\begin{array}{r}15 \\\\ \\times 0.4 \\\\ \\hline\\end{array}  \\rightarrow$ $\\begin{array}{r}15 \\\\ \\times  4 \\\\ \\hline \\square\\end{array} \\rightarrow$ $\\begin{array}{r}15 \\\\ \\times 0.4 \\\\ \\hline \\square\\end{array}$  (2) $\\begin{array}{r}35 \\\\ \\times 0.15 \\\\ \\hline\\end{array} \\rightarrow \\begin{array}{r}35 \\\\ \\times  15 \\\\ \\hline \\square\\end{array} \\rightarrow \\begin{array}{r}35 \\\\ \\times 0.15 \\\\ \\hline \\square\\end{array}$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_04_00043_76409.png",
+  "id": "00043_76409",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104013",
+      "question_topic_name": "백분율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$100$원짜리 동전 수와 $10$원짜리 동전 수 사이의 관계를 알아보려고 합니다. 물음에 답하시오. <table border>   <tbody>     <tr>       <td>$100$원짜리 동전수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>$10$원짜리 동전 수</td>       <td>$10$</td>       <td>$20$</td>       <td></td>       <td></td>     </tr> </tbody> </table> (1) 같은 금액을 나타내도록 표를 완성하시오. (2) $100$원짜리 동전 수와 $10$원짜리 동전 수 사이의 관계를 설명하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            537,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            293,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            273,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            418,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            541,
+            113
+          ],
+          "text": "$100$원짜리 동전 수와 $10$원짜리 동전 수 사이의 관계를 알아보려고 합니다. 물음에 답하시오. <table border>   <tbody>     <tr>       <td>$100$원짜리 동전수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>$10$원짜리 동전 수</td>       <td>$10$</td>       <td>$20$</td>       <td></td>       <td></td>     </tr> </tbody> </table> (1) 같은 금액을 나타내도록 표를 완성하시오. (2) $100$원짜리 동전 수와 $10$원짜리 동전 수 사이의 관계를 설명하시오."
+        }
+      ]
+    }
+  ]
+}

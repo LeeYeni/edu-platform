@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_05_00044_38341.png",
+  "id": "00044_38341",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205021",
+      "question_topic_name": "원의 넓이를 이용하여 원주 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "넓이가 $ 27.9 \\mathrm{~cm}^{2} $ 인 원의 반지름과 원주를 각각 구하시오. (원주율 :$ 3.1$)  반지름 ( ) 원주 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            172,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            160,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            419,
+            61
+          ],
+          "text": "넓이가 $ 27.9 \\mathrm{~cm}^{2} $ 인 원의 반지름과 원주를 각각 구하시오. (원주율 :$ 3.1$)  반지름 ( ) 원주 ( )"
+        }
+      ]
+    }
+  ]
+}

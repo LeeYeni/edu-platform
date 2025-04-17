@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_19348.png",
+  "id": "00044_19348",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 18 cm인 삼각형의 윗 꼭짓각에서 밑변에 내린 점선과 밑변이 이루는 좌측 각의 크기가 직각인 삼각형의 세 꼭짓점을 지나는 원이 있을 때, 삼각형의 내부에 있는 점선과 삼각형의 밑변과의 교점이 원의 중심이고 원에서 삼각형을 뺀 부분이 보라색으로 색칠 된 도형",
+      "question_text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            138,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            23
+          ],
+          "text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

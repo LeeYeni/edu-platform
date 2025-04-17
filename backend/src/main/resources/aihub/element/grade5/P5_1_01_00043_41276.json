@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_01_00043_41276.png",
+  "id": "00043_41276",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명우가 붙임 딱지를 붙인 곳에 들어갈 수 있는 자연수를 모두 구하시오. $20-27 \\div 9>5+3 \\times \\clubsuit$  (1) $20-27 \\div 9$ 의 값은 얼마입니까? (2) $20-27 \\div 9=5+3 \\times \\clubsuit 일 때, \\clubsuit$ 의 값은 얼마입니까? (3) $\\clubsuit$ 붙인 딱지를 붙인 곳에 들어갈 수 있는 자연수를 모두 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            433,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            54,
+            210,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            207,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            307,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            408,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            435,
+            177
+          ],
+          "text": "명우가 붙임 딱지를 붙인 곳에 들어갈 수 있는 자연수를 모두 구하시오. $20-27 \\div 9>5+3 \\times \\clubsuit$  (1) $20-27 \\div 9$ 의 값은 얼마입니까? (2) $20-27 \\div 9=5+3 \\times \\clubsuit 일 때, \\clubsuit$ 의 값은 얼마입니까? (3) $\\clubsuit$ 붙인 딱지를 붙인 곳에 들어갈 수 있는 자연수를 모두 구하시오."
+        }
+      ]
+    }
+  ]
+}

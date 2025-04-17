@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_59825.png",
+  "id": "00043_59825",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103001",
+      "question_topic_name": "규칙적인 배열에서 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\blacklozenge$는 $\\diamondsuit$보다 $3$ 큰 수입니다. $\\diamondsuit$와 $\\blacklozenge$ 사이의 대응 관계를 알고 표를 완성하시오.  <table border>   <tbody>     <tr>       <td>$\\diamondsuit$</td>       <td>$1~$</td>       <td>$2~$</td>       <td>$~~~ $</td>       <td>$4~$</td>       <td>$~~~$</td>     </tr>     <tr>       <td>$\\blacklozenge$</td>       <td>$~~$</td>       <td>$~~$</td>       <td>$6~$</td>       <td>$~~$</td>       <td>$8~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            461,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            189,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            463,
+            70
+          ],
+          "text": "$\\blacklozenge$는 $\\diamondsuit$보다 $3$ 큰 수입니다. $\\diamondsuit$와 $\\blacklozenge$ 사이의 대응 관계를 알고 표를 완성하시오.  <table border>   <tbody>     <tr>       <td>$\\diamondsuit$</td>       <td>$1~$</td>       <td>$2~$</td>       <td>$~~~ $</td>       <td>$4~$</td>       <td>$~~~$</td>     </tr>     <tr>       <td>$\\blacklozenge$</td>       <td>$~~$</td>       <td>$~~$</td>       <td>$6~$</td>       <td>$~~$</td>       <td>$8~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

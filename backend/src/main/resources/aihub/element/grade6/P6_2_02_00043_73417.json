@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_02_00043_73417.png",
+  "id": "00043_73417",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ 54 \\div 9 $ = $\\square$ $ 54 \\div 0.9 $ = $\\square$ $ 54 \\div 0.9 $ = $\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            107,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            51,
+            128,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            80,
+            137,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            203,
+            107
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ 54 \\div 9 $ = $\\square$ $ 54 \\div 0.9 $ = $\\square$ $ 54 \\div 0.9 $ = $\\square$"
+        }
+      ]
+    }
+  ]
+}

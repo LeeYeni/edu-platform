@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41390.png",
+  "id": "00044_41390",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 5 cm, 세로의 길이가 11 cm, 높이가 4 cm인 직육면체",
+      "question_text": "상자에 부피가 $1cm³$인 쌓기나무를 몇 개까지 담을 수 있고, 상자의 부피는 몇 $cm³$인지 구하시오. (단, 상자의 두께는 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            786,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            31,
+            180,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            1,
+            788,
+            22
+          ],
+          "text": "상자에 부피가 $1cm³$인 쌓기나무를 몇 개까지 담을 수 있고, 상자의 부피는 몇 $cm³$인지 구하시오. (단, 상자의 두께는 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

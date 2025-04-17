@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_01_00043_57271.png",
+  "id": "00043_57271",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수를 반올림하여 천의 자리까지 나타냈더니 $38000$이 되었습니다. 다음 중 어떤 수가 될 수 있는 수는 어느 것입니까? ①$37200$ ②$36900$ ③$37500$ ④$37199$ ⑤$38611$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            85,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            87,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            85,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            81,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            79,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            713,
+            130
+          ],
+          "text": "어떤 수를 반올림하여 천의 자리까지 나타냈더니 $38000$이 되었습니다. 다음 중 어떤 수가 될 수 있는 수는 어느 것입니까? ①$37200$ ②$36900$ ③$37500$ ④$37199$ ⑤$38611$"
+        }
+      ]
+    }
+  ]
+}

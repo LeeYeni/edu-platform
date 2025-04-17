@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_01_00040_19648.png",
+  "id": "00040_19648",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101010",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 식이 성립하도록 $＋, －, \\times, \\div$의 기호를 차례대로 넣은 것은 어느 것입니까? $15 \\bigcirc  10 \\bigcirc 2 \\bigcirc 4 \\bigcirc 3 = 22$ ① $-, \\div,+, \\times$ ② $-, \\times, \\div, +$ ③ $+, \\div, \\times, -$ ④ $+, \\times, \\div,-$ ⑤ $+,-, \\times, \\div$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            468,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            199,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            101,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            98,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            98,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            98,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            101,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            483,
+            166
+          ],
+          "text": "다음 식이 성립하도록 $＋, －, \\times, \\div$의 기호를 차례대로 넣은 것은 어느 것입니까? $15 \\bigcirc  10 \\bigcirc 2 \\bigcirc 4 \\bigcirc 3 = 22$ ① $-, \\div,+, \\times$ ② $-, \\times, \\div, +$ ③ $+, \\div, \\times, -$ ④ $+, \\times, \\div,-$ ⑤ $+,-, \\times, \\div$"
+        }
+      ]
+    }
+  ]
+}

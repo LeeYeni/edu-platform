@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_02_00043_73598.png",
+  "id": "00043_73598",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202012",
+      "question_topic_name": "(자연수)÷(소수 한 자리 수)_세로셈",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식을 보고 $\\square$ 안에 알맞은 말이나 수를 써넣으시오.    $ \\begin{array}{r} 2.233\\phantom{)} \\\\ 3{\\overline{\\smash{\\big)}\\,6.700~~\\phantom{)}}}\\\\ \\underline{~~~~~~~~~6~~~~~~~~~\\phantom{)}}\\\\~7~~~~~~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~~~~~~6~~~~~~~\\phantom{)}}  \\\\ ~~~~~~~~~~~~~~10~~~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~9~~~~\\phantom{)}}   \\\\ ~~~~~~~~~~~~10~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~~~9~~  \\phantom{)}} \\\\ 1~~\\phantom{\\phantom{)}} \\end{array} $  (1) $6.7\\div3$의 몫을 반올림하여 소수 첫째 자리까지 나타내려면 소수 $\\square$ 자리에서 반올림해야 하므로 몫은 $\\square$ 입니다. (2) $6.7\\div3$의 몫을 반올림하여 소수 둘째 자리까지 나타내려면 소수 $\\square$ 자리에서 반올림해야 하므로 몫은 $\\square$ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            91,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            231,
+            723,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            260,
+            735,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            737,
+            287
+          ],
+          "text": "나눗셈식을 보고 $\\square$ 안에 알맞은 말이나 수를 써넣으시오.    $ \\begin{array}{r} 2.233\\phantom{)} \\\\ 3{\\overline{\\smash{\\big)}\\,6.700~~\\phantom{)}}}\\\\ \\underline{~~~~~~~~~6~~~~~~~~~\\phantom{)}}\\\\~7~~~~~~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~~~~~~6~~~~~~~\\phantom{)}}  \\\\ ~~~~~~~~~~~~~~10~~~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~9~~~~\\phantom{)}}   \\\\ ~~~~~~~~~~~~10~~\\phantom{\\phantom{)}} \\\\ \\underline{~~~~~~~~~~9~~  \\phantom{)}} \\\\ 1~~\\phantom{\\phantom{)}} \\end{array} $  (1) $6.7\\div3$의 몫을 반올림하여 소수 첫째 자리까지 나타내려면 소수 $\\square$ 자리에서 반올림해야 하므로 몫은 $\\square$ 입니다. (2) $6.7\\div3$의 몫을 반올림하여 소수 둘째 자리까지 나타내려면 소수 $\\square$ 자리에서 반올림해야 하므로 몫은 $\\square$ 입니다."
+        }
+      ]
+    }
+  ]
+}

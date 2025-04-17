@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_04_00043_67837.png",
+  "id": "00043_67837",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104001",
+      "question_topic_name": "두 수 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "귤 수와 복숭아 수를 나눗셈으로 비교하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.  (1) $8\\div4=\\square$  (2) 귤 수는 복숭아 수의 $\\square$배입니다.$8$은 $\\square$의 $\\square$ 배입니다. (3) 복숭아 수는 귤 수의 $\\square$입니다. $4$는 $8$의 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            499,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            116,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            260,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            212,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            174,
+            251,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            226,
+            176,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            324,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            502,
+            24
+          ],
+          "text": "귤 수와 복숭아 수를 나눗셈으로 비교하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            108,
+            262,
+            270
+          ],
+          "text": "(1) $8\\div4=\\square$  (2) 귤 수는 복숭아 수의 $\\square$배입니다.$8$은 $\\square$의 $\\square$ 배입니다. (3) 복숭아 수는 귤 수의 $\\square$입니다. $4$는 $8$의 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

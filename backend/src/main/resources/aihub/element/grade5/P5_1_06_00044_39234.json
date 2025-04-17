@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39234.png",
+  "id": "00044_39234",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106024",
+      "question_topic_name": "사다리꼴의 구성 요소 알기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "두 각이 직각인 사다리꼴이 있고, 평행하는 두 변의 길이가 각각 5 cm, 8 cm이고, 양 끝 각이 직각인 변의 길이가 9 cm 일 때, 5 cm선분은 좌측아래에서 우하향하고, 8 cm인 선분은 우측 위에서 나타낸 그림 우하향하는 그림",
+      "question_text": "다음 사다리꼴에서 윗변은 $8cm$입니다. 아랫변과 높이는 각각 몇 $cm$인지 쓰시오. 아랫변  (             )  높이  (                )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            474,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            27,
+            157,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            476,
+            23
+          ],
+          "text": "다음 사다리꼴에서 윗변은 $8cm$입니다. 아랫변과 높이는 각각 몇 $cm$인지 쓰시오. 아랫변  (             )  높이  (                )"
+        }
+      ]
+    }
+  ]
+}

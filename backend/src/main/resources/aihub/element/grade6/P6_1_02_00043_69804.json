@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_69804.png",
+  "id": "00043_69804",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102020",
+      "question_topic_name": "각뿔의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑면의 모양이 다음과 같은 각뿔의 면, 모서리, 꼭짓점의 수를 각각 구하시오 .면의 수 ( )모서리의 수 ( )꼭짓점의 수 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            449,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            109,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            451,
+            23
+          ],
+          "text": "밑면의 모양이 다음과 같은 각뿔의 면, 모서리, 꼭짓점의 수를 각각 구하시오 .면의 수 ( )모서리의 수 ( )꼭짓점의 수 ( )"
+        }
+      ]
+    }
+  ]
+}

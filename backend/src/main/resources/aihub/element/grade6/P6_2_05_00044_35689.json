@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_05_00044_35689.png",
+  "id": "00044_35689",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205012",
+      "question_topic_name": "반지름과 원의 넓이의 관계 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 반지름이 $11 cm$인 원의 넓이를 구하는 식으로 알맞은 것은 어느 것입니까? (원주율 : $3.14$) ①$11×3.14$ ②$5.5×5.5×3.14$ ③$11×2×3.14$ ④$5.5×2×3.14$ ⑤$11×11×3.14$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            483,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            105,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            89,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            122,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            105,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            112,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            107,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            485,
+            152
+          ],
+          "text": "다음 중 반지름이 $11 cm$인 원의 넓이를 구하는 식으로 알맞은 것은 어느 것입니까? (원주율 : $3.14$) ①$11×3.14$ ②$5.5×5.5×3.14$ ③$11×2×3.14$ ④$5.5×2×3.14$ ⑤$11×11×3.14$"
+        }
+      ]
+    }
+  ]
+}

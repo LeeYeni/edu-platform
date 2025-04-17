@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00043_73263.png",
+  "id": "00043_73263",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202010",
+      "question_topic_name": "자릿수가 다른 (소수)÷(소수)의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가$ 25.4cm$인 양초가 있습니다. 이 양초에 불을 붙이고 난 후 $3$분 동안 $0.36cm$가 탔다면 몇 시간 몇 분 후에 양초의 길이가 $12.2cm$가 되겠습니까? (단, 양초가 $1$분 동안 타는 길이는 일정하다고 생각합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            422,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "길이가$ 25.4cm$인 양초가 있습니다. 이 양초에 불을 붙이고 난 후 $3$분 동안 $0.36cm$가 탔다면 몇 시간 몇 분 후에 양초의 길이가 $12.2cm$가 되겠습니까? (단, 양초가 $1$분 동안 타는 길이는 일정하다고 생각합니다.)"
+        }
+      ]
+    }
+  ]
+}

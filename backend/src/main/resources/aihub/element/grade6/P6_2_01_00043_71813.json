@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_01_00043_71813.png",
+  "id": "00043_71813",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201015",
+      "question_topic_name": "(대분수)÷(대분수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗변과 아랫 변의 길이가 각각 4와 5분의 1 cm, 7과 5분의 1 cm이고, 오른변이 두 변과 각각 수직인 사다리꼴",
+      "question_text": "다음 넓이가 $ 23 \\frac{7}{10} \\mathrm{~cm}^{2} $인 사다리꼴입니다. 높이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            412,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            44,
+            125,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            414,
+            38
+          ],
+          "text": "다음 넓이가 $ 23 \\frac{7}{10} \\mathrm{~cm}^{2} $인 사다리꼴입니다. 높이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

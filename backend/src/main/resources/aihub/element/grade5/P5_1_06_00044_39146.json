@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39146.png",
+  "id": "00044_39146",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 12 cm이고 밑변과 수직인 높이가 5 cm인 예각삼각형",
+      "question_text": "삼각형의 넓이는  $ \\mathrm{cm}^{2} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            202,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            183,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            204,
+            22
+          ],
+          "text": "삼각형의 넓이는  $ \\mathrm{cm}^{2} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

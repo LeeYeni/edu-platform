@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_04_00043_74842.png",
+  "id": "00043_74842",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104024",
+      "question_topic_name": "두 분모의 공배수를 공통분모로 하여 통분하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{3}{4}$과 $\\frac{9}{10}$를 통분하려고 합니다. 공통분모가 될 수 있는 수를 $3$개 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            441,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            443,
+            37
+          ],
+          "text": "$\\frac{3}{4}$과 $\\frac{9}{10}$를 통분하려고 합니다. 공통분모가 될 수 있는 수를 $3$개 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_05_00043_70562.png",
+  "id": "00043_70562",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205008",
+      "question_topic_name": "직육면체와 정육면체의 공통점과 차이점 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직육면체와 정육면체에 대한 설명으로 틀린 것의 기호를 쓰시오. ㉠ 정육면체와 직육면체의 모서리의 수는 같습니다. ㉡ 정육면체의 모서리의 길이는 모두 다릅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            317,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            57,
+            294,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "직육면체와 정육면체에 대한 설명으로 틀린 것의 기호를 쓰시오. ㉠ 정육면체와 직육면체의 모서리의 수는 같습니다. ㉡ 정육면체의 모서리의 길이는 모두 다릅니다."
+        }
+      ]
+    }
+  ]
+}

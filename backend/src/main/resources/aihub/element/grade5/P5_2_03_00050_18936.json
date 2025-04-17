@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18936.png",
+  "id": "00050_18936",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203010",
+      "question_topic_name": "점대칭도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로로 있고 점선으로 그린 선분 ㄱㄹ 중앙에 대칭의 중심점 ㅇ이 있고, 점 ㄱ에서 왼쪽 아래 7 cm 떨어진 위치에 점 ㄴ, 점 ㄴ에서 오른쪽 아래 일정한 거리만큼 떨어진 위치에 점 ㄷ, 점 ㄷ에서 오른쪽 아래 130도를 이루는 위치에 점 ㄹ이 있고, 점 ㄴ, ㄷ의 대응점은 각각 점 ㅁ, ㅂ이고 선분ㄱㅂ, ㅁㅂ의 길이가 각각 3 cm, 7 cm이고 각 ㅇㄱㅂ, ㅁ의 크기가 각각 85도, 60도이고, 각 ㅇㄹㅁ에 크기를 나타내는 기호가 있고, 점 ㅇ을 제외한 점들을 차례로 연결한 점대칭도형 다각형 ㄱㄴㄷㄹㅁㅂ",
+      "question_text": "점대칭도형에서 각 ㄱㄹㅁ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            280,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            304,
+            48,
+            516,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            282,
+            21
+          ],
+          "text": "점대칭도형에서 각 ㄱㄹㅁ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

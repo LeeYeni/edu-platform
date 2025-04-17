@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00050_27244.png",
+  "id": "00050_27244",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203006",
+      "question_topic_name": "위, 앞, 옆에서 본 모양을 보고 쌓은 모양과 쌓기나무 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쌓기나무로 쌓은 모양을 앞과 옆에서 본 모양이 다음과 같습니다. 이 모양을 만들기 위해 필요한 쌓기나무의 최대 개수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            752,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            303,
+            30,
+            521,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            754,
+            22
+          ],
+          "text": "쌓기나무로 쌓은 모양을 앞과 옆에서 본 모양이 다음과 같습니다. 이 모양을 만들기 위해 필요한 쌓기나무의 최대 개수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

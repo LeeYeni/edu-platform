@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00050_19309.png",
+  "id": "00050_19309",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103008",
+      "question_topic_name": "몫이 1보다 작은 소수인 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "탄산수소 나트륨 용액 $1.08L$를 페트리 접시 $4$개에 똑같이 나누어 담았습니다. 페트리 접시 한 개에 담은 탄산수소 나트륨 용액은 몇 $L$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            40
+          ],
+          "text": "탄산수소 나트륨 용액 $1.08L$를 페트리 접시 $4$개에 똑같이 나누어 담았습니다. 페트리 접시 한 개에 담은 탄산수소 나트륨 용액은 몇 $L$입니까?"
+        }
+      ]
+    }
+  ]
+}

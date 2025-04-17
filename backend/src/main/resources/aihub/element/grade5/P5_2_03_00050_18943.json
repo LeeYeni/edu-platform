@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18943.png",
+  "id": "00050_18943",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203011",
+      "question_topic_name": "점대칭도형 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 11 cm, 왼쪽 세로변의 길이가 7 cm인 직사각형에서 오른쪽 변은 오른쪽 꼭짓점 위에서 1 cm의 길이만 그려져 있고 오른쪽 세로변의 나머지 부분의 중간 지점에 빨간색 점ㅇ이 그려진 그림",
+      "question_text": "도형은 점 ㅇ을 대칭의 중심으로 하는 점대칭도형의 일부분입니다. 점대칭도형을 완성하였을 때 완성된 점대칭도형의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            43,
+            274,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            22
+          ],
+          "text": "도형은 점 ㅇ을 대칭의 중심으로 하는 점대칭도형의 일부분입니다. 점대칭도형을 완성하였을 때 완성된 점대칭도형의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_02_00042_80627.png",
+  "id": "00042_80627",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 6.3 \\div 0.7 $ 과 몫이 같은 것은 어느 것입니까? ① $ 0.63 \\div 0.07 $ ② $ 63 \\div 0.7 $ ③ $ 0.7 \\div 6.3 $ ④ $ 0.63 \\div 0.7 $ ⑤ $ 0.63 \\div 7 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            259,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            111,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            89,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            92,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            102,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            89,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            261,
+            130
+          ],
+          "text": "$ 6.3 \\div 0.7 $ 과 몫이 같은 것은 어느 것입니까? ① $ 0.63 \\div 0.07 $ ② $ 63 \\div 0.7 $ ③ $ 0.7 \\div 6.3 $ ④ $ 0.63 \\div 0.7 $ ⑤ $ 0.63 \\div 7 $"
+        }
+      ]
+    }
+  ]
+}

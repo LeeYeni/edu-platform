@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_03_00050_18891.png",
+  "id": "00050_18891",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203009",
+      "question_topic_name": "점대칭도형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1691$은 점대칭도형입니다. 숫자를 사용하여 $1691$보다 작은 점대칭도형인 네 자리 수를 만들려고 합니다. 만들 수 있는 수를 모두 쓰시오.(이때, 같은 숫자를 여러 번 사용할 수 있습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            1,
+            180,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            27,
+            800,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            213,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            81
+          ],
+          "text": "$1691$은 점대칭도형입니다. 숫자를 사용하여 $1691$보다 작은 점대칭도형인 네 자리 수를 만들려고 합니다. 만들 수 있는 수를 모두 쓰시오.(이때, 같은 숫자를 여러 번 사용할 수 있습니다.)"
+        }
+      ]
+    }
+  ]
+}

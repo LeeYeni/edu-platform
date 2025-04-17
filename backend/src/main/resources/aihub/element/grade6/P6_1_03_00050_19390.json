@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_03_00050_19390.png",
+  "id": "00050_19390",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 세로셈으로 계산할 때 나뉠 수의 오른쪽 끝자리에 $0$을 내려 계산하지 않는 것은 어느 것입니까? ①$19.5÷6$ ②$3.6÷8$ ③$42.5÷5$ ④$49.5÷22$ ⑤$212.5÷34$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            602,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            85,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            81,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            87,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            95,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            101,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            604,
+            130
+          ],
+          "text": "다음 중 세로셈으로 계산할 때 나뉠 수의 오른쪽 끝자리에 $0$을 내려 계산하지 않는 것은 어느 것입니까? ①$19.5÷6$ ②$3.6÷8$ ③$42.5÷5$ ④$49.5÷22$ ⑤$212.5÷34$"
+        }
+      ]
+    }
+  ]
+}

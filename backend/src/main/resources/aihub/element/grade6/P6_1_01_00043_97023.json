@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_01_00043_97023.png",
+  "id": "00043_97023",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101009",
+      "question_topic_name": "(분수)÷(자연수)를 분수의 곱셈으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "찬호는 넓이가 $\\frac{16}{21}cm^2$인 사각형 모양의 종이를 $4$등분 하고, 인호는 넓이가 $\\frac{9}{14}cm^2$인 정삼각형 모양의 종이를 $3$등분 하여 한 개씩 가졌습니다. 두 사람이 가진 종이를 비교하면 누구의 것이 얼마나 더 큽니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            437,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            59
+          ],
+          "text": "찬호는 넓이가 $\\frac{16}{21}cm^2$인 사각형 모양의 종이를 $4$등분 하고, 인호는 넓이가 $\\frac{9}{14}cm^2$인 정삼각형 모양의 종이를 $3$등분 하여 한 개씩 가졌습니다. 두 사람이 가진 종이를 비교하면 누구의 것이 얼마나 더 큽니까?"
+        }
+      ]
+    }
+  ]
+}

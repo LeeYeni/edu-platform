@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_02_00044_40377.png",
+  "id": "00044_40377",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구 경기장의 관람객 중 남자는 전체의  $ \\frac{3}{5} $이고 이 중에서 $ \\frac{2}{9} $는 어린이입니다. 또 여자의 $ \\frac{1}{6} $은 어린이입니다. 물음에 답하시오.  (1) 관람객 중 남자 어린이는 전체의 몇 분의 몇입니까?  (2) 관람객 중 여자 어린이는 전체의 몇 분의 몇입니까?   (3) 관람객의 수가 $1500$명이라면 어린이는 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            751,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            326,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            329,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            340,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            753,
+            103
+          ],
+          "text": "축구 경기장의 관람객 중 남자는 전체의  $ \\frac{3}{5} $이고 이 중에서 $ \\frac{2}{9} $는 어린이입니다. 또 여자의 $ \\frac{1}{6} $은 어린이입니다. 물음에 답하시오.  (1) 관람객 중 남자 어린이는 전체의 몇 분의 몇입니까?  (2) 관람객 중 여자 어린이는 전체의 몇 분의 몇입니까?   (3) 관람객의 수가 $1500$명이라면 어린이는 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

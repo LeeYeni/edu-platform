@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_06_00044_28399.png",
+  "id": "00044_28399",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206008",
+      "question_topic_name": "평균을 비교하여 문제 해결하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정규네 학교와 진석이네 학교의 운동장의 넓이와 학생 수를 조사하여 나타낸 표입니다. 물음에 답하시오. ⑴ 정규네 학교와 진석이네 학교에서 한 사람당 사용하는 운동장의 넓이를 각각 구하시오.⑵ 누구네 학교의 학생들이 운동장을 더 넓게 사용할 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            337,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            96,
+            522,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            392,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            136
+          ],
+          "text": "정규네 학교와 진석이네 학교의 운동장의 넓이와 학생 수를 조사하여 나타낸 표입니다. 물음에 답하시오. ⑴ 정규네 학교와 진석이네 학교에서 한 사람당 사용하는 운동장의 넓이를 각각 구하시오.⑵ 누구네 학교의 학생들이 운동장을 더 넓게 사용할 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

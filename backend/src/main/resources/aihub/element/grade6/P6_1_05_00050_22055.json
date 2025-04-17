@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00050_22055.png",
+  "id": "00050_22055",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105007",
+      "question_topic_name": "원그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 칸의 크기가 5이며 5칸마다 0, 25, 50, 75가 적혀있는 방학 동안 가고 싶은 장소를 나타낸 원그래프에 0부터 30까지는 바다, 30부터 40까지는 산(10%), 40부터 60까지는 계곡(20%), 60부터 95까지 해외(35%), 95부터 0까지 기타(5%)를 나타내며 각기 다른 색으로 색칠된 그림",
+      "question_text": "시우네 반 학생들이 방학 동안 가고 싶은 장소를 조사하여 나타낸 원그래프입니다. 바다에 가고 싶은 학생의 비율은 몇 $ \\% $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            742,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            318,
+            28,
+            507,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            745,
+            22
+          ],
+          "text": "시우네 반 학생들이 방학 동안 가고 싶은 장소를 조사하여 나타낸 원그래프입니다. 바다에 가고 싶은 학생의 비율은 몇 $ \\% $입니까?"
+        }
+      ]
+    }
+  ]
+}

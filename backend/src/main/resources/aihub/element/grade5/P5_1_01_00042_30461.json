@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_01_00042_30461.png",
+  "id": "00042_30461",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101004",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "배추 한 접은 $100$포기입니다. 배추 $5$접을 하루에 $82$포기씩 $5$일 동안 팔았습니다. 남은 배추는 몇 포기인지 하나의 식으로 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            21
+          ],
+          "text": "배추 한 접은 $100$포기입니다. 배추 $5$접을 하루에 $82$포기씩 $5$일 동안 팔았습니다. 남은 배추는 몇 포기인지 하나의 식으로 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

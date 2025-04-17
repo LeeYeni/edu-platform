@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_19277.png",
+  "id": "00044_19277",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205012",
+      "question_topic_name": "반지름과 원의 넓이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 다음과 같은 실을 반지름으로 하여 원을 그렸을 때 원의 넓이를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            560,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            24,
+            135,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            562,
+            22
+          ],
+          "text": "길이가 다음과 같은 실을 반지름으로 하여 원을 그렸을 때 원의 넓이를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

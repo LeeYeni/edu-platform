@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_01_00043_41191.png",
+  "id": "00043_41191",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101004",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "식에서 가장 먼저 계산해야 하는 부분에 $\\bigcirc$ 표 하시오.  $\\boxed{24+4\\times17}$    $ \\begin{array}{l}24+4 \\\\ ()\\end{array}   \\begin{array}{c}4 \\times 17 \\\\ ()\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            20,
+            93,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            128,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            338,
+            99
+          ],
+          "text": "식에서 가장 먼저 계산해야 하는 부분에 $\\bigcirc$ 표 하시오.  $\\boxed{24+4\\times17}$    $ \\begin{array}{l}24+4 \\\\ ()\\end{array}   \\begin{array}{c}4 \\times 17 \\\\ ()\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

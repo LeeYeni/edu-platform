@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_40890.png",
+  "id": "00044_40890",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106012",
+      "question_topic_name": "직육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 13 cm이고 세로가 6 cm인 직사각형 두 개를 밑면으로 하고 옆면의 높이가 3 cm인 직육면체",
+      "question_text": "그림과 같은 직육면체 모양의 상자에 헝겊을 붙이려고 합니다. 헝겊은 적어도 몇 $cm²$ 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            569,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            31,
+            201,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            571,
+            23
+          ],
+          "text": "그림과 같은 직육면체 모양의 상자에 헝겊을 붙이려고 합니다. 헝겊은 적어도 몇 $cm²$ 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

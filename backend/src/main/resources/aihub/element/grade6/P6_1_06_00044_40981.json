@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_06_00044_40981.png",
+  "id": "00044_40981",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106012",
+      "question_topic_name": "직육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $9 cm$, 세로가 $4 cm$, 높이가 $8 cm$인 직육면체의 겉넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            465,
+            21
+          ],
+          "text": "가로가 $9 cm$, 세로가 $4 cm$, 높이가 $8 cm$인 직육면체의 겉넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

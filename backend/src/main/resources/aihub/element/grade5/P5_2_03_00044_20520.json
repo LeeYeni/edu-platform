@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20520.png",
+  "id": "00044_20520",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄱㄹ을 윗변, 변 ㄴㄷ을 밑변, 각 ㄴ에 직각 표시가 있는 직사각형 ㄱㄴㄷㄹ에서 직사각형의 윗변이 점 ㄷ에서 왼쪽으로 15 cm 떨어진 위치에 있는 점 ㅁ을 지나도록 접고, 점 ㄹ에 대응되는 점을 점 ㅂ이라 할 때, 변 ㅁㅂ의 길이는 9 cm이고, 변 ㄷㅂ의 길이는 12 cm이며, 두 변 ㄱㄹ, ㄷㄹ은 점선으로 나타낸 그림",
+      "question_text": "그림과 같이 직사각형 ㄱㄴㄷㄹ을 접었습니다. 직사각형 ㄱㄴㄷㄹ의 넓이는 몇$ cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            522,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            22,
+            186,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            524,
+            22
+          ],
+          "text": "그림과 같이 직사각형 ㄱㄴㄷㄹ을 접었습니다. 직사각형 ㄱㄴㄷㄹ의 넓이는 몇$ cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

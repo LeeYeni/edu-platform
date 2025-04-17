@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_39974.png",
+  "id": "00044_39974",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202006",
+      "question_topic_name": "(대분수)X(자연수)에서 대분수를 자연수와 분수로 나누어 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "잘못 계산한 곳을 찾아 바르게 고쳐 계산하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            226,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            294,
+            89
+          ],
+          "text": "잘못 계산한 곳을 찾아 바르게 고쳐 계산하시오."
+        }
+      ]
+    }
+  ]
+}

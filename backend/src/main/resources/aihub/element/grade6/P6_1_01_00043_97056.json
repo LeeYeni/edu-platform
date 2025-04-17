@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_01_00043_97056.png",
+  "id": "00043_97056",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101015",
+      "question_topic_name": "분자가 자연수의 배수가 아닌 (대분수)÷(자연수)를 분수를 곱셈으로 나타내어 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{l}4 \\frac{3}{8} \\div 5 \\\\ =\\frac{\\square}{8} \\div 5 \\leftarrow \\text { 대분수를 가분수로 나타냅니다. } \\\\ =\\frac{\\square}{8} \\times \\frac{1}{\\square} \\leftarrow \\text { 나눗셈을 곱셈으로 나타냅니다. } \\\\ =\\frac{\\square}{\\square} \\leftarrow \\text { 약분한 다음, 분모는 분모끼리, 분자는 분자끼리 곱합니다. }\\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            23,
+            67,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            62,
+            274,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            295,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            156,
+            404,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            406,
+            200
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{l}4 \\frac{3}{8} \\div 5 \\\\ =\\frac{\\square}{8} \\div 5 \\leftarrow \\text { 대분수를 가분수로 나타냅니다. } \\\\ =\\frac{\\square}{8} \\times \\frac{1}{\\square} \\leftarrow \\text { 나눗셈을 곱셈으로 나타냅니다. } \\\\ =\\frac{\\square}{\\square} \\leftarrow \\text { 약분한 다음, 분모는 분모끼리, 분자는 분자끼리 곱합니다. }\\end{array}$"
+        }
+      ]
+    }
+  ]
+}

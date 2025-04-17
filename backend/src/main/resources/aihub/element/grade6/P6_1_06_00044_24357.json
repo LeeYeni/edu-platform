@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00044_24357.png",
+  "id": "00044_24357",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106012",
+      "question_topic_name": "직육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 5 cm, 세로의 길이가 6 cm, 높이가 10 cm인 직육면체",
+      "question_text": "다음 도형의 겉넓이를 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. $(직육면체의 겉넓이)$ \\[ \\begin{array}{l} =\\{(6 \\times 5)+(5 \\times \\square)+(6 \\times \\square)\\} \\times \\square \\\\ =\\square\\left(\\mathrm{cm}^{2}\\right) \\end{array} \\]",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            429,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            135,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            212,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            208,
+            113,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            23,
+            153,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            431,
+            22
+          ],
+          "text": "다음 도형의 겉넓이를 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            160,
+            214,
+            230
+          ],
+          "text": "$(직육면체의 겉넓이)$ \\[ \\begin{array}{l} =\\{(6 \\times 5)+(5 \\times \\square)+(6 \\times \\square)\\} \\times \\square \\\\ =\\square\\left(\\mathrm{cm}^{2}\\right) \\end{array} \\]"
+        }
+      ]
+    }
+  ]
+}

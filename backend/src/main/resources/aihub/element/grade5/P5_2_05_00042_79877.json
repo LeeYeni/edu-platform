@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00042_79877.png",
+  "id": "00042_79877",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직육면체에서 색칠한 면과 수직인 면을 모두 찾아 빗금을 그어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            413,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            25,
+            125,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            415,
+            20
+          ],
+          "text": "직육면체에서 색칠한 면과 수직인 면을 모두 찾아 빗금을 그어 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_02_00042_84084.png",
+  "id": "00042_84084",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102019",
+      "question_topic_name": "각뿔의 구성 요소 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "면, 모서리, 꼭짓점의 수의 합이 $38$개인 각뿔이 있습니다. 이 각뿔의 밑면의 변의 수와 꼭짓점의 수가 같은 각뿔의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            740,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            743,
+            21
+          ],
+          "text": "면, 모서리, 꼭짓점의 수의 합이 $38$개인 각뿔이 있습니다. 이 각뿔의 밑면의 변의 수와 꼭짓점의 수가 같은 각뿔의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

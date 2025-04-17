@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_02_00043_68924.png",
+  "id": "00043_68924",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6$과 $8$의 공배수와 최소공배수를 구하려고 합니다. 물음에 답하시오.  ⑴ $6$과 $8$의 배수를 각각 작은 수부터 써넣으시오.   <table border> <caption></caption>   <tbody>     <tr>       <td>6의 배수</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>     </tr>     <tr>       <td>8의 배수</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> ⑵ 위 ⑴에서 $6$과 $8$의 공배수에 모두 $\\bigcirc$표 하시오. ⑶ $6$과 $8$의 최소공배수는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            400,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            295,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            294,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            298,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            237,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            402,
+            135
+          ],
+          "text": "$6$과 $8$의 공배수와 최소공배수를 구하려고 합니다. 물음에 답하시오.  ⑴ $6$과 $8$의 배수를 각각 작은 수부터 써넣으시오.   <table border> <caption></caption>   <tbody>     <tr>       <td>6의 배수</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>     </tr>     <tr>       <td>8의 배수</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> ⑵ 위 ⑴에서 $6$과 $8$의 공배수에 모두 $\\bigcirc$표 하시오. ⑶ $6$과 $8$의 최소공배수는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

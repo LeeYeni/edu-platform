@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_02_00043_73366.png",
+  "id": "00043_73366",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) 126÷8.4에서 나누는 수가 소수 한 자리 수이므로 분모가 $\\square$인 분수로 고쳐서 계산합니다. $ \\begin{aligned} 126 \\div 8.4 & =\\frac{\\square}{10} \\div \\frac{84}{10} \\\\ & =\\square \\div 84=\\square\\end{aligned} $  (2) 14÷1.75에서 나누는 수가 소수 두 자리 수이므로 분모가 $\\square$인 분수로 고쳐서 계산합니다.  $ \\begin{aligned} 14 \\div 1.75 & =\\frac{\\square}{100} \\div \\frac{175}{100} \\\\ & =\\square \\div 175=\\square\\end{aligned} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            567,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            53,
+            189,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            82,
+            101,
+            238,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            573,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            162,
+            185,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            81,
+            210,
+            225,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            576,
+            238
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) 126÷8.4에서 나누는 수가 소수 한 자리 수이므로 분모가 $\\square$인 분수로 고쳐서 계산합니다. $ \\begin{aligned} 126 \\div 8.4 & =\\frac{\\square}{10} \\div \\frac{84}{10} \\\\ & =\\square \\div 84=\\square\\end{aligned} $  (2) 14÷1.75에서 나누는 수가 소수 두 자리 수이므로 분모가 $\\square$인 분수로 고쳐서 계산합니다.  $ \\begin{aligned} 14 \\div 1.75 & =\\frac{\\square}{100} \\div \\frac{175}{100} \\\\ & =\\square \\div 175=\\square\\end{aligned} $"
+        }
+      ]
+    }
+  ]
+}

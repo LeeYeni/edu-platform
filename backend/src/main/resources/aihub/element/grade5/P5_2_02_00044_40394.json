@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_40394.png",
+  "id": "00044_40394",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "잘못 계산한 것을 찾아 기호를 쓰시오.  ㉠  $ \\frac{4}{5} \\times \\frac{3}{10}=\\frac{6}{25} $ ㉡ $ \\frac{7}{8} \\times \\frac{5}{14}=\\frac{5}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            276,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            291,
+            76
+          ],
+          "text": "잘못 계산한 것을 찾아 기호를 쓰시오.  ㉠  $ \\frac{4}{5} \\times \\frac{3}{10}=\\frac{6}{25} $ ㉡ $ \\frac{7}{8} \\times \\frac{5}{14}=\\frac{5}{8} $"
+        }
+      ]
+    }
+  ]
+}

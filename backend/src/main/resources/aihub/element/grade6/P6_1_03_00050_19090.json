@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_03_00050_19090.png",
+  "id": "00050_19090",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 공동 구매 사이트에서 $12$명이 모여 잣을 $31.2kg$ 샀습니다. 이 잣을 $12$명이 똑같이 나누어 가진다면 한 사람이 몇 $kg$씩 가지게 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            22
+          ],
+          "text": "어느 공동 구매 사이트에서 $12$명이 모여 잣을 $31.2kg$ 샀습니다. 이 잣을 $12$명이 똑같이 나누어 가진다면 한 사람이 몇 $kg$씩 가지게 됩니까?"
+        }
+      ]
+    }
+  ]
+}

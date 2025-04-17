@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_04_00044_19564.png",
+  "id": "00044_19564",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204011",
+      "question_topic_name": "외항과 내항 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡의 합을 구하시오. 후항이 $5$인 비에서 비율이 $\\frac{3}{5}$일 때 전항은 ㉠이고, 비례식 $3：10=6：20$에서 외항의 합은 ㉡입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            29,
+            600,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            76
+          ],
+          "text": "㉠과 ㉡의 합을 구하시오. 후항이 $5$인 비에서 비율이 $\\frac{3}{5}$일 때 전항은 ㉠이고, 비례식 $3：10=6：20$에서 외항의 합은 ㉡입니다."
+        }
+      ]
+    }
+  ]
+}

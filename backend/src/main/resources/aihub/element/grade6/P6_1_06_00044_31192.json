@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_06_00044_31192.png",
+  "id": "00044_31192",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106009",
+      "question_topic_name": "1㎥ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면 2개가 가로 15 cm, 세로 6 cm인 직사각형이고 옆면 4개도 직사각형인 높이가 20 cm인 사각기둥의 전개도",
+      "question_text": "다음 전개도로 직육면체 모양의 상자를 만들었습니다.물음에 답하시오. ⑴ 이 상자의 겉넓이는 몇 $cm²$입니까? ⑵ 이 상자의 부피는 몇 $cm³$입니까? 또 몇$ m³$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            422,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            160,
+            235,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            320,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            28,
+            226,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.32,
+            1.91,
+            421.32,
+            16.91
+          ],
+          "text": "다음 전개도로 직육면체 모양의 상자를 만들었습니다.물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.32,
+            157.91,
+            320.32,
+            200.91
+          ],
+          "text": "⑴ 이 상자의 겉넓이는 몇 $cm²$입니까? ⑵ 이 상자의 부피는 몇 $cm³$입니까? 또 몇$ m³$입니까?"
+        }
+      ]
+    }
+  ]
+}

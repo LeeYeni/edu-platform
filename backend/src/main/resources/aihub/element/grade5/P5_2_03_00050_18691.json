@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18691.png",
+  "id": "00050_18691",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203007",
+      "question_topic_name": "선대칭도형 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로 선인 직선 가를 대칭축으로 왼쪽에 대칭축 위의 선분 ㄱㅁ의 길이가 10 cm, 선분 ㄹㅁ의 길이가 12 cm, 선분 ㄷㄹ의 길이가 7 cm, 선분 ㄴㄷ의 길이가 4 cm, 각 ㄷ, ㄹ이 각각 직각인 다각형 ㄱㄴㄷㄹㅁ이 그려진 그림",
+      "question_text": "그림에서 직선 가를 대칭축으로 하는 선대칭도형을 완성하면 완성한 선대칭도형의 넓이는 몇 $ \\mathrm{cm}^{2 \\mathrm{t}} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            320,
+            29,
+            504,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            22
+          ],
+          "text": "그림에서 직선 가를 대칭축으로 하는 선대칭도형을 완성하면 완성한 선대칭도형의 넓이는 몇 $ \\mathrm{cm}^{2 \\mathrm{t}} $입니까?"
+        }
+      ]
+    }
+  ]
+}

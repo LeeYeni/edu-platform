@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39768.png",
+  "id": "00044_39768",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106023",
+      "question_topic_name": "마름모의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로변의 길이가 10 m이고, 세로변의 길이가 8 m이며, 네 각이 모두 직각인 직사각형 가를 그리고, 그 오른편에 마름모 내에 점선으로 그은 두 대각선이 있고, 두 대각선은 서로 수직으로 만나며, 세로 방향 대각선의 길이의 절반이 7 m이고, 가로 방향 대각선의 길이의 절반이 6 m임을 나타낸 마름모 나를 나란히 그려 서로 다른 색으로 색칠한 그림",
+      "question_text": "넓이가 더 넓은 것의 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            220,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            256,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            222,
+            23
+          ],
+          "text": "넓이가 더 넓은 것의 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00042_57285.png",
+  "id": "00042_57285",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103001",
+      "question_topic_name": "규칙적인 배열에서 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변이 $4\\mathrm{cm}$인 정사각형의 수와 둘레 사이의 대응 관계를 나타낸 표입니다. 빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>정사각형 수(개)</td>       <td>$1$</td>        <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>둘레($\\mathrm{cm}$)</td>        <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            627,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            270,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            629,
+            70
+          ],
+          "text": "한 변이 $4\\mathrm{cm}$인 정사각형의 수와 둘레 사이의 대응 관계를 나타낸 표입니다. 빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>정사각형 수(개)</td>       <td>$1$</td>        <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>둘레($\\mathrm{cm}$)</td>        <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

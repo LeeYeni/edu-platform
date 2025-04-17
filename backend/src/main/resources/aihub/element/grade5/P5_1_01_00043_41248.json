@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_1_01_00043_41248.png",
+  "id": "00043_41248",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지용이는 과학 시간에 물과 얼음일 때의 무게와 부피의 변화에 대해 배웠습니다. 그림을 보고 물음에 답하시오.  (1) 지용이가 $ 2900 \\mathrm{~mL} $ 의 물을 얼리자 부피가 $ 190 \\mathrm{~mL} $ 늘어났습니다. 다시 이것을 끓였더니 $ 210 \\mathrm{~mL} $ 가 줄었습니다. 남은 물의 양은 몇 $ \\mathrm{mL} $ 인 지 식으로 나타내고, 답을 구하시오.  ⑵ ⑴에서 남은 물을 소영이가 비커 $2$개에 똑같이 나누어 담았다면 비커 한 개에 들어 있는 물의 양은 몇 $ \\mathrm{mL} $ 인지 하나의 식으로 나타내고, 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            236,
+            794,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            258,
+            220,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            324,
+            791,
+            341
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            345,
+            103,
+            362
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            36,
+            317,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0.4,
+            641.1,
+            18.4
+          ],
+          "text": "지용이는 과학 시간에 물과 얼음일 때의 무게와 부피의 변화에 대해 배웠습니다. 그림을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            236.4,
+            794.1,
+            276.4
+          ],
+          "text": "(1) 지용이가 $ 2900 \\mathrm{~mL} $ 의 물을 얼리자 부피가 $ 190 \\mathrm{~mL} $ 늘어났습니다. 다시 이것을 끓였더니 $ 210 \\mathrm{~mL} $ 가 줄었습니다. 남은 물의 양은 몇 $ \\mathrm{mL} $ 인 지 식으로 나타내고, 답을 구하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            326.4,
+            792.1,
+            362.4
+          ],
+          "text": "⑵ ⑴에서 남은 물을 소영이가 비커 $2$개에 똑같이 나누어 담았다면 비커 한 개에 들어 있는 물의 양은 몇 $ \\mathrm{mL} $ 인지 하나의 식으로 나타내고, 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

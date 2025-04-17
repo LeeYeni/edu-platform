@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_35721.png",
+  "id": "00044_35721",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 26 cm이고 세로의 길이가 26 cm인 정사각형 각 꼭짓점을 중심으로 정사각형 한 변의 절반이 반지름이 되도록 부채꼴을 그릴 때, 4개의 부채꼴에 색칠된 도형",
+      "question_text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            30,
+            162,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            22
+          ],
+          "text": "색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

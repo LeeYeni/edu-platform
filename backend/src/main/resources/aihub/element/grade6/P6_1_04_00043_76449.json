@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_76449.png",
+  "id": "00043_76449",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104001",
+      "question_topic_name": "두 수 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명희네 농장에는 $260$마리의 가축이 있습니다. 그중에서 $156$마리는 소이고, 나머지는 돼지입니다. 전체 가축 수와 돼지 수를 나눗셈으로 비교해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "명희네 농장에는 $260$마리의 가축이 있습니다. 그중에서 $156$마리는 소이고, 나머지는 돼지입니다. 전체 가축 수와 돼지 수를 나눗셈으로 비교해 보시오."
+        }
+      ]
+    }
+  ]
+}

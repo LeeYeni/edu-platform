@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_2_05_00044_11636.png",
+  "id": "00044_11636",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205018",
+      "question_topic_name": "원의 넓이 구하기 -지름 또는 반지름이 주어졌을 때",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 원의 넓이를 바르게 구한 것은 어느 것입니까? (원주율 : $3.14$) ① $10 \\div 2 \\times 3.14=15.7\\left(\\mathrm{~cm}^{2}\\right)$ ② $5 \\times 2 \\times 3.14=31.4\\left(\\mathrm{~cm}^{2}\\right)$ ③ $5 \\times 5 \\times 3.14=78.5\\left(\\mathrm{~cm}^{2}\\right)$ ④ $10 \\times 2 \\times 3.14=62.8\\left(\\mathrm{~cm}^{2}\\right)$ ⑤ $10 \\times 10 \\times 3.14=314\\left(\\mathrm{~cm}^{2}\\right)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            395,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            176,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            171,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            183,
+            172,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            205,
+            181,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            227,
+            181,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            137,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0,
+            400.1,
+            17.9
+          ],
+          "text": "다음 원의 넓이를 바르게 구한 것은 어느 것입니까? (원주율 : $3.14$)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            138,
+            183,
+            248
+          ],
+          "text": "① $10 \\div 2 \\times 3.14=15.7\\left(\\mathrm{~cm}^{2}\\right)$ ② $5 \\times 2 \\times 3.14=31.4\\left(\\mathrm{~cm}^{2}\\right)$ ③ $5 \\times 5 \\times 3.14=78.5\\left(\\mathrm{~cm}^{2}\\right)$ ④ $10 \\times 2 \\times 3.14=62.8\\left(\\mathrm{~cm}^{2}\\right)$ ⑤ $10 \\times 10 \\times 3.14=314\\left(\\mathrm{~cm}^{2}\\right)$"
+        }
+      ]
+    }
+  ]
+}

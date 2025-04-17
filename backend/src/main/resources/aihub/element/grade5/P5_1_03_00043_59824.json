@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_03_00043_59824.png",
+  "id": "00043_59824",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103001",
+      "question_topic_name": "규칙적인 배열에서 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "탁자의 수와 의자의 수 사이의 대응 관계를 알고 표를 완성하시오.  <table border>    <tbody>     <tr>       <td>탁자의 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>의자의 수</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            1,
+            385,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            229,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            325,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            22
+          ],
+          "text": "탁자의 수와 의자의 수 사이의 대응 관계를 알고 표를 완성하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            91,
+            231,
+            142
+          ],
+          "text": "<table border>    <tbody>     <tr>       <td>탁자의 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>의자의 수</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>       <td>$~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

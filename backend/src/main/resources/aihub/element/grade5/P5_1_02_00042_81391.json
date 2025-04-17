@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_02_00042_81391.png",
+  "id": "00042_81391",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "창호는 $6$일마다, 진규는 $10$일마다 도서관에 갑니다. 두 사람이 일요일에 도서관에서 만난 후 다시 처음으로 도서관에서 만나게 되는 날은 무슨 요일입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            759,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            149,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            761,
+            40
+          ],
+          "text": "창호는 $6$일마다, 진규는 $10$일마다 도서관에 갑니다. 두 사람이 일요일에 도서관에서 만난 후 다시 처음으로 도서관에서 만나게 되는 날은 무슨 요일입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_05_00043_75808.png",
+  "id": "00043_75808",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105009",
+      "question_topic_name": "받아올림이 있는 대분수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에 $1 \\frac{1}{2}$을 더해야 할 것을 잘못하여 뺐더니 $3 \\frac{3}{5}$이 되었습니다. 바르게 계산한 값을 구하시오. (1) 어떤 수를 $\\square$라 하여 잘못 계산한 식을 쓰시오. (2) 위 (1)의 식에서 $\\square$의 값을 구하시오. (3) 바르게 계산한 값을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            594,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            295,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            237,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            204,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            596,
+            103
+          ],
+          "text": "어떤 수에 $1 \\frac{1}{2}$을 더해야 할 것을 잘못하여 뺐더니 $3 \\frac{3}{5}$이 되었습니다. 바르게 계산한 값을 구하시오. (1) 어떤 수를 $\\square$라 하여 잘못 계산한 식을 쓰시오. (2) 위 (1)의 식에서 $\\square$의 값을 구하시오. (3) 바르게 계산한 값을 구하시오."
+        }
+      ]
+    }
+  ]
+}

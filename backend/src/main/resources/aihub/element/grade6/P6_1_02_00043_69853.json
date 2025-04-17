@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_02_00043_69853.png",
+  "id": "00043_69853",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102020",
+      "question_topic_name": "각뿔의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑면은 한 변이 $ 8 \\mathrm{cm} $인 정육각형이고 옆면은 다음 그림과 같은 입체도형이 있습니다. 이 입체도형의 모든 모서리의 길이의 합은 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            754,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            84,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            49,
+            139,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            756,
+            40
+          ],
+          "text": "밑면은 한 변이 $ 8 \\mathrm{cm} $인 정육각형이고 옆면은 다음 그림과 같은 입체도형이 있습니다. 이 입체도형의 모든 모서리의 길이의 합은 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_60268.png",
+  "id": "00043_60268",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자전거를 타는 시간을 $\\square$시간, 소비되는 열량을 $\\triangle\\mathrm{kcal}$라 할 때 두발자전거와 외발자전거의 $\\square$와 $\\triangle$ 사이의 대응 관계를 식으로 각각 나타내어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            19
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            23,
+            91,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "자전거를 타는 시간을 $\\square$시간, 소비되는 열량을 $\\triangle\\mathrm{kcal}$라 할 때 두발자전거와 외발자전거의 $\\square$와 $\\triangle$ 사이의 대응 관계를 식으로 각각 나타내어 보시오."
+        }
+      ]
+    }
+  ]
+}

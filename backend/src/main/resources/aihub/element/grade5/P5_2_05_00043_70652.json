@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_70652.png",
+  "id": "00043_70652",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205004",
+      "question_topic_name": "직육면체에서 보이는 면, 모서리, 꼭짓점의 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면은 가로의 길이가 8 cm이고 세로의 길이가 3 cm인 직사각형이고 높이가 5 cm이며 변의 길이는 변의 외부에 표시하고 내부에 보이지 않는 변을 점선으로 나타낸 직육면체의 겨냥도",
+      "question_text": "직육면체에서 길이가 $5 cm$인 모서리는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            158,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            21
+          ],
+          "text": "직육면체에서 길이가 $5 cm$인 모서리는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

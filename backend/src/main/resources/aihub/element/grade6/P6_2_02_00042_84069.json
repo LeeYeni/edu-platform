@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00042_84069.png",
+  "id": "00042_84069",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202012",
+      "question_topic_name": "(자연수)÷(소수 한 자리 수)_세로셈",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 반올림하여 소수 둘째 자리까지 구했을 때, 소수 둘째 자리 숫자가 가장 큰 것의 기호를 쓰시오.  ㉠ $ 7.124 \\div 1.32 $ ㉡ $ 4.88 \\div 0.6 $ ㉢ $ 17.8 \\div 4.5 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            631,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            263,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            675,
+            57
+          ],
+          "text": "나눗셈의 몫을 반올림하여 소수 둘째 자리까지 구했을 때, 소수 둘째 자리 숫자가 가장 큰 것의 기호를 쓰시오.  ㉠ $ 7.124 \\div 1.32 $ ㉡ $ 4.88 \\div 0.6 $ ㉢ $ 17.8 \\div 4.5 $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "question_filename": "P6_1_05_00044_21726.png",
+  "id": "00044_21726",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105008",
+      "question_topic_name": "원그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤주네 집에서 기르는 가축 수를 조사하여 나타낸 표입니다. 물음에 답하시오. <table border> <caption>가축 수</caption>   <tbody>     </tr>     <tr>       <td colspan=3>가축</td>       <td>돼지</td>       <td>닭</td>       <td>개</td>       <td>소</td>       <td>합계</td>     </tr>     <tr>       <td colspan=3>가축수 (마리)</td>       <td>$15$</td>       <td>$20$</td>       <td>$10$</td>       <td>$5$</td>       <td>$50$</td>     </tr> </tbody> </table> (1) 가축별로 백분율을 구하시오.  돼지 : $ \\frac{\\square}{50} \\times 100=  \\square(\\%) \\\\$ 닭 : $ \\frac{\\square}{50} \\times 100= \\square(\\%) \\\\$ 개 : $ \\frac{\\square}{50} \\times 100= \\square(\\%)\\\\$ 소: $ \\frac{\\square}{50} \\times 100=  \\square(\\%)\\\\$ (2) 위에서 구한 백분율을 이용하여 원그래프를 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            454,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            79,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            311,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            202,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            140,
+            217,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            188,
+            204,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            236,
+            204,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            283,
+            204,
+            325
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            331,
+            359,
+            347
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            356,
+            190,
+            536
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            348
+          ],
+          "text": "윤주네 집에서 기르는 가축 수를 조사하여 나타낸 표입니다. 물음에 답하시오. <table border> <caption>가축 수</caption>   <tbody>     </tr>     <tr>       <td colspan=3>가축</td>       <td>돼지</td>       <td>닭</td>       <td>개</td>       <td>소</td>       <td>합계</td>     </tr>     <tr>       <td colspan=3>가축수 (마리)</td>       <td>$15$</td>       <td>$20$</td>       <td>$10$</td>       <td>$5$</td>       <td>$50$</td>     </tr> </tbody> </table> (1) 가축별로 백분율을 구하시오.  돼지 : $ \\frac{\\square}{50} \\times 100=  \\square(\\%) \\\\$ 닭 : $ \\frac{\\square}{50} \\times 100= \\square(\\%) \\\\$ 개 : $ \\frac{\\square}{50} \\times 100= \\square(\\%)\\\\$ 소: $ \\frac{\\square}{50} \\times 100=  \\square(\\%)\\\\$ (2) 위에서 구한 백분율을 이용하여 원그래프를 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39644.png",
+  "id": "00044_39644",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "높이가 점선으로 표시되어 있는 평행사변형 ㄱㄴㄷㄹ에서 선분 ㄴㄷ 위에 임의의 점 ㅁ이 점 ㄷ으로부터 10 cm, 점 ㄴ으로부터 14 cm 떨어진 곳에 있고 선분 ㅁㄹ이 실선으로 표시되어 있으며 선분 ㅁㄹ과 선분 ㄴㄷ이 수직이고 삼각형 ㄹㅁㄷ의 넓이가 80 제곱 센티미터인 도형",
+      "question_text": "삼각형 ㄹㅁㄷ의 넓이가 $ 80 \\mathrm{~cm}^{2} $ 일 때, 평행사변형 ㄱㄴㄷㄹ의 넓이는 몇 $ \\mathrm{cm}^{2} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            497,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            178,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            499,
+            22
+          ],
+          "text": "삼각형 ㄹㅁㄷ의 넓이가 $ 80 \\mathrm{~cm}^{2} $ 일 때, 평행사변형 ㄱㄴㄷㄹ의 넓이는 몇 $ \\mathrm{cm}^{2} $입니까?"
+        }
+      ]
+    }
+  ]
+}

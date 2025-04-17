@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_02_00044_35386.png",
+  "id": "00044_35386",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202025",
+      "question_topic_name": "(대분수)x(대분수)를 자연수 부분과 진분수 부분으로 나누어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변이 $ 2 \\frac{3}{5}  cm$인 정사각형이 있습니다. 이 정사각형의 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            469,
+            38
+          ],
+          "text": "한 변이 $ 2 \\frac{3}{5}  cm$인 정사각형이 있습니다. 이 정사각형의 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_04_00044_24059.png",
+  "id": "00044_24059",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204008",
+      "question_topic_name": "(소수):(분수), (분수):(소수)의 비를 간단한 자연수 비로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "간단한 자연수의 비로 나타내시오. ① $ 1 \\frac{2}{5}: \\frac{4}{7} $ ② $ 1.8: 0.6 $ ③ $ 40: 48 $ ④ $ 3.2: \\frac{5}{6} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            91,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            87,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            83,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            84,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            215,
+            146
+          ],
+          "text": "간단한 자연수의 비로 나타내시오. ① $ 1 \\frac{2}{5}: \\frac{4}{7} $ ② $ 1.8: 0.6 $ ③ $ 40: 48 $ ④ $ 3.2: \\frac{5}{6} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_03_00050_18920.png",
+  "id": "00050_18920",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203009",
+      "question_topic_name": "점대칭도형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 정사각형 $6$개를 변끼리 이어 만든 도형을 헥토미노라고 합니다. 아래의 헥토미노 중에서 선대칭도형이면서 점대칭도형인 것을 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            133,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            50,
+            317,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "크기가 같은 정사각형 $6$개를 변끼리 이어 만든 도형을 헥토미노라고 합니다. 아래의 헥토미노 중에서 선대칭도형이면서 점대칭도형인 것을 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00050_21993.png",
+  "id": "00050_21993",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105006",
+      "question_topic_name": "띠그래프의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "재활용 쓰레기의 양이 상단에 위치하고, 좌측부터 순서대로 초록색으로 색칠된 종이(28%)와 보라색으로 색칠된 플라스틱(32%)와 분홍색으로 색칠된 유리와 노란색으로 색칠된 철과 주황색으로 색칠된 기타(10%)의 띠그래프",
+      "question_text": "희수네 집의 재활용쓰레기의 양을 조사하여 나타낸 띠그래프입니다. 유리와 철의 비가 $7 : 13$이면 유리는 전체의 몇 $\\%$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            725,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            33,
+            326,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            727,
+            23
+          ],
+          "text": "희수네 집의 재활용쓰레기의 양을 조사하여 나타낸 띠그래프입니다. 유리와 철의 비가 $7 : 13$이면 유리는 전체의 몇 $\\%$입니까?"
+        }
+      ]
+    }
+  ]
+}

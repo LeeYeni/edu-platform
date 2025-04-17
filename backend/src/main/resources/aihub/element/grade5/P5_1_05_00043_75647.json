@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_05_00043_75647.png",
+  "id": "00043_75647",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105001",
+      "question_topic_name": "받아올림이 없는 진분수의 덧셈을 분모의 곱으로 통분하여 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 계산하시오.  <보기> $ \\frac{1}{2}+\\frac{1}{7}=\\frac{1 \\times 7}{2 \\times 7}+\\frac{1 \\times 2}{7 \\times 2}=\\frac{7}{14}+\\frac{2}{14}=\\frac{9}{14} $ $ \\frac{2}{9}+\\frac{1}{5} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            175,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            73,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            303,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            84,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            339,
+            138
+          ],
+          "text": "<보기>와 같이 계산하시오.  <보기> $ \\frac{1}{2}+\\frac{1}{7}=\\frac{1 \\times 7}{2 \\times 7}+\\frac{1 \\times 2}{7 \\times 2}=\\frac{7}{14}+\\frac{2}{14}=\\frac{9}{14} $ $ \\frac{2}{9}+\\frac{1}{5} $"
+        }
+      ]
+    }
+  ]
+}

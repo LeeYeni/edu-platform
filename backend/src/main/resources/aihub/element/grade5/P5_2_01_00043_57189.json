@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00043_57189.png",
+  "id": "00043_57189",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$7.548$을 올림, 버림, 반올림하여 소수 첫째 자리까지 나타내시오. 수 올림 버림 반올림",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            383,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            264,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            385,
+            70
+          ],
+          "text": "$7.548$을 올림, 버림, 반올림하여 소수 첫째 자리까지 나타내시오. 수 올림 버림 반올림"
+        }
+      ]
+    }
+  ]
+}

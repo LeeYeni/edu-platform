@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_05_00044_38437.png",
+  "id": "00044_38437",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205010",
+      "question_topic_name": "원의 넓이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 변이 6 cm인 연두색 정사각형이 있고 사각형안에 반지름이 3 cm인 파란색의 원이 내접하고 있으며, 정사각형과 원이 만나는 접점을 이어 주황색 마름모를 만든 도형",
+      "question_text": "정사각형과 마름모를 이용하여 지름이 $6 cm$인 원의 넓이를 어림하려고 합니다. 물음에 답하시오.(1) 원 밖의 정사각형의 넓이는 몇 $cm²$입니까?(2) 원 안의 마름모의 넓이는 몇 $cm²$입니까?(3) 원의 넓이는 얼마와 얼마 사이입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            40,
+            561,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            278,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            124,
+            268,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            146,
+            254,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            564,
+            2,
+            695,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            39,
+            563,
+            163
+          ],
+          "text": "정사각형과 마름모를 이용하여 지름이 $6 cm$인 원의 넓이를 어림하려고 합니다. 물음에 답하시오.(1) 원 밖의 정사각형의 넓이는 몇 $cm²$입니까?(2) 원 안의 마름모의 넓이는 몇 $cm²$입니까?(3) 원의 넓이는 얼마와 얼마 사이입니까?"
+        }
+      ]
+    }
+  ]
+}

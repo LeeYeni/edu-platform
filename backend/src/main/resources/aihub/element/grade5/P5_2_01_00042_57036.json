@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00042_57036.png",
+  "id": "00042_57036",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201014",
+      "question_topic_name": "반올림 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "버림하여 백의 자리까지 나타내면 $4800$이 되고 반올림하여 백의 자리까지 나타내면 $4900$이 되는 네 자리 수 중에서 가장 큰 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            39
+          ],
+          "text": "버림하여 백의 자리까지 나타내면 $4800$이 되고 반올림하여 백의 자리까지 나타내면 $4900$이 되는 네 자리 수 중에서 가장 큰 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

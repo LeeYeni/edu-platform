@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_03_00050_21553.png",
+  "id": "00050_21553",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203015",
+      "question_topic_name": "두 가지 모양을 사용하여 새로운 모양 만들기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가는 쌓기나무로, 나는 연결큐브로 똑같은 모양을 만든 것입니다. 각 모양에 가는 쌓기나무를, 나는 연결큐브를 각각 $1$개씩 더 사용하여 면끼리 맞닿게 하여 새로운 모양을 만들려고 합니다. 나에서 만들 수 있는 모양은 가에서 만들 수 있는 모양보다 몇 가지 더 많습니까? (단, 가와 나는 뒤집거나 돌리지 않고, 바닥 면에는 큐브를 붙이지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            792,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            45,
+            359,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            297,
+            73,
+            528,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            62
+          ],
+          "text": "가는 쌓기나무로, 나는 연결큐브로 똑같은 모양을 만든 것입니다. 각 모양에 가는 쌓기나무를, 나는 연결큐브를 각각 $1$개씩 더 사용하여 면끼리 맞닿게 하여 새로운 모양을 만들려고 합니다. 나에서 만들 수 있는 모양은 가에서 만들 수 있는 모양보다 몇 가지 더 많습니까? (단, 가와 나는 뒤집거나 돌리지 않고, 바닥 면에는 큐브를 붙이지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

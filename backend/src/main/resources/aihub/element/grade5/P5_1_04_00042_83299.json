@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_04_00042_83299.png",
+  "id": "00042_83299",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104001",
+      "question_topic_name": "크기가 같은 분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정우는 케이크의 $ \\frac{1}{2} $ 을 먹었습니다. 똑같은 케이크를 $4$조각으로 나누었다면 몇 조각을 먹어야 정우가 먹은 양과 같아지는지 오른쪽 그림에 색칠하여 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            129,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            75,
+            194,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            58
+          ],
+          "text": "정우는 케이크의 $ \\frac{1}{2} $ 을 먹었습니다. 똑같은 케이크를 $4$조각으로 나누었다면 몇 조각을 먹어야 정우가 먹은 양과 같아지는지 오른쪽 그림에 색칠하여 구하시오."
+        }
+      ]
+    }
+  ]
+}

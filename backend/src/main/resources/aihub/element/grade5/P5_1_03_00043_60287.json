@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_60287.png",
+  "id": "00043_60287",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103006",
+      "question_topic_name": "생활 속에서 대응 관계를 찾아 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "성냥개비 6개로 윗부분 중앙에 꼭짓점이 생기도록 정육각형을 만들고 서로 오른쪽변과 왼쪽 변을 공유하는 겹치지 않는 정육각형이 나란히 3개가 그려져 있으며 4변째는 이어지는 윗부분에 1개, 아랫부분에 1개 성냥개비가 그려져 있고 그림 우측에 말줄임 점6개를 나타낸 평면도형",
+      "question_text": "성냥개비로 다음과 같은 정육각형을 만들었습니다. 성냥개비 $100$개로 만들 수 있는 정육각형은 최대 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            663,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            260,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            665,
+            22
+          ],
+          "text": "성냥개비로 다음과 같은 정육각형을 만들었습니다. 성냥개비 $100$개로 만들 수 있는 정육각형은 최대 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

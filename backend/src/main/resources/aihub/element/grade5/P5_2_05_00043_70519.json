@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_05_00043_70519.png",
+  "id": "00043_70519",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205008",
+      "question_topic_name": "직육면체와 정육면체의 공통점과 차이점 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 직육면체와 정육면체의 다른 점을 모두 고르시오. ①면의 모양 ②면의 수 ③모서리의 수 ④꼭짓점의 수 ⑤모서리의 길이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            100,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            87,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            112,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            124,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            130
+          ],
+          "text": "다음 중 직육면체와 정육면체의 다른 점을 모두 고르시오. ①면의 모양 ②면의 수 ③모서리의 수 ④꼭짓점의 수 ⑤모서리의 길이"
+        }
+      ]
+    }
+  ]
+}

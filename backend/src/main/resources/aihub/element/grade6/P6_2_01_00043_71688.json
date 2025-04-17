@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_01_00043_71688.png",
+  "id": "00043_71688",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201015",
+      "question_topic_name": "(대분수)÷(대분수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "굵기가 일정한 쇠 파이프 $ \\frac{5}{6}  m$의 무게가 $ 3 \\frac{1}{4}  kg$입니다. 이 쇠 파이프 $10$ m의 무게는 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            627,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            629,
+            37
+          ],
+          "text": "굵기가 일정한 쇠 파이프 $ \\frac{5}{6}  m$의 무게가 $ 3 \\frac{1}{4}  kg$입니다. 이 쇠 파이프 $10$ m의 무게는 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

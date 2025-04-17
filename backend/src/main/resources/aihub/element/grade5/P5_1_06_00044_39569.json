@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39569.png",
+  "id": "00044_39569",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 14 m이고 윗변은 밑변의 맞은편 중앙에 있고 그 길이가 6 m이며 밑변의 양 끝점에서 수직 위로 2 m 올린 선분의 양 끝점에서 가로 방향 안쪽으로 2 m 직각으로 꺾어 들어온 양 끝점에서 다시 수직 위로 2 m 올린 선분의 양 끝점에서 가로 방향 안쪽으로 2 m 직각으로 꺾어 들어 온 양 끝점에서 다시 수직 위로 2 m 올린 선분의 양 끝점이 윗변의 양 끝점과 만나며, 밑변의 양 끝점에서 올린 세로의 길이는 도형의 외부인 왼쪽과 오른쪽에, 그 위의 가로의 길이는 왼쪽은 변의 위에 오른쪽은 변의 아래에, 그 위의 세로의 길이는 양쪽 모두 오른쪽에, 그 위의 가로의 길이는 왼쪽은 변의 위에 오른쪽은 변의 아래에, 그 위의 세로의 길이는 왼쪽은 표시가 없고 오른쪽은 변의 오른쪽에 길이 구간의 둥근 점선과 함께 모두 2 m로 표시하고 있고 양쪽 변이 직각으로 꺾인 모양의 색칠한 도형",
+      "question_text": "다음 도형은 직각으로 꺾인 도형입니다. 넓이는 몇$ m²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            366,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            233,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            23
+          ],
+          "text": "다음 도형은 직각으로 꺾인 도형입니다. 넓이는 몇$ m²$입니까?"
+        }
+      ]
+    }
+  ]
+}

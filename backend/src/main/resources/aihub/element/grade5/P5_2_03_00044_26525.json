@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_03_00044_26525.png",
+  "id": "00044_26525",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선대칭도형에 대한 설명으로  틀린  것은 어느 것입니까? ①점 $ㄷ$의 대응점은 점 $ㅅ$입니다. ②점 $ㄱ$의 대응점은 점 $ㅁ$입니다. ③변 $ㄴㄷ$의 대응변은 변 $ㅇㅅ$입니다. ④변 $ㄱㄴ$의 대응변은 변 $ㄱㅇ$입니다. ⑤변 $ㄹㅁ$의 대응변은 변 $ㅂㅁ$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            330,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            153,
+            215,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            175,
+            215,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            197,
+            240,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            219,
+            240,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            241,
+            240,
+            261
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            33,
+            151,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            0.66,
+            330.24,
+            17.94
+          ],
+          "text": "선대칭도형에 대한 설명으로  틀린  것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.84,
+            152.98,
+            240,
+            261.78
+          ],
+          "text": "①점 $ㄷ$의 대응점은 점 $ㅅ$입니다. ②점 $ㄱ$의 대응점은 점 $ㅁ$입니다. ③변 $ㄴㄷ$의 대응변은 변 $ㅇㅅ$입니다. ④변 $ㄱㄴ$의 대응변은 변 $ㄱㅇ$입니다. ⑤변 $ㄹㅁ$의 대응변은 변 $ㅂㅁ$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_70149.png",
+  "id": "00043_70149",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각기둥의 면을 지나면서 점 ㄱ과 점 ㄴ을 잇는 가장 짧은 거리를 전개도에 나타내려고 합니다. 어느 점을 점 ㄴ으로 해야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            738,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            279,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            740,
+            24
+          ],
+          "text": "각기둥의 면을 지나면서 점 ㄱ과 점 ㄴ을 잇는 가장 짧은 거리를 전개도에 나타내려고 합니다. 어느 점을 점 ㄴ으로 해야 합니까?"
+        }
+      ]
+    }
+  ]
+}

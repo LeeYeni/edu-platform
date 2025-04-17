@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_01_00042_30496.png",
+  "id": "00042_30496",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같이 계산 순서를 나타내고 계산하시오. $11×(5+20)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            284,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            81,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24.28,
+            27.37,
+            165.28,
+            93.37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.28,
+            1.37,
+            282.28,
+            17.37
+          ],
+          "text": "보기와 같이 계산 순서를 나타내고 계산하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            97.37,
+            81.28,
+            113.37
+          ],
+          "text": "$11×(5+20)$"
+        }
+      ]
+    }
+  ]
+}

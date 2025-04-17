@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_01_00043_70989.png",
+  "id": "00043_70989",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201001",
+      "question_topic_name": "분모가 같은 (분수)÷(단위분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.(1) $ \\frac{3}{8} \\div \\frac{1}{8}=  \\square$ (2) $ \\frac{6}{7} \\div \\frac{1}{7}=  \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            144,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            146,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            148,
+            100
+          ],
+          "text": "계산을 하시오.(1) $ \\frac{3}{8} \\div \\frac{1}{8}=  \\square$ (2) $ \\frac{6}{7} \\div \\frac{1}{7}=  \\square$"
+        }
+      ]
+    }
+  ]
+}

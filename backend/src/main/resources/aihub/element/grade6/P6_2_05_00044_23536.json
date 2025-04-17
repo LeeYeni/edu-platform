@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_05_00044_23536.png",
+  "id": "00044_23536",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205011",
+      "question_topic_name": "원의 넓이 구하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원의 넓이를 구할 수 없는 것은 어느 것입니까? (원주율 $: 3.14$) ①지름을 알고 있는 원 ②원주와 지름의 비율을 알고 있는 원 ③원주를 알고 있는 원 ④반지름을 알고 있는 원 ⑤반원의 넓이를 알고 있는 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            157,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            241,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            157,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            170,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            199,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            372,
+            130
+          ],
+          "text": "원의 넓이를 구할 수 없는 것은 어느 것입니까? (원주율 $: 3.14$) ①지름을 알고 있는 원 ②원주와 지름의 비율을 알고 있는 원 ③원주를 알고 있는 원 ④반지름을 알고 있는 원 ⑤반원의 넓이를 알고 있는 원"
+        }
+      ]
+    }
+  ]
+}

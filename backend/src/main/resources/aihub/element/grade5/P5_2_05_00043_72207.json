@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72207.png",
+  "id": "00043_72207",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205019",
+      "question_topic_name": "직육면체의 전개도의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 직육면체의 전개도에 선을 그은 후 모서리를 붙여 등을 만들었을 때 전개도는 누구의 것인지 찾아 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            681,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            281,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            683,
+            23
+          ],
+          "text": "왼쪽 직육면체의 전개도에 선을 그은 후 모서리를 붙여 등을 만들었을 때 전개도는 누구의 것인지 찾아 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

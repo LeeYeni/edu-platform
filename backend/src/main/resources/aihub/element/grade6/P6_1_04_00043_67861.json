@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_04_00043_67861.png",
+  "id": "00043_67861",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가와 나 두 소금물의 진하기와 소금물의 양입니다. 물음에 답하시오. <table border>   <tbody>     <tr>       <td>소금물</td>       <td>가</td>       <td>나</td>     </tr>     <tr>       <td>진하기</td>       <td>$5$%</td>       <td>$8$%</td>     </tr>     <tr>       <td>양</td>       <td>$260g$</td>       <td>$150g$</td>     </tr> </tbody> </table> (1) 가 소금물에는 소금이 몇 $g$ 녹아 있습니까? (2) 나 소금물에는 소금이 몇 $g$ 녹아 있습니까? (3) 어느 소금물에 녹아 있는 소금이 몇 $g$ 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            400,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            21,
+            198,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            50,
+            195,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            79,
+            204,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            117,
+            279,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            282,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            328,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            402,
+            179
+          ],
+          "text": "가와 나 두 소금물의 진하기와 소금물의 양입니다. 물음에 답하시오. <table border>   <tbody>     <tr>       <td>소금물</td>       <td>가</td>       <td>나</td>     </tr>     <tr>       <td>진하기</td>       <td>$5$%</td>       <td>$8$%</td>     </tr>     <tr>       <td>양</td>       <td>$260g$</td>       <td>$150g$</td>     </tr> </tbody> </table> (1) 가 소금물에는 소금이 몇 $g$ 녹아 있습니까? (2) 나 소금물에는 소금이 몇 $g$ 녹아 있습니까? (3) 어느 소금물에 녹아 있는 소금이 몇 $g$ 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

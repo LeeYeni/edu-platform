@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_39448.png",
+  "id": "00044_39448",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106005",
+      "question_topic_name": "1㎠ 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $ 1 \\mathrm{cm}^2 $에 대해 바르게 설명한 것을 고르시오. ①둘레가 $1 cm$인 정사각형의 넓이 ②둘레가 $1 m$인 정사각형의 넓이 ③한 변이 $1 mm$인 정사각형의 넓이 ④한 변이 $1 cm$인 정사각형의 넓이 ⑤한 변이 $1 m$인 정사각형의 넓이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            327,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            219,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            212,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            228,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            223,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            216,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            329,
+            129
+          ],
+          "text": "다음 중 $ 1 \\mathrm{cm}^2 $에 대해 바르게 설명한 것을 고르시오. ①둘레가 $1 cm$인 정사각형의 넓이 ②둘레가 $1 m$인 정사각형의 넓이 ③한 변이 $1 mm$인 정사각형의 넓이 ④한 변이 $1 cm$인 정사각형의 넓이 ⑤한 변이 $1 m$인 정사각형의 넓이"
+        }
+      ]
+    }
+  ]
+}

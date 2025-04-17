@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00050_21455.png",
+  "id": "00050_21455",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203014",
+      "question_topic_name": "같은 모양 만들기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연결큐브 $4$개로 만든 모양입니다. 돌리거나 뒤집었을 때 같은 모양이 되는 것끼리 찾아 기호를 쓰시오. 가 나 다 라",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            586,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            262,
+            27,
+            561,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            594,
+            23
+          ],
+          "text": "연결큐브 $4$개로 만든 모양입니다. 돌리거나 뒤집었을 때 같은 모양이 되는 것끼리 찾아 기호를 쓰시오. 가 나 다 라"
+        }
+      ]
+    }
+  ]
+}

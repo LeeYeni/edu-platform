@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_03_00043_59807.png",
+  "id": "00043_59807",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103002",
+      "question_topic_name": "변하는 부분과 변하지 않는 부분을 찾아 두 양 사이의 관계 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "순서와 바둑돌 수 사이의 대응 관계를 알아보려고 합니다. 물음에 답하시오.  (1) 표로 나타내시오.  <table border>   <tbody>     <tr>       <td>순서</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$\\cdots\\cdots$</td>     </tr>     <tr>       <td>바둑돌 수</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td>$\\cdots\\cdots$</td>     </tr> </tbody> </table> (2) 순서와 바둑돌 수 사이의 대응 관계를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            134,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            256,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            212,
+            296,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            322,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.3,
+            441.19,
+            16.3
+          ],
+          "text": "순서와 바둑돌 수 사이의 대응 관계를 알아보려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            139.82,
+            295.27,
+            228.14
+          ],
+          "text": "(1) 표로 나타내시오.  <table border>   <tbody>     <tr>       <td>순서</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$\\cdots\\cdots$</td>     </tr>     <tr>       <td>바둑돌 수</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td>$\\cdots\\cdots$</td>     </tr> </tbody> </table> (2) 순서와 바둑돌 수 사이의 대응 관계를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

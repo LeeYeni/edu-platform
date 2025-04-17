@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_40875.png",
+  "id": "00044_40875",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106012",
+      "question_topic_name": "직육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 4 cm, 세로가 4 cm, 높이가 6 cm인 왼쪽에 위치한 직육면체 가와 가로가 6 cm, 세로가 5 cm, 높이가 3 cm인 오른쪽에 위치한 직육면체 나",
+      "question_text": "두 직육면체의 겉넓이의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            242,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            33,
+            270,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            244,
+            20
+          ],
+          "text": "두 직육면체의 겉넓이의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

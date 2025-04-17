@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_05_00043_94818.png",
+  "id": "00043_94818",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105004",
+      "question_topic_name": "띠그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 띠그래프로 나타내기에 알맞지 않은 것은 어느 것입니까? ①상희네 반 학생들이 태어난 계절 ②보민이 몸무게의 월별 변화 비교 ③수미가 한 달 동안 읽은 책의 종류별 비교 ④상혁이네 마을의 토지 이용도 비교 ⑤민영이네 반 아이들의 마을별 학생 수 비교",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            225,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            225,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            275,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            238,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            284,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            130
+          ],
+          "text": "다음 중 띠그래프로 나타내기에 알맞지 않은 것은 어느 것입니까? ①상희네 반 학생들이 태어난 계절 ②보민이 몸무게의 월별 변화 비교 ③수미가 한 달 동안 읽은 책의 종류별 비교 ④상혁이네 마을의 토지 이용도 비교 ⑤민영이네 반 아이들의 마을별 학생 수 비교"
+        }
+      ]
+    }
+  ]
+}

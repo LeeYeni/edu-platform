@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00050_19420.png",
+  "id": "00050_19420",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $86.1  \\mathrm{~m} $인 도로의 한쪽에 일정한 간격으로 주차금지 표지판 $15$개를 세우려고 합니다. 도로의 시작과 끝에도 표지판을 세운다면 표지판 사이의 거리는 몇$ \\mathrm{~m} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            194,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "길이가 $86.1  \\mathrm{~m} $인 도로의 한쪽에 일정한 간격으로 주차금지 표지판 $15$개를 세우려고 합니다. 도로의 시작과 끝에도 표지판을 세운다면 표지판 사이의 거리는 몇$ \\mathrm{~m} $입니까?"
+        }
+      ]
+    }
+  ]
+}

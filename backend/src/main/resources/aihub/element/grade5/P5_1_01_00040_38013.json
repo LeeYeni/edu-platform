@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00040_38013.png",
+  "id": "00040_38013",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101010",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 식의 $\\square$ 안에 알맞은 수를 써넣으시오. $ 84 \\div 7-\\square \\times 3=3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            138,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            43
+          ],
+          "text": "다음 식의 $\\square$ 안에 알맞은 수를 써넣으시오. $ 84 \\div 7-\\square \\times 3=3 $"
+        }
+      ]
+    }
+  ]
+}

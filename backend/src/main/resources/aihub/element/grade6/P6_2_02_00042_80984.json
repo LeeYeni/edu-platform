@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00042_80984.png",
+  "id": "00042_80984",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 구할 때 몫의 소수 $50$째 자리에 해당하는 숫자가 더 큰 나눗셈의 기호를 쓰시오. ㉠ $ 8.1 \\div 5.5 $ ㉡ $ 9 \\div 4.95 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            551,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            22,
+            166,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            553,
+            47
+          ],
+          "text": "나눗셈의 몫을 구할 때 몫의 소수 $50$째 자리에 해당하는 숫자가 더 큰 나눗셈의 기호를 쓰시오. ㉠ $ 8.1 \\div 5.5 $ ㉡ $ 9 \\div 4.95 $"
+        }
+      ]
+    }
+  ]
+}

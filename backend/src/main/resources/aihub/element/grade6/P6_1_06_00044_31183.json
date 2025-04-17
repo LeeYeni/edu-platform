@@ -1,0 +1,129 @@
+{
+  "question_filename": "P6_1_06_00044_31183.png",
+  "id": "00044_31183",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106009",
+      "question_topic_name": "1㎥ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 3 m, 세로의 길이가 1 m, 높이가 2 m인 직육면체",
+      "question_text": "직육면체를 보고 물음에 답하시오.  ⑴ 부피를 $ \\mathrm{m}$를 기준으로 나타내어 계산하시오. $ 3 \\times \\square \\times \\square=\\square\\left(\\mathrm{m}^{3}\\right) $ ⑵ 부피를 $ \\mathrm{cm}$를 기준으로 나타내어 계산하시오. $ 300 \\times \\square \\times \\square=\\square\\left(\\mathrm{cm}^{3}\\right) $ ⑶ 부피의 계산을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 6 \\mathrm{~m}^{3}=\\square \\mathrm{cm}^{3} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            283,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            163,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            289,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            198,
+            248,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            222,
+            333,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            242,
+            165,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            27,
+            155,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0.91,
+            214.68,
+            17.71
+          ],
+          "text": "직육면체를 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            133,
+            335,
+            264
+          ],
+          "text": "⑴ 부피를 $ \\mathrm{m}$를 기준으로 나타내어 계산하시오. $ 3 \\times \\square \\times \\square=\\square\\left(\\mathrm{m}^{3}\\right) $ ⑵ 부피를 $ \\mathrm{cm}$를 기준으로 나타내어 계산하시오. $ 300 \\times \\square \\times \\square=\\square\\left(\\mathrm{cm}^{3}\\right) $ ⑶ 부피의 계산을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 6 \\mathrm{~m}^{3}=\\square \\mathrm{cm}^{3} $"
+        }
+      ]
+    }
+  ]
+}

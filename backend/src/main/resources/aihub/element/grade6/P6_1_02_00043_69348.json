@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_69348.png",
+  "id": "00043_69348",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102004",
+      "question_topic_name": "각기둥의 밑면과 옆면 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 8 cm인 직사각형을 윗면으로 가로가 20 cm, 세로가 6 cm인 직사각형을 아랫면으로 가지고 10 cm의 변을 가지는 사다리꼴과 11 cm의 변을 가지는 직사각형을 옆면으로 가지는 나무 무늬로 색칠된 각기둥",
+      "question_text": "그림의 토막은 각기둥 모양입니다. 한 밑면의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            397,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            188,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            23
+          ],
+          "text": "그림의 토막은 각기둥 모양입니다. 한 밑면의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

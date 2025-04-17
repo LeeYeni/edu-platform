@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_04_00043_77282.png",
+  "id": "00043_77282",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104010",
+      "question_topic_name": "비율이 사용되는 경우 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자전거로 $20km$를 가는 데 $1$시간 $15$분이 걸렸습니다. 이 자전거의 평균 시속은 몇 $km/시$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            560,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            562,
+            21
+          ],
+          "text": "자전거로 $20km$를 가는 데 $1$시간 $15$분이 걸렸습니다. 이 자전거의 평균 시속은 몇 $km/시$입니까?"
+        }
+      ]
+    }
+  ]
+}

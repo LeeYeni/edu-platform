@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_76411.png",
+  "id": "00043_76411",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104001",
+      "question_topic_name": "두 수 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "같은 금액을 나타내도록 표를 완성하고 $100$원짜리 동전 수는 $500$원짜리 동전 수의 몇 배인지 구하시오. <table border> <caption></caption>   <tbody>     <tr>       <td>$500$원짜리 동전수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>$100$원짜리 동전수</td>       <td>$5$</td>       <td>$10$</td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            605,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            281,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            607,
+            70
+          ],
+          "text": "같은 금액을 나타내도록 표를 완성하고 $100$원짜리 동전 수는 $500$원짜리 동전 수의 몇 배인지 구하시오. <table border> <caption></caption>   <tbody>     <tr>       <td>$500$원짜리 동전수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>$100$원짜리 동전수</td>       <td>$5$</td>       <td>$10$</td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

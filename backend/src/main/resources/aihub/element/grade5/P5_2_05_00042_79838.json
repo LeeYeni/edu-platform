@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00042_79838.png",
+  "id": "00042_79838",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗면인 직사각형 ㄱㄴㄷㄹ과 아랫면인 직사각형 ㅁㅂㅅㅇ이 평행한 합동이고 왼쪽 옆면 직사각형 ㄴㅂㅁㄱ, 오른쪽 옆면 직사각형 ㄷㅅㅇㄹ이 평행한 합동으로 이루어진 칠해진 직육면체",
+      "question_text": "직육면체에서 면 ㄱㅁㅇㄹ과 평행한 면을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            296,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            159,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            298,
+            23
+          ],
+          "text": "직육면체에서 면 ㄱㅁㅇㄹ과 평행한 면을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

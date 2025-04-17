@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00042_80784.png",
+  "id": "00042_80784",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202004",
+      "question_topic_name": "소수  두 자리 수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 구하시오.   $110.61÷\\square=24.58$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            191,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            147,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            193,
+            71
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 구하시오.   $110.61÷\\square=24.58$"
+        }
+      ]
+    }
+  ]
+}

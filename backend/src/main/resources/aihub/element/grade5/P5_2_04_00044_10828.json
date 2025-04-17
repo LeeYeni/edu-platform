@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_04_00044_10828.png",
+  "id": "00044_10828",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영수는 철사를 이용하여 다음 그림과 같이 한 변이 $3.8cm$인 정육각형을 만들려고 합니다. 철사는 최소한 몇 $cm$가 필요합니까? ①$18.6cm$ ②$20.6cm$ ③$22.8cm$ ④$24.8cm$ ⑤$26.6cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            732,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            88,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            91,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            90,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            211,
+            90,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            233,
+            90,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            143,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.52,
+            0.5,
+            732.99,
+            17.93
+          ],
+          "text": "영수는 철사를 이용하여 다음 그림과 같이 한 변이 $3.8cm$인 정육각형을 만들려고 합니다. 철사는 최소한 몇 $cm$가 필요합니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            144,
+            93,
+            253
+          ],
+          "text": "①$18.6cm$ ②$20.6cm$ ③$22.8cm$ ④$24.8cm$ ⑤$26.6cm$"
+        }
+      ]
+    }
+  ]
+}

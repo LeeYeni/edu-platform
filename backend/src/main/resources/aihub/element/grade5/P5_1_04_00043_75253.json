@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_04_00043_75253.png",
+  "id": "00043_75253",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104014",
+      "question_topic_name": "크기 비교 조건에 맞는 분수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 지역별 인구가 전체 인구의 약 얼마인지를 분수로 나타낸 것입니다. 분수의 크기를 비교하여 인구가 가장 많은 지역을 쓰시오.  <table border>   <tbody>     <tr>       <td>지역</td>       <td>서울</td>       <td>인천</td>       <td>대구</td>       <td>부산</td>     </tr>     <tr>       <td>전체 인구에서 차지하는 부분</td>       <td>$ \\frac{1}{5}$</td>       <td>$ \\frac{3}{50}$</td>       <td>$ \\frac{1}{20}$</td>       <td>$ \\frac{7}{100}$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            765,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            377,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            767,
+            87
+          ],
+          "text": "다음은 지역별 인구가 전체 인구의 약 얼마인지를 분수로 나타낸 것입니다. 분수의 크기를 비교하여 인구가 가장 많은 지역을 쓰시오.  <table border>   <tbody>     <tr>       <td>지역</td>       <td>서울</td>       <td>인천</td>       <td>대구</td>       <td>부산</td>     </tr>     <tr>       <td>전체 인구에서 차지하는 부분</td>       <td>$ \\frac{1}{5}$</td>       <td>$ \\frac{3}{50}$</td>       <td>$ \\frac{1}{20}$</td>       <td>$ \\frac{7}{100}$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

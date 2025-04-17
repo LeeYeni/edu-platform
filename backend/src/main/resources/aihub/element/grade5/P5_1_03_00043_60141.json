@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_60141.png",
+  "id": "00043_60141",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "암호문과 알파벳 사이의 대응 관계를 나타낸 표를 보고 암호를 해독하시오.  <table border> <caption></caption>   <tbody>     <tr>       <td>암호문</td>       <td>P</td>       <td>H</td>       <td>H</td>       <td>W</td>       <td>D</td>       <td>W</td>       <td>Q</td>       <td>R</td>       <td>R</td>       <td>Q</td>     </tr>     <tr>       <td>알파벳</td>       <td>M</td>       <td>E</td>       <td>E</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            439,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            27,
+            320,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            441,
+            24
+          ],
+          "text": "암호문과 알파벳 사이의 대응 관계를 나타낸 표를 보고 암호를 해독하시오.  <table border> <caption></caption>   <tbody>     <tr>       <td>암호문</td>       <td>P</td>       <td>H</td>       <td>H</td>       <td>W</td>       <td>D</td>       <td>W</td>       <td>Q</td>       <td>R</td>       <td>R</td>       <td>Q</td>     </tr>     <tr>       <td>알파벳</td>       <td>M</td>       <td>E</td>       <td>E</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

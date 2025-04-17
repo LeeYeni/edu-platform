@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_03_00050_19800.png",
+  "id": "00050_19800",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103018",
+      "question_topic_name": "(자연수) ÷ (자연수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈은 나누어떨어지지 않습니다. 이 나눗셈의 나뉠 수에 $\\bullet$를 더하면 몫은 소수 두 자리 수이고 나누어떨어집니다. $\\bullet$에 알맞은 수 중에서 가장 작은 수를 구하시오. $ 74 \\div 9 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            204,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            154,
+            48,
+            188,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            69
+          ],
+          "text": "다음 나눗셈은 나누어떨어지지 않습니다. 이 나눗셈의 나뉠 수에 $\\bullet$를 더하면 몫은 소수 두 자리 수이고 나누어떨어집니다. $\\bullet$에 알맞은 수 중에서 가장 작은 수를 구하시오. $ 74 \\div 9 $"
+        }
+      ]
+    }
+  ]
+}

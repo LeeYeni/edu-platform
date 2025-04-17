@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_05_00044_38188.png",
+  "id": "00044_38188",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205017",
+      "question_topic_name": "원주의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로와 세로가 직각이고 세로가 10 m, 가로가 67.5 m인 직사각형의 세로변을 지름으로 하는 반원이 직사각형 외부로 겹쳐진 모양",
+      "question_text": "그림과 같이 양쪽 부분이 반원 모양인 호수가 있습니다. 이 호숫가에 $2.6m$ 간격으로 의자를 놓으려고 합니다. 의자는 모두 몇 개 필요합니까? (단, 의자의 길이는 생각하지 않습니다.) (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            242,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            105,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            92,
+            320,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            83
+          ],
+          "text": "그림과 같이 양쪽 부분이 반원 모양인 호수가 있습니다. 이 호숫가에 $2.6m$ 간격으로 의자를 놓으려고 합니다. 의자는 모두 몇 개 필요합니까? (단, 의자의 길이는 생각하지 않습니다.) (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

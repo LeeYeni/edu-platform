@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_03_00050_18600.png",
+  "id": "00050_18600",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 크기가 같은 정사각형 5개를 변끼리 이어 만든 도형을 펜토미노라고 합니다. 펜토미노 중에서 선대칭도형을 모두 찾아 그린 다음, 대칭축을 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            165,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            261,
+            48,
+            556,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            262,
+            92,
+            561,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            261,
+            48,
+            562,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "다음과 같이 크기가 같은 정사각형 5개를 변끼리 이어 만든 도형을 펜토미노라고 합니다. 펜토미노 중에서 선대칭도형을 모두 찾아 그린 다음, 대칭축을 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39622.png",
+  "id": "00044_39622",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106020",
+      "question_topic_name": "삼각형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모눈종이에 넓이가 3cm²인 서로 다른 모양의 삼각형을 3개 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            427,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            326,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            429,
+            23
+          ],
+          "text": "모눈종이에 넓이가 3cm²인 서로 다른 모양의 삼각형을 3개 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

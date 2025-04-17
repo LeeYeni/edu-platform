@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_76406.png",
+  "id": "00043_76406",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104001",
+      "question_topic_name": "두 수 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "봉지 수에 따른 사탕 수와 초콜릿 수입니다. 여러 봉지를 모았을 때 사탕이 $36$개라면 초콜릿은 몇 개입니까? <table border>   <tbody>     <tr>       <td>봉지수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>        <td>$4$</td>         </tr>     <tr>       <td>사탕 수</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>        <td>$16$</td>         </tr> <tr>       <td>초콜릿 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>        <td>$4$</td>         </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            625,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            245,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            627,
+            93
+          ],
+          "text": "봉지 수에 따른 사탕 수와 초콜릿 수입니다. 여러 봉지를 모았을 때 사탕이 $36$개라면 초콜릿은 몇 개입니까? <table border>   <tbody>     <tr>       <td>봉지수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>        <td>$4$</td>         </tr>     <tr>       <td>사탕 수</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>        <td>$16$</td>         </tr> <tr>       <td>초콜릿 수</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>        <td>$4$</td>         </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

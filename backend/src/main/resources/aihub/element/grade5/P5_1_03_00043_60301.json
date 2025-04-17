@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_03_00043_60301.png",
+  "id": "00043_60301",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 규칙으로 수를 늘어놓았습니다. $35$번째와 $50$번째에 놓이는 수의 일의 자리 숫자의 합은 얼마입니까? $2 2×2 2×2×2 2×2×2×2$ ………",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            658,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            244,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            665,
+            57
+          ],
+          "text": "다음과 같은 규칙으로 수를 늘어놓았습니다. $35$번째와 $50$번째에 놓이는 수의 일의 자리 숫자의 합은 얼마입니까? $2 2×2 2×2×2 2×2×2×2$ ………"
+        }
+      ]
+    }
+  ]
+}

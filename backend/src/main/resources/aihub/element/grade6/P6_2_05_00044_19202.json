@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_19202.png",
+  "id": "00044_19202",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205005",
+      "question_topic_name": "지름을 알 때 원주 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "오른쪽에 반지름의 길이가 5 cm인 원이 있고, 이보다 작은 원이 오른쪽 원의 왼쪽에서 외접하고, 왼쪽 원의 반지름과 오른쪽 원의 지름이 일직선이 되게 선을 그으면 그 길이가 14 cm인 도형",
+      "question_text": "도형의 둘레를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            27,
+            225,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            23
+          ],
+          "text": "도형의 둘레를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

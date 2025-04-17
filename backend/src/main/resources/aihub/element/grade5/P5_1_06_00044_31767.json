@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_06_00044_31767.png",
+  "id": "00044_31767",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 12 cm, 세로의 길이가 7 cm인 파란색으로 칠해진 직사각형을 윗변을 기준으로 가로의 길이가 12 cm, 세로의 길이가 3 cm인 직사각형 가와 오른쪽 아래 꼭짓점을 기준으로 가로의 길이가 7 cm, 세로의 길이가 4 cm인 다, 나머지 직사각형이 하안색으로 칠해진 직사각형 나로 나뉘어 있는 그림",
+      "question_text": "도형의 넓이를 여러 가지 방법으로 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. (1) (가의 넓이)+(다의 넓이) \\[=12 \\times \\square+7 \\times \\square=\\square\\left(\\mathrm{cm}^{2}\\right) \\] (2) (가+나+다의 넓이)-(나의 넓이) \\[ =12 \\times \\square-\\square \\times 4=\\square\\left(\\mathrm{cm}^{2}\\right) \\]",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            499,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            175,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            207,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            217,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            192,
+            206,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            203,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            0,
+            499.17,
+            17.11
+          ],
+          "text": "도형의 넓이를 여러 가지 방법으로 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            126.11,
+            218.17,
+            215.11
+          ],
+          "text": "(1) (가의 넓이)+(다의 넓이) \\[=12 \\times \\square+7 \\times \\square=\\square\\left(\\mathrm{cm}^{2}\\right) \\] (2) (가+나+다의 넓이)-(나의 넓이) \\[ =12 \\times \\square-\\square \\times 4=\\square\\left(\\mathrm{cm}^{2}\\right) \\]"
+        }
+      ]
+    }
+  ]
+}

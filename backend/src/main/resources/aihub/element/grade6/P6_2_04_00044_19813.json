@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_19813.png",
+  "id": "00044_19813",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 은행에 $1$년 동안 $1000$원을 예금하면 이자가 $50$원입니다. 이 은행에 $1$년 동안 $30000$ 원을 예금하면 이자는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            730,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            732,
+            21
+          ],
+          "text": "어떤 은행에 $1$년 동안 $1000$원을 예금하면 이자가 $50$원입니다. 이 은행에 $1$년 동안 $30000$ 원을 예금하면 이자는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

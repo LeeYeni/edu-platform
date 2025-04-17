@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00043_41265.png",
+  "id": "00043_41265",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "복숭아 $1$개의 값은 딸기 $1$개의 값보다 얼마나 더 비쌉니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            348,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            29,
+            312,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            350,
+            23
+          ],
+          "text": "복숭아 $1$개의 값은 딸기 $1$개의 값보다 얼마나 더 비쌉니까?"
+        }
+      ]
+    }
+  ]
+}

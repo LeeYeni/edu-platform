@@ -1,0 +1,129 @@
+{
+  "question_filename": "P5_2_05_00041_33473.png",
+  "id": "00041_33473",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 하나의 정육면체를 세 방향에서 본 것입니다. A의 알파벳이 있는 면과 평행인 면에 있는 알파벳은 어느 것입니까? (알파벳의 모양은 무시합니다.)  ①B ②C ③D ④E ⑤F",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            92,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            53,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            53,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            54,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            183,
+            53,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            205,
+            53,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            43,
+            255,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "다음은 하나의 정육면체를 세 방향에서 본 것입니다. A의 알파벳이 있는 면과 평행인 면에 있는 알파벳은 어느 것입니까? (알파벳의 모양은 무시합니다.) "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            116,
+            56,
+            226
+          ],
+          "text": "①B ②C ③D ④E ⑤F"
+        }
+      ]
+    }
+  ]
+}

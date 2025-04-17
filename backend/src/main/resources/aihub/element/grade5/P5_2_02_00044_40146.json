@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_40146.png",
+  "id": "00044_40146",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202011",
+      "question_topic_name": "자연수가 분모의 배수가 아닌 (자연수)x(진분수)_약분한 후 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "떨어진 높이의 $ \\frac{5}{8} $만큼 튀어 오르는 공이 있습니다. 이 공을 높이가 $64m$인 건물의 옥상에서 수직으로 떨어뜨렸습니다. 이 공이 세 번째로 튀어 오르기까지 움직인 거리는 모두 몇$m$입니까? (단, 공은 수직으로만 움직입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            793,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            39,
+            500,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            59
+          ],
+          "text": "떨어진 높이의 $ \\frac{5}{8} $만큼 튀어 오르는 공이 있습니다. 이 공을 높이가 $64m$인 건물의 옥상에서 수직으로 떨어뜨렸습니다. 이 공이 세 번째로 튀어 오르기까지 움직인 거리는 모두 몇$m$입니까? (단, 공은 수직으로만 움직입니다.)"
+        }
+      ]
+    }
+  ]
+}

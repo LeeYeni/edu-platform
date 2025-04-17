@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_24070.png",
+  "id": "00044_24070",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑변의 길이와 높이의 비가 $9 : 5$인 삼각형이 있습니다. 이 삼각형의 높이가 $14 cm$일 때 넓이는 몇 $cm²$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            636,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            638,
+            21
+          ],
+          "text": "밑변의 길이와 높이의 비가 $9 : 5$인 삼각형이 있습니다. 이 삼각형의 높이가 $14 cm$일 때 넓이는 몇 $cm²$입니까?"
+        }
+      ]
+    }
+  ]
+}

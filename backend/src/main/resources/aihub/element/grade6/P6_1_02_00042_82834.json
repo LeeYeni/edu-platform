@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00042_82834.png",
+  "id": "00042_82834",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면의 두 변의 길이는 각각 4 cm, 5 cm이고, 높이는 7 cm, 윗면의 한 변의 길이는 6 cm 삼각기둥의 겨냥도 오른쪽 화살표 옆에 직사각형 면 3개가 옆으로 나란히 있고, 두 번째, 세 번째면 위, 아래에 삼각형 면이 있고, 위쪽 삼각형 오른쪽 변, 직사각형 오른쪽 세로, 아래쪽 삼각형 오른쪽 변, 두 번째 면 아래 가로에 각각 네모 빈칸 cm가 있는 삼각기둥의 전개도",
+      "question_text": "삼각기둥의 전개도입니다. $ \\square $ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            28,
+            321,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            356,
+            22
+          ],
+          "text": "삼각기둥의 전개도입니다. $ \\square $ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

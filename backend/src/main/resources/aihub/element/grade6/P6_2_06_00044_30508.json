@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00044_30508.png",
+  "id": "00044_30508",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206006",
+      "question_topic_name": "원기둥의 전개도에서 각 부분의 길이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에 높이가 15 cm인 색칠된 원기둥이 있고 우측에 원기둥의 전개도를 가운데 직사각형 ㄱㄴㄷㄹ을 두고 왼쪽 위에 원, 오른쪽 아래 원이 표현되고 색칠되어 있으며 원기둥과 전개도 사이에 화살표를 표시한 그림",
+      "question_text": "원기둥의 한 밑면의 둘레가 $37.68 cm$이고 높이가 $15 cm$일 때, 직사각형 ㄱㄴㄷㄹ의 둘레는 몇 $cm$입니까? (원주율: $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            702,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            30,
+            305,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            704,
+            21
+          ],
+          "text": "원기둥의 한 밑면의 둘레가 $37.68 cm$이고 높이가 $15 cm$일 때, 직사각형 ㄱㄴㄷㄹ의 둘레는 몇 $cm$입니까? (원주율: $3.14$)"
+        }
+      ]
+    }
+  ]
+}

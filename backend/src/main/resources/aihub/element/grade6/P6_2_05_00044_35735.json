@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_35735.png",
+  "id": "00044_35735",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원에 내접하는 마름모의 길이가 22 cm인 두 대각선이 직교하여 점선으로 그려 있고, 원에서 마름모를 제외하고 색칠된 도형",
+      "question_text": "원 안에 마름모를 그린 것입니다. 색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            476,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            125,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            478,
+            22
+          ],
+          "text": "원 안에 마름모를 그린 것입니다. 색칠한 부분의 넓이를 구하시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

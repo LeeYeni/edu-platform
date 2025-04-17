@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_03_00043_59922.png",
+  "id": "00043_59922",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 보고 $\\bigcirc$와 $\\triangle$ 사이의 대응 관계를 $2$가지의 식으로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td> $\\bigcirc$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>       <td>$7$</td>     </tr>     <tr>       <td>$\\triangle$ </td>       <td>12</td>       <td>13</td>       <td>14</td>       <td>15</td>       <td>16</td>     </tr> </tbody> </table> $\\bigcirc+\\square=\\triangle,\\triangle -\\square=\\bigcirc$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            625,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            182,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            172,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            627,
+            92
+          ],
+          "text": "표를 보고 $\\bigcirc$와 $\\triangle$ 사이의 대응 관계를 $2$가지의 식으로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td> $\\bigcirc$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>       <td>$7$</td>     </tr>     <tr>       <td>$\\triangle$ </td>       <td>12</td>       <td>13</td>       <td>14</td>       <td>15</td>       <td>16</td>     </tr> </tbody> </table> $\\bigcirc+\\square=\\triangle,\\triangle -\\square=\\bigcirc$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_03_00044_11199.png",
+  "id": "00044_11199",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203009",
+      "question_topic_name": "점대칭도형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점대칭도형을 모두 고른 것은 어느 것입니까? ① 가, 나 ② 가, 다 ③ 나, 라 ④ 라, 마 ⑤ 가, 나, 다, 라",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            78,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            78,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            78,
+            250
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            253,
+            78,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            275,
+            118,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            329,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.15,
+            1.34,
+            274.67,
+            16.7
+          ],
+          "text": "점대칭도형을 모두 고른 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.2,
+            186.69,
+            117.99,
+            294.21
+          ],
+          "text": "① 가, 나 ② 가, 다 ③ 나, 라 ④ 라, 마 ⑤ 가, 나, 다, 라"
+        }
+      ]
+    }
+  ]
+}

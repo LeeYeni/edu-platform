@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00044_32349.png",
+  "id": "00044_32349",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206009",
+      "question_topic_name": "원뿔의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면의 지름이 20 cm, 높이가 24 cm, 모선의 길이가 26 cm인 원뿔",
+      "question_text": "다음 원뿔을 보고 $(밑면의 반지름)+(높이)-(모선)$의 값을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            393,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            23,
+            119,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            395,
+            23
+          ],
+          "text": "다음 원뿔을 보고 $(밑면의 반지름)+(높이)-(모선)$의 값을 구하시오."
+        }
+      ]
+    }
+  ]
+}

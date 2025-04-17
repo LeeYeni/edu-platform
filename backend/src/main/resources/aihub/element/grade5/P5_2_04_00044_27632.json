@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_04_00044_27632.png",
+  "id": "00044_27632",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 아래 각이 예각이고 밑변의 길이가 4.72 cm, 왼쪽 위 꼭짓점에서 밑변에 그린 점선의 수선의 길이가 3.6 cm인 평행사변형",
+      "question_text": "평행사변형의 넓이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            196,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            43,
+            48,
+            165,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            198,
+            21
+          ],
+          "text": "평행사변형의 넓이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

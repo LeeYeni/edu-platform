@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_04_00044_19892.png",
+  "id": "00044_19892",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 물통에 물 $ 200 \\mathrm{~mL} $ 를 더 부으면 가득 차게 됩니다. 이 물통에 담긴 물의 높이가 $ 8 \\mathrm{~cm} $ 일 때, 물통에 담겨 있는 물은 몇 $ \\mathrm{mL} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            772,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            31,
+            227,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            774,
+            24
+          ],
+          "text": "다음 물통에 물 $ 200 \\mathrm{~mL} $ 를 더 부으면 가득 차게 됩니다. 이 물통에 담긴 물의 높이가 $ 8 \\mathrm{~cm} $ 일 때, 물통에 담겨 있는 물은 몇 $ \\mathrm{mL} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

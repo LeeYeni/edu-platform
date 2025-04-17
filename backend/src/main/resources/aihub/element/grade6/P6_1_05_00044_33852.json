@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00044_33852.png",
+  "id": "00044_33852",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105001",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어느 공장의 월별 전기 사용량을 그림그래프로 나타낸 것입니다. 전기 사용량이 가장 적은 달은 어느 달입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            685,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            46,
+            329,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            687,
+            21
+          ],
+          "text": "다음은 어느 공장의 월별 전기 사용량을 그림그래프로 나타낸 것입니다. 전기 사용량이 가장 적은 달은 어느 달입니까?"
+        }
+      ]
+    }
+  ]
+}

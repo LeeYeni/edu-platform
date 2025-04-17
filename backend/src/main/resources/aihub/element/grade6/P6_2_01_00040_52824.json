@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_01_00040_52824.png",
+  "id": "00040_52824",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201015",
+      "question_topic_name": "(대분수)÷(대분수)의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 직사각형 중 가로가 가장 긴 것은 어느 것입니까?  ① 넓이가 $ 4 \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{1}{2} \\mathrm{~cm} $ 인 직사각형 ② 넓이가 $ 5 \\frac{3}{4} \\mathrm{~cm}^{2} $ 이고, 세로가 $ 2 \\frac{1}{2} \\mathrm{~cm} $ 인 직사각형 ③ 넓이가 $ 4 \\frac{2}{3} \\mathrm{~cm}^{2} $ 이고, 세로가 $ 1 \\frac{2}{3} \\mathrm{~cm} $ 인 직사각형 ④ 넓이가 $ 4 \\frac{1}{4} \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{3}{5} \\mathrm{~cm} $ 인 직사각형 ⑤ 넓이가 $ 3 \\frac{1}{2} \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{4}{5} \\mathrm{~cm} $ 인 직사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            294,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            329,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            329,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            320,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            320,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            223
+          ],
+          "text": "다음 직사각형 중 가로가 가장 긴 것은 어느 것입니까?  ① 넓이가 $ 4 \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{1}{2} \\mathrm{~cm} $ 인 직사각형 ② 넓이가 $ 5 \\frac{3}{4} \\mathrm{~cm}^{2} $ 이고, 세로가 $ 2 \\frac{1}{2} \\mathrm{~cm} $ 인 직사각형 ③ 넓이가 $ 4 \\frac{2}{3} \\mathrm{~cm}^{2} $ 이고, 세로가 $ 1 \\frac{2}{3} \\mathrm{~cm} $ 인 직사각형 ④ 넓이가 $ 4 \\frac{1}{4} \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{3}{5} \\mathrm{~cm} $ 인 직사각형 ⑤ 넓이가 $ 3 \\frac{1}{2} \\mathrm{~cm}^{2} $ 이고, 세로가 $ \\frac{4}{5} \\mathrm{~cm} $ 인 직사각형"
+        }
+      ]
+    }
+  ]
+}

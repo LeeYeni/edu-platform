@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_38784.png",
+  "id": "00044_38784",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106005",
+      "question_topic_name": "1㎠ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측 최상단에 넓이가 1 제곱 센티미터임을 표현한 정사각형이 가로로 14칸, 세로로 8칸이 있는 그림위에서 좌측의 가 직사각형은 왼쪽에서 세 번째 칸, 위에서 두 번째 칸에서 시작하여 아래로 다섯 칸을 포함하며 우측으로 3줄까지, 모두 24칸이 색칠되어 있고 우측의 나 정사각형은 위에서 세 번째 칸, 오른쪽에서 일곱째 칸에서 시작하여 아래로 네 칸을 포함하며 우측으로 4줄까지, 모두 25칸이 색칠되어 있는 그림",
+      "question_text": "그림을 보고 물음에 답하시오. ⑴ 도형의 넓이를 각각 구하시오. ⑵ 넓이가 더 넓은 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            204,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            241,
+            241,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            278,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0,
+            190.1,
+            18.9
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            173.9,
+            207.1,
+            191.9
+          ],
+          "text": "⑴ 도형의 넓이를 각각 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            237.9,
+            242.1,
+            259.9
+          ],
+          "text": "⑵ 넓이가 더 넓은 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

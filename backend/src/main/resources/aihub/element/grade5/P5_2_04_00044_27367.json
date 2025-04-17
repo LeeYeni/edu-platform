@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_04_00044_27367.png",
+  "id": "00044_27367",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204016",
+      "question_topic_name": "(자연수)x(1보다 큰 소수)를 자연수의 곱셈으로 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "7이 쓰인 네모 위 오른쪽 위로 향하는 둥근 선이 있고, 그 선의 끝에 원 도형이 있으며 이 원 안에 곱하기 2.85가 쓰여 있고 그 옆으로 우하향하는 동그란 화살표가 있고, 화살표 끝에 네모 칸이 있는 그림",
+      "question_text": "빈칸에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40,
+            34,
+            220,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            202,
+            22
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_04_00043_94642.png",
+  "id": "00043_94642",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$5L$의 휘발유로 $48km$를 달릴 수 있는 자동차가 있습니다. 이 자동차로 $336km$를 가려면 몇 $L$의 휘발유가 있어야 하는지 알아보려고 합니다. 비례식을 잘못 세운 것은 어느 것입니까? ① $ 5: \\square=48: 336 $ ② $ 48: 336=\\square: 5 $ ③ $ 5: 48=\\square: 336 $ ④ $ \\square: 5=336: 48 $ ⑤ $ 48: 5=336: $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            269,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            133,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            133,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            137,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            136,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            135,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            152
+          ],
+          "text": "$5L$의 휘발유로 $48km$를 달릴 수 있는 자동차가 있습니다. 이 자동차로 $336km$를 가려면 몇 $L$의 휘발유가 있어야 하는지 알아보려고 합니다. 비례식을 잘못 세운 것은 어느 것입니까? ① $ 5: \\square=48: 336 $ ② $ 48: 336=\\square: 5 $ ③ $ 5: 48=\\square: 336 $ ④ $ \\square: 5=336: 48 $ ⑤ $ 48: 5=336: $"
+        }
+      ]
+    }
+  ]
+}

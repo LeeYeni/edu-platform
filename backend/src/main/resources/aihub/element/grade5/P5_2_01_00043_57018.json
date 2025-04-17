@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00043_57018.png",
+  "id": "00043_57018",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201015",
+      "question_topic_name": "올림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "책꽂이 한 칸에 책을 $10$권까지 꽂을 수 있다고 합니다. 책 $38$권을 모두 꽂으려면 책꽂이는 적어도 몇 칸 필요합니까? (단, 책의 두께는 모두 같습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            79,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "책꽂이 한 칸에 책을 $10$권까지 꽂을 수 있다고 합니다. 책 $38$권을 모두 꽂으려면 책꽂이는 적어도 몇 칸 필요합니까? (단, 책의 두께는 모두 같습니다.)"
+        }
+      ]
+    }
+  ]
+}

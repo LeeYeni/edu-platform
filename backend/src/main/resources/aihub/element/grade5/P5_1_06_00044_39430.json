@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_39430.png",
+  "id": "00044_39430",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106026",
+      "question_topic_name": "정사각형의 둘레 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 15 cm이고 세로의 길이가 11 cm인 직사각형",
+      "question_text": "다음 직사각형과 둘레가 같은 정사각형의 한 변은 몇 $cm$인지 알아보시오. (1) 직사각형의 둘레는 몇 $cm$입니까? (2) 정사각형의 둘레는 몇 $cm$입니까? (3) 정사각형의 한 변은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            432,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            112,
+            228,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            231,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            156,
+            234,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            150,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.72,
+            0.16,
+            433.92,
+            16.8
+          ],
+          "text": "다음 직사각형과 둘레가 같은 정사각형의 한 변은 몇 $cm$인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            111,
+            236,
+            174
+          ],
+          "text": "(1) 직사각형의 둘레는 몇 $cm$입니까? (2) 정사각형의 둘레는 몇 $cm$입니까? (3) 정사각형의 한 변은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_19553.png",
+  "id": "00044_19553",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204003",
+      "question_topic_name": "0 아닌 수로 나누는 비의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$24：44$의 전항과 후항을 $0$이 아닌 같은 수로 나누어 비율이 같은 비를 $2$개 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            487,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            489,
+            21
+          ],
+          "text": "$24：44$의 전항과 후항을 $0$이 아닌 같은 수로 나누어 비율이 같은 비를 $2$개 쓰시오."
+        }
+      ]
+    }
+  ]
+}

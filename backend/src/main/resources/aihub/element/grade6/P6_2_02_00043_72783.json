@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_02_00043_72783.png",
+  "id": "00043_72783",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202004",
+      "question_topic_name": "소수  두 자리 수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "굵기가 일정한 철근이 있습니다. 이 철근 $2.72$m의 무게가 $8.16$kg라면, 철근 $1$m의 무게는 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            598,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            600,
+            20
+          ],
+          "text": "굵기가 일정한 철근이 있습니다. 이 철근 $2.72$m의 무게가 $8.16$kg라면, 철근 $1$m의 무게는 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

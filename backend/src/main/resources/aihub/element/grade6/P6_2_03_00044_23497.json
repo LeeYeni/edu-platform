@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_23497.png",
+  "id": "00044_23497",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203012",
+      "question_topic_name": "층별로 나타낸 모양을 보고 쌓은 모양과 쌓기나무 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림의 $\\square$ 안의 숫자만큼 쌓기나무를 쌓았습니다. $2$층과 $3$층에 놓인 쌓기나무의 개수의 합은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            646,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            113,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            648,
+            22
+          ],
+          "text": "다음 그림의 $\\square$ 안의 숫자만큼 쌓기나무를 쌓았습니다. $2$층과 $3$층에 놓인 쌓기나무의 개수의 합은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_31227.png",
+  "id": "00044_31227",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106009",
+      "question_topic_name": "1㎥ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면이 가로가 5 m, 세로가 400 cm인 직사각형이고 높이가 600 cm인 직육면체",
+      "question_text": "직육면체의 부피는 몇 $m^3$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            208,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            32,
+            185,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            88,
+            5,
+            202,
+            31
+          ],
+          "text": "직육면체의 부피는 몇 $m^3$입니까?"
+        }
+      ]
+    }
+  ]
+}

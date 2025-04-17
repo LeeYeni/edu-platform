@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00042_82840.png",
+  "id": "00042_82840",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "두 변의 길이가 3 cm, 5 cm인 삼각형이 윗면이고, 한 변의 길이가 4 cm인 삼각형이 아랫면이고, 세로의 길이가 6 cm이고 가로의 길이가 모두 다른 직사각형 3개가 옆면인 삼각기둥의 전개도",
+      "question_text": "전개도를 접어서 만든 입체도형에서 높이를 잴 수 있는 모서리의 길이의 합은 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            536,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            32,
+            195,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            538,
+            23
+          ],
+          "text": "전개도를 접어서 만든 입체도형에서 높이를 잴 수 있는 모서리의 길이의 합은 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_04_00044_19893.png",
+  "id": "00044_19893",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형의 가로와 세로의 비가 $ 5: 3 $ 입니다. 가로가 $ 10 \\mathrm{~cm} $ 일 때, 직사각형의 넓이는 몇 $ \\mathrm{cm}^{2} $입니까? $ () \\mathrm{cm^{2}} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            572,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            29,
+            126,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            574,
+            22
+          ],
+          "text": "직사각형의 가로와 세로의 비가 $ 5: 3 $ 입니다. 가로가 $ 10 \\mathrm{~cm} $ 일 때, 직사각형의 넓이는 몇 $ \\mathrm{cm}^{2} $입니까? $ () \\mathrm{cm^{2}} $"
+        }
+      ]
+    }
+  ]
+}

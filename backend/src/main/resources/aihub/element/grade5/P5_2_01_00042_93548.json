@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00042_93548.png",
+  "id": "00042_93548",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201016",
+      "question_topic_name": "버림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "저금통에 들어 있는 동전을 꺼내어 보니 $34950$원이었습니다. 이것을 $1000$원짜리 지폐로 바꾸면 얼마까지 바꿀 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            729,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            731,
+            21
+          ],
+          "text": "저금통에 들어 있는 동전을 꺼내어 보니 $34950$원이었습니다. 이것을 $1000$원짜리 지폐로 바꾸면 얼마까지 바꿀 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

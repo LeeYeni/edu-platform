@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_06_00044_41151.png",
+  "id": "00044_41151",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106001",
+      "question_topic_name": "직육면체의 부피를 직접 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 모서리가 $5cm$인 주사위 $8$개를 정육면체 모양으로 쌓았습니다. 쌓은 정육면체의 한 모서리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            641,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            643,
+            21
+          ],
+          "text": "한 모서리가 $5cm$인 주사위 $8$개를 정육면체 모양으로 쌓았습니다. 쌓은 정육면체의 한 모서리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

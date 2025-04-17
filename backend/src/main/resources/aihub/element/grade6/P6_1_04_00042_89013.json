@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00042_89013.png",
+  "id": "00042_89013",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104008",
+      "question_topic_name": "비율을 분수와 소수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "피라미드 그림에서 앞면의 밑변에 밑변이라 적혀 있고, 피라미드의 꼭짓점에서 앞면의 밑변에 수직으로 내린 선분에 빗변이라 적혀 있고, 피라미드 우측 옆에는 빗변의 길이가 185.85 m, 밑변의 길이가 115 m라고 적혀 있는 그림",
+      "question_text": "다음을 보고 피라미드의 빗변의 길이와 밑변의 길이의 비율을 반올림하여 소수 둘째 자리까지 나타내시오. 빗변 : $185.85m$밑변 : $115m$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            614,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41,
+            42,
+            260,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            617,
+            24
+          ],
+          "text": "다음을 보고 피라미드의 빗변의 길이와 밑변의 길이의 비율을 반올림하여 소수 둘째 자리까지 나타내시오. 빗변 : $185.85m$밑변 : $115m$"
+        }
+      ]
+    }
+  ]
+}

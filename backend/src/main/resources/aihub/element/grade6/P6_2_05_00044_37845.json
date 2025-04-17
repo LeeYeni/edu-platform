@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_05_00044_37845.png",
+  "id": "00044_37845",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205006",
+      "question_topic_name": "원주를 알 때 지름 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원주와 원주율이 다음과 같을 때 $ \\square $안에 알맞은 수를 써넣으시오. $(반지름)=(원주)\\div(원주율)\\div\\square$ $=\\square \\div3.1\\div \\square=\\square (cm)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            387,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            199,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            216,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            255,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            387,
+            21
+          ],
+          "text": "원주와 원주율이 다음과 같을 때 $ \\square $안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            152,
+            218,
+            199
+          ],
+          "text": "$(반지름)=(원주)\\div(원주율)\\div\\square$ $=\\square \\div3.1\\div \\square=\\square (cm)$"
+        }
+      ]
+    }
+  ]
+}

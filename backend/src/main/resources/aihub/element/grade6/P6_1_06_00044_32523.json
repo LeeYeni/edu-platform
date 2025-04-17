@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00044_32523.png",
+  "id": "00044_32523",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106003",
+      "question_topic_name": "쌓기나무를 사용하여 직육면체의 부피 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "일정한 크기의 정육면체를 이용하여 가로가 4 cm, 세로가 2 cm, 높이가 3 cm인 왼쪽에 위치한 직육면체와 같은 모양으로 만들기 위해 정육면체를 가로 4개 세로 2개 높이 3층으로 총 24개를 왼쪽에 위치한 직육면체 모양으로 쌓았다는 화살표가 왼쪽에 있는 오른쪽에 위치한 입체도형",
+      "question_text": "쌓기나무를 사용하여 직육면체의 부피를 알아보려고 합니다. 물음에 답하시오. ⑴ 밑면에 놓인 쌓기나무는 몇 개입니까? ⑵ 사용된 쌓기나무는 모두 몇 개입니까? ⑶ 직육면체의 부피는 몇 $cm³$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            459,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            129,
+            250,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            250,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            173,
+            231,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            309,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.07,
+            0,
+            462.07,
+            18.4
+          ],
+          "text": "쌓기나무를 사용하여 직육면체의 부피를 알아보려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            128,
+            252,
+            191
+          ],
+          "text": "⑴ 밑면에 놓인 쌓기나무는 몇 개입니까? ⑵ 사용된 쌓기나무는 모두 몇 개입니까? ⑶ 직육면체의 부피는 몇 $cm³$입니까?"
+        }
+      ]
+    }
+  ]
+}

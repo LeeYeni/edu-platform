@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_03_00044_28040.png",
+  "id": "00044_28040",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $7.5 m$인 선분의 양 끝점 사이에 점을 $5$개 찍으려고 합니다. 선분의 양 끝점과 점, 점과 점 사이의 거리를 모두 같게 하려면 점과 점 사이의 거리를 몇 $m$로 하면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            211,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            50,
+            281,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "길이가 $7.5 m$인 선분의 양 끝점 사이에 점을 $5$개 찍으려고 합니다. 선분의 양 끝점과 점, 점과 점 사이의 거리를 모두 같게 하려면 점과 점 사이의 거리를 몇 $m$로 하면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

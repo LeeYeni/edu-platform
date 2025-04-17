@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_2_05_00044_38043.png",
+  "id": "00044_38043",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205004",
+      "question_topic_name": "원주율 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원주와 원주율에 대한 설명입니다. 틀린 것을 찾아 기호를 쓰시오. ㉠ 원주는 원이 한 바퀴 움직인 거리와 같습니다.㉡ 원주율은 원주와 지름의 비의 값입니다.㉢ 원주는 지름에 관계없이 항상 일정합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            387,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            300,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            267,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            281,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            393,
+            101
+          ],
+          "text": "원주와 원주율에 대한 설명입니다. 틀린 것을 찾아 기호를 쓰시오. ㉠ 원주는 원이 한 바퀴 움직인 거리와 같습니다.㉡ 원주율은 원주와 지름의 비의 값입니다.㉢ 원주는 지름에 관계없이 항상 일정합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_03_00050_19098.png",
+  "id": "00050_19098",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  $1.75\\bigcirc 34.2÷19$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            128,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            49
+          ],
+          "text": "크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  $1.75\\bigcirc 34.2÷19$"
+        }
+      ]
+    }
+  ]
+}

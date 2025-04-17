@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41262.png",
+  "id": "00044_41262",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106004",
+      "question_topic_name": "1㎤ 알기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 쌓기나무를 가로에 4개, 세로에 2개, 높이에 3개씩 쌓아서 만든 직육면체 가, 오른쪽에는 쌓기나무를 가로에 3개, 세로에 3개, 높이에 2개씩 쌓아서 만든 직육면체 나",
+      "question_text": "부피가 $1cm³$인 쌓기나무로 직육면체를 만들었습니다. 가와 나 중에서 어느 것의 부피가 몇 $cm³$ 더 큽니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            618,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            255,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            620,
+            22
+          ],
+          "text": "부피가 $1cm³$인 쌓기나무로 직육면체를 만들었습니다. 가와 나 중에서 어느 것의 부피가 몇 $cm³$ 더 큽니까?"
+        }
+      ]
+    }
+  ]
+}

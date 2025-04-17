@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_23716.png",
+  "id": "00044_23716",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204002",
+      "question_topic_name": "0 아닌 수를 곱하는 비의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비율이 같은 비를 만들려고 합니다. 비의 전항과 후항에 곱할 수 없는 수를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            479,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            481,
+            21
+          ],
+          "text": "비율이 같은 비를 만들려고 합니다. 비의 전항과 후항에 곱할 수 없는 수를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_06_00044_41709.png",
+  "id": "00044_41709",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106009",
+      "question_topic_name": "1㎥ 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로, 세로, 높이가 각각 $3$m $50$cm, $260$cm, $1.65$m이고, 두께가 $5$cm인 직육면체 모양의 기름 탱크에 휘발유를 가득 채웠습니다. 휘발유가 $1$L에 $1800$원이라면 기름 탱크를 가득 채우는 데 필요한 금액은 얼마입니까? (단, 이 기름 탱크에는 뚜껑이 없으며, $1000$cm³=$1000m$L=$1$L입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            46,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            796,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            41,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            83
+          ],
+          "text": "가로, 세로, 높이가 각각 $3$m $50$cm, $260$cm, $1.65$m이고, 두께가 $5$cm인 직육면체 모양의 기름 탱크에 휘발유를 가득 채웠습니다. 휘발유가 $1$L에 $1800$원이라면 기름 탱크를 가득 채우는 데 필요한 금액은 얼마입니까? (단, 이 기름 탱크에는 뚜껑이 없으며, $1000$cm³=$1000m$L=$1$L입니다.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00042_56087.png",
+  "id": "00042_56087",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201017",
+      "question_topic_name": "반올림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빨대의 길이를 재어 보았더니 $ 9.2 \\mathrm{~m} $ 였습니다. 이것을 $ 1 \\mathrm{~cm} $ 단위로 하여 가까운 곳의 눈금을 읽으면 약 몇 $ \\mathrm{~cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            676,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            678,
+            21
+          ],
+          "text": "빨대의 길이를 재어 보았더니 $ 9.2 \\mathrm{~m} $ 였습니다. 이것을 $ 1 \\mathrm{~cm} $ 단위로 하여 가까운 곳의 눈금을 읽으면 약 몇 $ \\mathrm{~cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

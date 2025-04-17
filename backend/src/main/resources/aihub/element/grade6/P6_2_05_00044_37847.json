@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_05_00044_37847.png",
+  "id": "00044_37847",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205006",
+      "question_topic_name": "원주를 알 때 지름 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (원주율 : $3.14$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18.2,
+            19.85,
+            324.63,
+            159.61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.74,
+            2.04,
+            293.34,
+            18.78
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (원주율 : $3.14$)"
+        }
+      ]
+    }
+  ]
+}

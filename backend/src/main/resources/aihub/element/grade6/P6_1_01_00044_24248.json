@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_01_00044_24248.png",
+  "id": "00044_24248",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101006",
+      "question_topic_name": "(자연수) ÷ (자연수)의 몫을 분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 바르게 구한 것은 어느 것입니까?   ① $1 \\div 9=9$ ② $1 \\div 12=1$ ③ $1 \\div 13=13$ ④ $1 \\div 14$=$ \\frac{1}{14} $  ⑤ $1 \\div 15$=$ \\frac{1}{5} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            82,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            83,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            92,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            90,
+            107,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            97,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            294,
+            167
+          ],
+          "text": "나눗셈의 몫을 바르게 구한 것은 어느 것입니까?   ① $1 \\div 9=9$ ② $1 \\div 12=1$ ③ $1 \\div 13=13$ ④ $1 \\div 14$=$ \\frac{1}{14} $  ⑤ $1 \\div 15$=$ \\frac{1}{5} $"
+        }
+      ]
+    }
+  ]
+}

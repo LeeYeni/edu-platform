@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72253.png",
+  "id": "00043_72253",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205018",
+      "question_topic_name": "직육면체의 전개도 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗면의 윗변과 좌측 변의 길이가 모두 2 cm이고, 뒷면의 우측 변의 길이가 4 cm이고, 아랫면에 색칠된 직육면체 겨냥도",
+      "question_text": "다음 직육면체의 색칠한 면을 밑에 놓일 면이라 하고 전개도를 그릴 때 옆으로 둘러싼 면의 가로와 세로의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            27,
+            133,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            713,
+            22
+          ],
+          "text": "다음 직육면체의 색칠한 면을 밑에 놓일 면이라 하고 전개도를 그릴 때 옆으로 둘러싼 면의 가로와 세로의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

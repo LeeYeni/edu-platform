@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_02_00042_81398.png",
+  "id": "00042_81398",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은수와 현결이는 $35$개의 계단을 오르려고 합니다. 은수는 한 걸음에 $3$계단씩, 현결이는 한걸음에 $2$계단씩 오를 때 두 사람 중 한 사람도 밟지 않은 계단은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            754,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            253,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            756,
+            41
+          ],
+          "text": "은수와 현결이는 $35$개의 계단을 오르려고 합니다. 은수는 한 걸음에 $3$계단씩, 현결이는 한걸음에 $2$계단씩 오를 때 두 사람 중 한 사람도 밟지 않은 계단은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

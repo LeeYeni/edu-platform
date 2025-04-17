@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72242.png",
+  "id": "00043_72242",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205017",
+      "question_topic_name": "직육면체의 전개도 살펴보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형인 윗면의 왼쪽에 가로가 네모 cm이고 세로가 3 cm인 직사각형인 옆면 1개가 있고 아래쪽으로는 높이가 5 cm인 직사각형인 3개의 옆면이 가로 길이가 4 cm, 3 cm, 4 cm 순으로 있고 아래에 세로가 네모 cm인 직사각형의 아랫면이 있는 직육면체의 전개도",
+      "question_text": "직육면체의 전개도입니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            262,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            356,
+            21
+          ],
+          "text": "직육면체의 전개도입니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

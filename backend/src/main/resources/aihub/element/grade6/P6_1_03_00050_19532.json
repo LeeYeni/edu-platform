@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_03_00050_19532.png",
+  "id": "00050_19532",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103014",
+      "question_topic_name": "몫의 소수 첫째 자리에 0이 있는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 6 m로 세로로 긴 색 테이프 3장을 겹쳐지도록 이어서 겹쳐지는 두 곳의 겹쳐진 길이가 각각 1.3 m가 되는 색 테이프 그림",
+      "question_text": "길이가 $6m$인 색 테이프 $3$장을 $1.3m$씩 겹치게 이어 붙였습니다. 이어 붙인 색 테이프 전체를 $5$도막으로 똑같이 나누면 한 도막의 길이는 몇 $m$인지 알아보시오.  (1) 색 테이프 $3$장의 길이의 합은 몇 $m$입니까? (2) 이어 붙인 색 테이프 전체의 길이는 몇 $m$입니까? (3) $5$도막으로 나눈 한 도막의 길이는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            128,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            279,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            315,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            306,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            51,
+            266,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "길이가 $6m$인 색 테이프 $3$장을 $1.3m$씩 겹치게 이어 붙였습니다. 이어 붙인 색 테이프 전체를 $5$도막으로 똑같이 나누면 한 도막의 길이는 몇 $m$인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            120,
+            317,
+            183
+          ],
+          "text": "(1) 색 테이프 $3$장의 길이의 합은 몇 $m$입니까? (2) 이어 붙인 색 테이프 전체의 길이는 몇 $m$입니까? (3) $5$도막으로 나눈 한 도막의 길이는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

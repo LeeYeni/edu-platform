@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_05_00050_21818.png",
+  "id": "00050_21818",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105005",
+      "question_topic_name": "띠그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지영이네 반 학생들이 방학 때 가고 싶어 하는 곳을 조사하여 나타낸 표입니다. 물음에 답하시오. <table border> <caption><방학 때 가고 싶어 하는 곳></caption>   <tbody>     <tr>       <td>장소</td>       <td>바다</td>       <td>산</td>       <td>계곡</td>       <td>박물관</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$12$</td>       <td>$6$ </td>       <td>$9$</td>       <td>$3$</td>       <td>$30$</td>     </tr> </tbody> </table>  (1) 표를 보고 전체 학생 수에 대한 각 장소별 학생 수의 백분율을 구하여 띠그래프를 그려 보시오. (2) (1)의 띠그래프를 보고 알 수 있는 사실을 $3$가지 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            559,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91,
+            24,
+            256,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            45,
+            329,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            96,
+            565,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            351,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            265,
+            124,
+            560,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            567,
+            114
+          ],
+          "text": "지영이네 반 학생들이 방학 때 가고 싶어 하는 곳을 조사하여 나타낸 표입니다. 물음에 답하시오. <table border> <caption><방학 때 가고 싶어 하는 곳></caption>   <tbody>     <tr>       <td>장소</td>       <td>바다</td>       <td>산</td>       <td>계곡</td>       <td>박물관</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$12$</td>       <td>$6$ </td>       <td>$9$</td>       <td>$3$</td>       <td>$30$</td>     </tr> </tbody> </table>  (1) 표를 보고 전체 학생 수에 대한 각 장소별 학생 수의 백분율을 구하여 띠그래프를 그려 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.09,
+            232.8,
+            350.13,
+            253.38
+          ],
+          "text": "(2) (1)의 띠그래프를 보고 알 수 있는 사실을 $3$가지 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_01_00043_56979.png",
+  "id": "00043_56979",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201015",
+      "question_topic_name": "올림의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영구네 반 학생은 $38$명입니다. 이 학생들이 $5$명씩 탈 수 있는 승합차를 타고 놀이공원에 가려고 합니다. 승합차는 적어도 몇 대 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            21
+          ],
+          "text": "영구네 반 학생은 $38$명입니다. 이 학생들이 $5$명씩 탈 수 있는 승합차를 타고 놀이공원에 가려고 합니다. 승합차는 적어도 몇 대 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

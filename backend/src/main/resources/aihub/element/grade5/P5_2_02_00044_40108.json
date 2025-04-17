@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_02_00044_40108.png",
+  "id": "00044_40108",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202011",
+      "question_topic_name": "자연수가 분모의 배수가 아닌 (자연수)x(진분수)_약분한 후 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 16 $에 어떤 수를 곱하였더니 곱한 값이 $ 16 $보다 작아졌습니다. 다음 중 어떤 수가 될 수 있는 수를 모두 고르시오. $ (1)   \\frac{3}{4} $ (2) $ \\frac{1}{5} $ (3) $ 1 $ (4) $ 8 $ (5) $ 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            63,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            58,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            53,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            53,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            641,
+            168
+          ],
+          "text": "$ 16 $에 어떤 수를 곱하였더니 곱한 값이 $ 16 $보다 작아졌습니다. 다음 중 어떤 수가 될 수 있는 수를 모두 고르시오. $ (1)   \\frac{3}{4} $ (2) $ \\frac{1}{5} $ (3) $ 1 $ (4) $ 8 $ (5) $ 3 $"
+        }
+      ]
+    }
+  ]
+}

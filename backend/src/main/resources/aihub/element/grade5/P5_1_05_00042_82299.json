@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_05_00042_82299.png",
+  "id": "00042_82299",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105018",
+      "question_topic_name": "받아내림이 있는 대분수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 1 \\frac{9}{10} \\mathrm{~kg}$  $3 \\frac{7}{15} \\mathrm{~kg} $ 똑같은 접시에 무게가 같은 구슬을 각각 $5$개, $10$개 담아서 무게를 재었더니 다음과 같았습니다. 접시의 무게는 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            715,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            51,
+            81,
+            217,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            36,
+            242,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            49,
+            79,
+            219,
+            115
+          ],
+          "text": "$ 1 \\frac{9}{10} \\mathrm{~kg}$  $3 \\frac{7}{15} \\mathrm{~kg} $"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.25,
+            1.75,
+            715.5,
+            18
+          ],
+          "text": "똑같은 접시에 무게가 같은 구슬을 각각 $5$개, $10$개 담아서 무게를 재었더니 다음과 같았습니다. 접시의 무게는 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

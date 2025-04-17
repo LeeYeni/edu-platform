@@ -1,0 +1,169 @@
+{
+  "question_filename": "P5_1_06_00044_38938.png",
+  "id": "00044_38938",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형의 넓이를 여러 가지 방법으로 구하시오.⑴ $㉮+㉯$ $㉮+㉯=\\square+\\square= \\square  \\left(\\mathrm{cm}^{2}\\right) $  ⑵ $㉮+㉯$ $㉮+㉯=\\square+\\square=\\square  \\left(\\mathrm{cm}^{2}\\right) $  ⑶ $(㉮+㉯)-㉯$ $(㉮+㉯)-㉯=\\square-\\square=\\square  \\left(\\mathrm{cm}^{2}\\right) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            71,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            258,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            192,
+            71,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            338,
+            268,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            362,
+            99,
+            379
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            510,
+            295,
+            532
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            46,
+            223,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            216,
+            222,
+            332
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            387,
+            224,
+            504
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            273,
+            41
+          ],
+          "text": "도형의 넓이를 여러 가지 방법으로 구하시오.⑴ $㉮+㉯$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            159,
+            260,
+            210
+          ],
+          "text": "$㉮+㉯=\\square+\\square= \\square  \\left(\\mathrm{cm}^{2}\\right) $  ⑵ $㉮+㉯$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            336,
+            270,
+            381
+          ],
+          "text": "$㉮+㉯=\\square+\\square=\\square  \\left(\\mathrm{cm}^{2}\\right) $  ⑶ $(㉮+㉯)-㉯$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            506,
+            297,
+            533
+          ],
+          "text": "$(㉮+㉯)-㉯=\\square-\\square=\\square  \\left(\\mathrm{cm}^{2}\\right) $"
+        }
+      ]
+    }
+  ]
+}

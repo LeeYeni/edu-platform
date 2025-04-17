@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_02_00044_40378.png",
+  "id": "00044_40378",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.(1) $\\frac{1}{2}$×$\\frac{1}{3}$ (2) $\\frac{1}{8}$×$\\frac{1}{9}$ (3) $\\frac{4}{5}$×$\\frac{2}{3}$ (4) $\\frac{5}{9}$×$\\frac{7}{9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            87,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            89,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            105,
+            89,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            89,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            105,
+            182
+          ],
+          "text": "계산을 하시오.(1) $\\frac{1}{2}$×$\\frac{1}{3}$ (2) $\\frac{1}{8}$×$\\frac{1}{9}$ (3) $\\frac{4}{5}$×$\\frac{2}{3}$ (4) $\\frac{5}{9}$×$\\frac{7}{9}$"
+        }
+      ]
+    }
+  ]
+}

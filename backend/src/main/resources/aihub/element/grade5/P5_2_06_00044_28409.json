@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_06_00044_28409.png",
+  "id": "00044_28409",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206001",
+      "question_topic_name": "평균 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진호, 명수, 재희, 동엽, 현정이의 과학 점수는 다음과 같습니다. 다섯 사람의 평균 과학 점수를 구하시오. · 진호는 명수보다 $8$점 높습니다. · 재희는 진호보다 $10$점 높습니다. · 동엽이는 재희보다 $4$점 낮습니다. · 현정이는 동엽이보다 $12$점 낮습니다. · 현정이의 과학 점수는 $78$점입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            599,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            21,
+            220,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            53,
+            227,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            75,
+            235,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            97,
+            251,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            119,
+            243,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            629,
+            140
+          ],
+          "text": "진호, 명수, 재희, 동엽, 현정이의 과학 점수는 다음과 같습니다. 다섯 사람의 평균 과학 점수를 구하시오. · 진호는 명수보다 $8$점 높습니다. · 재희는 진호보다 $10$점 높습니다. · 동엽이는 재희보다 $4$점 낮습니다. · 현정이는 동엽이보다 $12$점 낮습니다. · 현정이의 과학 점수는 $78$점입니다."
+        }
+      ]
+    }
+  ]
+}

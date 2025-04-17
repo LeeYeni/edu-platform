@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_40409.png",
+  "id": "00044_40409",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱이 더 큰 것을 찾아 기호를 쓰시오.  <table border>   <tbody>     <tr>       <td>㉠$ \\frac{3}{7} \\times \\frac{1}{6} $ ㉡ $ \\frac{7}{8} \\times \\frac{2}{7} $</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            182,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            227,
+            74
+          ],
+          "text": "곱이 더 큰 것을 찾아 기호를 쓰시오.  <table border>   <tbody>     <tr>       <td>㉠$ \\frac{3}{7} \\times \\frac{1}{6} $ ㉡ $ \\frac{7}{8} \\times \\frac{2}{7} $</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_03_00044_11117.png",
+  "id": "00044_11117",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 계산하였을 때, 몫이 가장 큰 것은 어느 것입니까?  ① $ 2.52 \\div 7 $ ② $ 5.55 \\div 15 $ ③ $ 1.9 \\div 5 $  ④ $ 4.44 \\div 12 $ ⑤ $ 8.4 \\div 24 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            341,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            87,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            91,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            77,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            94,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            89,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            343,
+            130
+          ],
+          "text": "다음을 계산하였을 때, 몫이 가장 큰 것은 어느 것입니까?  ① $ 2.52 \\div 7 $ ② $ 5.55 \\div 15 $ ③ $ 1.9 \\div 5 $  ④ $ 4.44 \\div 12 $ ⑤ $ 8.4 \\div 24 $"
+        }
+      ]
+    }
+  ]
+}

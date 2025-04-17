@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_02_00044_40806.png",
+  "id": "00044_40806",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202031",
+      "question_topic_name": "세 분수의 곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드를 한 번씩만 사용하여 $3$개의 진분수를 만들어 곱하였을 때 가장 작은 곱은 얼마입니까? (단, 분모와 분자에 각각 한 장의 카드만 사용합니다.)$①②③④⑤⑥⑦⑧⑨$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            92,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            42,
+            234,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            63
+          ],
+          "text": "숫자 카드를 한 번씩만 사용하여 $3$개의 진분수를 만들어 곱하였을 때 가장 작은 곱은 얼마입니까? (단, 분모와 분자에 각각 한 장의 카드만 사용합니다.)$①②③④⑤⑥⑦⑧⑨$"
+        }
+      ]
+    }
+  ]
+}

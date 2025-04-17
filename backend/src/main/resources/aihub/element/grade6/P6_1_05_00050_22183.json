@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_05_00050_22183.png",
+  "id": "00050_22183",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105011",
+      "question_topic_name": "원그래프 해석하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "반건조 미역 $ 100 \\mathrm{~g} $의 영양소입니다. 이것을 물에 담갔다 빼었더니 미역이 물을 $ 400 \\mathrm{~g} $빨아들였습니다. 물을 빨아들인 미역의 성분에 맞게 $ \\square $ 안에 알맞은 수를 써넣으시오. (단, 수분만 변하고 다른 영양소는 변화가 없는 것으로 생각합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            568,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            49,
+            272,
+            454
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "반건조 미역 $ 100 \\mathrm{~g} $의 영양소입니다. 이것을 물에 담갔다 빼었더니 미역이 물을 $ 400 \\mathrm{~g} $빨아들였습니다. 물을 빨아들인 미역의 성분에 맞게 $ \\square $ 안에 알맞은 수를 써넣으시오. (단, 수분만 변하고 다른 영양소는 변화가 없는 것으로 생각합니다.)"
+        }
+      ]
+    }
+  ]
+}

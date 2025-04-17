@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_05_00043_95052.png",
+  "id": "00043_95052",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105008",
+      "question_topic_name": "원그래프로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정건이네 학생들이 좋아하는 색깔을 조사하여 나타낸 표입니다. 이 표를 원그래프로 나타내기 위해서 구해야 하는 것은 무엇입니까? <table border> <caption>좋아하는 색깔</caption>   <tbody>     <tr>       <td>색깔</td>       <td>노란색</td>       <td>흰색</td>       <td>녹색</td>       <td>분홍색</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$18$</td>       <td>$12$</td>       <td>$10$</td>       <td>$4$</td>       <td>$6$</td>       <td>$50$</td>     </tr> </tbody> </table> ①전체 학생 수에 대한 색깔별로 좋아하는 학생 수가 차지하는 띠의 길이 ②색깔별로 좋아하는 학생 수 ③전체 학생 수에 대한 색깔별로 좋아하는 학생 수의 백분율 ④전체 학생 수 ⑤색깔별로 좋아하는 학생 수의 차",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            761,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91,
+            22,
+            174,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            320,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            93,
+            438,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            196,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            368,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            116,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            226,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            763,
+            202
+          ],
+          "text": "정건이네 학생들이 좋아하는 색깔을 조사하여 나타낸 표입니다. 이 표를 원그래프로 나타내기 위해서 구해야 하는 것은 무엇입니까? <table border> <caption>좋아하는 색깔</caption>   <tbody>     <tr>       <td>색깔</td>       <td>노란색</td>       <td>흰색</td>       <td>녹색</td>       <td>분홍색</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$18$</td>       <td>$12$</td>       <td>$10$</td>       <td>$4$</td>       <td>$6$</td>       <td>$50$</td>     </tr> </tbody> </table> ①전체 학생 수에 대한 색깔별로 좋아하는 학생 수가 차지하는 띠의 길이 ②색깔별로 좋아하는 학생 수 ③전체 학생 수에 대한 색깔별로 좋아하는 학생 수의 백분율 ④전체 학생 수 ⑤색깔별로 좋아하는 학생 수의 차"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_18422.png",
+  "id": "00044_18422",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106028",
+      "question_topic_name": "직각으로 이루어진 도형의 넓이",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 18 cm, 세로의 길이가 13 cm인 파란색으로 칠해진 직사각형 내부에 세로에 평행한 폭이 2 cm인 하얀색으로 칠해진 직사각형과 가로에 평행한 폭이 3 cm인 하얀색으로 칠해진 직사각형이 수직으로 그려진 그림",
+      "question_text": "색칠한 도형의 넓이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            216,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            23
+          ],
+          "text": "색칠한 도형의 넓이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

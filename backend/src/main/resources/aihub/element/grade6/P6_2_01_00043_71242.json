@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_01_00043_71242.png",
+  "id": "00043_71242",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201006",
+      "question_topic_name": "분자끼리 나누어떨어지지 않는 분모가 다른 (분수)÷(분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{7}{15} \\div \\frac{4}{5}$를 통분하여 계산하는 과정입니다. ㉠과 ㉡에 알맞은 분수를 각각 구하시오. $ \\frac{7}{15} \\div \\frac{4}{5}=\\frac{7}{15} \\div  \\boxed{\\phantom{(}㉠\\phantom{)}}  =7 \\div 12=\\boxed{\\phantom{(}㉡ \\phantom{)}} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            500,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            40,
+            261,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            502,
+            86
+          ],
+          "text": "$ \\frac{7}{15} \\div \\frac{4}{5}$를 통분하여 계산하는 과정입니다. ㉠과 ㉡에 알맞은 분수를 각각 구하시오. $ \\frac{7}{15} \\div \\frac{4}{5}=\\frac{7}{15} \\div  \\boxed{\\phantom{(}㉠\\phantom{)}}  =7 \\div 12=\\boxed{\\phantom{(}㉡ \\phantom{)}} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_76838.png",
+  "id": "00043_76838",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104013",
+      "question_topic_name": "백분율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞게 써넣으시오 <table border> <caption></caption>   <tbody>     <tr>       <td>비</td>       <td>비율(분수)</td>       <td>비율(소수)</td>       <td>백분율</td>     </tr>     <tr>       <td>11: 100</td>       <td>100</td>       <td></td>       <td></td>     </tr>     <tr>       <td>3과 5의 비</td>       <td></td>       <td>0.6</td>       <td></td>     </tr>     <tr>       <td>123의 100 에 대한 비</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            171,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            301,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            173,
+            21
+          ],
+          "text": "빈칸에 알맞게 써넣으시오 <table border> <caption></caption>   <tbody>     <tr>       <td>비</td>       <td>비율(분수)</td>       <td>비율(소수)</td>       <td>백분율</td>     </tr>     <tr>       <td>11: 100</td>       <td>100</td>       <td></td>       <td></td>     </tr>     <tr>       <td>3과 5의 비</td>       <td></td>       <td>0.6</td>       <td></td>     </tr>     <tr>       <td>123의 100 에 대한 비</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_06_00050_21124.png",
+  "id": "00050_21124",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206015",
+      "question_topic_name": "일이 일어날 가능성을 수직선 또는 그림으로 표현하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "회전판에서 빨간색을 맞힐 가능성을 수직선에 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            347,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            281,
+            29,
+            543,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            349,
+            22
+          ],
+          "text": "회전판에서 빨간색을 맞힐 가능성을 수직선에 나타내시오."
+        }
+      ]
+    }
+  ]
+}

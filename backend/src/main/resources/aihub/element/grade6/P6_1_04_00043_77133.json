@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_77133.png",
+  "id": "00043_77133",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 50 cm이고 세로의 길이가 80 cm이고 가로가 밑변의 위치에 있는 직사각형",
+      "question_text": "직사각형에서 가로와 세로를 각각 15%씩 줄인다면 줄인 직사각형의 넓이는 몇 cm²가 되겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            574,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            136,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            576,
+            22
+          ],
+          "text": "직사각형에서 가로와 세로를 각각 15%씩 줄인다면 줄인 직사각형의 넓이는 몇 cm²가 되겠습니까?"
+        }
+      ]
+    }
+  ]
+}

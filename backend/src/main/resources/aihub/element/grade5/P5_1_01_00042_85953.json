@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_01_00042_85953.png",
+  "id": "00042_85953",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101008",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 먼저 계산해야 하는 부분은 어느 것입니까? $ 70-28 \\div 4 \\times 5+11-6 $ ① $ 70-28 $ ② $ 28 \\div 4 $ ③ $ 4 \\times 5 $ ④ $ 5+11 $ ⑤ $ 11-6 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            138,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            83,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            78,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            69,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            70,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            70,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            329,
+            167
+          ],
+          "text": "가장 먼저 계산해야 하는 부분은 어느 것입니까? $ 70-28 \\div 4 \\times 5+11-6 $ ① $ 70-28 $ ② $ 28 \\div 4 $ ③ $ 4 \\times 5 $ ④ $ 5+11 $ ⑤ $ 11-6 $"
+        }
+      ]
+    }
+  ]
+}

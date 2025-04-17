@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_2_05_00044_38201.png",
+  "id": "00044_38201",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205010",
+      "question_topic_name": "원의 넓이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지름이 $30$$cm$인 원의 넓이의 범위를 알아보시오.  (1) 지름이 $30cm$인 원의 넓이와 한 변이 $30cm$인 정사각형의 넓이를 비교하시오. (원의 넓이)< $\\square \\times \\square(cm²$) (2) 지름이 $30cm$인 원의 넓이와 두 대각선이 각각 $30cm$인 마름모의 넓이를 비교하시오.  $\\square \\times \\square \\div \\square(cm²) ＜ (원의 넓이)$ (3) $\\square(cm²)＜ (원의 넓이)＜ \\square(cm²)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            294,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            477,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            211,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            219,
+            522,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            238,
+            219,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            260,
+            246,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            189,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.82,
+            0,
+            295.42,
+            16.69
+          ],
+          "text": "지름이 $30$$cm$인 원의 넓이의 범위를 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.82,
+            173.87,
+            524.13,
+            283.04
+          ],
+          "text": "(1) 지름이 $30cm$인 원의 넓이와 한 변이 $30cm$인 정사각형의 넓이를 비교하시오. (원의 넓이)< $\\square \\times \\square(cm²$) (2) 지름이 $30cm$인 원의 넓이와 두 대각선이 각각 $30cm$인 마름모의 넓이를 비교하시오.  $\\square \\times \\square \\div \\square(cm²) ＜ (원의 넓이)$ (3) $\\square(cm²)＜ (원의 넓이)＜ \\square(cm²)$"
+        }
+      ]
+    }
+  ]
+}

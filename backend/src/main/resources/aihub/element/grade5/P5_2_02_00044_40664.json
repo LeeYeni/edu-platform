@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_02_00044_40664.png",
+  "id": "00044_40664",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202025",
+      "question_topic_name": "(대분수)x(대분수)를 자연수 부분과 진분수 부분으로 나누어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은영이와 호재는 다음과 같이 숫자 카드를 가지고 있습니다. 각자 가지고 있는 숫자 카드를 한 번씩 사용하여 대분수를 만드는데 은영이는 가장 작은 수를, 호재는 가장 큰 수를 만들었습니다. 두 사람이 만든 대분수의 곱을 구하시오.  은영 :  호재 :",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            537,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            170,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            68,
+            160,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            93
+          ],
+          "text": "은영이와 호재는 다음과 같이 숫자 카드를 가지고 있습니다. 각자 가지고 있는 숫자 카드를 한 번씩 사용하여 대분수를 만드는데 은영이는 가장 작은 수를, 호재는 가장 큰 수를 만들었습니다. 두 사람이 만든 대분수의 곱을 구하시오.  은영 :  호재 :"
+        }
+      ]
+    }
+  ]
+}

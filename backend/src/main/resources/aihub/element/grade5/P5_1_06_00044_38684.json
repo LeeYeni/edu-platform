@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_06_00044_38684.png",
+  "id": "00044_38684",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106002",
+      "question_topic_name": "직사각형의 둘레 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정아네 화단은 가로가 $8m$, 세로가 $10m$인 직사각형 모양입니다. 화단의 둘레 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            528,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            530,
+            21
+          ],
+          "text": "정아네 화단은 가로가 $8m$, 세로가 $10m$인 직사각형 모양입니다. 화단의 둘레 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

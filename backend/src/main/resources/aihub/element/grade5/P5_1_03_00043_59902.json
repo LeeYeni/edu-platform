@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_03_00043_59902.png",
+  "id": "00043_59902",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "5103007",
+      "question_topic_name": "대응 관계를 식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색 테이프 도막의 수($\\diamondsuit$)와 색 테이프를 자른 횟수($△$) 사이의 대응 관계를 $\\diamondsuit$와 $△$를 사용한 식으로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            645,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            647,
+            20
+          ],
+          "text": "색 테이프 도막의 수($\\diamondsuit$)와 색 테이프를 자른 횟수($△$) 사이의 대응 관계를 $\\diamondsuit$와 $△$를 사용한 식으로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

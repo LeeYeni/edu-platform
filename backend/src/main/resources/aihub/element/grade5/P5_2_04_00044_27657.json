@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_04_00044_27657.png",
+  "id": "00044_27657",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선에서 ㉰는 ㉮와 ㉱의 가운뎃점이고 ㉯는 ㉮와 ㉰의 가운뎃점입니다. ㉯가 나타내는 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            33,
+            306,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            23
+          ],
+          "text": "수직선에서 ㉰는 ㉮와 ㉱의 가운뎃점이고 ㉯는 ㉮와 ㉰의 가운뎃점입니다. ㉯가 나타내는 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

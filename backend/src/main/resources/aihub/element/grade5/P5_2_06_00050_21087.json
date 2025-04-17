@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_2_06_00050_21087.png",
+  "id": "00050_21087",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206013",
+      "question_topic_name": "일이 일어날 가능성 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사건이 일어날 가능성에 대하여 알맞은 곳에 ○표 하시오. 가. 흰색 공만 들어 있는 주머니에서 꺼낸 공은 흰색일 것입니다. 나. 물고기는 다리가 있어 걸어 다닐 것입니다. 불가능하다 반반이다 확실하다 가 나",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            385,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            47,
+            280,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            94,
+            310,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            395,
+            164
+          ],
+          "text": "사건이 일어날 가능성에 대하여 알맞은 곳에 ○표 하시오. 가. 흰색 공만 들어 있는 주머니에서 꺼낸 공은 흰색일 것입니다. 나. 물고기는 다리가 있어 걸어 다닐 것입니다. 불가능하다 반반이다 확실하다 가 나"
+        }
+      ]
+    }
+  ]
+}

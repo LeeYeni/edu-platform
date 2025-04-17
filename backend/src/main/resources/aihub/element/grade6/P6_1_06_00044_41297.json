@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_06_00044_41297.png",
+  "id": "00044_41297",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106006",
+      "question_topic_name": "직육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 60 cm, 세로가 40 cm, 높이가 80 cm인 직육면체를 펼쳐서 전개도를 만들되, 옆면 4개를 가로로 배열하고, 펼쳐진 4개의 옆면 중 3번째 옆면의 윗변에 윗면이 위치해 있고 3번째 옆면의 밑변 아래에 아랫면이 위치해 있는 전개도",
+      "question_text": "다음 전개도를 이용하여 직육면체 모양의 큰 상자를 만들었습니다. 만든 상자에는 약과 상자를 몇 개까지 담을 수 있습니까? (단, 상자의 두꼐는 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            163,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            54,
+            225,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            42
+          ],
+          "text": "다음 전개도를 이용하여 직육면체 모양의 큰 상자를 만들었습니다. 만든 상자에는 약과 상자를 몇 개까지 담을 수 있습니까? (단, 상자의 두꼐는 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

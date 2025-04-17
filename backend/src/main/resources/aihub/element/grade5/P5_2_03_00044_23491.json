@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_03_00044_23491.png",
+  "id": "00044_23491",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 정사각형을 $3$개의 합동인 직사각형으로 나누었습니다. 작은 직사각형 하나의 둘레가 $ 24 \\mathrm{~cm} $ 일 때, 정사각형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입 니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            56,
+            104,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "그림과 같이 정사각형을 $3$개의 합동인 직사각형으로 나누었습니다. 작은 직사각형 하나의 둘레가 $ 24 \\mathrm{~cm} $ 일 때, 정사각형의 넓이는 몇 $ \\mathrm{cm}^{2} $ 입 니까?"
+        }
+      ]
+    }
+  ]
+}

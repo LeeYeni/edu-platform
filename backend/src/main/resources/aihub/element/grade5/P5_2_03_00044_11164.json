@@ -1,0 +1,119 @@
+{
+  "question_filename": "P5_2_03_00044_11164.png",
+  "id": "00044_11164",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203010",
+      "question_topic_name": "점대칭도형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "①선대칭도형이면 점 $ㄴ$의 대응점은 점 $ㄱ$입니다. ②선대칭도형이면 점 $ㄴ$의 대응점은 점 $ㅂ$입니다. ③점대칭도형이면 점 $ㄷ$의 대응점은 점 $ㅁ$입니다. ④점대칭도형이면 변 $ㄱㄴ$의 대응변은 변 $ㄹㅁ$입니다. ⑤선대칭도형이면서 점대칭도형입니다. 도형에 대한 설명으로 바르지 않은 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            130,
+            308,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            152,
+            308,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            308,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            196,
+            333,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            254,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            121,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            129,
+            335,
+            239
+          ],
+          "text": "①선대칭도형이면 점 $ㄴ$의 대응점은 점 $ㄱ$입니다. ②선대칭도형이면 점 $ㄴ$의 대응점은 점 $ㅂ$입니다. ③점대칭도형이면 점 $ㄷ$의 대응점은 점 $ㅁ$입니다. ④점대칭도형이면 변 $ㄱㄴ$의 대응변은 변 $ㄹㅁ$입니다. ⑤선대칭도형이면서 점대칭도형입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0,
+            334.1,
+            19.4
+          ],
+          "text": "도형에 대한 설명으로 바르지 않은 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

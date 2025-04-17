@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_02_00043_69569.png",
+  "id": "00043_69569",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102005",
+      "question_topic_name": "각기둥의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민성이가 자전 실험에 지구본 대신 입체도형을 돌려 가며 비췄을 때 불빛이 비치는 부분의 모양을 그린 것입니다. 민성이가 불빛을 비춘 입체도형의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            749,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            200,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            45,
+            307,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            751,
+            40
+          ],
+          "text": "민성이가 자전 실험에 지구본 대신 입체도형을 돌려 가며 비췄을 때 불빛이 비치는 부분의 모양을 그린 것입니다. 민성이가 불빛을 비춘 입체도형의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

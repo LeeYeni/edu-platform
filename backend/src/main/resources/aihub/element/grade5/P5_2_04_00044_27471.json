@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_04_00044_27471.png",
+  "id": "00044_27471",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204029",
+      "question_topic_name": "곱의 소수점 위치 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수 중에서 가장 큰 수는 어느 것입니까? ①$ 9 \\times \\square=0.09 $ ②$ 54 \\times \\square=0.054 ③ 0.082 \\times \\square=82 $ ④$ 215 \\times \\square=21.5 ⑤ 0.531 \\times \\square=53.1 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            328,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            111,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            127,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            127,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            117,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            129,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            330,
+            130
+          ],
+          "text": "$\\square$안에 알맞은 수 중에서 가장 큰 수는 어느 것입니까? ①$ 9 \\times \\square=0.09 $ ②$ 54 \\times \\square=0.054 ③ 0.082 \\times \\square=82 $ ④$ 215 \\times \\square=21.5 ⑤ 0.531 \\times \\square=53.1 $"
+        }
+      ]
+    }
+  ]
+}

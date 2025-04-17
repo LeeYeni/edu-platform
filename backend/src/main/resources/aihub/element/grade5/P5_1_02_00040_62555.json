@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_02_00040_62555.png",
+  "id": "00040_62555",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102004",
+      "question_topic_name": "두 수의 곱으로 나타내어 약수와 배수의 관계 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$에 대한 설명으로 틀린 것은 어느 것입니까? $\\square＝3×4$ ①$\\square$는 $3$의 배수입니다. ②$\\square$는 $4$의 배수입니다. ③$\\square$는 $3$의 약수입니다. ④$3$은 $\\square$의 약수입니다. ⑤$4$는 $\\square$의 약수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            377,
+            21,
+            448,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            164,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            165,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            164,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            164,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            165,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            456,
+            167
+          ],
+          "text": "다음 중 $\\square$에 대한 설명으로 틀린 것은 어느 것입니까? $\\square＝3×4$ ①$\\square$는 $3$의 배수입니다. ②$\\square$는 $4$의 배수입니다. ③$\\square$는 $3$의 약수입니다. ④$3$은 $\\square$의 약수입니다. ⑤$4$는 $\\square$의 약수입니다."
+        }
+      ]
+    }
+  ]
+}

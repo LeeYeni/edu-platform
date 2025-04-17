@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72284.png",
+  "id": "00043_72284",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205014",
+      "question_topic_name": "정육면체의 전개도 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 모서리가 $2 cm$인 정육면체의 전개도를 $4$가지 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            313,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            370,
+            22
+          ],
+          "text": "한 모서리가 $2 cm$인 정육면체의 전개도를 $4$가지 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

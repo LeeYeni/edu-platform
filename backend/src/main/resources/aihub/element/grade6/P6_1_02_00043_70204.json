@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_70204.png",
+  "id": "00043_70204",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102011",
+      "question_topic_name": "각기둥의 전개도 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 밑면이 사다리꼴인 각기둥의 전개도를 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            13,
+            335,
+            347
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            382,
+            20
+          ],
+          "text": "다음과 같이 밑면이 사다리꼴인 각기둥의 전개도를 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_01_00043_56869.png",
+  "id": "00043_56869",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "5201010",
+      "question_topic_name": "수의 범위를 활용하여 문제 해결하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경호네 학교 학생들이 청룡열차를 타려고 합니다. 한 번에 $36$명씩 탈 수 있는 청룡열차가 $9$번 운행해야 모두 탈 수 있다면 경호네 학교 학생은 몇 명 초과 몇 명 이하인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            241,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "경호네 학교 학생들이 청룡열차를 타려고 합니다. 한 번에 $36$명씩 탈 수 있는 청룡열차가 $9$번 운행해야 모두 탈 수 있다면 경호네 학교 학생은 몇 명 초과 몇 명 이하인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

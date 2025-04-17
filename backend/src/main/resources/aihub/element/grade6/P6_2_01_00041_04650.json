@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_01_00041_04650.png",
+  "id": "00041_04650",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201007",
+      "question_topic_name": "(자연수)÷(분수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 나눗셈의 몫이 가장 작은 것은 어느 것입니까? ①2÷$\\frac{1}{2}$ ②1$\\frac{2}{3}$÷$\\frac{5}{6}$ ③$\\frac{6}{7}$÷$\\frac{3}{7}$ ④$\\frac{3}{4}$÷1$\\frac{7}{8}$ ⑤1$\\frac{2}{3}$÷4$\\frac{2}{3}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            82,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            100,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            92,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            100,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            110,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            327,
+            224
+          ],
+          "text": "다음 중 나눗셈의 몫이 가장 작은 것은 어느 것입니까? ①2÷$\\frac{1}{2}$ ②1$\\frac{2}{3}$÷$\\frac{5}{6}$ ③$\\frac{6}{7}$÷$\\frac{3}{7}$ ④$\\frac{3}{4}$÷1$\\frac{7}{8}$ ⑤1$\\frac{2}{3}$÷4$\\frac{2}{3}$"
+        }
+      ]
+    }
+  ]
+}

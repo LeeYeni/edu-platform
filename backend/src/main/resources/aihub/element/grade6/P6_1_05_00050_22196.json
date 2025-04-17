@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_05_00050_22196.png",
+  "id": "00050_22196",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105011",
+      "question_topic_name": "원그래프 해석하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 위쪽 중앙의 반지름을 기준으로 시계방향으로 크기가 큰 것부터 4개의 부채꼴로 원을 나눈 그림으로, 빨간색이라 표기된 가장 큰 부채꼴, 그다음은 파란색(32%)라 표기된 부채꼴, 그다음은 파란색 항목 면적의 8분의 5를 차지하는 노란색이라 표기된 부채꼴, 기타(13%)라 표기된 부채꼴이며, 각 항목은 다른 색으로 칠해져 있고, 색깔별 구슬의 수를 나타낸 원그래프",
+      "question_text": "재영이가 가지고 있는 구슬을 색깔별로 분류하여 나타낸 원그래프입니다. 노란색 구슬 수가 파란색 구슬 수의 $ \\frac{5}{8} $이고, 빨간색 구슬이 $7$개라면 노란색 구슬은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            4,
+            793,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            208,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            333,
+            71,
+            490,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            3,
+            795,
+            62
+          ],
+          "text": "재영이가 가지고 있는 구슬을 색깔별로 분류하여 나타낸 원그래프입니다. 노란색 구슬 수가 파란색 구슬 수의 $ \\frac{5}{8} $이고, 빨간색 구슬이 $7$개라면 노란색 구슬은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_2_05_00043_71953.png",
+  "id": "00043_71953",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205010",
+      "question_topic_name": "직육면체의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 정육면체에서 서로 평행한 두 면의 눈의 수의 합이  $7 $이 되도록 점을 찍어서 주사위를 만들고 있습니다. 완성한 주사위의 모양이 아닌 것을 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            162,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            49,
+            292,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            40
+          ],
+          "text": "다음 정육면체에서 서로 평행한 두 면의 눈의 수의 합이  $7 $이 되도록 점을 찍어서 주사위를 만들고 있습니다. 완성한 주사위의 모양이 아닌 것을 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

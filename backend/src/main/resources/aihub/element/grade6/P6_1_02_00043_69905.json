@@ -1,0 +1,79 @@
+{
+  "question_filename": "P6_1_02_00043_69905.png",
+  "id": "00043_69905",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102020",
+      "question_topic_name": "각뿔의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각뿔을 보고 빈칸에 알맞은 수를 써넣으시오. <table border>   <tbody>     <tr>       <td>면의 수</td>       <td>모서리의 수</td>       <td>꼭짓점의 수</td>     </tr>     <tr>       <td>　</td>       <td> </td>       <td> </td>     </tr>     <tr>       <td>　</td>       <td> </td>       <td> </td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            262,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            110,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.22,
+            1.29,
+            270.38,
+            17.29
+          ],
+          "text": "각뿔을 보고 빈칸에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.22,
+            119.05,
+            261.42,
+            188.81
+          ],
+          "text": "<table border>   <tbody>     <tr>       <td>면의 수</td>       <td>모서리의 수</td>       <td>꼭짓점의 수</td>     </tr>     <tr>       <td>　</td>       <td> </td>       <td> </td>     </tr>     <tr>       <td>　</td>       <td> </td>       <td> </td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

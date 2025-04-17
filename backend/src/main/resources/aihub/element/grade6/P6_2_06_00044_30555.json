@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_06_00044_30555.png",
+  "id": "00044_30555",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206009",
+      "question_topic_name": "원뿔의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "알맞은 것을 <보기>에서 골라 기호를 쓰시오. [ <보기>㉠ 모선 ㉡ 원뿔의 높이 ㉢ 원뿔의 꼭짓점 ] ⑴ 원뿔의 뾰족한 점 ⑵ 원뿔의 꼭짓점에서 밑면에 수직인 선분의 길이 ⑶ 원뿔의 꼭짓점과 밑면인 원의 둘레의 한 점을 잇는 선분",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            72,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            54,
+            261,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            133,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            297,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            347,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            594,
+            144
+          ],
+          "text": "알맞은 것을 <보기>에서 골라 기호를 쓰시오. [ <보기>㉠ 모선 ㉡ 원뿔의 높이 ㉢ 원뿔의 꼭짓점 ] ⑴ 원뿔의 뾰족한 점 ⑵ 원뿔의 꼭짓점에서 밑면에 수직인 선분의 길이 ⑶ 원뿔의 꼭짓점과 밑면인 원의 둘레의 한 점을 잇는 선분"
+        }
+      ]
+    }
+  ]
+}

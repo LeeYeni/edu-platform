@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_03_00050_19361.png",
+  "id": "00050_19361",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자연수의 나눗셈을 이용하여 $\\square$ 안에 알맞은 수를 써넣으시오.   $ 1870 \\div 5=374 $ $ \\rightarrow 18.7 \\div 5= \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            297,
+            26,
+            375,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            50,
+            129,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            452,
+            77
+          ],
+          "text": "자연수의 나눗셈을 이용하여 $\\square$ 안에 알맞은 수를 써넣으시오.   $ 1870 \\div 5=374 $ $ \\rightarrow 18.7 \\div 5= \\square$"
+        }
+      ]
+    }
+  ]
+}

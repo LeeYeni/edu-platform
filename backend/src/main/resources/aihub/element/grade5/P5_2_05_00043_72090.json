@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_05_00043_72090.png",
+  "id": "00043_72090",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205017",
+      "question_topic_name": "직육면체의 전개도 살펴보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직육면체의 전개도에서 모양과 크기가 같은 직사각형은 모두 몇 쌍입니까? ①$1$쌍 ②$2$쌍 ③$3$쌍 ④$4$쌍 ⑤없습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            439,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            63,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            66,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            66,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            66,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            98,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            441,
+            130
+          ],
+          "text": "직육면체의 전개도에서 모양과 크기가 같은 직사각형은 모두 몇 쌍입니까? ①$1$쌍 ②$2$쌍 ③$3$쌍 ④$4$쌍 ⑤없습니다."
+        }
+      ]
+    }
+  ]
+}

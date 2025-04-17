@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_23567.png",
+  "id": "00044_23567",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203002",
+      "question_topic_name": "쌓기나무로 쌓은 모양과 위에서 본 모양 보고 쌓기나무 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림에서 $\\square$ 안의 숫자는 그곳에 쌓아 올린 쌓기나무의 개수입니다. $2$층에 쌓여 있는 쌓기나무는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            667,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            33,
+            102,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            669,
+            22
+          ],
+          "text": "그림에서 $\\square$ 안의 숫자는 그곳에 쌓아 올린 쌓기나무의 개수입니다. $2$층에 쌓여 있는 쌓기나무는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

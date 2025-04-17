@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_2_02_00044_40384.png",
+  "id": "00044_40384",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202020",
+      "question_topic_name": "(진분수)x(진분수)_약분 후 분자끼리, 분모리 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "집에서 학교까지의 거리는 $ \\frac{5}{7} \\mathrm{~km} $입니다. 그중의 $ \\frac{3}{4} $은 버스를 타고 갔고, 나머지는 걸어서 갔습니다. 걸어간 거리는 몇 $ \\mathrm{km} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            758,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            760,
+            38
+          ],
+          "text": "집에서 학교까지의 거리는 $ \\frac{5}{7} \\mathrm{~km} $입니다. 그중의 $ \\frac{3}{4} $은 버스를 타고 갔고, 나머지는 걸어서 갔습니다. 걸어간 거리는 몇 $ \\mathrm{km} $입니까?"
+        }
+      ]
+    }
+  ]
+}

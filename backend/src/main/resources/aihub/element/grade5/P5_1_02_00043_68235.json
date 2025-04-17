@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_02_00043_68235.png",
+  "id": "00043_68235",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102001",
+      "question_topic_name": "약수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수의 약수 중 가장 작은 수와 가장 큰 수를 각각 구하시오.  <table border>   <tbody>     <tr> <td>수</td><td>가장 작은 약수</td>       <td>가장 큰 약수</td>     </tr>     <tr>       <td>$40$</td> <td></td> <td></td>     </tr>     <tr>       <td>$52$</td> <td></td><td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            21.51,
+            248.23,
+            92.51
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0.27,
+            371.23,
+            93.27
+          ],
+          "text": "다음 수의 약수 중 가장 작은 수와 가장 큰 수를 각각 구하시오.  <table border>   <tbody>     <tr> <td>수</td><td>가장 작은 약수</td>       <td>가장 큰 약수</td>     </tr>     <tr>       <td>$40$</td> <td></td> <td></td>     </tr>     <tr>       <td>$52$</td> <td></td><td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

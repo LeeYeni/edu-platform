@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00050_18585.png",
+  "id": "00050_18585",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203006",
+      "question_topic_name": "선대칭도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 10칸, 세로 7칸의 모눈종이 한가운데 맨 위에서 아래로 1칸 지점에 점 ㄱ, 점 ㄱ에서 아래로 1칸, 왼쪽으로 2칸 이동한 위치에 점 ㄴ, 점 ㄴ에서 아래로 3칸, 왼쪽으로 1칸 이동한 위치에 점 ㄷ, 점 ㄷ에서 아래로 1칸, 오른쪽으로 3칸 이동한 위치에 점 ㄹ, 점 ㄹ에서 오른쪽으로 3칸, 위로 1칸 이동한 위치에 점 ㅁ, 점 ㅁ에서 위로 3칸, 왼쪽으로 1칸 이동한 위치에 점 ㅂ이 있고, 이 점들을 모두 이어 육각형 ㄱㄴㄷㄹㅁㅂ을 그리고, 직선 ㄱㄹ이 그려 있는 도형",
+      "question_text": "선대칭도형의 각 대응점끼리 모두 선분으로 이어 보시오. 대응점을 이은 선분들이 대칭축과 만나서 이루는 각은 각각 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            752,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            315,
+            27,
+            510,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            754,
+            21
+          ],
+          "text": "선대칭도형의 각 대응점끼리 모두 선분으로 이어 보시오. 대응점을 이은 선분들이 대칭축과 만나서 이루는 각은 각각 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

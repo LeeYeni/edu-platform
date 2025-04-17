@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20386.png",
+  "id": "00044_20386",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203004",
+      "question_topic_name": "합동인 도형의 성질의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 한 장을 $3$부분으로 잘라 잘려진 $3$부분이 모두 합동인 도형이 되도록 자르는 선을 그어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            587,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            27,
+            108,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            590,
+            20
+          ],
+          "text": "색종이 한 장을 $3$부분으로 잘라 잘려진 $3$부분이 모두 합동인 도형이 되도록 자르는 선을 그어 보시오."
+        }
+      ]
+    }
+  ]
+}

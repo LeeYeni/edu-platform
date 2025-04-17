@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_06_00044_39225.png",
+  "id": "00044_39225",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106027",
+      "question_topic_name": "사다리꼴의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 ㄴㄷ이고 변 ㄱㄹ과 변 ㄴㄷ이 평행하고 점 ㄱ이 점 ㄴ보다 오른쪽에, 점 ㄹ이 점 ㄷ보다 왼쪽에 있는 사다리꼴 ㄱㄴㄷㄹ이 있고, 선분 ㄱㄷ이 그려져 있고, 변 ㄱㄹ의 길이가 13 cm, 변 ㄴㄷ의 길이가 15 cm를 나타낸 그림",
+      "question_text": "삼각형 ㄱㄴㄷ의 넓이는 90cm²입니다. 사다리꼴 ㄱㄴㄷㄹ의 넓이는 몇 cm²입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            493,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            137,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            495,
+            20
+          ],
+          "text": "삼각형 ㄱㄴㄷ의 넓이는 90cm²입니다. 사다리꼴 ㄱㄴㄷㄹ의 넓이는 몇 cm²입니까?"
+        }
+      ]
+    }
+  ]
+}

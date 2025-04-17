@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_05_00040_38582.png",
+  "id": "00040_38582",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205004",
+      "question_topic_name": "직육면체에서 보이는 면, 모서리, 꼭짓점의 수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직육면체에 대해서 바르게 말한 것은 어느 것입니까? ① 면은 $8$개입니다. ② 꼭짓점은 $8$개입니다. ③ 모서리는 $8$개입니다. ④ 모서리의 길이가 모두 같습니다. ⑤ 직육면체를 위에서 본뜬 모양은 사다리꼴입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            136,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            161,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            161,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            224,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            317,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            130
+          ],
+          "text": "직육면체에 대해서 바르게 말한 것은 어느 것입니까? ① 면은 $8$개입니다. ② 꼭짓점은 $8$개입니다. ③ 모서리는 $8$개입니다. ④ 모서리의 길이가 모두 같습니다. ⑤ 직육면체를 위에서 본뜬 모양은 사다리꼴입니다."
+        }
+      ]
+    }
+  ]
+}

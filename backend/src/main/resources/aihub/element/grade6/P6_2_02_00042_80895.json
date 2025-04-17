@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_02_00042_80895.png",
+  "id": "00042_80895",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 길이가 $13cm$인 종이 테이프 몇 개를 $0.6cm$씩 겹쳐서 이었더니 전체 길이가 $199cm$가 되었습니다. 종이 테이프 몇 개를 이은 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            78,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            48,
+            306,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            40
+          ],
+          "text": "그림과 같이 길이가 $13cm$인 종이 테이프 몇 개를 $0.6cm$씩 겹쳐서 이었더니 전체 길이가 $199cm$가 되었습니다. 종이 테이프 몇 개를 이은 것입니까?"
+        }
+      ]
+    }
+  ]
+}

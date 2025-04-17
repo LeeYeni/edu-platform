@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_01_00041_32374.png",
+  "id": "00041_32374",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201007",
+      "question_topic_name": "(자연수)÷(분수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 몫이 가장 큰 것은 어느 것입니까? ①3÷$\\frac{1}{5}$ ②4÷$\\frac{1}{4}$ ③5÷$\\frac{1}{3}$ ④2÷$\\frac{1}{9}$ ⑤8÷$\\frac{1}{2}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            257,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            82,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            82,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            82,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            82,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            82,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            259,
+            223
+          ],
+          "text": "다음 중 몫이 가장 큰 것은 어느 것입니까? ①3÷$\\frac{1}{5}$ ②4÷$\\frac{1}{4}$ ③5÷$\\frac{1}{3}$ ④2÷$\\frac{1}{9}$ ⑤8÷$\\frac{1}{2}$"
+        }
+      ]
+    }
+  ]
+}

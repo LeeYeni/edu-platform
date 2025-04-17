@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_05_00043_72103.png",
+  "id": "00043_72103",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205015",
+      "question_topic_name": "정육면체의 전개도의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정육면체 형태의 주사위를 펼쳐 그린 전개도가 있는 그림으로, 점 6개가 찍힌 면 옆에 점 4개가 찍힌 면이 있고, 그 밑에 점 2개가 찍힌 면이 있고, 그 오른쪽에 빈 면이 있고, 그 아래로 빈 면이 있고, 그 오른쪽에 빈 면이 펼쳐지도록 그린 전개도",
+      "question_text": "다음 전개도로 정육면체를 만들 때 서로 평행한 두 면의 눈의 수의 합이 $7$이 되도록 눈을 알맞게 그려 넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            188,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            643,
+            20
+          ],
+          "text": "다음 전개도로 정육면체를 만들 때 서로 평행한 두 면의 눈의 수의 합이 $7$이 되도록 눈을 알맞게 그려 넣으시오."
+        }
+      ]
+    }
+  ]
+}

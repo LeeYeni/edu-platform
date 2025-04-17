@@ -1,0 +1,129 @@
+{
+  "question_filename": "P6_1_05_00044_24208.png",
+  "id": "00044_24208",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105001",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 표를 보고, 물음에 답하시오.  (1) 반올림하여 백의 자리까지 표에 나타내시오. (2) (1)에서 만든 표를 보고, 다섯 마을의 평균 수확량을 구하시오.(3) (1)에서 만든 표를 보고, 그림 그래프로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            207,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            118,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            61,
+            282,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            122,
+            285,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            118,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            330,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            234,
+            385,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            256,
+            326,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            280,
+            327,
+            423
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            387,
+            274
+          ],
+          "text": "다음 표를 보고, 물음에 답하시오.  (1) 반올림하여 백의 자리까지 표에 나타내시오. (2) (1)에서 만든 표를 보고, 다섯 마을의 평균 수확량을 구하시오.(3) (1)에서 만든 표를 보고, 그림 그래프로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

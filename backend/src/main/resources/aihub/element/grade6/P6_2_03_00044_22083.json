@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_22083.png",
+  "id": "00044_22083",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203005",
+      "question_topic_name": "쌓기나무로 쌓은 모양을 보고 위, 앞, 옆에서 본 모양 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 쌓기나무 $13$개로 만든 모양입니다. 색칠한 쌓기나무 $3$개를 빼냈을 때 앞에서 보이는 면은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            638,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            24,
+            142,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            640,
+            23
+          ],
+          "text": "다음은 쌓기나무 $13$개로 만든 모양입니다. 색칠한 쌓기나무 $3$개를 빼냈을 때 앞에서 보이는 면은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

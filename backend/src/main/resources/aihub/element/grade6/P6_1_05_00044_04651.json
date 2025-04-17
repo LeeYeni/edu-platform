@@ -1,0 +1,129 @@
+{
+  "question_filename": "P6_1_05_00044_04651.png",
+  "id": "00044_04651",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105004",
+      "question_topic_name": "띠그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "병수네 반 학생 $40$명이 $4$가지 운동 중에서 가장 좋아하는 운동을 조사하여 나타낸 띠그래프입니다. $4$가지 운동에 골프와 씨름을 더 넣어 다시 조사하여 띠그래프로 나타내려 합니다. 다음 중 반드시 변하는 것은 어느 것입니까? ① 띠그래프 전체의 길이 ② 병수네 반의 남학생 수 ③ 병수네 반의 여학생 수 ④ 병수네 반의 모든 학생 수 ⑤ 각 운동이 차지하는 비율",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            504,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            166,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            171,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            171,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            187,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            183,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            46,
+            328,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.9,
+            1.1,
+            804.5,
+            40.3
+          ],
+          "text": "병수네 반 학생 $40$명이 $4$가지 운동 중에서 가장 좋아하는 운동을 조사하여 나타낸 띠그래프입니다. $4$가지 운동에 골프와 씨름을 더 넣어 다시 조사하여 띠그래프로 나타내려 합니다. 다음 중 반드시 변하는 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            114,
+            189,
+            224
+          ],
+          "text": "① 띠그래프 전체의 길이 ② 병수네 반의 남학생 수 ③ 병수네 반의 여학생 수 ④ 병수네 반의 모든 학생 수 ⑤ 각 운동이 차지하는 비율"
+        }
+      ]
+    }
+  ]
+}

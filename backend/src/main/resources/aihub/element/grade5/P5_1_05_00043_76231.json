@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_05_00043_76231.png",
+  "id": "00043_76231",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105012",
+      "question_topic_name": "받아내림이 없는 진분수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $ \\frac{7}{8} m $, 세로가 $ \\frac{4}{5} m $ 인 직사각형이 있습니다. 가로는 세로보다 몇 $ m $ 더 깁니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            509,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            511,
+            38
+          ],
+          "text": "가로가 $ \\frac{7}{8} m $, 세로가 $ \\frac{4}{5} m $ 인 직사각형이 있습니다. 가로는 세로보다 몇 $ m $ 더 깁니까?"
+        }
+      ]
+    }
+  ]
+}

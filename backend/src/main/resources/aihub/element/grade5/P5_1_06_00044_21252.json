@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_21252.png",
+  "id": "00044_21252",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106010",
+      "question_topic_name": "1㎡ 와 1㎠의 관계 알기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳은 것은 어느 것입니까?  ① $ 600000 \\mathrm{~cm}^{2}=6 \\mathrm{~m}^{2} $ ② $ 42000 \\mathrm{~cm}^{2}=42 \\mathrm{~m}^{2} $ ③ $ 280000 \\mathrm{~cm}^{2}=280 \\mathrm{~m}^{2} $ ④ $ 48000 \\mathrm{~cm}^{2}=4.8 \\mathrm{~m}^{2} $ ⑤$ 3.2 \\mathrm{~m}^{2}=320 \\mathrm{~cm}^{2} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            155,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            152,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            171,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            157,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            136,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            130
+          ],
+          "text": "다음 중 옳은 것은 어느 것입니까?  ① $ 600000 \\mathrm{~cm}^{2}=6 \\mathrm{~m}^{2} $ ② $ 42000 \\mathrm{~cm}^{2}=42 \\mathrm{~m}^{2} $ ③ $ 280000 \\mathrm{~cm}^{2}=280 \\mathrm{~m}^{2} $ ④ $ 48000 \\mathrm{~cm}^{2}=4.8 \\mathrm{~m}^{2} $ ⑤$ 3.2 \\mathrm{~m}^{2}=320 \\mathrm{~cm}^{2} $"
+        }
+      ]
+    }
+  ]
+}

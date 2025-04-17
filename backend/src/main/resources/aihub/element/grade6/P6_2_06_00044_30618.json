@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00044_30618.png",
+  "id": "00044_30618",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206009",
+      "question_topic_name": "원뿔의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면의 반지름의 길이가 12 cm, 높이가 5 cm, 모선의 길이가 13 cm인 보라색으로 색칠된 원뿔이 꼭짓점이 왼쪽으로 가고 지름이 수직이 되도록 세워져 있으며, 꼭짓점에는 ㄱ, 지름의 아래쪽 끝에는 ㄴ, 지름의 위쪽 끝에는 ㄷ이라고 표시되어 있고 높이와 지름 사이에 직각 표시가 있는 그림",
+      "question_text": "원뿔에서 삼각형 ㄱㄴㄷ의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            293,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            31,
+            137,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            295,
+            22
+          ],
+          "text": "원뿔에서 삼각형 ㄱㄴㄷ의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

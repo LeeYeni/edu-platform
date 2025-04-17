@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_02_00043_70205.png",
+  "id": "00043_70205",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102011",
+      "question_topic_name": "각기둥의 전개도 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진수는 밑면이 사다리꼴인 사각기둥 모양의 과자 상자의 겉면에 겹치는 부분 없이 포장지를 붙이려고 합니다. 포장지를 어떻게 잘라야 하는지 전개도를 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            759,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            204,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            50,
+            325,
+            322
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            757,
+            40
+          ],
+          "text": "진수는 밑면이 사다리꼴인 사각기둥 모양의 과자 상자의 겉면에 겹치는 부분 없이 포장지를 붙이려고 합니다. 포장지를 어떻게 잘라야 하는지 전개도를 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

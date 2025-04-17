@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00044_41272.png",
+  "id": "00044_41272",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106003",
+      "question_topic_name": "쌓기나무를 사용하여 직육면체의 부피 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "쌓기나무를 가로, 세로, 높이에 각각 2개씩 쌓아서 만든 정육면체",
+      "question_text": "부피가 $1cm³$인 쌓기나무로 만든 정육면체의 부피를 구하려고 합니다. 물음에 답하시오. (1) 부피가 $1cm³$인 쌓기나무가 몇 개입니까? $2×\\square× \\square= \\square (개)$ (2) 직육면체의 부피는 몇 $cm³$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            508,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            267,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            126,
+            165,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            150,
+            235,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            99,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.52,
+            1,
+            508.1,
+            18.22
+          ],
+          "text": "부피가 $1cm³$인 쌓기나무로 만든 정육면체의 부피를 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            106.09,
+            266.9,
+            166.82
+          ],
+          "text": "(1) 부피가 $1cm³$인 쌓기나무가 몇 개입니까? $2×\\square× \\square= \\square (개)$ (2) 직육면체의 부피는 몇 $cm³$입니까?"
+        }
+      ]
+    }
+  ]
+}

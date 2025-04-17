@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00043_99142.png",
+  "id": "00043_99142",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106010",
+      "question_topic_name": "1㎡ 와 1㎠의 관계 알기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "관계가 옳은 것은 어느 것입니까? ①$1m²=100000cm²$ ②$0.5m²=5000cm²$ ③$16.5m²=16500cm²$ ④$23000cm²=23m²$ ⑤$1000000cm²=10m²$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            208,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            149,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            147,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            151,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            167,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            210,
+            130
+          ],
+          "text": "관계가 옳은 것은 어느 것입니까? ①$1m²=100000cm²$ ②$0.5m²=5000cm²$ ③$16.5m²=16500cm²$ ④$23000cm²=23m²$ ⑤$1000000cm²=10m²$"
+        }
+      ]
+    }
+  ]
+}

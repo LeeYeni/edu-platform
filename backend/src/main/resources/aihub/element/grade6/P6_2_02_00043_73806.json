@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_2_02_00043_73806.png",
+  "id": "00043_73806",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202022",
+      "question_topic_name": "나누어 주고 남는 양 알아보기_몫을 자연수까지만 계산하는 방법",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 자연수 부분까지 구하고 나머지를 알아본 후 검산하시오. $ \\begin{array}{r} 8{\\overline{\\smash{\\big)}56.4}} \\end{array} \\\\ $  몫\\qquad\\qquad,  나머지\\qquad\\qquad  검산\\qquad\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            422,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            66,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            117,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            141,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            166,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            424,
+            113
+          ],
+          "text": "나눗셈의 몫을 자연수 부분까지 구하고 나머지를 알아본 후 검산하시오. $ \\begin{array}{r} 8{\\overline{\\smash{\\big)}56.4}} \\end{array} \\\\ $  몫\\qquad\\qquad,  나머지\\qquad\\qquad  검산\\qquad\\qquad"
+        }
+      ]
+    }
+  ]
+}

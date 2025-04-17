@@ -1,0 +1,129 @@
+{
+  "question_filename": "P6_2_05_00044_11612.png",
+  "id": "00044_11612",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "6205015",
+      "question_topic_name": "원의 넓이의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 변의 길이가 10 m이고 가운데 소가 그려져 있는 정사각형 모양 농장",
+      "question_text": "다음 그림과 같이 한 변이 $10m$인 정사각형 모양의 풀밭이 있습니다. 이 풀밭의 한 꼭짓점에 말뚝을 박아 소 $1$마리를 길이가 $10m$인 끈으로 묶어 놓았습니다. 소가 풀을 뜯어 먹지 못하는 부분의 넓이는 몇 $m²$입니까? (단, 소의 크기는 무시합니다. 원주율 : $3.14$)  ①$21.5 m²$ ②$43 m²$ ③$78.5 m²$ ④$86 m²$ ⑤$100 m²$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            690,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            173,
+            85,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            195,
+            78,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            217,
+            88,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            239,
+            78,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            261,
+            85,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            44,
+            128,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "다음 그림과 같이 한 변이 $10m$인 정사각형 모양의 풀밭이 있습니다. 이 풀밭의 한 꼭짓점에 말뚝을 박아 소 $1$마리를 길이가 $10m$인 끈으로 묶어 놓았습니다. 소가 풀을 뜯어 먹지 못하는 부분의 넓이는 몇 $m²$입니까? (단, 소의 크기는 무시합니다. 원주율 : $3.14$) "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.41,
+            172.2,
+            88.18,
+            282.89
+          ],
+          "text": "①$21.5 m²$ ②$43 m²$ ③$78.5 m²$ ④$86 m²$ ⑤$100 m²$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_03_00044_11331.png",
+  "id": "00044_11331",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103018",
+      "question_topic_name": "(자연수) ÷ (자연수)의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학교 강당에 $6$명씩 앉을 수 있는 긴 의자가 여러 개 있습니다. $5$학년 학생 $230$명이 강당에 모여 함께 공부하려고 합니다. 긴 의자는 적어도 몇 개가 있어야 합니까? ① $35$개 ② $36$개 ③ $37$개 ④ $38$개 ⑤ $39$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            72,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            73,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            72,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            73,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            73,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            152
+          ],
+          "text": "학교 강당에 $6$명씩 앉을 수 있는 긴 의자가 여러 개 있습니다. $5$학년 학생 $230$명이 강당에 모여 함께 공부하려고 합니다. 긴 의자는 적어도 몇 개가 있어야 합니까? ① $35$개 ② $36$개 ③ $37$개 ④ $38$개 ⑤ $39$개"
+        }
+      ]
+    }
+  ]
+}

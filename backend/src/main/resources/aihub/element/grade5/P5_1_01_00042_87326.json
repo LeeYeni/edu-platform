@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00042_87326.png",
+  "id": "00042_87326",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101010",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 공장에서 $1260$개의 전화기를 만들려고 합니다. 하루에 $28$개씩 $15$일 동안 만들고, 몇 명의 사람이 더 늘어서 하루에 $32$개씩 더 만들 수 있게 되었습니다. 이 공장에서 $1260$개의 전화기를 만드는 데에는 모두 며칠이 걸리겠는지 하나의 식으로 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            707,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "어느 공장에서 $1260$개의 전화기를 만들려고 합니다. 하루에 $28$개씩 $15$일 동안 만들고, 몇 명의 사람이 더 늘어서 하루에 $32$개씩 더 만들 수 있게 되었습니다. 이 공장에서 $1260$개의 전화기를 만드는 데에는 모두 며칠이 걸리겠는지 하나의 식으로 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_03_00044_21962.png",
+  "id": "00044_21962",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "6203012",
+      "question_topic_name": "층별로 나타낸 모양을 보고 쌓은 모양과 쌓기나무 개수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쌓기나무 $13$개를 쌓아 만든 모양입니다. $2$층의 보이지 않는 쌓기나무가 $1$개라면 $1$층과 $2$층에 놓인 쌓기나무 개수의 차는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            770,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            27,
+            120,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            772,
+            21
+          ],
+          "text": "쌓기나무 $13$개를 쌓아 만든 모양입니다. $2$층의 보이지 않는 쌓기나무가 $1$개라면 $1$층과 $2$층에 놓인 쌓기나무 개수의 차는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

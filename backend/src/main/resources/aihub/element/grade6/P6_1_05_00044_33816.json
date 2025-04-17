@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_05_00044_33816.png",
+  "id": "00044_33816",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105001",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 장난감 회사에서 전국에 한 달 동안 판매한 장난감의 수량을 나타낸 표와 그림그래프입니다. 판매한 장난감이 가장 많은 도는 어느 곳입니까? 전국 도별 장난감 판매량 <table border>   <tbody>     <tr>       <td>도</td>       <td>판매량</td>     </tr>     <tr>       <td>경기도</td>       <td></td>     </tr>     <tr>       <td>강원도</td>       <td>14만</td>     </tr>     <tr>       <td>충청도</td>       <td></td>     </tr>     <tr>       <td>경상도</td>       <td>48만</td>     </tr>     <tr>       <td>전라도</td>       <td>46만</td>     </tr>     <tr>       <td>제주 특별자치도</td>       <td></td>     </tr> </tbody> </table> 전국 도별 장난감 판매량",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            41,
+            214,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            67,
+            224,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            308,
+            269,
+            609
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            294
+          ],
+          "text": "어느 장난감 회사에서 전국에 한 달 동안 판매한 장난감의 수량을 나타낸 표와 그림그래프입니다. 판매한 장난감이 가장 많은 도는 어느 곳입니까? 전국 도별 장난감 판매량 <table border>   <tbody>     <tr>       <td>도</td>       <td>판매량</td>     </tr>     <tr>       <td>경기도</td>       <td></td>     </tr>     <tr>       <td>강원도</td>       <td>14만</td>     </tr>     <tr>       <td>충청도</td>       <td></td>     </tr>     <tr>       <td>경상도</td>       <td>48만</td>     </tr>     <tr>       <td>전라도</td>       <td>46만</td>     </tr>     <tr>       <td>제주 특별자치도</td>       <td></td>     </tr> </tbody> </table> 전국 도별 장난감 판매량"
+        }
+      ]
+    }
+  ]
+}

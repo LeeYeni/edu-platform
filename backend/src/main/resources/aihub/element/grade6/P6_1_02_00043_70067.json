@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00043_70067.png",
+  "id": "00043_70067",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각기둥의 전개도에서 색칠한 면이 한 밑면일 때, 높이가 되는 선분에 모두 $\\bigcirc$표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            504,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            173,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            506,
+            21
+          ],
+          "text": "각기둥의 전개도에서 색칠한 면이 한 밑면일 때, 높이가 되는 선분에 모두 $\\bigcirc$표 하시오."
+        }
+      ]
+    }
+  ]
+}

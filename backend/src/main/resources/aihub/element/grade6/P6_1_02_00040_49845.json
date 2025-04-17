@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00040_49845.png",
+  "id": "00040_49845",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102003",
+      "question_topic_name": "각기둥 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 입체도형 중에서 위아래에 있는 면이 서로 평행이고 합동인 다각형으로 이루어진 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            623,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            133,
+            417
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            625,
+            22
+          ],
+          "text": "다음 입체도형 중에서 위아래에 있는 면이 서로 평행이고 합동인 다각형으로 이루어진 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

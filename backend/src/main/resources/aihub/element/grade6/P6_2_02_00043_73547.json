@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_02_00043_73547.png",
+  "id": "00043_73547",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202022",
+      "question_topic_name": "나누어 주고 남는 양 알아보기_몫을 자연수까지만 계산하는 방법",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물 $23.75L$를 어항에 $3L$씩 담았습니다. $3L$의 물을 모두 담은 어항은 몇 개가 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            491,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            493,
+            21
+          ],
+          "text": "물 $23.75L$를 어항에 $3L$씩 담았습니다. $3L$의 물을 모두 담은 어항은 몇 개가 됩니까?"
+        }
+      ]
+    }
+  ]
+}

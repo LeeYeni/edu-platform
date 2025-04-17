@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_06_00043_76992.png",
+  "id": "00043_76992",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206011",
+      "question_topic_name": "일이 일어날 가능성을 예상하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경품 추첨함에 $100$개의 제비가 들어 있습니다. 그중에서 $1$등은 $1$개, $2$등은 $5$개, $3$등은 $10$개입니다. 한 개의 제비를 뽑았을 때 당첨되지 않을 가능성은 당첨될 가능성의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            246,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "경품 추첨함에 $100$개의 제비가 들어 있습니다. 그중에서 $1$등은 $1$개, $2$등은 $5$개, $3$등은 $10$개입니다. 한 개의 제비를 뽑았을 때 당첨되지 않을 가능성은 당첨될 가능성의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

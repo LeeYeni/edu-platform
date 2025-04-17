@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_04_00042_81768.png",
+  "id": "00042_81768",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104024",
+      "question_topic_name": "두 분모의 공배수를 공통분모로 하여 통분하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "($ \\frac{11}{12}, \\frac{3}{10} $)을 통분하려고 합니다. 공통분모가 될 수 없는 것은 어느 것입니까?  ①$60$ ②$120$ ③$200$ ④$240$ ⑤$300$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            468,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            62,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            67,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            71,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            69,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            71,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            470,
+            149
+          ],
+          "text": "($ \\frac{11}{12}, \\frac{3}{10} $)을 통분하려고 합니다. 공통분모가 될 수 없는 것은 어느 것입니까?  ①$60$ ②$120$ ③$200$ ④$240$ ⑤$300$"
+        }
+      ]
+    }
+  ]
+}

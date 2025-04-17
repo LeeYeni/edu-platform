@@ -1,0 +1,79 @@
+{
+  "question_filename": "P5_1_02_00043_68942.png",
+  "id": "00043_68942",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "5102019",
+      "question_topic_name": "공배수와 최소공배수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$12$와 $18$의 최소공배수를 구하려고 합니다. $ \\square $ 안에 $1$이 아닌 자연수를 알맞게 써넣으시오. $ 12=2 \\times 2 \\times \\square, 18=2 \\times \\square \\times \\square   \\rightarrow  12$와 $18$의 최소공배수 : $ 2 \\times 3 \\times \\square \\times \\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            520,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            20,
+            269,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            45,
+            166,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            65,
+            237,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            522,
+            87
+          ],
+          "text": "$12$와 $18$의 최소공배수를 구하려고 합니다. $ \\square $ 안에 $1$이 아닌 자연수를 알맞게 써넣으시오. $ 12=2 \\times 2 \\times \\square, 18=2 \\times \\square \\times \\square   \\rightarrow  12$와 $18$의 최소공배수 : $ 2 \\times 3 \\times \\square \\times \\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

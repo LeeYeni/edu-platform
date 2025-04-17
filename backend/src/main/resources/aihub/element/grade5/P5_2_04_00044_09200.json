@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_04_00044_09200.png",
+  "id": "00044_09200",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 곱이 ㉮보다 큰 것은 어느 것입니까? ①㉮ $ \\times 0.9 $ ②㉮ $ \\times 1 $ ③㉮ $ \\times 0.85 $ ④㉮$ \\times 0.02 $ ⑤㉮ $ \\times 2.37 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            86,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            70,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            94,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            95,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            92,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            130
+          ],
+          "text": "다음 중 곱이 ㉮보다 큰 것은 어느 것입니까? ①㉮ $ \\times 0.9 $ ②㉮ $ \\times 1 $ ③㉮ $ \\times 0.85 $ ④㉮$ \\times 0.02 $ ⑤㉮ $ \\times 2.37 $"
+        }
+      ]
+    }
+  ]
+}

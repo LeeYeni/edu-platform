@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_23653.png",
+  "id": "00044_23653",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄱ이 35도이고 각 ㄴ은 직각인 직각삼각형 ㄱㄴㄷ과 밑변 ㄴㄷ을 연장하여 선분 ㄴㅁ을 만들고 변 ㄱㄴ 위에 점 ㄹ을 두어 두 점 ㅁ과 ㄹ을 연결하여 만들어진 직각삼각형 ㄹㄴㅁ이 서로 합동일 때, 각 ㄹㅂㄷ이 각의 표시가 된 도형",
+      "question_text": "삼각형 ㄱㄴㄷ과 삼각형 ㅁㄴㄹ은 합동입니다. 각 ㄹㅂㄷ의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            471,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            149,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            473,
+            22
+          ],
+          "text": "삼각형 ㄱㄴㄷ과 삼각형 ㅁㄴㄹ은 합동입니다. 각 ㄹㅂㄷ의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_05_00050_21436.png",
+  "id": "00050_21436",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105002",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림그래프로 나타내기에 적당하지 않은 것을 두 개 고르시오.  ① 동별 초등학생 수  ② 강낭콩의 키의 변화  ③ 마을별 쌀 생산량  ④ 지역별 아파트의 수  ⑤ 민교의 $1$년 간 몸무게 변화",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            141,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            155,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            142,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            154,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            193,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            370,
+            130
+          ],
+          "text": "그림그래프로 나타내기에 적당하지 않은 것을 두 개 고르시오.  ① 동별 초등학생 수  ② 강낭콩의 키의 변화  ③ 마을별 쌀 생산량  ④ 지역별 아파트의 수  ⑤ 민교의 $1$년 간 몸무게 변화"
+        }
+      ]
+    }
+  ]
+}

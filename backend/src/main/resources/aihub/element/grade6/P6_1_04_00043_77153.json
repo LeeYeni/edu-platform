@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_77153.png",
+  "id": "00043_77153",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명호는 은행에 $160000$원을 예금하여 $1$년 후에 $164800$원을 찾았습니다. 이 은행에 $250000$원을 예금하면 $1$년 후에 찾을 수 있는 돈은 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            285,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            618,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            620,
+            41
+          ],
+          "text": "명호는 은행에 $160000$원을 예금하여 $1$년 후에 $164800$원을 찾았습니다. 이 은행에 $250000$원을 예금하면 $1$년 후에 찾을 수 있는 돈은 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

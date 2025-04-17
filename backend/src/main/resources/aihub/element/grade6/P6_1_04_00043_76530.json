@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_76530.png",
+  "id": "00043_76530",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104004",
+      "question_topic_name": "비 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭지각을 이루는 오른쪽 변의 길이가 6 cm이고, 꼭지각의 꼭짓점에서 밑변에 수선인 중선을 그리고, 수선과 두 변 사이에 각각의 밑변을 이등분하는 중선을 그려 밑변이 2 cm인 변 4개로 나뉘고, 밑변 위 왼쪽에서 첫 번째 있는 점에서 삼각형 왼쪽 변을 3 cm인 변 두 개로 나누는 중선을 그리고 꼭지각에서부터 3 cm인 변과 꼭지각에서 그린 첫 번째 선분과 왼쪽 변에 그린 중선이 만든 삼각형에 색칠된 도형",
+      "question_text": "그림을 보고 색칠한 부분의 넓이와 전체 삼각형의 넓이의 비는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            443,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            25,
+            169,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            445,
+            22
+          ],
+          "text": "그림을 보고 색칠한 부분의 넓이와 전체 삼각형의 넓이의 비는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

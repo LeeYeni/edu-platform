@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_1_06_00044_38679.png",
+  "id": "00044_38679",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106002",
+      "question_topic_name": "직사각형의 둘레 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $ 4 \\mathrm{~cm} $ 이고 세로가 $ 2 \\mathrm{~cm} $ 인 직사각형의 둘레를 구하려고 합니다. 물음에 답하시오.  (1) 가로가 $ 4 \\mathrm{~cm} $ 이고 세로가 $ 2 \\mathrm{~cm} $ 인 직사각형을 모눈종이 위에 그려 보시오. (2) 직사각형의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            507,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            440,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            226,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            246,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            509,
+            21
+          ],
+          "text": "가로가 $ 4 \\mathrm{~cm} $ 이고 세로가 $ 2 \\mathrm{~cm} $ 인 직사각형의 둘레를 구하려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            142,
+            443,
+            185
+          ],
+          "text": "(1) 가로가 $ 4 \\mathrm{~cm} $ 이고 세로가 $ 2 \\mathrm{~cm} $ 인 직사각형을 모눈종이 위에 그려 보시오. (2) 직사각형의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

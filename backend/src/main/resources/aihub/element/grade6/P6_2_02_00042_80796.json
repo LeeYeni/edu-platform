@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00042_80796.png",
+  "id": "00042_80796",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202010",
+      "question_topic_name": "자릿수가 다른 (소수)÷(소수)의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "휘발유 $1.72L$로 $14.276km$를 달릴 수 있는 자동차가 있습니다. 휘발유 $1L$가 $1840$원이라면 자동차가 $522.9km$를 가는 데 필요한 휘발유의 값은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            120,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            40
+          ],
+          "text": "휘발유 $1.72L$로 $14.276km$를 달릴 수 있는 자동차가 있습니다. 휘발유 $1L$가 $1840$원이라면 자동차가 $522.9km$를 가는 데 필요한 휘발유의 값은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

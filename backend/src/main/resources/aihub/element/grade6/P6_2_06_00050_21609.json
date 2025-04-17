@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00050_21609.png",
+  "id": "00050_21609",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206014",
+      "question_topic_name": "구의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로 회전축을 중심으로 왼쪽에 지름이 14 cm인 반원이 있는 평면도형",
+      "question_text": "평면도형을 다음과 같이 한 바퀴 돌려서 구를 만들었습니다. 만든 구의 반지름은 몇 $cm$인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            590,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            366,
+            28,
+            459,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            592,
+            22
+          ],
+          "text": "평면도형을 다음과 같이 한 바퀴 돌려서 구를 만들었습니다. 만든 구의 반지름은 몇 $cm$인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

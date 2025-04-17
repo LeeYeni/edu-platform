@@ -1,0 +1,89 @@
+{
+  "question_filename": "P5_2_06_00050_21177.png",
+  "id": "00050_21177",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "5206016",
+      "question_topic_name": "일이 일어날 가능성을 말과 수로 표현하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "냉동실 안에 수박 맛 아이스크림 $3$개와 멜론 맛 아이스크림 $3$개가 있습니다. 냉동실에서 아이스크림 한 개를 꺼낼 때 꺼낸 아이스크림이 멜론 맛일 가능성을 수로 나타내시오. (1) $\\square$ 안에 알맞은 말을 써넣으시오. 멜론 맛 아이스크림은 전체 아이스크림의 $\\square$만큼 있습니다. (2) 꺼낸 아이스크림이 멜론 맛일 가능성을 수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            216,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            222,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            375,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            359,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            129
+          ],
+          "text": "냉동실 안에 수박 맛 아이스크림 $3$개와 멜론 맛 아이스크림 $3$개가 있습니다. 냉동실에서 아이스크림 한 개를 꺼낼 때 꺼낸 아이스크림이 멜론 맛일 가능성을 수로 나타내시오. (1) $\\square$ 안에 알맞은 말을 써넣으시오. 멜론 맛 아이스크림은 전체 아이스크림의 $\\square$만큼 있습니다. (2) 꺼낸 아이스크림이 멜론 맛일 가능성을 수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

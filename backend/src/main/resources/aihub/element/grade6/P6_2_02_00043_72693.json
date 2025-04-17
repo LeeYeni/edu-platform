@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_02_00043_72693.png",
+  "id": "00043_72693",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202024",
+      "question_topic_name": "소수의 나눗셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 6.7 cm인 직사각형 내부에 넓이가 33.5 제곱 센티미터이라고 쓰인 그림",
+      "question_text": "다음과 같이 가로가 $ 6.7 \\mathrm{~cm} $, 넓이가 $ 33.5 \\mathrm{~cm}^{2} $ 인 직사각형이 있습니다. 이 직사각형의 세로는 몇 $  \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            616,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            129,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            23
+          ],
+          "text": "다음과 같이 가로가 $ 6.7 \\mathrm{~cm} $, 넓이가 $ 33.5 \\mathrm{~cm}^{2} $ 인 직사각형이 있습니다. 이 직사각형의 세로는 몇 $  \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

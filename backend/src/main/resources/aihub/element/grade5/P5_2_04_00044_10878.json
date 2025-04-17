@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_04_00044_10878.png",
+  "id": "00044_10878",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "5204007",
+      "question_topic_name": "(1보다 큰 소수)x(자연수)를 분수의 곱셈으로 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3.5\\times0.476$의 곱은 소수 몇 자리 수입니까? ①소수 한 자리 수 ②소수 두 자리 수 ③소수 세 자리 수 ④소수 네 자리 수 ⑤소수 다섯 자리 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            261,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            133,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            133,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            133,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            133,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            145,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            263,
+            130
+          ],
+          "text": "$3.5\\times0.476$의 곱은 소수 몇 자리 수입니까? ①소수 한 자리 수 ②소수 두 자리 수 ③소수 세 자리 수 ④소수 네 자리 수 ⑤소수 다섯 자리 수"
+        }
+      ]
+    }
+  ]
+}

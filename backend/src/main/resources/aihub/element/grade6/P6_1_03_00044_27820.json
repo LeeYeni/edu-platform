@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_03_00044_27820.png",
+  "id": "00044_27820",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103001",
+      "question_topic_name": "자연수의 나눗셈을 이용한 (소수 한 자리수)÷(자연수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} 4.\\square \\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,3\\square.\\square\\phantom{)}}}\\\\ \\underline{\\square~~~~\\phantom{)}}\\\\ 5~~6 \\phantom{\\phantom{)}} \\\\ \\underline{\\square\\square\\phantom{)}}  \\\\ 0\\phantom{\\phantom{)}} \\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            25
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} 4.\\square \\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,3\\square.\\square\\phantom{)}}}\\\\ \\underline{\\square~~~~\\phantom{)}}\\\\ 5~~6 \\phantom{\\phantom{)}} \\\\ \\underline{\\square\\square\\phantom{)}}  \\\\ 0\\phantom{\\phantom{)}} \\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

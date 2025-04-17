@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_06_00043_97271.png",
+  "id": "00043_97271",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206002",
+      "question_topic_name": "원기둥의 구성 요소",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 원기둥의 밑면에 대한 설명입니다. 옳은 것은 어느 것입니까?  ①원기둥의 밑면은 $2$개의 원으로 되어 있습니다.  ②원기둥의 밑면의 지름은 원기둥의 높이와 같습니다.  ③원기둥의 밑면은 서로 합동인 $2$개의 다각형입니다.  ④원기둥의 밑면은 서로 합동인 $2$개의 타원으로 되어 있습니다.  ⑤원기둥의 밑면은 서로 평행한 $2$개의 크기가 다른 원입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            303,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            333,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            328,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            387,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            374,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            130
+          ],
+          "text": "다음은 원기둥의 밑면에 대한 설명입니다. 옳은 것은 어느 것입니까?  ①원기둥의 밑면은 $2$개의 원으로 되어 있습니다.  ②원기둥의 밑면의 지름은 원기둥의 높이와 같습니다.  ③원기둥의 밑면은 서로 합동인 $2$개의 다각형입니다.  ④원기둥의 밑면은 서로 합동인 $2$개의 타원으로 되어 있습니다.  ⑤원기둥의 밑면은 서로 평행한 $2$개의 크기가 다른 원입니다."
+        }
+      ]
+    }
+  ]
+}

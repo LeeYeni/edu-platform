@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_04_00043_74639.png",
+  "id": "00043_74639",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "5104023",
+      "question_topic_name": "약분하기 전의 분수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모와 분자의 합이 $98$이고 약분하여 기약분수로 나타내면 $ \\frac{5}{9} $가 되는 분수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            518,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            520,
+            38
+          ],
+          "text": "분모와 분자의 합이 $98$이고 약분하여 기약분수로 나타내면 $ \\frac{5}{9} $가 되는 분수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

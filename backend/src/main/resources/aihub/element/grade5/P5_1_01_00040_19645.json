@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_01_00040_19645.png",
+  "id": "00040_19645",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101002",
+      "question_topic_name": "곱셈과 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$36$명을 한 모둠이 $4$명씩인 모둠으로 만들고, 각 모둠에 삶은 계란을 $6$개씩 나누어 주었습니다. 나누어 준 계란은 모두 몇 개입니까? ①$6$개 ②$9$개 ③$12$개 ④$24$개 ⑤$54$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            757,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            70,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            73,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            72,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            759,
+            130
+          ],
+          "text": "$36$명을 한 모둠이 $4$명씩인 모둠으로 만들고, 각 모둠에 삶은 계란을 $6$개씩 나누어 주었습니다. 나누어 준 계란은 모두 몇 개입니까? ①$6$개 ②$9$개 ③$12$개 ④$24$개 ⑤$54$개"
+        }
+      ]
+    }
+  ]
+}

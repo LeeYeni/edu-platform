@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_04_00043_77217.png",
+  "id": "00043_77217",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "아무 표시 없는 삼각형 오른쪽에 오른쪽을 향하는 화살표가 있고 그 오른쪽에 왼쪽 삼각형의 밑변과 높이를 각각 120% 확대하여 밑변의 길이가 24 cm인 삼각형",
+      "question_text": "왼쪽 삼각형의 밑변과 높이를 각각 $120\\%$ 확대하여 그렸더니 오른쪽과 같이 밑변이 $24 cm$인 삼각형이 되었습니다. 물음에 답하시오. (1) 처음 삼각형의 밑변을 $\\square cm$라 하여 $\\square$를 구하는 식을 세우시오. 식_ (2) 처음 삼각형의 밑변은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            761,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            395,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            247,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.06,
+            137.17,
+            155.06,
+            158.17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            267,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.06,
+            1.78,
+            761.06,
+            15.78
+          ],
+          "text": "왼쪽 삼각형의 밑변과 높이를 각각 $120\\%$ 확대하여 그렸더니 오른쪽과 같이 밑변이 $24 cm$인 삼각형이 되었습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.06,
+            114.78,
+            396.06,
+            175.78
+          ],
+          "text": "(1) 처음 삼각형의 밑변을 $\\square cm$라 하여 $\\square$를 구하는 식을 세우시오. 식_ (2) 처음 삼각형의 밑변은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

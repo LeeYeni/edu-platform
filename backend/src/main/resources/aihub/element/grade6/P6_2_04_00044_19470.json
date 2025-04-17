@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_2_04_00044_19470.png",
+  "id": "00044_19470",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204011",
+      "question_topic_name": "외항과 내항 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 비례식에 대한 설명으로 옳은 것은 어느 것입니까? $3：8=15：40$ ①전항은 $3$과 $8$입니다. ②후항은 $15$와 $40$입니다. ③외항은 $8$과 $40$입니다. ④내항은 $8$과 $15$입니다. ⑤항은 모두 $2$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            21,
+            117,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            57,
+            160,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            174,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            170,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            165,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            164,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            678,
+            167
+          ],
+          "text": "다음 비례식에 대한 설명으로 옳은 것은 어느 것입니까? $3：8=15：40$ ①전항은 $3$과 $8$입니다. ②후항은 $15$와 $40$입니다. ③외항은 $8$과 $40$입니다. ④내항은 $8$과 $15$입니다. ⑤항은 모두 $2$개입니다."
+        }
+      ]
+    }
+  ]
+}

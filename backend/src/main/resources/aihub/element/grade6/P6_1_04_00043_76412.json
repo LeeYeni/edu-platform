@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_04_00043_76412.png",
+  "id": "00043_76412",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104001",
+      "question_topic_name": "두 수 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "흰색 바둑돌 6개가 가로로 나란히 있고 모양과 크기가 같은 검은색 바둑돌 3개가 흰색 바둑돌 옆으로 나란히 있는 그림",
+      "question_text": "흰색 바둑돌 수와 검은색 바둑돌 수를 바르게 비교한 것을 찾아 기호를 쓰시오. ㉠ $6$은 $3$보다 $3$ 큽니다. ㉡ $6$은 $3$의 $3$배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            459,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            50,
+            160,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            77,
+            177,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            22,
+            242,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            461,
+            22
+          ],
+          "text": "흰색 바둑돌 수와 검은색 바둑돌 수를 바르게 비교한 것을 찾아 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            50,
+            179,
+            105
+          ],
+          "text": "㉠ $6$은 $3$보다 $3$ 큽니다. ㉡ $6$은 $3$의 $3$배입니다."
+        }
+      ]
+    }
+  ]
+}

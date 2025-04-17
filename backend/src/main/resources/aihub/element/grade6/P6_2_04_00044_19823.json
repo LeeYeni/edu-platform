@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_04_00044_19823.png",
+  "id": "00044_19823",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204018",
+      "question_topic_name": "비례식의 활용 _ 비례식 성질, 비의 성질, 비율",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영호와 동생이 $4：3$의 비로 실을 나누어 가졌습니다. 동생이 가진 실의 길이가 $ 360 \\mathrm{~cm} $라면 영호가 가진 실의 길이는 몇 $\\mathrm{~cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            762,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            20
+          ],
+          "text": "영호와 동생이 $4：3$의 비로 실을 나누어 가졌습니다. 동생이 가진 실의 길이가 $ 360 \\mathrm{~cm} $라면 영호가 가진 실의 길이는 몇 $\\mathrm{~cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

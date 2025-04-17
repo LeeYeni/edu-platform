@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_30984.png",
+  "id": "00044_30984",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106001",
+      "question_topic_name": "직육면체의 부피를 직접 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "일정한 크기의 정육면체를 가로 4개, 세로 2개, 높이 3층으로 총 24개를 직육면체 모양으로 쌓은 입체도형 가와 가를 쌓을 때 사용하였던 정육면체를 가로 3개, 세로 2개, 높이 3층으로 총 18개를 직육면체 모양으로 쌓은 입체도형 나",
+      "question_text": "크기가 같은 쌓기나무로 만든 두 직육면체 중 어느 것의 부피가 더 큽니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            438,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            273,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            440,
+            22
+          ],
+          "text": "크기가 같은 쌓기나무로 만든 두 직육면체 중 어느 것의 부피가 더 큽니까?"
+        }
+      ]
+    }
+  ]
+}

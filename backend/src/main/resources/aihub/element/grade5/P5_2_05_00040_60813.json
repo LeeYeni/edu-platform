@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_2_05_00040_60813.png",
+  "id": "00040_60813",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "5205008",
+      "question_topic_name": "직육면체와 정육면체의 공통점과 차이점 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 정육면체와 직육면체의 같은 점이 아닌 것은 어느 것입니까? ①꼭짓점은 모두 $8$개입니다. ②한 면에 수직인 면은 $4$개입니다. ③한 면에 평행인 면은 한 개입니다. ④크기가 같은 면은 $2$개씩 $3$쌍이 있습니다. ⑤한 꼭짓점에서 $3$개의모서리가 만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            405,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            190,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            223,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            232,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            273,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            270,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            407,
+            130
+          ],
+          "text": "다음 중 정육면체와 직육면체의 같은 점이 아닌 것은 어느 것입니까? ①꼭짓점은 모두 $8$개입니다. ②한 면에 수직인 면은 $4$개입니다. ③한 면에 평행인 면은 한 개입니다. ④크기가 같은 면은 $2$개씩 $3$쌍이 있습니다. ⑤한 꼭짓점에서 $3$개의모서리가 만납니다."
+        }
+      ]
+    }
+  ]
+}

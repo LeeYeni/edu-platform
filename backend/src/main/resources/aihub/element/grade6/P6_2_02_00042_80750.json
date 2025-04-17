@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_02_00042_80750.png",
+  "id": "00042_80750",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202010",
+      "question_topic_name": "자릿수가 다른 (소수)÷(소수)의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자릿수가 다른 두 소수의 나눗셈을 나누는 수와 나뉠 수의 소수점을 오른쪽으로 옮겨 계산하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ $ \\begin{array}{r} 4 \\, \\square\\phantom{)} \\\\ 5.4{\\tiny\\wedge}{\\overline{\\smash{\\big)}25.3{\\tiny\\wedge}8\\phantom{)}}}\\\\ \\underline{  \\boxed{\\phantom{123}}~~\\phantom{)}}\\\\    3~7~8~~ \\\\ \\underline{  ~~\\boxed{\\phantom{123}}}~~ \\\\ 0~~  \\end{array} $ ⑵ $ \\begin{array}{r} \\boxed{\\phantom{12}}\\phantom{)} \\\\ 0.73{\\tiny\\wedge}{\\overline{\\smash{\\big)}4.6\\,7{\\tiny\\wedge}2\\phantom{)}}}\\\\ \\underline{  4~ 3\\, 8\\,~~~\\phantom{)}}\\\\    \\boxed{\\phantom{1234}}~ \\\\ \\underline{  ~~\\boxed{\\phantom{1234}}}~ \\\\ 0~~  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            162,
+            24,
+            280,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            132,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            184
+          ],
+          "text": "자릿수가 다른 두 소수의 나눗셈을 나누는 수와 나뉠 수의 소수점을 오른쪽으로 옮겨 계산하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ $ \\begin{array}{r} 4 \\, \\square\\phantom{)} \\\\ 5.4{\\tiny\\wedge}{\\overline{\\smash{\\big)}25.3{\\tiny\\wedge}8\\phantom{)}}}\\\\ \\underline{  \\boxed{\\phantom{123}}~~\\phantom{)}}\\\\    3~7~8~~ \\\\ \\underline{  ~~\\boxed{\\phantom{123}}}~~ \\\\ 0~~  \\end{array} $ ⑵ $ \\begin{array}{r} \\boxed{\\phantom{12}}\\phantom{)} \\\\ 0.73{\\tiny\\wedge}{\\overline{\\smash{\\big)}4.6\\,7{\\tiny\\wedge}2\\phantom{)}}}\\\\ \\underline{  4~ 3\\, 8\\,~~~\\phantom{)}}\\\\    \\boxed{\\phantom{1234}}~ \\\\ \\underline{  ~~\\boxed{\\phantom{1234}}}~ \\\\ 0~~  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

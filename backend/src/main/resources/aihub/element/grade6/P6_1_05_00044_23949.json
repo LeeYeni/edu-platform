@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00044_23949.png",
+  "id": "00044_23949",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105011",
+      "question_topic_name": "원그래프 해석하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "학교별 학생 수를 조사하여 5 단위로 눈금이 있고 12시, 3시, 6시, 9시 방향에 각각 0, 25, 50, 75가 쓰여있는 원그래프에 12시 방향부터 시계 방향으로 초등학교(40%), 중학교(25%), 고등학교(20%), 대학교(15%)를 각 칸마다 색깔을 달리하여 나타낸 그래프가 있고, 그 오른 편에 초등학생 남녀 비율을 조사하여 5 단위로 눈금이 있고 12시, 3시, 6시, 9시 방향에 각각 0, 25, 50, 75가 쓰여있는 원그래프에 12시 방향부터 시계 방향으로 남학생(55%), 여학생(45%)를 각 칸마다 색깔을 달리하여 나타낸 원그래프가 나란히 그려져 있는 그림",
+      "question_text": "어느 마을의 학교별 학생 수를 조사하여 나타낸 원그래프입니다. 전체 학생 수가 $2000$명이라면 초등학교에 다니는 여학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            34,
+            310,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            22
+          ],
+          "text": "어느 마을의 학교별 학생 수를 조사하여 나타낸 원그래프입니다. 전체 학생 수가 $2000$명이라면 초등학교에 다니는 여학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

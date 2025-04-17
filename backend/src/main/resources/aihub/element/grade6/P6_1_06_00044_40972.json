@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_06_00044_40972.png",
+  "id": "00044_40972",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106013",
+      "question_topic_name": "정육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑면의 가로가 6 cm, 세로가 10 cm, 높이가 3 cm인 직육면체",
+      "question_text": "다음 직육면체와 겉넓이가 같은 정육면체의 한 모서리는 몇 $cm$인지 물음에 답하시오.   (1) 정육면체의 겉넓이는 몇 $cm^2$입니까?   (2) 정육면체의 한 면의 넓이는 몇 $cm^2$입니까?   (3) 정육면체의 한 모서리는 몇$cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            498,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            122,
+            245,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            281,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            260,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            174,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            501,
+            21
+          ],
+          "text": "다음 직육면체와 겉넓이가 같은 정육면체의 한 모서리는 몇 $cm$인지 물음에 답하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            121,
+            283,
+            184
+          ],
+          "text": "(1) 정육면체의 겉넓이는 몇 $cm^2$입니까?   (2) 정육면체의 한 면의 넓이는 몇 $cm^2$입니까?   (3) 정육면체의 한 모서리는 몇$cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

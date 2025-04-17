@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00043_41099.png",
+  "id": "00043_41099",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101001",
+      "question_topic_name": "덧셈과 뺄셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영호네 반은 남학생이 $17명$, 여학생이 $15명$입니다. 영호네 반 학생 중 동생이 있는 학생이 $11명$이라면 동생이 없는 학생은 몇 명인지 하나의 식으로 만들어 답을 구하시오.  식\\qquad\\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            187,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "영호네 반은 남학생이 $17명$, 여학생이 $15명$입니다. 영호네 반 학생 중 동생이 있는 학생이 $11명$이라면 동생이 없는 학생은 몇 명인지 하나의 식으로 만들어 답을 구하시오.  식\\qquad\\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

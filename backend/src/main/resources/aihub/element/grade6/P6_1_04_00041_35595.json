@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_04_00041_35595.png",
+  "id": "00041_35595",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104005",
+      "question_topic_name": "전체와 부분을 활용한 비 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고, 전체에 대한 색칠한 부분의 비를 바르게 나타내지 못한 것은 어느 것입니까?  ①$ 8: 18 $ ②$18$ 에 대한 $8$ 의 비 ③$8$의 $18$에 대한 비 ④$18$ 대 $8$ ⑤$8$과 $18$의 비",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            521,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            111,
+            79,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            133,
+            141,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            155,
+            141,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            177,
+            87,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            199,
+            112,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            192,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.64,
+            0.72,
+            522.24,
+            18
+          ],
+          "text": "그림을 보고, 전체에 대한 색칠한 부분의 비를 바르게 나타내지 못한 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            110,
+            143,
+            220
+          ],
+          "text": "①$ 8: 18 $ ②$18$ 에 대한 $8$ 의 비 ③$8$의 $18$에 대한 비 ④$18$ 대 $8$ ⑤$8$과 $18$의 비"
+        }
+      ]
+    }
+  ]
+}

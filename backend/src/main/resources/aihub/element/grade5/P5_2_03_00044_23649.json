@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_23649.png",
+  "id": "00044_23649",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203003",
+      "question_topic_name": "합동인 도형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "합동인 2개의 삼각형이 1개는 뒤집어진 모양으로 있고 왼쪽은 변 ㄴㄷ의 길이가 9 cm, 변 ㄱㄷ의 길이가 11 cm인 삼각형 ㄱㄴㄷ이고, 오른쪽은 변 ㄹㅁ의 길이가 5 cm인 삼각형 ㅁㄹㅂ",
+      "question_text": "두 삼각형은 합동입니다. 삼각형 ㄹㅁㅂ의 둘레는 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            381,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            323,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            383,
+            21
+          ],
+          "text": "두 삼각형은 합동입니다. 삼각형 ㄹㅁㅂ의 둘레는 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

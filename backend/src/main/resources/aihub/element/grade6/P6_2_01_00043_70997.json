@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_01_00043_70997.png",
+  "id": "00043_70997",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201001",
+      "question_topic_name": "분모가 같은 (분수)÷(단위분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 계산한 것을 찾아 $\\bigcirc$표 하시오. $ \\frac{3}{11} \\div \\frac{1}{11}=3   \\frac{2}{7} \\div \\frac{1}{7}=\\frac{1}{2} $ ( ) ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            6,
+            304,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            1,
+            232,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            91
+          ],
+          "text": "바르게 계산한 것을 찾아 $\\bigcirc$표 하시오. $ \\frac{3}{11} \\div \\frac{1}{11}=3   \\frac{2}{7} \\div \\frac{1}{7}=\\frac{1}{2} $ ( ) ( )"
+        }
+      ]
+    }
+  ]
+}

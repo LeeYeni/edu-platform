@@ -1,0 +1,109 @@
+{
+  "question_filename": "P6_1_01_00044_10934.png",
+  "id": "00044_10934",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101015",
+      "question_topic_name": "분자가 자연수의 배수가 아닌 (대분수)÷(자연수)를 분수를 곱셈으로 나타내어 계산하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $ 5 \\frac{3}{5} \\mathrm{~km} $인 도로에 일정한 간격으로 $8$개의 길 안내판을 설치하려고 합니다. 안내판의 간격은 몇 $km$로 해야 합니까? (단, 도로의 처음과 끝 부분에는 반드시 안내판을 설치해야 합니다.) ① $ 1 \\frac{4}{5} \\mathrm{~km} $ ② $ 1 \\frac{3}{5} \\mathrm{~km} $ ③ $ \\frac{4}{5} \\mathrm{~km} $ ④ $ \\frac{3}{5} \\mathrm{~km} $ ⑤ $ \\frac{2}{5} \\mathrm{~km} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            318,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            96,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            96,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            87,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            87,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            229,
+            87,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            3,
+            797,
+            264
+          ],
+          "text": "길이가 $ 5 \\frac{3}{5} \\mathrm{~km} $인 도로에 일정한 간격으로 $8$개의 길 안내판을 설치하려고 합니다. 안내판의 간격은 몇 $km$로 해야 합니까? (단, 도로의 처음과 끝 부분에는 반드시 안내판을 설치해야 합니다.) ① $ 1 \\frac{4}{5} \\mathrm{~km} $ ② $ 1 \\frac{3}{5} \\mathrm{~km} $ ③ $ \\frac{4}{5} \\mathrm{~km} $ ④ $ \\frac{3}{5} \\mathrm{~km} $ ⑤ $ \\frac{2}{5} \\mathrm{~km} $"
+        }
+      ]
+    }
+  ]
+}

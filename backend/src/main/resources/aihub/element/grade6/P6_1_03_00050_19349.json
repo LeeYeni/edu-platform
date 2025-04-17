@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_03_00050_19349.png",
+  "id": "00050_19349",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "6103011",
+      "question_topic_name": "소수점 아래 0을 내려 계산해야 하는 (소수) ÷ (자연수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같은 방법으로 계산하시오.  $\\begin{aligned} 17.4 \\div 4 & =\\frac{174}{10} \\div 4=\\frac{\\overset{87}{\\cancel{174}}}{10} \\times \\frac{1}{\\underset{2}{\\cancel{4}}} \\\\ & =\\frac{87}{20}=\\frac{435}{100}=4.35\\end{aligned}$  $22.5 \\div 6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            229,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            41,
+            211,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            113,
+            209,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            63,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            655,
+            173
+          ],
+          "text": "<보기>와 같은 방법으로 계산하시오.  $\\begin{aligned} 17.4 \\div 4 & =\\frac{174}{10} \\div 4=\\frac{\\overset{87}{\\cancel{174}}}{10} \\times \\frac{1}{\\underset{2}{\\cancel{4}}} \\\\ & =\\frac{87}{20}=\\frac{435}{100}=4.35\\end{aligned}$  $22.5 \\div 6$"
+        }
+      ]
+    }
+  ]
+}

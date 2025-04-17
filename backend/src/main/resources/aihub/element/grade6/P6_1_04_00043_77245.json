@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_04_00043_77245.png",
+  "id": "00043_77245",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104009",
+      "question_topic_name": "비율의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "떨어진 높이의 $60$%만큼 다시 튀어오르는 공이 있습니다. 이 공이 세 번째로 튀어오른 높이가 $2.16$m라면 처음 공을 떨어뜨린 높이는 몇$ m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            544,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            314,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            546,
+            41
+          ],
+          "text": "떨어진 높이의 $60$%만큼 다시 튀어오르는 공이 있습니다. 이 공이 세 번째로 튀어오른 높이가 $2.16$m라면 처음 공을 떨어뜨린 높이는 몇$ m$입니까?"
+        }
+      ]
+    }
+  ]
+}

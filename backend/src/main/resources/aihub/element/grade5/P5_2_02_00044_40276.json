@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_02_00044_40276.png",
+  "id": "00044_40276",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "5202016",
+      "question_topic_name": "(단위분수)×(단위분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 수 있는 자연수를 모두 구하시오.  $\\frac{1}{25}$<$\\frac{1}{6} \\times \\frac{1}{\\square}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            24,
+            118,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            76
+          ],
+          "text": "$\\square$ 안에 들어갈 수 있는 자연수를 모두 구하시오.  $\\frac{1}{25}$<$\\frac{1}{6} \\times \\frac{1}{\\square}$"
+        }
+      ]
+    }
+  ]
+}

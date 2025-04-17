@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00040_50499.png",
+  "id": "00040_50499",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101004",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태민이네 과수원에서는 어제 포도를 $320$송이 땄습니다. 어제 딴 포도 중에서 $215$송이는 팔고, $12$명의 이웃에게는 $6$송이씩 나누어 주었습니다. 그리고 오늘 포도를 $298$송이 더 땄다면, 태민이네 집에는 포도가 모두 몇 송이 있는지 하나의 식으로 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            703,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "태민이네 과수원에서는 어제 포도를 $320$송이 땄습니다. 어제 딴 포도 중에서 $215$송이는 팔고, $12$명의 이웃에게는 $6$송이씩 나누어 주었습니다. 그리고 오늘 포도를 $298$송이 더 땄다면, 태민이네 집에는 포도가 모두 몇 송이 있는지 하나의 식으로 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

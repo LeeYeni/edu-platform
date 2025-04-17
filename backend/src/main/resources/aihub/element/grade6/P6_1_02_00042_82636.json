@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_1_02_00042_82636.png",
+  "id": "00042_82636",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102005",
+      "question_topic_name": "각기둥의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각기둥에서 밑면이 될 수 있는 면은 모두 몇 쌍입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            337,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            339,
+            21
+          ],
+          "text": "사각기둥에서 밑면이 될 수 있는 면은 모두 몇 쌍입니까?"
+        }
+      ]
+    }
+  ]
+}

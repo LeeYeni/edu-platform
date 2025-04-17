@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_2_06_00050_21621.png",
+  "id": "00050_21621",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "6206014",
+      "question_topic_name": "구의 구성 요소 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가운데 직선의 위쪽 끝부분에 회전축을 의미하는 오른쪽으로 회전하는 모양의 붉은색 화살표가 있으며 반원의 중심이 붉은색으로 채워진 작은 점으로 표시된 길이가 6 cm인 지름이 회전축 위에 세로 방향으로 있고 지름의 길이 표시는 회전축의 오른쪽에 표시되어 있고 왼쪽으로 반원이 있으며 반원의 왼쪽 아래에 점 ㄱ이 붉은색으로 채워진 작은 점으로 표시되고 반원을 색칠한 도형",
+      "question_text": "반원을 그림과 같이 한 바퀴 돌려서 입체도형을 만들었습니다. 이 입체도형의 중심에서 점 $ㄱ$까지의 거리는 몇 $ \\mathrm{~cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            703,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            42,
+            125,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            705,
+            24
+          ],
+          "text": "반원을 그림과 같이 한 바퀴 돌려서 입체도형을 만들었습니다. 이 입체도형의 중심에서 점 $ㄱ$까지의 거리는 몇 $ \\mathrm{~cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

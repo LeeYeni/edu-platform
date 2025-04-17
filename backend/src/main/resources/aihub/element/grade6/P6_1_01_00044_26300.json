@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_1_01_00044_26300.png",
+  "id": "00044_26300",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101009",
+      "question_topic_name": "(분수)÷(자연수)를 분수의 곱셈으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 가장 작은 것은 어느 것입니까?  ①$\\frac{11}{9} ÷4$  ②$\\frac{11}{9} ÷6$  ③$\\frac{11}{9} ÷14$  ④$\\frac{11}{9} ÷5$  ⑤$\\frac{11}{9} ÷20$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            92,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            91,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            97,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            90,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            100,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            224
+          ],
+          "text": "몫이 가장 작은 것은 어느 것입니까?  ①$\\frac{11}{9} ÷4$  ②$\\frac{11}{9} ÷6$  ③$\\frac{11}{9} ÷14$  ④$\\frac{11}{9} ÷5$  ⑤$\\frac{11}{9} ÷20$"
+        }
+      ]
+    }
+  ]
+}

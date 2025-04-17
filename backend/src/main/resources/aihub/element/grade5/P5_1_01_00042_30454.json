@@ -1,0 +1,109 @@
+{
+  "question_filename": "P5_1_01_00042_30454.png",
+  "id": "00042_30454",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101002",
+      "question_topic_name": "곱셈과 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "문제를 식으로 바르게 나타낸 것은 어느 것입니까? 색연필 $24$타를 $8$명에게 똑같이 나누어 준다면, 한 사람이 몇 자루씩 가지게 됩니까? ①$ 24+24 \\div 8 $ ②$ 24 \\div 8 $ ③$ 12 \\times 24 \\times 8 $ ④$ 12 \\times 24 \\div 8 $ ⑤$ 8 \\times 12 \\div 24 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            500,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            101,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            77,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            98,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            98,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            99,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            503,
+            167
+          ],
+          "text": "문제를 식으로 바르게 나타낸 것은 어느 것입니까? 색연필 $24$타를 $8$명에게 똑같이 나누어 준다면, 한 사람이 몇 자루씩 가지게 됩니까? ①$ 24+24 \\div 8 $ ②$ 24 \\div 8 $ ③$ 12 \\times 24 \\times 8 $ ④$ 12 \\times 24 \\div 8 $ ⑤$ 8 \\times 12 \\div 24 $"
+        }
+      ]
+    }
+  ]
+}

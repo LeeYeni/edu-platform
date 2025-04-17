@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_2_03_00044_20462.png",
+  "id": "00044_20462",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "5203004",
+      "question_topic_name": "합동인 도형의 성질의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주어진 도형과 모양이 같도록 합동인 $4$부분으로 잘라 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            363,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            143,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            365,
+            22
+          ],
+          "text": "주어진 도형과 모양이 같도록 합동인 $4$부분으로 잘라 보시오."
+        }
+      ]
+    }
+  ]
+}

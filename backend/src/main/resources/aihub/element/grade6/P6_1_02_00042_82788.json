@@ -1,0 +1,119 @@
+{
+  "question_filename": "P6_1_02_00042_82788.png",
+  "id": "00042_82788",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102016",
+      "question_topic_name": "각뿔의 밑면과 옆면 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형 ㄴㄷㄹㅁ을 밑면으로 갖고 삼각형 ㄱㄴㅁ, ㄱㄴㄷ, ㄱㄷㄹ, ㄱㄹㅁ을 네 개의 옆면으로 갖는 사각뿔",
+      "question_text": "각뿔의 구성 요소를 알아봅시다. (1) 밑면은 면 $\\square$ 입니다. (2) 옆으로 둘러싼 면은 면$\\square$ , 면 $\\square$ , 면$\\square$ , 면$\\square$ 입니다. (3) 옆면은 $\\square$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            226,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            236,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            174,
+            196,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            197,
+            148,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            183,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            24,
+            133,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.66,
+            1.5,
+            199.78,
+            18.14
+          ],
+          "text": "각뿔의 구성 요소를 알아봅시다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.66,
+            128.22,
+            236.9,
+            240.22
+          ],
+          "text": "(1) 밑면은 면 $\\square$ 입니다. (2) 옆으로 둘러싼 면은 면$\\square$ , 면 $\\square$ , 면$\\square$ , 면$\\square$ 입니다. (3) 옆면은 $\\square$개입니다."
+        }
+      ]
+    }
+  ]
+}

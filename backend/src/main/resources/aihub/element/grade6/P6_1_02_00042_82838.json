@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00042_82838.png",
+  "id": "00042_82838",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102009",
+      "question_topic_name": "각기둥의 전개도 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전개도를 접어서 만든 입체도형의 모서리의 수와 꼭짓점의 수의 차는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            485,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            27,
+            174,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            487,
+            23
+          ],
+          "text": "전개도를 접어서 만든 입체도형의 모서리의 수와 꼭짓점의 수의 차는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

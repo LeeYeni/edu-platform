@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00043_95914.png",
+  "id": "00043_95914",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106002",
+      "question_topic_name": "직사각형의 둘레 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 둘레가 가장 짧은 도형은 어느 것입니까? ① 한 변이 $18 cm$인 정사각형 ② 두 변의 길이의 합이 $35 cm$인 정사각형 ③ 가로와 세로의 합이 $33 cm$인 직사각형 ④ 가로 $19 cm$, 세로 $11 cm$인 직사각형 ⑤ 한 변이 $21 cm$인 정삼각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            189,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            262,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            258,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            237,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            188,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            130
+          ],
+          "text": "다음 중 둘레가 가장 짧은 도형은 어느 것입니까? ① 한 변이 $18 cm$인 정사각형 ② 두 변의 길이의 합이 $35 cm$인 정사각형 ③ 가로와 세로의 합이 $33 cm$인 직사각형 ④ 가로 $19 cm$, 세로 $11 cm$인 직사각형 ⑤ 한 변이 $21 cm$인 정삼각형"
+        }
+      ]
+    }
+  ]
+}

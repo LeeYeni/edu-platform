@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_01_00043_97054.png",
+  "id": "00043_97054",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "6101015",
+      "question_topic_name": "분자가 자연수의 배수가 아닌 (대분수)÷(자연수)를 분수를 곱셈으로 나타내어 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. ($1$) $ 2 \\frac{3}{5} \\div 7=\\frac{\\square}{5} \\div 7=\\frac{\\square}{5} \\times \\frac{1}{\\square}=\\frac{\\square}{\\square} $  ($2$) $ 2 \\frac{4}{7} \\div 8=\\frac{\\square}{7} \\div 8=\\frac{\\square}{7} \\times \\frac{1}{\\square}=\\frac{\\square}{\\square} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            295,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            297,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            299,
+            118
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. ($1$) $ 2 \\frac{3}{5} \\div 7=\\frac{\\square}{5} \\div 7=\\frac{\\square}{5} \\times \\frac{1}{\\square}=\\frac{\\square}{\\square} $  ($2$) $ 2 \\frac{4}{7} \\div 8=\\frac{\\square}{7} \\div 8=\\frac{\\square}{7} \\times \\frac{1}{\\square}=\\frac{\\square}{\\square} $"
+        }
+      ]
+    }
+  ]
+}

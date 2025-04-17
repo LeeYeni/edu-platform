@@ -1,0 +1,99 @@
+{
+  "question_filename": "P6_2_04_00043_94715.png",
+  "id": "00043_94715",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "6204014",
+      "question_topic_name": "비례식의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비례식 $4 : 9$=$20 : 45$에 대한 다음 설명 중 옳은 것은 어느 것입니까? ①비례식의 외항은 $20$과 $45$입니다. ②$4 : 9$의 전항은 $4$와 $9$입니다. ③두 비 $4 : 9$와 $20 : 45$의 비율은 다릅니다. ④비례식의 내항의 곱은 $9×20=180$입니다. ⑤비례식의 외항의 곱은 $9×45=405$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            231,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            205,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            279,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            275,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            275,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            410,
+            130
+          ],
+          "text": "비례식 $4 : 9$=$20 : 45$에 대한 다음 설명 중 옳은 것은 어느 것입니까? ①비례식의 외항은 $20$과 $45$입니다. ②$4 : 9$의 전항은 $4$와 $9$입니다. ③두 비 $4 : 9$와 $20 : 45$의 비율은 다릅니다. ④비례식의 내항의 곱은 $9×20=180$입니다. ⑤비례식의 외항의 곱은 $9×45=405$입니다."
+        }
+      ]
+    }
+  ]
+}

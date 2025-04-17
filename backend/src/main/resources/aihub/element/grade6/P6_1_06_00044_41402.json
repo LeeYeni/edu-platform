@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_06_00044_41402.png",
+  "id": "00044_41402",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106007",
+      "question_topic_name": "정육면체의 부피 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "맨 왼쪽부터 원 문자 ㄱ 그림은 가로, 세로, 높이 길이가 각각 6 cm인 정육면체 겨냥도, 원 문자 ㄴ 그림은 가로, 세로, 높이 길이가 각각 4 cm, 8 cm, 6 cm인 직육면체 겨냥도, 원 문자 ㄷ 그림은 부피가 220세제곱 센티미터인 직육면체 겨냥도",
+      "question_text": "직육면체의 부피가 가장 큰 것을 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            314,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            313,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            22
+          ],
+          "text": "직육면체의 부피가 가장 큰 것을 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

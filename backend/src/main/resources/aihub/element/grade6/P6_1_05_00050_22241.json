@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_05_00050_22241.png",
+  "id": "00050_22241",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "6105012",
+      "question_topic_name": "원그래프와 띠그래프 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지민이네 반 학생들이 기르고 있는 애완동물을 조사하여 나타낸 띠그래프입니다. 띠그래프를 보고 원그래프를 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            321,
+            325
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            713,
+            25
+          ],
+          "text": "지민이네 반 학생들이 기르고 있는 애완동물을 조사하여 나타낸 띠그래프입니다. 띠그래프를 보고 원그래프를 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

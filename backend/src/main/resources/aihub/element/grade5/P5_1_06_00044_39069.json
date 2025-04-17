@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_06_00044_39069.png",
+  "id": "00044_39069",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106015",
+      "question_topic_name": "평행사변형의 넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑변이 $32m$이고 높이가 $14m$인 평행사변형의 넓이는 몇 $m^2$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            402,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            404,
+            21
+          ],
+          "text": "밑변이 $32m$이고 높이가 $14m$인 평행사변형의 넓이는 몇 $m^2$입니까?"
+        }
+      ]
+    }
+  ]
+}

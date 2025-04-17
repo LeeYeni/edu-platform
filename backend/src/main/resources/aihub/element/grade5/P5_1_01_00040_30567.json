@@ -1,0 +1,69 @@
+{
+  "question_filename": "P5_1_01_00040_30567.png",
+  "id": "00040_30567",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101006",
+      "question_topic_name": "덧셈, 뺄셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 개의 식을 한 개의 식으로 나타내시오. (1) $7 \\times 2=14,15-3+14=26$ $\\rightarrow$ (2) $46-4=42,42 \\div 7+10=16$ $\\rightarrow$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            279,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            160,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            177,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            281,
+            84
+          ],
+          "text": "다음 두 개의 식을 한 개의 식으로 나타내시오. (1) $7 \\times 2=14,15-3+14=26$ $\\rightarrow$ (2) $46-4=42,42 \\div 7+10=16$ $\\rightarrow$"
+        }
+      ]
+    }
+  ]
+}

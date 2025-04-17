@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_2_02_00043_73420.png",
+  "id": "00043_73420",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "6202017",
+      "question_topic_name": "(자연수)÷(소수)의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 더 큰 쪽에 $\\bigcirc$표 하시오.  $ 18 \\div 4.5  51 \\div 8.5 $ ( ) ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            182,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            169,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            159,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            211,
+            73
+          ],
+          "text": "몫이 더 큰 쪽에 $\\bigcirc$표 하시오.  $ 18 \\div 4.5  51 \\div 8.5 $ ( ) ( )"
+        }
+      ]
+    }
+  ]
+}

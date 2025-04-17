@@ -1,0 +1,49 @@
+{
+  "question_filename": "P5_1_01_00042_85938.png",
+  "id": "00042_85938",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101002",
+      "question_topic_name": "곱셈과 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵이 $6$개씩 $14$줄 있습니다. 이 빵을 $7$개의 상자에 똑같이 나누어 담으면 한 상자에 몇 개씩 들어가는지 하나의 식으로 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            775,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            778,
+            20
+          ],
+          "text": "빵이 $6$개씩 $14$줄 있습니다. 이 빵을 $7$개의 상자에 똑같이 나누어 담으면 한 상자에 몇 개씩 들어가는지 하나의 식으로 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

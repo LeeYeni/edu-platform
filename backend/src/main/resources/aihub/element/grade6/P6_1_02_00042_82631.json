@@ -1,0 +1,59 @@
+{
+  "question_filename": "P6_1_02_00042_82631.png",
+  "id": "00042_82631",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102007",
+      "question_topic_name": "각기둥의 구성 요소 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "육각기둥을 그림과 같이 잘라 $ 2 $개의 각기둥을 만들었습니다. 두 각기둥의 꼭짓점의 수의 합은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            621,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            151,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            623,
+            22
+          ],
+          "text": "육각기둥을 그림과 같이 잘라 $ 2 $개의 각기둥을 만들었습니다. 두 각기둥의 꼭짓점의 수의 합은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

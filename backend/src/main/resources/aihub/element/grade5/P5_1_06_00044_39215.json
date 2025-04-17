@@ -1,0 +1,99 @@
+{
+  "question_filename": "P5_1_06_00044_39215.png",
+  "id": "00044_39215",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "5106027",
+      "question_topic_name": "사다리꼴의 넓이의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 7 cm, 윗변의 길이가 5 cm, 직각이 표시된 높이가 네모 cm인 핑크색으로 칠해진 사다리꼴이 한 빗변이 수평이 되도록 오른쪽으로 회전해 가운데에 36 제곱 센티미터가 쓰여있는 그림",
+      "question_text": "사다리꼴의 높이를 구하려고 합니다. 물음에 답하시오. ⑴ 높이를 $\\square cm$라 하여 사다리꼴의 넓이를 구하는 식을 세워 보시오. ⑵ 사다리꼴의 높이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            406,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            226,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            178,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.53,
+            325.58,
+            16.53
+          ],
+          "text": "사다리꼴의 높이를 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            132.37,
+            406.86,
+            150.93
+          ],
+          "text": "⑴ 높이를 $\\square cm$라 하여 사다리꼴의 넓이를 구하는 식을 세워 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            177.81,
+            226.38,
+            196.37
+          ],
+          "text": "⑵ 사다리꼴의 높이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

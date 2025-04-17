@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00042_85185.png",
+  "id": "00042_85185",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101010",
+      "question_topic_name": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 식이 성립하도록 알맞은 곳에 ($$)를 써넣으시오.  $8\\times3+24\\div6\\times2=26$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            139,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            355,
+            56
+          ],
+          "text": "다음 식이 성립하도록 알맞은 곳에 ($$)를 써넣으시오.  $8\\times3+24\\div6\\times2=26$"
+        }
+      ]
+    }
+  ]
+}

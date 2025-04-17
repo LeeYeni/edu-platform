@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_02_00043_69529.png",
+  "id": "00043_69529",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "6102007",
+      "question_topic_name": "각기둥의 구성 요소 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "개수가 많은 것부터 차례로 기호를 쓰시오.  ㉠ 사각기둥의 모서리의 수 ㉡ 팔각기둥의 면의 수 ㉢ 십각기둥의 꼭짓점의 수 ㉣ 구각기둥의 면의 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            183,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            56,
+            160,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            76,
+            181,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            97,
+            158,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            122
+          ],
+          "text": "개수가 많은 것부터 차례로 기호를 쓰시오.  ㉠ 사각기둥의 모서리의 수 ㉡ 팔각기둥의 면의 수 ㉢ 십각기둥의 꼭짓점의 수 ㉣ 구각기둥의 면의 수"
+        }
+      ]
+    }
+  ]
+}

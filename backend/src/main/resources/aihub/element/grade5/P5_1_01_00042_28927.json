@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_01_00042_28927.png",
+  "id": "00042_28927",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "5101001",
+      "question_topic_name": "덧셈과 뺄셈이 섞여 있는 식의 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "할인 매장에서 $11800$원짜리 장난감과 $4500$원짜리 스케치북을 사고 $20000$원을 냈습니다. 거스름돈은 얼마를 받아야 하는지 하나의 식으로 만들어 구하시오. 식\\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            133,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "할인 매장에서 $11800$원짜리 장난감과 $4500$원짜리 스케치북을 사고 $20000$원을 냈습니다. 거스름돈은 얼마를 받아야 하는지 하나의 식으로 만들어 구하시오. 식\\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

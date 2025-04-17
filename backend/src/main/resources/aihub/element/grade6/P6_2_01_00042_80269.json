@@ -1,0 +1,49 @@
+{
+  "question_filename": "P6_2_01_00042_80269.png",
+  "id": "00042_80269",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "6201005",
+      "question_topic_name": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수)÷(분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유가 $ \\frac{12}{17} \\mathrm{~L} $ 있습니다. 한 컵에 $ \\frac{3}{17} \\mathrm{~L} $ 씩 따르려면 모두 몇 개의 컵이 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            490,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            492,
+            38
+          ],
+          "text": "우유가 $ \\frac{12}{17} \\mathrm{~L} $ 있습니다. 한 컵에 $ \\frac{3}{17} \\mathrm{~L} $ 씩 따르려면 모두 몇 개의 컵이 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_06_00044_41131.png",
+  "id": "00044_41131",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106014",
+      "question_topic_name": "전개도를 이용하여 직육면체의 겉넓이 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "펼쳐진 도형 중 윗면은 옆면인 4개의 직사각형 중 첫 번째에, 아랫면은 3번째 직사각형의 아래에 있고, 옆면인 직사각형의 세로가 네모 cm, 옆면의 4개의 직사각형 중 4번째 직사각형의 가로가 4 cm, 윗면 가에 색칠된 직육면체의 전개도",
+      "question_text": "다음 전개도에서 직사각형 가의 넓이가 $28$cm²일 때 전개도로 만들 수 있는 직육면체의 겉넓이는 $254$cm²입니다. 직육면체의 높이는 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            206,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "다음 전개도에서 직사각형 가의 넓이가 $28$cm²일 때 전개도로 만들 수 있는 직육면체의 겉넓이는 $254$cm²입니다. 직육면체의 높이는 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

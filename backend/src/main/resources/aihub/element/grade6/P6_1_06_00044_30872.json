@@ -1,0 +1,69 @@
+{
+  "question_filename": "P6_1_06_00044_30872.png",
+  "id": "00044_30872",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "6106013",
+      "question_topic_name": "정육면체의 겉넓이 구하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 가로의 길이가 12 cm, 세로의 길이가 8 cm, 높이가 14 cm인 직육면체이고, 오른쪽에는 가로, 세로, 높이가 12 cm인 정육면체",
+      "question_text": "다음 직육면체와 정육면체의 겉넓이의 합은 몇 $ \\mathrm{cm}^{2} \\mathrm{c} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            281,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            89,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            51,
+            307,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            283,
+            40
+          ],
+          "text": "다음 직육면체와 정육면체의 겉넓이의 합은 몇 $ \\mathrm{cm}^{2} \\mathrm{c} $입니까?"
+        }
+      ]
+    }
+  ]
+}

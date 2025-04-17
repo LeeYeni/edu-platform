@@ -1,0 +1,89 @@
+{
+  "question_filename": "P6_1_04_00043_76536.png",
+  "id": "00043_76536",
+  "question_info": [
+    {
+      "question_grade": "P6",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "6104004",
+      "question_topic_name": "비 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  ($1$) $35$ 대 $11 \\rightarrow \\square : \\square$  ($2$) $24$에 대한 $17$의 비 $\\rightarrow \\square : \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            85,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            42,
+            179,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            144,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            86,
+            179,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            1,
+            206,
+            108
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  ($1$) $35$ 대 $11 \\rightarrow \\square : \\square$  ($2$) $24$에 대한 $17$의 비 $\\rightarrow \\square : \\square$"
+        }
+      ]
+    }
+  ]
+}

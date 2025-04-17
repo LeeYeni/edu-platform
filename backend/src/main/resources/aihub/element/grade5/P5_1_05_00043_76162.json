@@ -1,0 +1,59 @@
+{
+  "question_filename": "P5_1_05_00043_76162.png",
+  "id": "00043_76162",
+  "question_info": [
+    {
+      "question_grade": "P5",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "5105002",
+      "question_topic_name": "받아올림이 없는 진분수의 덧셈을 분모의 최소공배수로 통분하여 계산하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 분수를 두 단위분수의 합으로 나타내어 보시오.  (1) $ \\frac{3}{10} $ (2) $ \\frac{4}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            313,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            172,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            315,
+            59
+          ],
+          "text": "다음 분수를 두 단위분수의 합으로 나타내어 보시오.  (1) $ \\frac{3}{10} $ (2) $ \\frac{4}{7} $"
+        }
+      ]
+    }
+  ]
+}
