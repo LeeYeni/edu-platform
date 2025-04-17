@@ -15,7 +15,7 @@ COPY . .
 
 # 🛠 5. 실행 권한 부여 및 빌드
 RUN chmod +x gradlew
-RUN ./gradlew build --no-daemon
+RUN ./gradlew build -x test --no-daemon
 
 # 🚀 6. 실행
-CMD ["java", "-jar", "backend/build/libs/*.jar"]
+CMD ["java", "-jar", "backend/build/libs/backend-0.0.1-SNAPSHOT.jar"]
