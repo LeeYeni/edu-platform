@@ -16,7 +16,7 @@ public class SchoolController {
 
     private final SchoolRepository schoolRepository;
 
-    @GetMapping("/search-school")
+    @GetMapping("/api/search-school")
     public ResponseEntity<Map<String, Object>> searchSchool(@RequestParam String name) {
         List<School> schools = schoolRepository.findByNameContainingIgnoreCase(name);
 

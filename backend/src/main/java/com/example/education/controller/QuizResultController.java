@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/quiz")
+@RequestMapping("/api/quiz")
 @RequiredArgsConstructor
 public class QuizResultController {
 
