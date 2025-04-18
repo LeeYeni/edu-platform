@@ -8,6 +8,10 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
+        // ✅ 루트 경로 포함
+        registry.addViewController("/").setViewName("forward:/index.html");
+
+        // ✅ React 라우팅 fallback 설정
         registry.addViewController("/{spring:[a-zA-Z0-9-_]+}")
                 .setViewName("forward:/index.html");
         registry.addViewController("/**/{spring:[a-zA-Z0-9-_]+}")
@@ -16,4 +20,3 @@ public class WebConfig implements WebMvcConfigurer {
                 .setViewName("forward:/index.html");
     }
 }
-
