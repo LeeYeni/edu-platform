@@ -9,12 +9,10 @@ public class WebConfig implements WebMvcConfigurer {
 
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
-        // React 라우팅용 fallback 설정
-        registry.addViewController("/{spring:[a-zA-Z0-9-_]+}")
+        registry.addViewController("/{path:^(?!static|.*\\..*$).*$}")
                 .setViewName("forward:/index.html");
-        registry.addViewController("/**/{spring:[a-zA-Z0-9-_]+}")
-                .setViewName("forward:/index.html");
-        registry.addViewController("/{spring:[a-zA-Z0-9-_]+}/**{spring:?!(\\.js|\\.css|\\.png|\\.jpg|\\.svg|\\.json)$}")
+        registry.addViewController("/**/{path:^(?!static|.*\\..*$).*$}")
                 .setViewName("forward:/index.html");
     }
 }
+
