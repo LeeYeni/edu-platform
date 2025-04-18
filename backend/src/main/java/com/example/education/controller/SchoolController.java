@@ -12,11 +12,12 @@ import java.util.Map;
 
 @RestController
 @RequiredArgsConstructor
+@RequestMapping("/api")
 public class SchoolController {
 
     private final SchoolRepository schoolRepository;
 
-    @GetMapping("/api/search-school")
+    @GetMapping("/search-school")
     public ResponseEntity<Map<String, Object>> searchSchool(@RequestParam String name) {
         List<School> schools = schoolRepository.findByNameContainingIgnoreCase(name);
 

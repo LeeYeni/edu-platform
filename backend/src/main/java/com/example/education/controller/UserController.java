@@ -16,24 +16,25 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequiredArgsConstructor
+@RequestMapping("/api")
 public class UserController {
     private final UserService userService;
     private final UserRepository userRepository;
 
-    @PostMapping("/api/signup")
+    @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest request) {
         userService.registerUser(request);
         return ResponseEntity.ok("회원가입에 성공했습니다.");
     }
 
     // ✅ ID 중복 체크용 엔드포인트
-    @GetMapping("/api/check-id")
+    @GetMapping("/check-id")
     public ResponseEntity<Map<String, Boolean>> checkId(@RequestParam String id) {
         boolean exists = userService.checkIdExists(id);
         return ResponseEntity.ok(Collections.singletonMap("exists", exists));
     }
 
-    @PostMapping("/api/login")
+    @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody LoginRequest request) {
         System.out.println(request);
         Optional<User> userOpt = userRepository.findById(request.getId());
@@ -50,7 +51,7 @@ public class UserController {
                 "userId", user.getId()));
     }
 
-    @GetMapping("/api/user/classroom/{roomCode}")
+    @GetMapping("/user/classroom/{roomCode}")
     public ResponseEntity<List<UserDto>> getClassStudents(@PathVariable String roomCode) {
         List<User> users = userRepository.findByIdStartingWith(roomCode + "-");
         System.out.println(users);
