@@ -155,7 +155,7 @@ public class GptController {
             String rawResponse = gptService.getGptResponse(PROMPT_PREFIX + prompt);
 
             // 🔥 여기서 바로 검증 및 정제
-            String validatedResponse = questionService.validateAndFixGptResponse(rawResponse, req.getNumberOfProblems());
+            String validatedResponse = questionService.validateAndFixGptResponse(rawResponse, Integer.parseInt(req.getNumberOfProblems()));
 
             String questionId = questionService.saveQuestionsFromGptResponse(req.getUserId(), req.getUserType(), req.getChapter(), req.getMiddle(), req.getSmall(), validatedResponse);
 
