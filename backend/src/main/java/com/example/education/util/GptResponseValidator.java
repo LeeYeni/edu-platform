@@ -12,28 +12,52 @@ public class GptResponseValidator {
     public static String validateAndClean(String rawResponse, int expectedCount) throws Exception {
         List<Map<String, Object>> problems = mapper.readValue(rawResponse, new TypeReference<>() {});
 
+        // problems를 (question_id, question_num) 기준으로 찾기 쉽게 Map으로 변환
+        Map<String, Map<String, Object>> problemMap = new HashMap<>();
+        for (Map<String, Object> problem : problems) {
+            String questionId = (String) problem.get("question_id");
+            Integer questionNum = (Integer) problem.get("question_num");
+
+            if (questionId != null && questionNum != null) {
+                problemMap.put(makeKey(questionId, questionNum), problem);
+            }
+        }
+
+        // 각 문제를 수정
         for (Map<String, Object> problem : problems) {
             String type = (String) problem.get("type");
             if (type == null) continue;
 
-            String explanation = (String) problem.get("explanation");
+            String questionId = (String) problem.get("question_id");
+            Integer questionNum = (Integer) problem.get("question_num");
+            if (questionId == null || questionNum == null) continue;
+
+            Map<String, Object> targetProblem = problemMap.get(makeKey(questionId, questionNum));
+            if (targetProblem == null) continue; // 매칭되는 문제가 없으면 스킵
+
+            String explanation = (String) targetProblem.get("explanation");
             if (explanation == null) continue;
 
             String extractedAnswerId = extractAnswerIdFromExplanation(explanation);
             if (extractedAnswerId == null) continue;
 
             if ("multiple".equals(type)) {
-                fixMultipleAnswer(problem, extractedAnswerId, explanation);
+                fixMultipleAnswer(targetProblem, extractedAnswerId, explanation);
             } else if ("truefalse".equals(type)) {
-                fixTrueFalseAnswer(problem, explanation);
+                fixTrueFalseAnswer(targetProblem, explanation);
             }
         }
 
+        // 문제 수 맞추기
         if (problems.size() > expectedCount) {
             problems = problems.subList(0, expectedCount);
         }
 
         return mapper.writeValueAsString(problems);
+    }
+
+    private static String makeKey(String questionId, Integer questionNum) {
+        return questionId + "-" + questionNum;
     }
 
     private static String extractAnswerIdFromExplanation(String explanation) {
@@ -54,7 +78,6 @@ public class GptResponseValidator {
         List<Map<String, String>> options = (List<Map<String, String>>) problem.get("options");
         if (options == null || options.isEmpty()) return;
 
-        // extractedId가 진짜 올바른지 검증: extractedId → options 리스트에서 id 매칭해서 text 가져오기
         String extractedText = options.stream()
                 .filter(opt -> extractedId.equals(opt.get("id")))
                 .map(opt -> opt.get("text"))
@@ -62,37 +85,26 @@ public class GptResponseValidator {
                 .orElse(null);
 
         if (extractedText == null) {
-            // extractedId가 options에 없는 경우 → a 선택
+            // extractedId가 options에 없으면 a로 fallback
             problem.put("answer", "a");
             return;
         }
 
-        // 해설에서 실제 정답 의미를 추출
         String expectedMeaning = extractMeaningFromExplanation(explanation);
-
         if (expectedMeaning == null) {
-            // 해설에서 의미를 뽑지 못하면 fallback으로 그냥 extractedId
             problem.put("answer", extractedId);
             return;
         }
 
-        // extractedText와 expectedMeaning 비교
         if (meaningMatches(extractedText, expectedMeaning)) {
-            // 의미가 일치하면 extractedId를 answer로
             problem.put("answer", extractedId);
         } else {
-            // 의미가 일치하지 않으면 options 중에서 meaning과 일치하는 text를 찾아서 answer를 재설정
             Optional<String> matchedId = options.stream()
                     .filter(opt -> meaningMatches(opt.get("text"), expectedMeaning))
                     .map(opt -> opt.get("id"))
                     .findFirst();
 
-            if (matchedId.isPresent()) {
-                problem.put("answer", matchedId.get());
-            } else {
-                // 그래도 없으면 a로 fallback
-                problem.put("answer", "a");
-            }
+            problem.put("answer", matchedId.orElse("a"));
         }
     }
 
@@ -108,7 +120,6 @@ public class GptResponseValidator {
 
     private static String extractMeaningFromExplanation(String explanation) {
         try {
-            // "348 + 129 = 477입니다." 같은 핵심 서술을 잘라낸다
             if (explanation.contains("입니다")) {
                 return explanation.substring(0, explanation.indexOf("입니다")).trim();
             }
@@ -126,7 +137,6 @@ public class GptResponseValidator {
     }
 
     private static boolean meaningMatches(String text, String expectedMeaning) {
-        // 숫자 계산 결과 비교 우선
         String normalizedText = normalize(text);
         String normalizedExpected = normalize(expectedMeaning);
         return normalizedText.equals(normalizedExpected);
