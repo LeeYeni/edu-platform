@@ -1,6 +1,7 @@
 package com.example.education.controller;
 
 import com.example.education.dto.GptResponseDto;
+import com.example.education.util.GptResponseValidator;
 import com.example.education.dto.QuizLogRequest;
 import com.example.education.service.GptService;
 import com.example.education.service.QuestionService;
@@ -118,7 +119,7 @@ public class GptController {
                     "    { \"id\": \"c\", \"text\": \"보기3\" },\n" +
                     "    { \"id\": \"d\", \"text\": \"보기4\" }\n" +
                     "  ],\n" +
-                    "  \"answer\": \"b\",\n" +
+                    "  \"answer\": \"정답 id\",\n" +
                     "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약\"\n" +
                     "}\n" +
                     "\n" +
@@ -127,7 +128,7 @@ public class GptController {
                     "  \"id\": \"q2\",\n" +
                     "  \"type\": \"truefalse\",\n" +
                     "  \"text\": \"문제 지문\",\n" +
-                    "  \"answer\": true,\n" +
+                    "  \"answer\": true 또는 false,\n" +
                     "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약\"\n" +
                     "}\n" +
                     "\n" +
@@ -155,7 +156,7 @@ public class GptController {
             String rawResponse = gptService.getGptResponse(PROMPT_PREFIX + prompt);
 
             // 🔥 여기서 바로 검증 및 정제
-            String validatedResponse = questionService.validateAndFixGptResponse(rawResponse, Integer.parseInt(req.getNumberOfProblems()));
+            String validatedResponse = GptResponseValidator.validateAndClean(rawResponse, req.getNumberOfProblems);
 
             String questionId = questionService.saveQuestionsFromGptResponse(req.getUserId(), req.getUserType(), req.getChapter(), req.getMiddle(), req.getSmall(), validatedResponse);
 
