@@ -1,3 +1,5 @@
+package com.example.education.dto;
+
 import com.example.education.entity.Question;
 
 import lombok.AllArgsConstructor;
