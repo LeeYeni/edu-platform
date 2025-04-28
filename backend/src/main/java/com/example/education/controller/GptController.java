@@ -120,7 +120,7 @@ public class GptController {
                     "    { \"id\": \"d\", \"text\": \"보기4\" }\n" +
                     "  ],\n" +
                     "  \"answer\": \"정답 id\",\n" +
-                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약\"\n" +
+                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약('따라서 정답은 무엇(a, b, c, d 중 하나)입니다.' 반드시 포함)\"\n" +
                     "}\n" +
                     "\n" +
                     "OX truefalse:\n" +
@@ -129,7 +129,7 @@ public class GptController {
                     "  \"type\": \"truefalse\",\n" +
                     "  \"text\": \"문제 지문\",\n" +
                     "  \"answer\": true 또는 false,\n" +
-                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약\"\n" +
+                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약('따라서 정답은 무엇(true, false 중 하나)입니다.' 반드시 포함)\"\n" +
                     "}\n" +
                     "\n" +
                     "주관식 subjective:\n" +
@@ -138,7 +138,7 @@ public class GptController {
                     "  \"type\": \"subjective\",\n" +
                     "  \"text\": \"문제 지문\",\n" +
                     "  \"answer\": \"정답\",\n" +
-                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약\"\n" +
+                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약('따라서 정답은 무엇입니다.' 반드시 포함)\"\n" +
                     "}\n" +
                     "\n" +
                     "※ JSON 전체를 배열로 묶어야 함: [..., ..., ...]\n" +
