@@ -1,5 +1,3 @@
-package com.example.education.dto;
-
 import com.example.education.entity.Question;
 
 import lombok.AllArgsConstructor;
@@ -19,6 +17,7 @@ public class QuestionWithAnswerDto {
     private String questionText;
     private String options;
     private String answer;
+    private String explanation; // ✅ 추가!!!
     private String unit1;
     private String unit2;
     private String unit3;
@@ -28,7 +27,8 @@ public class QuestionWithAnswerDto {
         this.questionNum = q.getQuestionNum();
         this.questionText = q.getQuestionText();
         this.options = q.getOptions();
-        this.answer = q.getAnswer(); // ✅ 여기가 핵심
+        this.answer = q.getAnswer();
+        this.explanation = q.getExplanation(); // ✅ 추가!!!
         this.unit1 = q.getUnit1();
         this.unit2 = q.getUnit2();
         this.unit3 = q.getUnit3();
