@@ -66,4 +66,59 @@ public class QuestionService {
                 .unit3(unit3)
                 .build();
     }
+
+    public String validateAndFixGptResponse(String rawResponse, int expectedNumProblems) {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            List<Map<String, Object>> problems = mapper.readValue(rawResponse, new TypeReference<List<Map<String, Object>>>() {});
+
+            // ✅ 1. 문제 개수 체크
+            if (problems.size() != expectedNumProblems) {
+                throw new RuntimeException("문제 개수가 요청한 개수와 다릅니다.");
+            }
+
+            // ✅ 2. 각 문제 검증
+            for (Map<String, Object> problem : problems) {
+                String type = (String) problem.get("type");
+                if ("multiple".equals(type)) {
+                    List<Map<String, String>> options = (List<Map<String, String>>) problem.get("options");
+                    if (options == null || options.size() < 2) {
+                        throw new RuntimeException("객관식인데 보기(options)가 부족합니다.");
+                    }
+                    String answer = (String) problem.get("answer");
+                    boolean valid = options.stream().anyMatch(opt -> opt.get("id").equals(answer));
+                    if (!valid) {
+                        throw new RuntimeException("객관식 answer가 options에 없습니다.");
+                    }
+                }
+
+                if ("truefalse".equals(type)) {
+                    Object answer = problem.get("answer");
+                    if (!(answer instanceof Boolean)) {
+                        throw new RuntimeException("truefalse 문제의 answer는 boolean이어야 합니다.");
+                    }
+                }
+
+                if ("subjective".equals(type)) {
+                    Object answer = problem.get("answer");
+                    if (!(answer instanceof String)) {
+                        throw new RuntimeException("subjective 문제의 answer는 문자열이어야 합니다.");
+                    }
+                }
+
+                // ✅ 3. explanation과 answer 일치 검증
+                String explanation = (String) problem.get("explanation");
+                if (explanation != null && explanation.contains("아닙니다")) {
+                    throw new RuntimeException("부정형 해설 문장이 감지되었습니다.");
+                }
+            }
+
+            // 모두 통과했으면 다시 JSON 문자열로 반환
+            return mapper.writeValueAsString(problems);
+
+        } catch (Exception e) {
+            throw new RuntimeException("GPT 응답 검증 실패: " + e.getMessage());
+        }
+    }
+
 }
