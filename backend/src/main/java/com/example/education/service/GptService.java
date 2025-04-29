@@ -62,7 +62,7 @@ public class GptService {
     }
 
     public Map<String, String> solveProblemAndExtractAnswer(String questionText, List<Map<String, String>> options) {
-        // (오답) 제거
+        // 보기 텍스트 정리 (예: "(오답)" 제거)
         for (Map<String, String> option : options) {
             String text = option.get("text");
             if (text != null) {
@@ -72,7 +72,7 @@ public class GptService {
 
         StringBuilder prompt = new StringBuilder();
         prompt.append("다음 보기 중 올바른 정답을 찾아 아래 JSON 형식으로만 정확히 반환해.\n");
-        prompt.append("형식: { \"id\": \"a\", \"text\": \"601\" }\n\n");
+        prompt.append("형식: { \"text\": \"601\" }\n\n");
         prompt.append("문제: ").append(questionText).append("\n\n");
         prompt.append("보기:\n");
 
@@ -91,12 +91,16 @@ public class GptService {
 
             for (Map<String, String> option : options) {
                 if (option.get("text").trim().equals(returnedText.trim())) {
-                    parsed.put("id", option.get("id"));  // 정확한 id 보정
-                    return parsed;
+                    return Map.of(
+                            "id", option.get("id"),
+                            "text", option.get("text")
+                    );
                 }
             }
 
-            return parsed;  // fallback으로 GPT가 준 id 그대로
+            System.out.println("⚠️ GPT가 준 text와 일치하는 보기 없음: " + returnedText);
+            return null;
+
         } catch (Exception e) {
             System.out.println("❌ 응답 파싱 실패: " + e.getMessage());
             return null;

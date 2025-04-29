@@ -65,7 +65,7 @@ public class GptResponseValidator {
         log.info("🔍 기존 정답: {}", originalAnswer);
 
         try {
-            Map<String, String> solvedResult = gptService.solveProblemAndExtractAnswer(questionText, options); // ✅ Map 반환
+            Map<String, String> solvedResult = gptService.solveProblemAndExtractAnswer(questionText, options);
             if (solvedResult == null) return;
 
             String solvedId = solvedResult.get("id");
@@ -73,18 +73,20 @@ public class GptResponseValidator {
 
             log.info("✅ GPT 풀이 정답: id = {}, text = {}", solvedId, solvedText);
 
-            if (solvedId != null) {
-                if (!solvedId.equalsIgnoreCase(originalAnswer)) {
-                    log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedId);
-                    problem.put("answer", solvedId);
-                }
-                updateExplanationAnswer(problem, solvedId, solvedText); // ✅ 항상 해설 갱신
+            if (solvedId != null && !solvedId.equalsIgnoreCase(originalAnswer)) {
+                log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedId);
+                problem.put("answer", solvedId);
             }
+
+            // ✅ 재사용 가능하도록 모듈화된 함수 호출
+            updateExplanationAnswer(problem, solvedId, solvedText);
 
         } catch (Exception e) {
             log.warn("[GPT 재풀이 실패] {}", e.getMessage());
         }
+
     }
+
 
 
     private static void fixTrueFalseAnswer(Map<String, Object> problem) {
@@ -96,7 +98,7 @@ public class GptResponseValidator {
         if (expectedMeaning == null) return;
 
         // 👇 새 방식: "정답은 true입니다." 또는 "정답은 false입니다." 패턴 확인
-        Pattern pattern = Pattern.compile("정답은\\s*(true|false)\\s*입니다\\.");
+        Pattern pattern = Pattern.compile("정답은\\s*([a-dA-D])(?:\\s*\\([^)]*\\))?\\s*입니다[.]?");
         Matcher matcher = pattern.matcher(explanation.toLowerCase());
 
         if (matcher.find()) {
@@ -135,7 +137,25 @@ public class GptResponseValidator {
     }
 
     private static void updateExplanationAnswer(Map<String, Object> problem, String correctId, String correctText) {
-        problem.put("explanation", "따라서 정답은 " + correctId + " (" + correctText + ")입니다.");
+        String explanation = (String) problem.get("explanation");
+
+        if (explanation != null) {
+            // "정답은 ~입니다." 패턴을 찾아서 정답 부분만 바꾸기
+            Pattern pattern = Pattern.compile("정답은\\s*([a-dA-D])(\\s*\\([^)]*\\))?\\s*입니다\\.");
+            Matcher matcher = pattern.matcher(explanation);
+
+            if (matcher.find()) {
+                // 기존 부분을 새 정답으로 교체
+                String updated = matcher.replaceFirst("정답은 " + correctId + " (" + correctText + ")입니다.");
+                problem.put("explanation", updated);
+                return;
+            }
+        }
+
+        // 기존에 정답 문장이 없으면 새로 추가
+        problem.put("explanation", (explanation != null ? explanation + " " : "") +
+                "따라서 정답은 " + correctId + " (" + correctText + ")입니다.");
     }
+
 
 }
