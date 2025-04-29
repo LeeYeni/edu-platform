@@ -8,6 +8,8 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 import java.util.Map;
 
+import static com.example.education.util.GptResponseValidator.extractAnswerIdFromExplanation;
+
 @Service
 public class GptService {
 
@@ -51,26 +53,13 @@ public class GptService {
             String text = option.get("text");
             prompt.append(id).append(". ").append(text).append("\n");
         }
-        prompt.append("\n정답을 '정답은 ~입니다.' 형식으로 답해줘. 이때, 정답은 id인 a, b, c, d 중에 하나여야 해. 다른 말은 하지 말고.");
+        prompt.append("\n정답을 '정답은 ~입니다.' 형식으로 답변해줘. ");
+        prompt.append("반드시 id(a, b, c, d) 중 하나만 답변해. 다른 말은 하지 마.");
 
-        // 실제 GPT 호출
+        // GPT 호출
         String gptResponse = getGptResponse(prompt.toString());
 
-        // "정답은 a입니다." 같은 결과에서 'a' 추출
-        return extractAnswerIdFromGptResponse(gptResponse);
-    }
-
-    private String extractAnswerIdFromGptResponse(String gptResponse) {
-        try {
-            int idx = gptResponse.indexOf("정답은 ");
-            if (idx == -1) return null;
-            String sub = gptResponse.substring(idx + 5).trim();
-            if (sub.contains("입니다")) {
-                sub = sub.substring(0, sub.indexOf("입니다")).trim();
-            }
-            return sub.toLowerCase();
-        } catch (Exception e) {
-            return null;
-        }
+        // "정답은 ~입니다." 포맷에서 정답 id 추출
+        return extractAnswerIdFromExplanation(gptResponse);
     }
 }

@@ -93,19 +93,26 @@ public class GptResponseValidator {
         problem.put("answer", answer);
     }
 
-    private static String extractAnswerIdFromExplanation(String explanation) {
+    public static String extractAnswerIdFromExplanation(String explanation) {
         try {
+            if (explanation == null) return null;
             int idx = explanation.indexOf("정답은 ");
             if (idx == -1) return null;
-            String sub = explanation.substring(idx + 5).trim();
+
+            String sub = explanation.substring(idx + 5).trim(); // "정답은 " 이후 자르기
             if (sub.contains("입니다")) {
-                sub = sub.substring(0, sub.indexOf("입니다")).trim();
+                sub = sub.substring(0, sub.indexOf("입니다")).trim(); // "입니다" 이전까지만 추출
             }
-            return sub.toLowerCase();
+
+            // 혹시나 붙어 있는 기호나 점(.) 제거
+            sub = sub.replaceAll("[^a-zA-Z]", "").toLowerCase();
+
+            return sub;
         } catch (Exception e) {
             return null;
         }
     }
+
 
     private static String extractMeaningFromExplanation(String explanation) {
         try {
