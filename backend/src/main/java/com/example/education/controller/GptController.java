@@ -147,6 +147,9 @@ public class GptController {
                     "- 출제 시 항상 문제(text) → 보기(options) → 정답(answer) → 해설(explanation) 순으로 작성\n" +
                     "- 문제 작성 도중 N개를 넘거나 모자라면 즉시 중단\n" +
                     "- 요청 내용 외 다른 설명은 절대 추가하지 말 것\n" +
+                    "보기에 비슷한 답이 있더라도 혼란을 주는 멘트를 해설에 추가하지 마세요.\n" +
+                    "\n" +
+                    "계산 결과가 확실한 경우, 정답을 명확히 제시하고 다른 보기와 비교하는 멘트를 쓰지 마세요.\n" +
                     "\n";
 
     @PostMapping("/log")
@@ -157,6 +160,7 @@ public class GptController {
 
             // 🔥 여기서 바로 검증 및 정제
             String validatedResponse = GptResponseValidator.validateAndClean(rawResponse, Integer.parseInt(req.getNumberOfProblems()));
+            System.out.println("✅ validatedResponse: " + validatedResponse);
 
             String questionId = questionService.saveQuestionsFromGptResponse(req.getUserId(), req.getUserType(), req.getChapter(), req.getMiddle(), req.getSmall(), validatedResponse);
 
