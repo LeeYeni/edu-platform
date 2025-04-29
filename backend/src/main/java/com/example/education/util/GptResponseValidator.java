@@ -110,26 +110,26 @@ public class GptResponseValidator {
         String explanation = (String) problem.get("explanation");
         if (explanation == null) return;
 
-        // ✨ '이 아니라' 정리 먼저
-        explanation = cleanContradictionInExplanation(explanation);
-        problem.put("explanation", explanation); // 정리한 결과로 저장
-
-        // 정답 문장에서 true 또는 false 추출
+        // 1. 정답 true/false 추출 (GPT 해설 기반)
         Pattern pattern = Pattern.compile("정답은\\s*(true|false)\\s*입니다[.]?", Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(explanation.toLowerCase());
 
+        boolean isAnswerTrue = false; // 기본값 false
         if (matcher.find()) {
             String result = matcher.group(1).toLowerCase();
-            problem.put("answer", Boolean.parseBoolean(result));
-        } else {
-            // fallback: 해설 내용에서 "true" 포함 여부를 기준으로 추정
-            String expectedMeaning = extractMeaningFromExplanation(explanation);
-            if (expectedMeaning != null) {
-                boolean answer = expectedMeaning.toLowerCase().contains("true");
-                problem.put("answer", answer);
-            }
+            isAnswerTrue = Boolean.parseBoolean(result);
+            problem.put("answer", isAnswerTrue);
         }
+
+        // 2. 해설 정리
+        explanation = cleanRepeatedExplanation(explanation); // 중복 문장 제거
+        explanation = cleanContradictionInExplanation(explanation, isAnswerTrue); // true/false에 따라 마무리
+
+        problem.put("explanation", explanation);
     }
+
+
+
 
 
     public static String extractAnswerIdFromExplanation(String explanation) {
@@ -176,10 +176,49 @@ public class GptResponseValidator {
                 "정답은 " + correctId + " (" + correctText + ")입니다.");
     }
 
-    private static String cleanContradictionInExplanation(String explanation) {
-        if (explanation == null) return null;
+    private static String cleanRepeatedExplanation(String explanation) {
+        // 같은 문장이 여러 번 반복되는 경우 첫 문장만 남긴다
+        String[] sentences = explanation.split("\\.\\s*");
+        LinkedHashSet<String> uniqueSentences = new LinkedHashSet<>();
 
-        // "777이 아니라"처럼 '숫자 + 이 아니라' 패턴을 찾아 삭제
-        return explanation.replaceAll("\\d+이 아니라\\s*", "");
+        for (String sentence : sentences) {
+            sentence = sentence.trim();
+            if (!sentence.isEmpty()) {
+                uniqueSentences.add(sentence);
+            }
+        }
+
+        return String.join(". ", uniqueSentences) + ".";
+    }
+
+
+    private static String cleanContradictionInExplanation(String explanation, boolean isAnswerTrue) {
+        if (explanation == null) return "";
+
+        // 1. "가 아니라 ~입니다" 같은 혼란스러운 문장을 제거
+        explanation = explanation.replaceAll("가 아니라 [^\\.]+", "");
+
+        // 2. "같은 문장 반복" 현상은 따로 cleanRepeatedExplanation()에서 처리한다고 가정
+
+        // 3. 끝 문장 통일 (true이면 "입니다.", false이면 "아닙니다.")
+        if (isAnswerTrue) {
+            if (!explanation.trim().endsWith("입니다.")) {
+                explanation = explanation.trim();
+                if (explanation.endsWith(".")) {
+                    explanation = explanation.substring(0, explanation.length() - 1);
+                }
+                explanation += "입니다.";
+            }
+        } else {
+            if (!explanation.trim().endsWith("아닙니다.")) {
+                explanation = explanation.trim();
+                if (explanation.endsWith(".")) {
+                    explanation = explanation.substring(0, explanation.length() - 1);
+                }
+                explanation += "아닙니다.";
+            }
+        }
+
+        return explanation;
     }
 }
