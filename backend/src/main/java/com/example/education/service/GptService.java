@@ -59,24 +59,28 @@ public class GptService {
         return "";
     }
 
-
     public String solveProblemAndExtractAnswer(String questionText, List<Map<String, String>> options) {
-        StringBuilder prompt = new StringBuilder();
-        prompt.append("다음 초등학교 수학 문제를 풀고, 정답이 되는 보기의 id (a, b, c, d)만 답변해줘.\n\n");
-        prompt.append("문제: ").append(questionText).append("\n\n");
-        prompt.append("선택지:\n");
+        // 보기 text 정리 (예: (오답) 제거)
+        for (Map<String, String> option : options) {
+            String text = option.get("text");
+            if (text != null) {
+                option.put("text", text.replaceAll("\\(오답\\)", "").trim());
+            }
+        }
 
-        System.out.println("questionText:  " + questionText);
+        StringBuilder prompt = new StringBuilder();
+        prompt.append("다음 보기 중 올바른 정답을 찾아 해당 보기의 id를 정확히 선택해줘.\n\n");
+        prompt.append("문제: ").append(questionText).append("\n\n");
+        prompt.append("보기:\n");
 
         for (Map<String, String> option : options) {
             String id = option.get("id");
             String text = option.get("text");
-            System.out.println("id:  " + id);
-            System.out.println("text:  " + text);
             prompt.append(id).append(". ").append(text).append("\n");
         }
-        prompt.append("\n정답을 '정답은 ~입니다.' 형식으로 답변해줘. ");
-        prompt.append("반드시 id(a, b, c, d) 중 하나만 답변해. 다른 말은 하지 마.");
+
+        prompt.append("\n정답을 id(a, b, c, d) 중 하나로만 답해. 반드시 보기의 text와 정확히 일치하는 id를 선택해.\n");
+        prompt.append("정답 형식: 정답은 (id)입니다.");
 
         // GPT 호출
         String gptResponse = getGptResponse(prompt.toString());
@@ -86,4 +90,5 @@ public class GptService {
         // "정답은 ~입니다." 포맷에서 정답 id 추출
         return extractAnswerIdFromExplanation(gptResponse);
     }
+
 }
