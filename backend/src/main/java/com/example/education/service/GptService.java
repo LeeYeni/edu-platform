@@ -1,5 +1,7 @@
 package com.example.education.service;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.core.type.TypeReference;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
@@ -59,8 +61,8 @@ public class GptService {
         return "";
     }
 
-    public String solveProblemAndExtractAnswer(String questionText, List<Map<String, String>> options) {
-        // 보기 text 정리 (예: (오답) 제거)
+    public Map<String, String> solveProblemAndExtractAnswer(String questionText, List<Map<String, String>> options) {
+        // (오답) 제거
         for (Map<String, String> option : options) {
             String text = option.get("text");
             if (text != null) {
@@ -69,26 +71,38 @@ public class GptService {
         }
 
         StringBuilder prompt = new StringBuilder();
-        prompt.append("다음 보기 중 올바른 정답을 찾아 해당 보기의 id를 정확히 선택해줘.\n\n");
+        prompt.append("다음 보기 중 올바른 정답을 찾아 아래 JSON 형식으로만 정확히 반환해.\n");
+        prompt.append("형식: { \"id\": \"a\", \"text\": \"601\" }\n\n");
         prompt.append("문제: ").append(questionText).append("\n\n");
         prompt.append("보기:\n");
 
         for (Map<String, String> option : options) {
-            String id = option.get("id");
-            String text = option.get("text");
-            prompt.append(id).append(". ").append(text).append("\n");
+            prompt.append(option.get("id")).append(". ").append(option.get("text")).append("\n");
         }
 
-        prompt.append("\n정답을 id(a, b, c, d) 중 하나로만 답해. 반드시 보기의 text와 정확히 일치하는 id를 선택해.\n");
-        prompt.append("정답 형식: 정답은 (id)입니다.");
+        prompt.append("\n다른 설명은 절대 하지 마. 정답 JSON만 반환해.");
 
-        // GPT 호출
         String gptResponse = getGptResponse(prompt.toString());
+        System.out.println("GPT 응답 원문: " + gptResponse);
 
-        System.out.println("gpt가 풀어준 답 원문: " + gptResponse);
+        try {
+            Map<String, String> parsed = new ObjectMapper().readValue(gptResponse, new TypeReference<>() {});
+            String returnedText = parsed.get("text");
 
-        // "정답은 ~입니다." 포맷에서 정답 id 추출
-        return extractAnswerIdFromExplanation(gptResponse);
+            for (Map<String, String> option : options) {
+                if (option.get("text").trim().equals(returnedText.trim())) {
+                    parsed.put("id", option.get("id"));  // 정확한 id 보정
+                    return parsed;
+                }
+            }
+
+            return parsed;  // fallback으로 GPT가 준 id 그대로
+        } catch (Exception e) {
+            System.out.println("❌ 응답 파싱 실패: " + e.getMessage());
+            return null;
+        }
     }
+
+
 
 }

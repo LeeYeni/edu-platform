@@ -65,18 +65,27 @@ public class GptResponseValidator {
         log.info("🔍 기존 정답: {}", originalAnswer);
 
         try {
-            String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
-            log.info("✅ GPT 풀이 정답: {}", solvedAnswer);
+            Map<String, String> solvedResult = gptService.solveProblemAndExtractAnswer(questionText, options); // ✅ Map 반환
+            if (solvedResult == null) return;
 
-            if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
-                log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedAnswer);
-                problem.put("answer", solvedAnswer);
-                updateExplanationAnswer(problem, solvedAnswer);
+            String solvedId = solvedResult.get("id");
+            String solvedText = solvedResult.get("text");
+
+            log.info("✅ GPT 풀이 정답: id = {}, text = {}", solvedId, solvedText);
+
+            if (solvedId != null) {
+                if (!solvedId.equalsIgnoreCase(originalAnswer)) {
+                    log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedId);
+                    problem.put("answer", solvedId);
+                }
+                updateExplanationAnswer(problem, solvedId, solvedText); // ✅ 항상 해설 갱신
             }
+
         } catch (Exception e) {
             log.warn("[GPT 재풀이 실패] {}", e.getMessage());
         }
     }
+
 
     private static void fixTrueFalseAnswer(Map<String, Object> problem) {
         String explanation = (String) problem.get("explanation");
@@ -125,7 +134,8 @@ public class GptResponseValidator {
         }
     }
 
-    private static void updateExplanationAnswer(Map<String, Object> problem, String correctId) {
-        problem.put("explanation", "따라서 정답은 " + correctId + "입니다.");
+    private static void updateExplanationAnswer(Map<String, Object> problem, String correctId, String correctText) {
+        problem.put("explanation", "따라서 정답은 " + correctId + " (" + correctText + ")입니다.");
     }
+
 }
