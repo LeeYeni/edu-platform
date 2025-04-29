@@ -38,13 +38,10 @@ public class GptResponseValidator {
             Map<String, Object> targetProblem = problemMap.get(makeKey(questionId, questionNum));
             if (targetProblem == null) continue;
 
-            String explanation = (String) targetProblem.get("explanation");
-            if (explanation == null) continue;
-
             if ("multiple".equals(type)) {
-                fixMultipleAnswer(targetProblem, explanation);
+                fixMultipleAnswer(targetProblem);
             } else if ("truefalse".equals(type)) {
-                fixTrueFalseAnswer(targetProblem, explanation);
+                fixTrueFalseAnswer(targetProblem);
             }
         }
 
@@ -59,45 +56,35 @@ public class GptResponseValidator {
         return questionId + "-" + questionNum;
     }
 
-    private static void fixMultipleAnswer(Map<String, Object> problem, String explanation) {
+    private static void fixMultipleAnswer(Map<String, Object> problem) {
+        String questionText = (String) problem.get("text");
         List<Map<String, String>> options = (List<Map<String, String>>) problem.get("options");
-        if (options == null || options.isEmpty()) return;
+        if (questionText == null || options == null || options.isEmpty()) return;
 
-        String extractedId = extractAnswerIdFromExplanation(explanation);
-        if (extractedId == null) return;
+        String originalAnswer = (String) problem.get("answer");
 
-        String extractedText = options.stream()
-                .filter(opt -> extractedId.equals(opt.get("id")))
-                .map(opt -> opt.get("text"))
-                .findFirst()
-                .orElse(null);
+        try {
+            // GPT에게 문제 + 보기 전체를 보내서 다시 풀게 한다
+            String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
 
-        String expectedMeaning = extractMeaningFromExplanation(explanation);
-        if (expectedMeaning == null || extractedText == null) {
-            problem.put("answer", "a");
-            enforceSingleCorrectOption(options, "a");
-            return;
+            if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
+                // 정답이 다르면, 문제 객체를 수정한다
+                problem.put("answer", solvedAnswer);
+                enforceSingleCorrectOption(options, solvedAnswer);
+                updateExplanationAnswer(problem, solvedAnswer);
+            }
+        } catch (Exception e) {
+            // 실패해도 무시하고 기존 answer를 유지한다
+            System.err.println("[Warning] GPT 재풀이 실패: " + e.getMessage());
         }
 
-        if (meaningMatches(extractedText, expectedMeaning)) {
-            problem.put("answer", extractedId);
-            enforceSingleCorrectOption(options, extractedId);
-            return;
-        }
-
-        Optional<String> matchedId = options.stream()
-                .filter(opt -> meaningMatches(opt.get("text"), expectedMeaning))
-                .map(opt -> opt.get("id"))
-                .findFirst();
-
-        String finalId = matchedId.orElse("a");
-        problem.put("answer", finalId);
-        enforceSingleCorrectOption(options, finalId);
-        updateExplanationAnswer(problem, explanation, finalId);
     }
 
-    private static void fixTrueFalseAnswer(Map<String, Object> problem, String explanation) {
+    private static void fixTrueFalseAnswer(Map<String, Object> problem) {
+        String explanation = (String) problem.get("explanation");
+        if (explanation == null) return;
         explanation = cleanExplanation(explanation);
+
         String expectedMeaning = extractMeaningFromExplanation(explanation);
         if (expectedMeaning == null) return;
         boolean answer = expectedMeaning.toLowerCase().contains("true");
@@ -129,15 +116,8 @@ public class GptResponseValidator {
         }
     }
 
-    private static void updateExplanationAnswer(Map<String, Object> problem, String explanation, String correctId) {
-        String newExplanation;
-        if (explanation.contains("정답은 ")) {
-            int idx = explanation.indexOf("정답은 ");
-            String before = explanation.substring(0, idx);
-            newExplanation = before + "정답은 " + correctId + "입니다.";
-        } else {
-            newExplanation = explanation + " 따라서 정답은 " + correctId + "입니다.";
-        }
+    private static void updateExplanationAnswer(Map<String, Object> problem, String correctId) {
+        String newExplanation = "따라서 정답은 " + correctId + "입니다.";
         problem.put("explanation", newExplanation);
     }
 
@@ -146,10 +126,6 @@ public class GptResponseValidator {
             return explanation.substring(explanation.indexOf("아니라") + 3).trim();
         }
         return explanation.trim();
-    }
-
-    private static boolean meaningMatches(String text, String expectedMeaning) {
-        return normalize(text).equals(normalize(expectedMeaning));
     }
 
     private static void enforceSingleCorrectOption(List<Map<String, String>> options, String correctId) {
@@ -162,9 +138,5 @@ public class GptResponseValidator {
                 }
             }
         }
-    }
-
-    private static String normalize(String input) {
-        return input.replaceAll("[^0-9가-힣a-zA-Z]", "").toLowerCase();
     }
 }
