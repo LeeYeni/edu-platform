@@ -21,40 +21,32 @@ public class GptResponseValidator {
     public static String validateAndClean(String rawResponse, int expectedCount) throws Exception {
         List<Map<String, Object>> problems = mapper.readValue(rawResponse, new TypeReference<>() {});
 
-        Map<String, Map<String, Object>> problemMap = new HashMap<>();
-        for (Map<String, Object> problem : problems) {
-            String questionId = (String) problem.get("question_id");
-            Integer questionNum = (Integer) problem.get("question_num");
-            if (questionId != null && questionNum != null) {
-                problemMap.put(makeKey(questionId, questionNum), problem);
-            }
-        }
-
-        for (Map<String, Object> problem : problems) {
-            String type = (String) problem.get("type");
-            log.info("💡 문제 유형: {}", type);
-            if (type == null) continue;
-
-            String questionId = (String) problem.get("question_id");
-            Integer questionNum = (Integer) problem.get("question_num");
-            if (questionId == null || questionNum == null) continue;
-
-            Map<String, Object> targetProblem = problemMap.get(makeKey(questionId, questionNum));
-            if (targetProblem == null) continue;
-
-            if ("multiple".equals(type)) {
-                fixMultipleAnswer(targetProblem);
-            } else if ("truefalse".equals(type)) {
-                fixTrueFalseAnswer(targetProblem);
-            }
-        }
-
+        // ✅ 문제 수 초과 시 잘라내기
         if (problems.size() > expectedCount) {
             problems = problems.subList(0, expectedCount);
         }
 
+        // ✅ 각 문제에 임시 question_id, question_num 부여
+        for (int i = 0; i < problems.size(); i++) {
+            problems.get(i).put("question_id", "v-temp");
+            problems.get(i).put("question_num", i + 1);
+        }
+
+        // ✅ 문제별 정답 검증 및 수정
+        for (Map<String, Object> problem : problems) {
+            String type = (String) problem.get("type");
+            if (type == null) continue;
+
+            switch (type) {
+                case "multiple" -> fixMultipleAnswer(problem);
+                case "truefalse" -> fixTrueFalseAnswer(problem);
+                // subjective는 별도 처리 불필요
+            }
+        }
+
         return mapper.writeValueAsString(problems);
     }
+
 
     private static String makeKey(String questionId, Integer questionNum) {
         return questionId + "-" + questionNum;
