@@ -120,7 +120,7 @@ public class GptController {
                     "    { \"id\": \"d\", \"text\": \"보기4\" }\n" +
                     "  ],\n" +
                     "  \"answer\": \"정답 id\",\n" +
-                    "  \"explanation\": \"문제 풀이 → 정답 도출 → 정답 근거 요약('따라서 정답은 무엇(a, b, c, d 중 하나)입니다.' 반드시 포함)\"\n" +
+                    "  \"explanation\": \"정답 근거 요약('따라서 정답은 무엇(a, b, c, d 중 하나)입니다.' 반드시 포함)\"\n" +
                     "}\n" +
                     "\n" +
                     "OX truefalse:\n" +
@@ -157,6 +157,7 @@ public class GptController {
         try {
             String prompt = "[대단원] " + req.getChapter() + ", [중단원] " + req.getMiddle() + ", [소단원] " + req.getSmall() + "[문제 개수] " + req.getNumberOfProblems() + "개";
             String rawResponse = gptService.getGptResponse(PROMPT_PREFIX + prompt);
+            System.out.println("✅ GPT 응답 원문: " + rawResponse);
 
             // 🔥 여기서 바로 검증 및 정제
             String validatedResponse = GptResponseValidator.validateAndClean(rawResponse, Integer.parseInt(req.getNumberOfProblems()));

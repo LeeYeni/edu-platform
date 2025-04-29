@@ -68,6 +68,8 @@ public class GptResponseValidator {
             String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
             System.out.println("[검증] 문제: " + questionText);
             System.out.println("[검증] 기존 정답: " + originalAnswer + ", GPT 풀이 정답: " + solvedAnswer);
+            System.out.println("✅ 비교 결과: " + !solvedAnswer.equalsIgnoreCase(originalAnswer));
+
 
             if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
                 // 정답이 다르면, 문제 객체를 수정한다
