@@ -3,6 +3,8 @@ package com.example.education.util;
 import com.example.education.service.GptService;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.*;
 
@@ -10,6 +12,7 @@ public class GptResponseValidator {
 
     private static final ObjectMapper mapper = new ObjectMapper();
     private static GptService gptService;
+    private static final Logger log = LoggerFactory.getLogger(GptResponseValidator.class);
 
     public static void setGptService(GptService service) {
         gptService = service;
@@ -29,6 +32,7 @@ public class GptResponseValidator {
 
         for (Map<String, Object> problem : problems) {
             String type = (String) problem.get("type");
+            log.info("💡 문제 유형: {}", type);
             if (type == null) continue;
 
             String questionId = (String) problem.get("question_id");
@@ -63,31 +67,27 @@ public class GptResponseValidator {
 
         String originalAnswer = (String) problem.get("answer");
 
-        try {
-            // GPT에게 문제 + 보기 전체를 보내서 다시 풀게 한다
-            String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
-            System.out.println("[검증] 문제: " + questionText);
-            System.out.println("[검증] 기존 정답: " + originalAnswer + ", GPT 풀이 정답: " + solvedAnswer);
-            System.out.println("✅ 비교 결과: " + !solvedAnswer.equalsIgnoreCase(originalAnswer));
+        log.info("🔍 fixMultipleAnswer 진입: 문제 = {}", questionText);
+        log.info("🔍 기존 정답: {}", originalAnswer);
 
+        try {
+            String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
+            log.info("✅ GPT 풀이 정답: {}", solvedAnswer);
 
             if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
-                // 정답이 다르면, 문제 객체를 수정한다
+                log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedAnswer);
                 problem.put("answer", solvedAnswer);
                 enforceSingleCorrectOption(options, solvedAnswer);
                 updateExplanationAnswer(problem, solvedAnswer);
             }
         } catch (Exception e) {
-            // 실패해도 무시하고 기존 answer를 유지한다
-            System.err.println("[Warning] GPT 재풀이 실패: " + e.getMessage());
+            log.warn("[GPT 재풀이 실패] {}", e.getMessage());
         }
-
     }
 
     private static void fixTrueFalseAnswer(Map<String, Object> problem) {
         String explanation = (String) problem.get("explanation");
         if (explanation == null) return;
-        explanation = cleanExplanation(explanation);
 
         String expectedMeaning = extractMeaningFromExplanation(explanation);
         if (expectedMeaning == null) return;
@@ -101,20 +101,16 @@ public class GptResponseValidator {
             int idx = explanation.indexOf("정답은 ");
             if (idx == -1) return null;
 
-            String sub = explanation.substring(idx + 5).trim(); // "정답은 " 이후 자르기
+            String sub = explanation.substring(idx + 5).trim();
             if (sub.contains("입니다")) {
-                sub = sub.substring(0, sub.indexOf("입니다")).trim(); // "입니다" 이전까지만 추출
+                sub = sub.substring(0, sub.indexOf("입니다")).trim();
             }
 
-            // 혹시나 붙어 있는 기호나 점(.) 제거
-            sub = sub.replaceAll("[^a-zA-Z]", "").toLowerCase();
-
-            return sub;
+            return sub.replaceAll("[^a-zA-Z]", "").toLowerCase();
         } catch (Exception e) {
             return null;
         }
     }
-
 
     private static String extractMeaningFromExplanation(String explanation) {
         try {
@@ -128,15 +124,7 @@ public class GptResponseValidator {
     }
 
     private static void updateExplanationAnswer(Map<String, Object> problem, String correctId) {
-        String newExplanation = "따라서 정답은 " + correctId + "입니다.";
-        problem.put("explanation", newExplanation);
-    }
-
-    private static String cleanExplanation(String explanation) {
-        if (explanation.contains("아니라")) {
-            return explanation.substring(explanation.indexOf("아니라") + 3).trim();
-        }
-        return explanation.trim();
+        problem.put("explanation", "따라서 정답은 " + correctId + "입니다.");
     }
 
     private static void enforceSingleCorrectOption(List<Map<String, String>> options, String correctId) {
