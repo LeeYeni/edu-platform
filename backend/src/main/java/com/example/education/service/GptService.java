@@ -59,6 +59,8 @@ public class GptService {
         // GPT 호출
         String gptResponse = getGptResponse(prompt.toString());
 
+        System.out.println("gpt가 풀어준 답 원문: " + gptResponse);
+
         // "정답은 ~입니다." 포맷에서 정답 id 추출
         return extractAnswerIdFromExplanation(gptResponse);
     }
