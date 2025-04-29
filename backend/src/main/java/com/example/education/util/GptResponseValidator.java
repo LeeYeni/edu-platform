@@ -71,7 +71,6 @@ public class GptResponseValidator {
             if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
                 log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedAnswer);
                 problem.put("answer", solvedAnswer);
-                enforceSingleCorrectOption(options, solvedAnswer);
                 updateExplanationAnswer(problem, solvedAnswer);
             }
         } catch (Exception e) {
@@ -83,16 +82,29 @@ public class GptResponseValidator {
         String explanation = (String) problem.get("explanation");
         if (explanation == null) return;
 
+        // 먼저 기존 방식으로 해석한 의미 사용 (fallback용)
         String expectedMeaning = extractMeaningFromExplanation(explanation);
         if (expectedMeaning == null) return;
-        boolean answer = expectedMeaning.toLowerCase().contains("true");
-        problem.put("answer", answer);
+
+        // 👇 새 방식: "정답은 true입니다." 또는 "정답은 false입니다." 패턴 확인
+        Pattern pattern = Pattern.compile("정답은\\s*(true|false)\\s*입니다\\.");
+        Matcher matcher = pattern.matcher(explanation.toLowerCase());
+
+        if (matcher.find()) {
+            // 추출된 정답 문자열을 실제 boolean으로 변환하여 저장
+            String result = matcher.group(1);
+            problem.put("answer", Boolean.parseBoolean(result));
+        } else {
+            // 패턴 매칭 실패 시 fallback 로직 사용
+            boolean answer = expectedMeaning.toLowerCase().contains("true");
+            problem.put("answer", answer);
+        }
     }
+
 
     public static String extractAnswerIdFromExplanation(String explanation) {
         if (explanation == null) return "";
-
-        Pattern pattern = Pattern.compile("정답은\\s*([a-dA-D])\\s*입니다");
+        Pattern pattern = Pattern.compile("정답은\\s*\\(?([a-dA-D])\\)?\\s*입니다");
         Matcher matcher = pattern.matcher(explanation);
 
         if (matcher.find()) {
@@ -115,17 +127,5 @@ public class GptResponseValidator {
 
     private static void updateExplanationAnswer(Map<String, Object> problem, String correctId) {
         problem.put("explanation", "따라서 정답은 " + correctId + "입니다.");
-    }
-
-    private static void enforceSingleCorrectOption(List<Map<String, String>> options, String correctId) {
-        for (Map<String, String> option : options) {
-            String id = option.get("id");
-            if (!correctId.equals(id)) {
-                String text = option.get("text");
-                if (text != null && !text.contains("(오답)")) {
-                    option.put("text", text + "(오답)");
-                }
-            }
-        }
     }
 }
