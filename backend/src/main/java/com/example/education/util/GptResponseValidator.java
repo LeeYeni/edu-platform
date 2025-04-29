@@ -68,47 +68,66 @@ public class GptResponseValidator {
             Map<String, String> solvedResult = gptService.solveProblemAndExtractAnswer(questionText, options);
             if (solvedResult == null) return;
 
-            String solvedId = solvedResult.get("id");
-            String solvedText = solvedResult.get("text");
+            String solvedText = solvedResult.get("text").trim();
 
-            log.info("✅ GPT 풀이 정답: id = {}, text = {}", solvedId, solvedText);
-
-            if (solvedId != null && !solvedId.equalsIgnoreCase(originalAnswer)) {
-                log.info("⚠️ 정답 수정: {} → {}", originalAnswer, solvedId);
-                problem.put("answer", solvedId);
+            // GPT가 준 text와 일치하는 id 찾기
+            String matchedId = null;
+            for (Map<String, String> option : options) {
+                if (option.get("text").trim().equals(solvedText)) {
+                    matchedId = option.get("id");
+                    break;
+                }
             }
 
-            // ✅ 재사용 가능하도록 모듈화된 함수 호출
-            updateExplanationAnswer(problem, solvedId, solvedText);
+            // 일치하는 text가 없다면 랜덤으로 하나 골라 해당 보기의 text를 수정
+            if (matchedId == null) {
+                List<String> ids = options.stream().map(opt -> opt.get("id")).toList();
+                String randomId = ids.get(new Random().nextInt(ids.size()));
+                for (Map<String, String> option : options) {
+                    if (option.get("id").equals(randomId)) {
+                        option.put("text", solvedText);  // 보기 교체
+                        matchedId = randomId;
+                        log.info("⚠️ 보기 없음 → {}번 보기를 '{}'로 수정", matchedId, solvedText);
+                        break;
+                    }
+                }
+            }
+
+            // 정답 업데이트
+            if (matchedId != null && !matchedId.equalsIgnoreCase(originalAnswer)) {
+                log.info("⚠️ 정답 수정: {} → {}", originalAnswer, matchedId);
+                problem.put("answer", matchedId);
+            }
+
+            updateExplanationAnswer(problem, matchedId, solvedText);
 
         } catch (Exception e) {
             log.warn("[GPT 재풀이 실패] {}", e.getMessage());
         }
-
     }
-
-
 
     private static void fixTrueFalseAnswer(Map<String, Object> problem) {
         String explanation = (String) problem.get("explanation");
         if (explanation == null) return;
 
-        // 먼저 기존 방식으로 해석한 의미 사용 (fallback용)
-        String expectedMeaning = extractMeaningFromExplanation(explanation);
-        if (expectedMeaning == null) return;
+        // ✨ '이 아니라' 정리 먼저
+        explanation = cleanContradictionInExplanation(explanation);
+        problem.put("explanation", explanation); // 정리한 결과로 저장
 
-        // 👇 새 방식: "정답은 true입니다." 또는 "정답은 false입니다." 패턴 확인
-        Pattern pattern = Pattern.compile("정답은\\s*([a-dA-D])(?:\\s*\\([^)]*\\))?\\s*입니다[.]?");
+        // 정답 문장에서 true 또는 false 추출
+        Pattern pattern = Pattern.compile("정답은\\s*(true|false)\\s*입니다[.]?", Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(explanation.toLowerCase());
 
         if (matcher.find()) {
-            // 추출된 정답 문자열을 실제 boolean으로 변환하여 저장
-            String result = matcher.group(1);
+            String result = matcher.group(1).toLowerCase();
             problem.put("answer", Boolean.parseBoolean(result));
         } else {
-            // 패턴 매칭 실패 시 fallback 로직 사용
-            boolean answer = expectedMeaning.toLowerCase().contains("true");
-            problem.put("answer", answer);
+            // fallback: 해설 내용에서 "true" 포함 여부를 기준으로 추정
+            String expectedMeaning = extractMeaningFromExplanation(explanation);
+            if (expectedMeaning != null) {
+                boolean answer = expectedMeaning.toLowerCase().contains("true");
+                problem.put("answer", answer);
+            }
         }
     }
 
@@ -145,17 +164,22 @@ public class GptResponseValidator {
             Matcher matcher = pattern.matcher(explanation);
 
             if (matcher.find()) {
-                // 기존 부분을 새 정답으로 교체
+                // 기존 정답 문장을 새 정답 문장으로 교체
                 String updated = matcher.replaceFirst("정답은 " + correctId + " (" + correctText + ")입니다.");
                 problem.put("explanation", updated);
                 return;
             }
         }
 
-        // 기존에 정답 문장이 없으면 새로 추가
-        problem.put("explanation", (explanation != null ? explanation + " " : "") +
-                "따라서 정답은 " + correctId + " (" + correctText + ")입니다.");
+        // 기존 정답 문장이 없을 경우, 메시지 없이 깔끔하게 추가
+        problem.put("explanation", (explanation != null ? explanation.trim() + " " : "") +
+                "정답은 " + correctId + " (" + correctText + ")입니다.");
     }
 
+    private static String cleanContradictionInExplanation(String explanation) {
+        if (explanation == null) return null;
 
+        // "777이 아니라"처럼 '숫자 + 이 아니라' 패턴을 찾아 삭제
+        return explanation.replaceAll("\\d+이 아니라\\s*", "");
+    }
 }

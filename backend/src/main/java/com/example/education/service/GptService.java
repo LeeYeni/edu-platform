@@ -62,7 +62,6 @@ public class GptService {
     }
 
     public Map<String, String> solveProblemAndExtractAnswer(String questionText, List<Map<String, String>> options) {
-        // 보기 텍스트 정리 (예: "(오답)" 제거)
         for (Map<String, String> option : options) {
             String text = option.get("text");
             if (text != null) {
@@ -71,16 +70,14 @@ public class GptService {
         }
 
         StringBuilder prompt = new StringBuilder();
-        prompt.append("다음 보기 중 올바른 정답을 찾아 아래 JSON 형식으로만 정확히 반환해.\n");
-        prompt.append("형식: { \"text\": \"601\" }\n\n");
+        prompt.append("다음 수학 문제의 정답을 계산하고, 보기 중 정답과 정확히 일치하는 보기의 텍스트(text)만 아래 JSON 형식으로 반환해.\n");
+        prompt.append("형식: { \"text\": \"정답 텍스트\" }\n\n");
         prompt.append("문제: ").append(questionText).append("\n\n");
         prompt.append("보기:\n");
-
         for (Map<String, String> option : options) {
-            prompt.append(option.get("id")).append(". ").append(option.get("text")).append("\n");
+            prompt.append("- ").append(option.get("text")).append("\n");
         }
-
-        prompt.append("\n다른 설명은 절대 하지 마. 정답 JSON만 반환해.");
+        prompt.append("\n※ 보기 번호(id)는 주어지지 않으니 절대 사용하지 마. 보기 중 하나의 텍스트만 JSON으로 반환해.");
 
         String gptResponse = getGptResponse(prompt.toString());
         System.out.println("GPT 응답 원문: " + gptResponse);
@@ -91,10 +88,7 @@ public class GptService {
 
             for (Map<String, String> option : options) {
                 if (option.get("text").trim().equals(returnedText.trim())) {
-                    return Map.of(
-                            "id", option.get("id"),
-                            "text", option.get("text")
-                    );
+                    return Map.of("id", option.get("id"), "text", option.get("text"));
                 }
             }
 
@@ -106,6 +100,7 @@ public class GptService {
             return null;
         }
     }
+
 
 
 
