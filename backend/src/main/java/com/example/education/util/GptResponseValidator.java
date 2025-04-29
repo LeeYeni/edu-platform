@@ -66,6 +66,8 @@ public class GptResponseValidator {
         try {
             // GPT에게 문제 + 보기 전체를 보내서 다시 풀게 한다
             String solvedAnswer = gptService.solveProblemAndExtractAnswer(questionText, options);
+            System.out.println("[검증] 문제: " + questionText);
+            System.out.println("[검증] 기존 정답: " + originalAnswer + ", GPT 풀이 정답: " + solvedAnswer);
 
             if (solvedAnswer != null && !solvedAnswer.equalsIgnoreCase(originalAnswer)) {
                 // 정답이 다르면, 문제 객체를 수정한다
