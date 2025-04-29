@@ -5,6 +5,8 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import java.util.*;
 
@@ -88,20 +90,16 @@ public class GptResponseValidator {
     }
 
     public static String extractAnswerIdFromExplanation(String explanation) {
-        try {
-            if (explanation == null) return null;
-            int idx = explanation.indexOf("정답은 ");
-            if (idx == -1) return null;
+        if (explanation == null) return "";
 
-            String sub = explanation.substring(idx + 5).trim();
-            if (sub.contains("입니다")) {
-                sub = sub.substring(0, sub.indexOf("입니다")).trim();
-            }
+        Pattern pattern = Pattern.compile("정답은\\s*([a-dA-D])\\s*입니다");
+        Matcher matcher = pattern.matcher(explanation);
 
-            return sub.replaceAll("[^a-zA-Z]", "").toLowerCase();
-        } catch (Exception e) {
-            return null;
+        if (matcher.find()) {
+            return matcher.group(1).toLowerCase();  // 항상 소문자 반환
         }
+
+        return "";
     }
 
     private static String extractMeaningFromExplanation(String explanation) {
