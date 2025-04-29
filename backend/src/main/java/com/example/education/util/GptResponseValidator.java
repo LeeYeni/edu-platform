@@ -65,6 +65,14 @@ public class GptResponseValidator {
         log.info("🔍 기존 정답: {}", originalAnswer);
 
         try {
+            // ✨ 1. 해설 자연스럽게 수정
+            String explanation = (String) problem.get("explanation");
+            if (explanation != null && explanation.contains("가 아니라")) {
+                explanation = fixContradictionInExplanation(explanation);
+                problem.put("explanation", explanation);
+            }
+
+            // ✨ 2. GPT로 재풀이 및 정답 검증
             Map<String, String> solvedResult = gptService.solveProblemAndExtractAnswer(questionText, options);
             if (solvedResult == null) return;
 
@@ -79,13 +87,13 @@ public class GptResponseValidator {
                 }
             }
 
-            // 일치하는 text가 없다면 랜덤으로 하나 골라 해당 보기의 text를 수정
+            // 일치하는 보기 없으면 랜덤 보기 수정
             if (matchedId == null) {
                 List<String> ids = options.stream().map(opt -> opt.get("id")).toList();
                 String randomId = ids.get(new Random().nextInt(ids.size()));
                 for (Map<String, String> option : options) {
                     if (option.get("id").equals(randomId)) {
-                        option.put("text", solvedText);  // 보기 교체
+                        option.put("text", solvedText);
                         matchedId = randomId;
                         log.info("⚠️ 보기 없음 → {}번 보기를 '{}'로 수정", matchedId, solvedText);
                         break;
@@ -105,6 +113,7 @@ public class GptResponseValidator {
             log.warn("[GPT 재풀이 실패] {}", e.getMessage());
         }
     }
+
 
     private static void fixTrueFalseAnswer(Map<String, Object> problem) {
         String explanation = (String) problem.get("explanation");
@@ -190,6 +199,25 @@ public class GptResponseValidator {
 
         return String.join(". ", uniqueSentences) + ".";
     }
+
+    private static String fixContradictionInExplanation(String explanation) {
+        // "아니라"가 등장하면, 그 앞 문장만 남기고 자연스럽게 수정
+        int idx = explanation.indexOf("아니라");
+        if (idx != -1) {
+            String before = explanation.substring(0, idx).trim();
+
+            // "이", "가", "것이", "은 것이" 등 다양한 조사를 제거
+            before = before.replaceAll("(이|가|것이|은 것이|는 것이)?\\s*$", "").trim();
+
+            // 자연스럽게 "입니다."로 끝나게 만들기
+            if (!before.endsWith("입니다")) {
+                before += "입니다";
+            }
+            return before;
+        }
+        return explanation;
+    }
+
 
 
     private static String cleanContradictionInExplanation(String explanation, boolean isAnswerTrue) {
