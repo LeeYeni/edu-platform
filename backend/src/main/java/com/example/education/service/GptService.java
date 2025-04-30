@@ -27,7 +27,7 @@ public class GptService {
 
         Map<String, Object> message = Map.of("role", "user", "content", prompt);
         Map<String, Object> body = Map.of(
-                "model", "ft:gpt-4.1-2025-04-14:personal:math-v1:BRFAzPw7",
+                "model", "ft:gpt-4.1-2025-04-14:personal:matn-v2:BS2B5pGy",
                 "messages", List.of(message),
                 "temperature", 0.7
         );
