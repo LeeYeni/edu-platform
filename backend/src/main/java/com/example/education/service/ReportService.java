@@ -27,40 +27,35 @@ public class ReportService {
         List<User> allStudents = userRepository.findByIdStartingWith(roomCode + "-");
         String questionIdPrefix = "t-" + roomCode + "-";
 
-        List<QuizResult> allResults = quizResultRepository.findByQuestionIdStartsWith(questionIdPrefix);
+        // 모든 생성된 문제 가져오기
+        List<Question> createdQuestions = questionRepository.findByQuestionIdStartsWith(questionIdPrefix);
+        Set<String> createdQuizIds = createdQuestions.stream()
+                .map(Question::getQuestionId)
+                .collect(Collectors.toSet());
 
+        // 제출된 결과 가져오기
+        List<QuizResult> allResults = quizResultRepository.findByQuestionIdStartsWith(questionIdPrefix);
         Map<String, List<QuizResult>> groupedByQuestionId = allResults.stream()
                 .collect(Collectors.groupingBy(QuizResult::getQuestionId));
 
         Map<String, ClassReportDto> resultMap = new LinkedHashMap<>();
 
-        for (Map.Entry<String, List<QuizResult>> entry : groupedByQuestionId.entrySet()) {
-            String questionId = entry.getKey();
-            List<QuizResult> questionResults = entry.getValue();
-
+        for (String questionId : createdQuizIds) {
+            List<QuizResult> questionResults = groupedByQuestionId.getOrDefault(questionId, new ArrayList<>());
             Set<String> submittedUserIds = questionResults.stream().map(QuizResult::getUserId).collect(Collectors.toSet());
-            int submitted = submittedUserIds.size();
 
             List<String> notSubmittedIds = allStudents.stream()
                     .filter(u -> !submittedUserIds.contains(u.getId()))
                     .map(User::getStudentId)
                     .collect(Collectors.toList());
 
-            Map<String, List<QuizResult>> groupedByQuestion = questionResults.stream()
+            Map<String, List<QuizResult>> groupedByQuestionNum = questionResults.stream()
                     .collect(Collectors.groupingBy(r -> r.getQuestionId() + "#" + r.getQuestionNum()));
-
-            List<Map.Entry<String, List<QuizResult>>> topWrong = groupedByQuestion.entrySet().stream()
-                    .sorted((a, b) -> {
-                        long wrongA = a.getValue().stream().filter(r -> !r.isCorrect()).count();
-                        long wrongB = b.getValue().stream().filter(r -> !r.isCorrect()).count();
-                        return Long.compare(wrongB, wrongA);
-                    })
-                    .collect(Collectors.toList());
 
             List<ClassReportDto.WrongQuestionSummary> topWrongQuestions = new ArrayList<>();
 
-            for (Map.Entry<String, List<QuizResult>> questionEntry : topWrong) {
-                String[] split = questionEntry.getKey().split("#");
+            for (Map.Entry<String, List<QuizResult>> entry : groupedByQuestionNum.entrySet()) {
+                String[] split = entry.getKey().split("#");
                 String qid = split[0];
                 int qnum = Integer.parseInt(split[1]);
 
@@ -82,10 +77,10 @@ public class ReportService {
                     System.out.println("⚠ 옵션 파싱 오류: " + e.getMessage());
                 }
 
-                Map<String, Long> counts = questionEntry.getValue().stream()
+                Map<String, Long> counts = entry.getValue().stream()
                         .collect(Collectors.groupingBy(QuizResult::getUserAnswer, Collectors.counting()));
 
-                long totalSubmissions = questionEntry.getValue().size();
+                long totalSubmissions = entry.getValue().size();
                 List<ClassReportDto.AnswerStat> stats = counts.entrySet().stream()
                         .map(e -> new ClassReportDto.AnswerStat(
                                 e.getKey(),
@@ -103,13 +98,13 @@ public class ReportService {
 
             resultMap.put(questionId, new ClassReportDto(
                     allStudents.size(),
-                    submitted,
+                    submittedUserIds.size(),
                     notSubmittedIds,
                     topWrongQuestions
             ));
         }
 
-        System.out.println(resultMap);
         return resultMap;
     }
+
 }
