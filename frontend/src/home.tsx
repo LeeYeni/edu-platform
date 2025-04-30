@@ -15,6 +15,8 @@ export default function Home() {
   const [selectedSmall, setSelectedSmall] = useState("")
   const [selectedNumberOfProblems, setSelectedNumberOfProblems] = useState("")
 
+  const [isLoading, setIsLoading] = useState(false);
+
   const schools = ["초등학교"]
   const grades = {
     초등학교: ["3학년"]
@@ -32,14 +34,6 @@ export default function Home() {
         "나눗셈": ["나눗셈식", "나눗셈의 몫과 나머지", "(두 자리 수)÷(한 자리 수)", "(세 자리 수)÷(한 자리 수)", "나눗셈 상황에서 어림셈"],
         "분수와 소수": ["분수", "소수"],
       },
-      "도형과 측정": {
-        "평면도형": ["선의 종류", "각", "원", "삼각형", "사각형"],
-        "길이와 시간": ["길이", "시간"],
-        "들이와 무게": ["들이", "무게"],
-      },
-      "자료와 가능성": {
-        "자료의 정리": ["그림그래프"],
-      }
     }
   } as const
 
@@ -69,11 +63,11 @@ export default function Home() {
 
   const handleGenerateQuiz = async () => {
     if (!isLoggedIn()) {
-      alert("로그인 먼저 해주세요.")
-      return
+      alert("로그인 먼저 해주세요.");
+      return;
     }
 
-    const user = JSON.parse(localStorage.getItem("user") || "{}")
+    const user = JSON.parse(localStorage.getItem("user") || "{}");
 
     if (selectedSchool && selectedGrade && selectedSubject && selectedChapter && selectedMiddle &&
       selectedSmall && selectedNumberOfProblems) {
@@ -87,36 +81,40 @@ export default function Home() {
         numberOfProblems: selectedNumberOfProblems,
         userType: user.userType,
         userId: user.userId,
-      }
+      };
 
       try {
-        const response = await fetch(`${BASE_URL}/quiz/log`, {
+        setIsLoading(true); // 🔥 문제 생성 시작할 때 로딩 true
+
+        const response = await fetch(`${BASE_URL}/api/quiz/log`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
           body: JSON.stringify(data),
-        })
+        });
 
         if (response.ok) {
-          const result = await response.json()
-          const questionId = result.questionId
-          const isStudent = user.userType === "student"
+          const result = await response.json();
+          const questionId = result.questionId;
+          const isStudent = user.userType === "student";
 
           if (isStudent) {
-            router(`/quiz/play/${questionId}`)
+            router(`/quiz/play/${questionId}`);
           } else {
-            router(`/quiz/share/${questionId}`)
+            router(`/quiz/share/${questionId}`);
           }
         } else {
-          alert("문제 생성에 실패했습니다.")
+          alert("문제 생성에 실패했습니다.");
         }
       } catch (error) {
-        alert("서버와의 통신 중 오류가 발생했습니다.")
-        console.error("❌ 오류:", error)
+        alert("서버와의 통신 중 오류가 발생했습니다.");
+        console.error("❌ 오류:", error);
+      } finally {
+        setIsLoading(false); // ✅ 성공하든 실패하든 로딩 끝나면 false
       }
     } else {
-      alert("모든 항목을 입력해주세요.")
+      alert("모든 항목을 입력해주세요.");
     }
   }
 
@@ -257,8 +255,34 @@ export default function Home() {
           </div>
 
           <div className="flex justify-center mt-6">
-            <button className="btn-primary text-lg px-8 py-3" onClick={handleGenerateQuiz} disabled={!selectedNumberOfProblems}>
-              문제 생성하기
+            <button
+              className="btn-primary text-lg px-8 py-3 flex items-center justify-center"
+              onClick={handleGenerateQuiz}
+              disabled={isLoading || !selectedNumberOfProblems}
+            >
+              {isLoading ? (
+                <>
+                  <svg className="animate-spin h-5 w-5 mr-2 text-white" viewBox="0 0 24 24">
+                    <circle
+                      className="opacity-25"
+                      cx="12"
+                      cy="12"
+                      r="10"
+                      stroke="currentColor"
+                      strokeWidth="4"
+                      fill="none"
+                    />
+                    <path
+                      className="opacity-75"
+                      fill="currentColor"
+                      d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"
+                    />
+                  </svg>
+                  문제 생성 중입니다...
+                </>
+              ) : (
+                "문제 생성하기"
+              )}
             </button>
           </div>
         </div>

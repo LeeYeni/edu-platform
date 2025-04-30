@@ -12,8 +12,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -31,6 +29,11 @@ public class QuizResultService {
     private ObjectMapper objectMapper;
 
     public void saveAll(QuizResultRequest req) {
+        List<QuizResult> existing = quizResultRepository.findByUserIdAndQuestionId(req.getUserId(), req.getQuestionId());
+        if (!existing.isEmpty()) {
+            quizResultRepository.deleteAll(existing);
+        }
+
         List<QuizResult> results = req.getResults().stream().map(entry -> QuizResult.builder()
                 .userId(req.getUserId())
                 .questionId(req.getQuestionId())

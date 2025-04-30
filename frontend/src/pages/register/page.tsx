@@ -94,7 +94,7 @@ export default function Register() {
   const fetchSchoolCode = async () => {
     if (!formData.schoolName.trim()) return
     try {
-      const res = await fetch(`${BASE_URL}/school-code?schoolName=` + encodeURIComponent(formData.schoolName))
+      const res = await fetch(`${BASE_URL}/api/school-code?schoolName=` + encodeURIComponent(formData.schoolName))
       const data = await res.json()
       setFormData(prev => ({ ...prev, schoolCode: data.schoolCode || "" }))
     } catch (err) {
@@ -110,7 +110,7 @@ export default function Register() {
     setIsSubmitting(true)
 
     try {
-      const response = await fetch(`${BASE_URL}/signup`, {
+      const response = await fetch(`${BASE_URL}/api/signup`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
@@ -130,7 +130,7 @@ export default function Register() {
 
   const handleSchoolSearch = async () => {
     try {
-      const res = await fetch(`${BASE_URL}/search-school?name=` + encodeURIComponent(schoolSearch))
+      const res = await fetch(`${BASE_URL}/api/search-school?name=` + encodeURIComponent(schoolSearch))
       const data = await res.json()
       setSchoolResults(data.schools || [])
     } catch (err) {
@@ -181,7 +181,7 @@ export default function Register() {
       }
 
       try {
-        const res = await fetch(`${BASE_URL}/check-id?id=${formData.Id}`);
+        const res = await fetch(`${BASE_URL}/api/check-id?id=${formData.Id}`);
         const data = await res.json();
         setIdExists(data.exists); // { exists: true } 형태 응답
       } catch (err) {

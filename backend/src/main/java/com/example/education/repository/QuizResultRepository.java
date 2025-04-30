@@ -8,6 +8,7 @@ import java.util.Optional;
 
 public interface QuizResultRepository extends JpaRepository<QuizResult, Long> {
     // QuizResultRepository.java
+    List<QuizResult> findByUserIdAndQuestionId(String userId, String questionId);
     List<QuizResult> findByUserIdOrderByQuestionIdAscQuestionNumAsc(String userId);
 
     Optional<QuizResult> findByUserIdAndQuestionIdAndQuestionNum(

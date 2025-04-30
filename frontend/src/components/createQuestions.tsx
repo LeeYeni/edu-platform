@@ -21,7 +21,7 @@ const QuizComponent = () => {
   // 백엔드에서 데이터를 가져오는 useEffect
   useEffect(() => {
     // API 호출 (자신의 백엔드 API URL로 변경)
-    fetch(`${BASE_URL}/from-aihub`)
+    fetch(`${BASE_URL}/api/from-aihub`)
       .then((response) => response.json()) // 백엔드에서 JSON 형식으로 응답을 받음
       .then((data: GptResponseDto) => {
         // 응답에서 JSON 문자열을 파싱하여 각 항목을 분리

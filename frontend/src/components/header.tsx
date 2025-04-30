@@ -37,7 +37,7 @@ export default function Header() {
     <header className="bg-white shadow-sm dark:bg-gray-800 dark:border-b dark:border-gray-700 transition-colors duration-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
-          퀴즈 생성기
+          쳇바퀴(Chat by Quiz)
         </Link>
 
         <div className="flex items-center space-x-4">

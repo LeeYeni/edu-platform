@@ -30,7 +30,7 @@ export default function QuizShare() {
     setClassroom(`${schoolCode}-${grade}-${className}`);
 
     axios
-      .get(`${BASE_URL}/quiz/classroom/${schoolCode}/${grade}/${className}`)
+      .get(`${BASE_URL}/api/quiz/classroom/${schoolCode}/${grade}/${className}`)
       .then((res) => {
         const quizList = res.data;
         if (!quizList || quizList.length === 0) return;

@@ -53,10 +53,10 @@ export default function MyPage() {
   useEffect(() => {
     let fetchedResults: QuizResult[] = [];
 
-    axios.get(`${BASE_URL}/quiz/results/${user.userId}`)
+    axios.get(`${BASE_URL}/api/quiz/results/${user.userId}`)
       .then((res) => {
         fetchedResults = res.data;
-        return axios.get(`${BASE_URL}/quiz/created/${user.userId}`);
+        return axios.get(`${BASE_URL}/api/quiz/created/${user.userId}`);
       })
       .then((res) => {
         const createdData: CreatedQuestion[] = res.data;
@@ -122,8 +122,6 @@ export default function MyPage() {
   });
 
   const mergedQuizRecords = Array.from(uniqueQuizMap.values());
-  const filteredWrongAnswerMerged = mergedQuizRecords.filter(q => q.wrongAnswers.length > 0);
-
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -198,8 +196,8 @@ export default function MyPage() {
                       ? `${quizMeta.questionId.split("-").pop()}. ${quizMeta.unit1}-${quizMeta.unit2}-${quizMeta.unit3}`
                       : qid;
 
-                    const matched = filteredWrongAnswerMerged.find(q => q.id === qid);
                     const isExpanded = expandedQuiz === qid;
+                    const quiz = mergedQuizRecords.find(q => q.id === qid);
 
                     return (
                       <div key={qid} className="border border-gray-200 rounded-lg mb-4">
@@ -226,12 +224,12 @@ export default function MyPage() {
 
                         {isExpanded && (
                           <div className="p-4 space-y-4">
-                            {!matched ? (
-                              <p className="text-gray-500">문제를 풀어주세요.</p>
-                            ) : matched.wrongAnswers.length === 0 ? (
-                              <p className="text-green-600 font-medium">오답이 없습니다. 축하해요!</p>
-                            ) : (
-                              matched.wrongAnswers.map((wrong, index) => (
+                            {!quiz ? (
+                                  <p className="text-gray-500">문제를 풀어주세요.</p>
+                                ) : quiz.wrongAnswers.length === 0 ? (
+                                  <p className="text-green-600 font-medium">오답이 없습니다. 축하해요!</p>
+                                ) : (
+                                  quiz.wrongAnswers.map((wrong, index) => (
                                 <div key={index} className="bg-gray-50 p-4 rounded">
                                   <p className="font-medium text-gray-900 mb-1">Q{wrong.question}. {wrong.questionText}</p>
                                   {wrong.questionType === "multiple" && Array.isArray(wrong.options) && wrong.options.length > 0 && (
